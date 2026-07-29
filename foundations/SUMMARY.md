@@ -55,9 +55,29 @@ select the quantum set (open, do not overclaim); consistency-first packaging
 that turns "no god's-eye view" from a slogan into the sheaf-theoretic
 non-extendability condition.
 
+## Recursive consistency as a cocycle (`exploration/0004`)
+
+Pressing on P4 directly. Model the web as a graph, edges = pairwise knowledge
+states. Recursive consistency = composition along any two paths agrees =
+**cocycle condition** (Čech cohomology). Nontrivial `H¹` of the constraint
+sheaf = "no god's-eye view" made mathematically precise.
+
+- **Tree-shaped webs** have vacuous cocycle → always classical.
+- **Loop-containing webs** admit nontrivial holonomy → frustration (classical)
+  or contextuality (quantum), depending on the composition rule.
+- The **composition rule on edges selects the theory** (convolution → classical
+  probability; symplectic/unitary → QM; other rules → other GPTs).
+- Frustration and contextuality are proposed to be the *same* `H¹` structure
+  with different composition rules. Target, not yet proven.
+- Verified in `testability/output/0003`: compatible-observable triangle has
+  polytope = classical (1/3 of cube), so pure-graph-topology contextuality
+  requires **choice of context** (incompatible observables) — an important
+  localization of where quantumness enters.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
   quantum-selection question. Open and tractable.
 - Quantum-MRE equivalence to Lüders — open.
+- Frustration ≅ contextuality as cohomological structures — proposed, not shown.
 - No dynamics yet; only kinematics and the update rule.

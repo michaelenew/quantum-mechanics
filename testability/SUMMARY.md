@@ -46,16 +46,34 @@ Both untried, both concrete and tractable. Do not claim either until shown.
 - **F1 super-Tsirelson correlations** — falsifier of the whole program;
   becomes especially sharp if the P4→Tsirelson derivation succeeds.
 
+## Bell as checkpoint, not wall (`exploration/0004`)
+
+Bell is treated per the user's stance: a mathematical result from four premises
+(L / MI / OI / R), not a settled metaphysical fact. The consistency-first
+theory drops (R) and (OI), keeps (MI), and preserves (L) for actionable
+knowledge; that is enough to reproduce Bell violations without conflict with
+experiment. Escape routes Bell does not close (superdeterminism,
+retrocausality, observer contextuality) are named openly; retrocausality is
+naturally compatible with consistency-first and worth its own line of work.
+
 ## Artifacts
 
-- `output/0002_global_section_test.py` — the CHSH global-section
-  demonstration. Pure stdlib. **Runs and passes.**
+- `output/0002_global_section_test.py` — CHSH global-section demonstration.
+  Pure stdlib. Runs and passes.
+- `output/0003_triangle_cocycle_check.py` — triangle cocycle / frustration.
+  Verifies compatible-observable triangle polytope = classical (1/3 of cube),
+  showing contextuality genuinely requires **choice of incompatible context**,
+  not just a loopy interaction graph.
 - `output/0001_discriminator_table.md` — quick-reference table.
 
 ## Next
 
-- Attempt: does P4 imply information causality? (If yes, Tsirelson is derived.)
-- Attempt: MRE-update inside a PR-box — does it produce an inconsistency the
+- Attempt: does P4 (as a cocycle law on Wigner functions) imply information
+  causality? (If yes, Tsirelson is derived.)
+- Attempt: MRE-update inside a PR-box — does it over-constrain in a way the
   quantum update does not?
-- Attempt: work a triangle A→B→C with recursive parity + non-extendability
-  and see if the bound tightens below PR by that structure alone.
+- Attempt: sharper H¹-of-constraint-sheaf statement unifying frustration
+  and contextuality.
+- Attempt: work out how consistency-first accommodates retrocausality; whether
+  the fixed-point / time-symmetric reading is nontrivially different from the
+  standard forward-time reading.

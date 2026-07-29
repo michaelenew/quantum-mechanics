@@ -38,20 +38,54 @@ Demonstrated numerically in `testability/output/0002_global_section_test.py`:
 Tsirelson (S=2√2) correlators are pairwise legitimate but have no global
 section; classical (S=2) correlators have one.
 
+## Recursive consistency is the heart
+
+P4 is not just variance-additivity — it is a **cocycle condition** on the
+web (`foundations/exploration/0004`). Composition of pairwise knowledge along
+any two paths between the same endpoints must agree; composition around any
+loop must be trivial-up-to-phase. That is Čech cohomology of a constraint
+sheaf on the interaction graph. The obstruction to a global consistent state
+is the graph's first cohomology `H¹`.
+
+- Tree-shaped webs (no loops) → trivial cocycle → classical.
+- Loop-containing webs → nontrivial cocycle possible → frustration (classical
+  composition) or contextuality (quantum composition).
+- The **composition rule on edges selects the theory**: convolution → classical
+  probability; symplectic/unitary → QM; other rules → other GPTs.
+
+Classical frustration (spin-glass triangles) and quantum contextuality
+(Kochen–Specker, Bell) are proposed to be the *same* mathematical structure
+(non-vanishing `H¹`) differing only in composition rule. Verified numerically
+for the compatible-observable triangle in `testability/output/0003`: the
+polytope is exactly the classical tetrahedron (1/3 of the cube). Contextuality
+requires **choice of incompatible measurement basis** — the "context" in
+"contextuality" is a choice, not merely a graph topology.
+
 ## The frontier
 
-Non-extendability alone rules classical out but does not pick *quantum* over
-*super-quantum* (PR-boxes are also non-extendable). Two live candidates inside
-the posit that might tighten the bound from 4 to 2√2:
+Non-extendability alone rules classical out but does not pick quantum over
+super-quantum. Two live candidates inside the posit for tightening `4 → 2√2`:
 
-1. **P4 (recursive consistency) as an information-causality-type principle.**
-   Pawłowski et al. (2009) derive `2√2` from an information-processing axiom;
-   whether P4 entails it is a concrete open theorem.
-2. **Min-relative-entropy projection (the P5 update rule) inside a PR-box
-   scenario** — check whether it over-constrains and forbids super-Tsirelson
-   correlations.
+1. **P4-as-cocycle-on-Wigner-functions ⇒ information causality** (Pawłowski
+   et al. 2009 derives Tsirelson from an information-processing axiom;
+   whether the recursive-consistency cocycle entails it is the concrete open
+   theorem).
+2. **MRE projection inside a PR-box scenario** — check whether the update rule
+   over-constrains super-Tsirelson correlations in a way the quantum update
+   does not.
 
-Neither shown; both concrete and tractable. See `testability/`.
+Neither shown; both concrete and tractable.
+
+## On Bell
+
+Treated as a strong checkpoint, not a settled wall (`testability/exploration/0004`).
+Bell rules out theories that keep all four of {local causality, measurement
+independence, outcome independence, realism}; the consistency-first theory
+gives up realism and outcome independence in the minimal way compatible with
+experiment. Escape routes Bell does not close (superdeterminism,
+retrocausality) are named openly; retrocausality is naturally compatible with
+the fixed-point / time-symmetric reading of consistency-first and deserves its
+own workstream.
 
 ## Workstreams
 
