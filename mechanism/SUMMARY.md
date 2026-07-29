@@ -1,43 +1,63 @@
 # mechanism — SUMMARY
 
-What a measurement *is*, mechanically, under the knowledge-first reading.
+What a measurement *is*, mechanically, under the corrected (nonlocal,
+consistency-first) reading.
 
 ## Current state
 
 **Measurement = coincidence = split/merge** (`exploration/0001`). When two
 systems reach the same place, their relative coordinate `q = q1 − q2` becomes
-sharp. In CoM/relative variables `Q,P,q,p`:
+sharp. In CoM/relative variables:
 
     [Q,P] = [q,p] = iħ,   [q,P] = [Q,p] = 0
 
-so **relative position `q` and total momentum `P` commute and can be sharp
-together** — the EPR state. Verified symbolically in
-`output/0001_relative_coordinate_checks.py` (all checks pass).
+Relative position `q` and total momentum `P` commute and are sharp together —
+the EPR state. Verified symbolically in
+`output/0001_relative_coordinate_checks.py`; matches SPDC + Howell (2004).
 
-**Refinement of the original mechanism (a real correction):** a split/merge does
-not make "momentum unknown." It makes relative position `q` *and* total momentum
-`P` sharp (the latter by conservation); complementarity forces the conjugate
-pair — CoM position `Q` and **relative** momentum `p` — broad. This is exactly
-what SPDC produces and what Howell et al. (2004) used to demonstrate EPR, so the
-mechanism has direct experimental grounding.
+**Reframed:** the sharpening of one edge is not a local event whose
+consequences race outward at *c*. It triggers a **global re-satisfaction of
+the consistency constraint** across the whole connected component of the
+interaction graph — instantaneously (`exploration/0002`,
+`foundations/0003`).
 
-**Consequences derived/illustrated:**
-- Sensor "spike" = sharpening of the detector–system relative coordinate (no
-  absolute collapse).
-- Buckyball arrives whole = internal relative state is a priori sharp; only the
-  CoM which-path info decoheres.
-- Recursive collapse = marginalizing a knowledge chain (convolution; variances
-  add). Bayesian/Gaussian fusion when two states describe one coordinate.
+## The dilution law (`exploration/0002`)
+
+Two mechanical claims driven by monogamy:
+
+- **Reach:** the update touches every particle in the same connected component
+  of the interaction graph. Combinatorial, not metric — hence no "speed."
+- **Strength:** on a distant particle *X*, bounded by residual pairwise
+  correlation `I(A:X)`. Correlation is monogamous, so a particle that has
+  since interacted with many others has diluted its correlation with any old
+  partner to ~`C_total / N` at most — often astronomically less. That is the
+  quantitative skeleton of the posit's "small / random / very-hard-to-detect."
+- **Decoherence re-read as dilution, not destruction:** the correlation
+  carrying which-path information is not annihilated by the environment —
+  it is spread across so many partners that any local subset can no longer
+  recover it. Global consistency is preserved; local interference is lost
+  because the local subsystem no longer contains a global section.
+- **Firewall:** the outcome of each measurement is random, so the
+  instantaneous distant update averages to zero in every marginal → no
+  signalling. The Heisenberg-scale randomness is *exactly* the amount needed
+  to guarantee this.
+
+## Consequences
+
+- Sensor "spike" = sharpening of the detector–system relative coordinate;
+  distant partners' knowledge of that system updates instantly (dilutedly),
+  but nothing is signallable.
+- Buckyball intact = internal `ρ_internal` is a priori sharp; environment
+  dilutes only CoM which-path correlation.
+- "Could have known" = the correlation was already shared into the environment.
 
 ## Artifacts
 
-- `output/0001_relative_coordinate_checks.py` — pure-stdlib checks of (1) the
-  commutator algebra, (2) chain variance additivity, (3) Gaussian fusion.
-  Run: `python3 output/0001_relative_coordinate_checks.py`. All pass.
+- `output/0001_relative_coordinate_checks.py` — commutator algebra, chain
+  variance additivity, Gaussian fusion. Pure stdlib. Runs; all pass.
 
 ## Known gaps
 
-- The classical-Gaussian fusion vs. quantum (Lüders) update equivalence is
-  unresolved — this is precisely the Bell fork (`testability/`).
-- "Only coincidences reduce uncertainty" is postulated, not derived from a
-  dynamics.
+- Dilution scaling (~`1/N`) is heuristic; deriving a sharp bound
+  `update(X) ≤ f(I(A:X))` from a monogamy inequality is a concrete open target.
+- Quantum-MRE equivalence to Lüders — still open (see `foundations/`).

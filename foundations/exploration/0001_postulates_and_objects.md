@@ -35,15 +35,28 @@ assumes.
   knowledge states `{ρ_{A→B}}` over relative coordinates. There is no
   frame-independent absolute state.
 
-- **P2 (Local action).** A system's dynamics depend only on its own knowledge
-  states, and those states update no faster than *c*. (Standard relativistic
-  causality / no-signalling.)
+- **P2 (Two-tier knowledge).** *Superseded framing — see
+  `exploration/0003` and `mechanism/exploration/0002`.* Knowledge is of two
+  kinds. **Actionable** knowledge (what a system can use to do something
+  differently — forces, signals) is *c*-bounded. **Correlational** knowledge
+  (the mutual consistency of the web) updates **instantaneously and nonlocally**
+  when any edge is sharpened — this is not a propagation but the re-satisfaction
+  of a global constraint. The two are separated by a firewall: the instantaneous
+  update is non-signalling because it is random (outcome-dependent), so it
+  averages away in every distant marginal. (The original "everything is
+  *c*-bounded" reading was wrong to the posit; kept here only to mark the
+  correction.)
 
-- **P3 (Pairwise consistency).** `ρ_{A→B}` and `ρ_{B→A}` describe one relative
-  coordinate related by parity (`q_B−q_A = −(q_A−q_B)`); they must be the same
-  physical relative state. Globally, the family `{ρ_{A→B}}` must be jointly
-  representable by one global state — this is exactly the **quantum marginal
-  (representability) problem**, and it is what forbids "fractured reality."
+- **P3 (Pairwise consistency, no global section).** `ρ_{A→B}` and `ρ_{B→A}`
+  describe one relative coordinate related by parity; they must be the same
+  physical relative state, and this holds on every overlap of the web. Crucially
+  the family `{ρ_{A→B}}` is required to be **locally/pairwise consistent but need
+  NOT be extendable to a single global joint distribution of definite values**.
+  Demanding such a global joint (a "god's-eye picture") is exactly a local
+  hidden-variable model (Fine's theorem) → Bell-local → falsified. Local
+  consistency *without* a global section is the sheaf-theoretic signature of
+  contextuality/nonlocality, and it is what makes the web quantum. See
+  `testability/exploration/0003`.
 
 - **P4 (Recursive consistency).** Knowledge composes along chains. When *A*
   knows *C* only through *B*, the relative coordinates add, `q_{AC}=q_{AB}+q_{BC}`,

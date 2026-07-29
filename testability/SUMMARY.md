@@ -1,42 +1,61 @@
 # testability — SUMMARY
 
-What would confirm or break the theory.
+What would confirm or break the theory. **Reframed** around consistency as the
+fundamental law; nonlocality embraced.
 
 ## Current state
 
-**The Bell fork is the decisive result** (`exploration/0001`). P2 (local,
-*c*-bounded action) is the locality premise of Bell's theorem, so the theory
-must reject the *classical* reading of "knowledge = beliefs about pre-existing
-shared values." Two branches:
+**The Bell fork, corrected** (`exploration/0003`, supersedes `0001`). The
+posit's consistency law, read faithfully, forces:
 
-- **Branch A (interpretation):** knowledge states are quantum reduced/relative
-  states; fusion is the quantum update; "consistency" = quantum marginal
-  representability + agreement-on-interaction. Reproduces Bell violations,
-  respects no-signalling, empirically equal to QM. This is the viable form.
-- **Branch B (modification):** knowledge states are classical densities updated
-  by Bayes → predicts `|S| ≤ 2` → **falsified** by loophole-free Bell tests
-  (2015). Stating this is itself a result: the classical-belief reading is ruled
-  out.
+- **local/pairwise consistency** on every overlap of the web, but
+- **NO single global joint distribution of definite values** — no god's-eye view.
 
-**Discriminators** (`exploration/0002`, table in `output/0001`):
-- D1 Bell — decisive; already kills Branch B.
-- D2 quantum-reference-frame frame-dependence — the **only live route to a
-  distinctive prediction**; priority for further work.
-- D3 SPDC EPR relative coordinates, D4 large-molecule interferometry, D5
-  which-path/quantum-eraser — all consistent but *shared* with standard QM
-  (supportive, not distinguishing).
-- F1–F3 — falsifiers kept explicit (super-Tsirelson, FTL influence, marginal
-  incompatibility).
+By Fine's theorem, that is exactly the sheaf-theoretic signature of quantum
+contextuality/nonlocality. So the theory *automatically* predicts departure
+from the classical (Bell-local) polytope. That is a real derivation from the
+posit's own words, not a concession.
 
-## Bottom line
+Demonstrated numerically in `output/0002_global_section_test.py`:
+- classical `S=2`: global section EXISTS,
+- Tsirelson `S=2√2`: pairwise correlators all legitimate, global section does
+  NOT exist,
+- PR-box `S=4`: also non-extendable.
 
-The theory's strong empirical commitment is already settled (against Branch B).
-Its viable form is an interpretation. To become genuinely testable-and-new it
-must either (a) find daylight via QRF (D2), or (b) *derive* a QM bound (e.g.
-Tsirelson) from P3 monogamy — see the open self-test in `exploration/0001`.
+**The remaining puzzle (the frontier).** Non-extendability by itself picks
+*non-classical*, not *quantum* — PR-boxes are also non-extendable and also
+non-signalling. To land at `2√2` rather than `4` the theory needs one further
+principle. Two live candidates from within the posit itself:
+1. P4 (recursive-consistency / data-processing on chains) as an
+   information-causality-style constraint — Pawłowski et al. (2009) already
+   derive `2√2` from an information principle; the question is whether P4
+   entails theirs.
+2. Min-relative-entropy projection (the update rule of `foundations/0003`)
+   applied inside a PR-box scenario, checking whether it over-constrains.
+
+Both untried, both concrete and tractable. Do not claim either until shown.
+
+## Discriminators (`exploration/0002`, table in `output/0001`)
+
+- **D1 Bell/CHSH** — the wrong branch (consistency ⇒ global joint) is falsified;
+  the right branch reproduces Bell violations automatically. **Derivation, not
+  concession.**
+- **D2 QRF frame-dependence** — still a lead for distinctive predictions.
+- **D3–D5 (SPDC EPR, matter-wave interferometry, quantum eraser)** — all
+  consistent, all shared with QM: supportive.
+- **F1 super-Tsirelson correlations** — falsifier of the whole program;
+  becomes especially sharp if the P4→Tsirelson derivation succeeds.
+
+## Artifacts
+
+- `output/0002_global_section_test.py` — the CHSH global-section
+  demonstration. Pure stdlib. **Runs and passes.**
+- `output/0001_discriminator_table.md` — quick-reference table.
 
 ## Next
 
-Pursue the monogamy → Tsirelson self-test; work out one concrete, near-term QRF
-experiment (D2) where the relational-collapse reading makes a statement a
-single-absolute-fact interpretation does not.
+- Attempt: does P4 imply information causality? (If yes, Tsirelson is derived.)
+- Attempt: MRE-update inside a PR-box — does it produce an inconsistency the
+  quantum update does not?
+- Attempt: work a triangle A→B→C with recursive parity + non-extendability
+  and see if the bound tightens below PR by that structure alone.

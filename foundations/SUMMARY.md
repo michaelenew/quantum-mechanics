@@ -1,46 +1,63 @@
 # foundations — SUMMARY
 
-State of the formalization of the knowledge-first reading of measurement.
+State of the formalization. **Reframed** around consistency as the fundamental
+law; nonlocality embraced (see `exploration/0003`, which supersedes P2 of
+`0001`).
 
-## Current state
-
-Five postulates fix the theory's kinematics and update rule
-(`exploration/0001`):
+## Current postulates
 
 - **P1 Relational states** — all content is pairwise knowledge states
-  `{ρ_{A→B}}` over *relative* coordinates; no absolute frame.
-- **P2 Local action** — a system acts only on its own knowledge; updates are
-  *c*-bounded (relativistic causality / no-signalling).
-- **P3 Pairwise consistency** — `ρ_{A→B}` ↔ `ρ_{B→A}` by parity; the whole
-  family must be globally representable = the **quantum marginal problem**.
-- **P4 Recursive consistency** — relative coordinates add along chains, so
-  uncertainties compose: **variance additivity** `Var(q_{AC})=Var(q_{AB})+Var(q_{BC})`
-  / **data-processing inequality**. Chained knowledge is no sharper than any link.
-- **P5 Measurement = coincidence** — a split/merge makes a relative coordinate
-  sharp and fuses knowledge states (Bayesian in the classical reading, Lüders in
-  the quantum reading). The sole source of uncertainty reduction.
+  `{ρ_{A→B}}` over relative coordinates; no absolute frame.
+- **P2 Two-tier knowledge** *(reframed)*.
+  - **Actionable** knowledge (usable to do something differently — forces,
+    signals) is *c*-bounded.
+  - **Correlational** knowledge (the mutual consistency of the web) updates
+    **instantaneously and nonlocally** — not as a propagation, but as global
+    re-satisfaction of a constraint. Non-signalling because the outcome is
+    random and averages away in every distant marginal.
+- **P3 Pairwise consistency, no global section** *(reframed)*. Every pairwise
+  overlap agrees, but the family need **not** admit a single global joint
+  distribution of definite values. Demanding such a joint = local
+  hidden-variable model (Fine's theorem) → falsified. Local consistency
+  *without* a global section is the sheaf-theoretic content of
+  contextuality/nonlocality — the mathematical name for "no god's-eye view."
+- **P4 Recursive consistency** — chains compose; variance additivity /
+  data-processing inequality on relative coordinates. Interpreted now as a
+  candidate quantum-selecting principle (see `testability/`).
+- **P5 Measurement = coincidence + minimum-relative-entropy projection.** A
+  split/merge sharpens one edge; the whole connected component re-settles by
+  projecting onto the consistency manifold with minimum relative entropy — the
+  unique rule matching the posit's own desiderata (reduces to Bayes, injects no
+  extra uncertainty, order-independent). Classical version solid; quantum
+  equivalence to the Lüders/Born update is open and concretely tractable.
 
-Each object has two candidate readings (classical density vs. quantum
-reduced/relative state); the choice is deferred to the Bell fork in
-`testability/`.
+## The corrected central story
+
+- Consistency is fundamental and global; nonlocality is its shape.
+- The two-tier structure (actionable vs. correlational) resolves the
+  c-vs-instantaneous tension without violating no-signalling.
+- The consistency law read *without* a global section automatically forces
+  non-classical (Bell-violating) correlations — a derivation from the posit's
+  own words. Demonstrated numerically in `testability/output/0002`.
+- Whether it forces *quantum* (S ≤ 2√2) rather than merely *non-classical* is
+  the frontier; concrete open leads listed there.
 
 ## Positioning (`exploration/0002`)
 
-Inherited from prior art: relational stance (RQM), epistemic/Bayesian state
-(QBism, Spekkens), decoherence (Zurek), relative-frame states (QRF/Giacomini).
-Contributed here: P4 as variance-additivity/DPI; the EPR refinement of the
-split/merge mechanism; forcing the Bell fork; flagging QRF frame-dependence as
-the one plausibly-distinctive prediction.
+Inherited: relational stance (RQM), epistemic/Bayesian state (QBism, Spekkens),
+decoherence (Zurek — now re-read as *dilution*, not destruction), relative-frame
+states (QRF/Giacomini), sheaf-contextuality (Abramsky–Brandenburger),
+information-causality (Pawłowski) as a candidate cousin of P4.
+
+Contributed: the two-tier resolution of the c-vs-instantaneous puzzle;
+MRE-projection as the specific update rule; the framing that P4/MRE *might*
+select the quantum set (open, do not overclaim); consistency-first packaging
+that turns "no god's-eye view" from a slogan into the sheaf-theoretic
+non-extendability condition.
 
 ## Known gaps
 
-- P1–P5 give kinematics + an update rule, **not** a unique dynamics or a
-  derivation of the Born weights. Consistency constrains but does not select a
-  state. This is the open frontier.
-- The classical vs. quantum reading of `ρ_{A→B}` is unresolved until the fork.
-
-## Next
-
-Formalize P4's information version (DPI with the exact monotone) and check
-whether P3's monogamy constraints alone reproduce any nontrivial QM bound
-(e.g. Tsirelson) — if so, that would upgrade "interpretation" toward "derivation."
+- Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
+  quantum-selection question. Open and tractable.
+- Quantum-MRE equivalence to Lüders — open.
+- No dynamics yet; only kinematics and the update rule.

@@ -1,68 +1,80 @@
-# Relational–Epistemic QM: a knowledge-first reading of measurement
+# Relational–Epistemic QM: a knowledge-first, consistency-first reading
 
 **Thesis.** Take the viewpoint of a single particle *A*. Everything *A* can act
 on is a probability distribution over the *relative* positions and momenta of
 other particles — *A*'s **knowledge state**. Other particles are bumps in that
-distribution, some sharp, some broad, none exactly a Dirac delta. Two
-constraints govern these knowledge states:
+distribution; none are exact Dirac deltas. **Mutual consistency** of the whole
+web of pairwise knowledge distributions is the fundamental law. It is nonlocal
+by nature: sharpening one edge instantaneously re-settles the whole connected
+component. Under this reading, **measurement is the exact coincidence of
+particles** (a split or a merge) — the event that makes a relative coordinate
+sharp and triggers the global re-projection.
 
-1. **Locality of action** — *A* reacts only to what it knows; updates to its
-   knowledge propagate no faster than *c* (standard relativistic causality /
-   no-signalling).
-2. **Consistency** — what *A* knows about *B* must be compatible with what *B*
-   knows about *A*, and this composes recursively along chains
-   *A → B → C*.
+## The two-tier structure that reconciles instantaneous updates with relativity
 
-Under this reading the wavefunction is not a particle's position/momentum but a
-particle's *belief about another particle's relative* position/momentum.
-**Measurement is the exact coincidence of particles** (a split or a merge),
-which is the event that makes a relative coordinate sharp and thereby collapses
-the relative uncertainty two systems hold about each other.
+Knowledge splits into two kinds:
 
-## The central result (the fork)
+- **Actionable knowledge** — what a system can use to *do* something
+  differently (forces, signals). *c*-bounded, standard relativity.
+- **Correlational knowledge** — the mutual consistency of the web. Updates
+  **instantaneously, nonlocally**, because it is the satisfaction of a global
+  constraint, not a propagation. Non-signalling because outcomes are random
+  and average to zero in every distant marginal.
 
-The theory is forced to declare itself against **Bell's theorem**. Postulate 1
-(local action) plus a *classical* reading of "knowledge" (beliefs about
-pre-existing shared relative values) is exactly the local-realistic premise that
-Bell rules out and that loophole-free experiments have falsified. So the idea
-has exactly two consistent forms:
+That firewall is the resolution of the c-vs-instantaneous puzzle from *inside*
+the posit.
 
-- **(A) Interpretation.** Read "consistency" quantum-mechanically (marginal
-  representability + agreement-on-interaction) and treat knowledge as
-  irreducibly perspectival. Then the theory is **empirically equivalent to
-  standard QM** and sits beside Relational QM / QBism / quantum reference
-  frames. It clarifies the measurement problem but predicts nothing new.
+## The central derivation
 
-- **(B) Modification.** Insist that knowledge states are classical probability
-  distributions over shared values updated by ordinary Bayes. Then the theory
-  makes a **testable prediction: no Bell violation beyond the classical bound**
-  — which is already contradicted by experiment.
+The consistency law, read faithfully, requires that the web be **locally
+consistent on every overlap** but need **not** admit a **single global joint
+distribution of definite values**. By Fine's theorem, that is exactly the
+sheaf-theoretic signature of quantum contextuality/nonlocality — and it
+automatically forces departure from the classical Bell polytope. So the
+posit's own "no absolute source of truth" *derives* the fact that reality
+must be non-classical.
 
-The productive work is therefore to (i) state the idea precisely enough that
-this fork is unavoidable, (ii) build out form (A) as far as it goes, and
-(iii) hunt for any regime where form (A) still makes a *distinctive,
-not-yet-tested* prediction (quantum-reference-frame effects are the leading
-candidate). See `testability/`.
+Demonstrated numerically in `testability/output/0002_global_section_test.py`:
+Tsirelson (S=2√2) correlators are pairwise legitimate but have no global
+section; classical (S=2) correlators have one.
+
+## The frontier
+
+Non-extendability alone rules classical out but does not pick *quantum* over
+*super-quantum* (PR-boxes are also non-extendable). Two live candidates inside
+the posit that might tighten the bound from 4 to 2√2:
+
+1. **P4 (recursive consistency) as an information-causality-type principle.**
+   Pawłowski et al. (2009) derive `2√2` from an information-processing axiom;
+   whether P4 entails it is a concrete open theorem.
+2. **Min-relative-entropy projection (the P5 update rule) inside a PR-box
+   scenario** — check whether it over-constrains and forbids super-Tsirelson
+   correlations.
+
+Neither shown; both concrete and tractable. See `testability/`.
 
 ## Workstreams
 
 | Folder | Question | State |
 |---|---|---|
-| `foundations/` | What are the precise objects and postulates? What is genuinely new vs. prior art? | Postulates P1–P5 stated; mapped to RQM, QBism, Spekkens, QRF, decoherence, marginal problem. |
-| `mechanism/` | What *is* a measurement, mechanically? | Measurement = split/merge = sharpening of a relative coordinate. EPR commuting-observable refinement derived and checked (`output/`). |
-| `testability/` | What would confirm or break it? | The Bell fork; a discriminator table separating interpretation-confirming from theory-breaking tests. |
+| `foundations/` | Postulates and formal objects. | P1–P5 reframed around consistency-first (`exploration/0003`). |
+| `mechanism/` | What *is* a measurement, mechanically? | Coincidence / split-merge + EPR refinement + a dilution law from monogamy (`exploration/0002`). |
+| `testability/` | What confirms or breaks it? | The Bell fork reframed (`exploration/0003`); non-classicality now a derivation; quantum-selection open. Numerical demonstration in `output/0002`. |
 
-Each folder has a `SUMMARY.md` with its current state, an `exploration/` with
-numbered working notes, and (where relevant) an `output/` with checkable
-artifacts.
+Each folder has a `SUMMARY.md` (current state), `exploration/` (numbered notes,
+later = more recent), and where applicable `output/` (checkable artifacts).
 
 ## Honesty note
 
-Most individual ingredients here already exist in the literature and are cited.
-The contributions this repo aims at are (1) a single precise packaging of the
-recursive-consistency postulate as **variance additivity / a data-processing
-inequality on relative coordinates**, (2) the **EPR refinement** of the
-split/merge mechanism (it is *relative* momentum that is uncertain; *total*
-momentum is sharp by conservation), and (3) forcing the **Bell fork** into the
-open as the theory's decisive test. Claims are qualified where evidence is
-partial; speculative steps are labelled.
+- **Contributed here (with real confidence):** the two-tier resolution of the
+  c-vs-instantaneous puzzle; consistency-first packaging that turns "no
+  god's-eye view" into the sheaf-theoretic non-extendability condition and
+  *derives* non-classicality from the posit; the dilution reading of
+  decoherence; the EPR refinement of the split/merge mechanism.
+- **Proposed, not shown:** that P4 or MRE-projection tightens the bound to
+  Tsirelson (would upgrade the theory from re-framing to partial derivation).
+  Do not cite as fact.
+- **Inherited (explicitly named):** the relational stance (RQM), epistemic
+  reading (QBism, Spekkens), QRF formalism, decoherence, Fine's theorem,
+  Abramsky–Brandenburger sheaves, information causality. Each labelled in
+  `foundations/exploration/0002`.
