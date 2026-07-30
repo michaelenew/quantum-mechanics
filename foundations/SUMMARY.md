@@ -128,6 +128,29 @@ motivating all of them at once, plus the two-tier resolution of the
 c-vs-instantaneous puzzle. Concrete milestones ordered by tractability; the
 crux step is showing that (1)–(8) collectively imply the CDP/Hardy axiom set.
 
+## Kernel from stat-tracker: distribution / trust / influence (`exploration/0008`)
+
+The sibling `michaelenew/stat-tracker` project turned up three portable
+findings:
+
+1. **Three-level split** — separate the *distribution* (what I believe about
+   the state), the *trust* (how much I trust my model of the state's
+   dynamics), and the *influence* (how strongly a new observation should
+   move my estimate). Standard QM conflates these in the density matrix;
+   making the split explicit clarifies decoherence (trust erosion), effective
+   Hamiltonians (learned trust structure), and error correction.
+2. **Influence = √(information)** — verified to full float precision in
+   `output/0002_amplitude_shadow.py` across four orders of magnitude in `q`
+   for the Kalman random-walk-plus-noise model. This is the amplitude-vs-
+   probability structure of the Born rule showing up in a purely classical
+   Bayesian tracker: `P = |ψ|²` is what any Fisher-metric optimal inference
+   forces, not a QM-only axiom. Lines up with Wootters (1981) but
+   demonstrated from the outside.
+3. **"Trustworthy" is contextual** — `Λ^robust = min_{h' ∈ ℋ} KL(P_h||P_h')`.
+   Trust in `h` depends on the alternative set; there is no
+   context-independent nat count. Classical Bayesian shadow of quantum
+   contextuality; usable as an engineering-tractable contextuality witness.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
