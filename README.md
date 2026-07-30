@@ -76,6 +76,55 @@ super-quantum. Two live candidates inside the posit for tightening `4 → 2√2`
 
 Neither shown; both concrete and tractable.
 
+## Geometry of the web (the GR-analog, made literal)
+
+Saying "knowledge is a distribution" already commits us to a Riemannian
+geometry on the space of knowledge states — with no freedom of choice: the
+Fisher–Rao metric (Chentsov 1972) classically and the Bures / Fubini–Study
+metric (Petz 1996) quantum-mechanically are the *unique* metrics invariant
+under sufficient statistics / CPTP maps. That fixes:
+
+- Gaussian knowledge → hyperbolic plane (constant negative curvature).
+- Qubit knowledge → the Bloch sphere with the Fubini–Study metric (constant
+  positive curvature). Fidelity is `cos²` of half the geodesic angle.
+  Verified in `foundations/output/0001_qubit_geometry.py` including a clean
+  Gauss–Bonnet check on a spherical triangle.
+
+The GR-parallel becomes literal: general covariance ↔ invariance under
+sufficient statistics; light-cone causal structure ↔ two-tier
+actionable-vs-correlational split; parallel transport around a loop = the
+cocycle holonomy of `foundations/exploration/0004`; uncertainty relations
+are curvature bounds on the state manifold (Anandan–Aharonov speed limit).
+"Correlation sources curvature" — the analog of Einstein's equations — is
+the honest open frontier (holography / Ryu–Takayanagi territory).
+
+The engineering payoff is immediate: fidelity, coherence, control, and
+optimal estimation are all geodesic / curvature quantities on the same
+manifold, so the framing lines up with existing quantum-info tooling and
+hopefully makes it feel less arbitrary.
+
+## The two-tier structure & the FTL barrier
+
+Taking the user's precise reading of SR: relativity forbids *continuous*
+crossing of `c`, not FTL per se. That leaves a clean geometric slot for
+discrete, non-signalling correlational updates:
+
+- Actionable knowledge = dynamics on the manifold (timelike/null, ≤ c).
+- Correlational knowledge = spacelike constraint structure of the manifold.
+
+The distant instantaneous edge update is spacelike-slice re-shaping, not
+signal transmission. Nothing crosses `c` because nothing crosses at all. See
+`foundations/exploration/0006`.
+
+## Reconstruction route
+
+`foundations/exploration/0007` lays out a candidate axiom set — P1–P5 plus
+Fisher/Bures uniqueness, purification, continuous reversibility — as a
+concrete route to deriving standard finite-dim QM, drawing on Hardy (2001),
+CDP (2011), and Masanes–Müller (2011). What the consistency-first packaging
+may add is a single unifying physical picture motivating those axioms at
+once, plus the two-tier resolution of the c-vs-instantaneous puzzle.
+
 ## On Bell
 
 Treated as a strong checkpoint, not a settled wall (`testability/exploration/0004`).
