@@ -151,6 +151,37 @@ findings:
    context-independent nat count. Classical Bayesian shadow of quantum
    contextuality; usable as an engineering-tractable contextuality witness.
 
+## The two-layer split (`exploration/0009`, `output/0003`)
+
+Refines the whole framework: a **core** (layer 1) of losslessly, *locally*
+composable frame transforms (`T_ab·T_bc = T_ac`, conjugates cancel), an
+**overlay** (layer 2) of path-dependent informational structure whose
+consistency is only *global* (sum over every intermediate `X`, with conjugate
+symmetry `∫(a→X→c) = [∫(c→X→a)]*`), and all irreversibility in their
+**interplay**.
+
+- **Anchor theorem:** Stinespring dilation — every lossy quantum channel is
+  exactly lossless-on-a-larger-system + coarse-graining. The split is a
+  theorem in QM, not a hope; standard open-system theory just discards the
+  dilation and carries the lossy composite as primitive.
+- **Identification:** layer 1 = stationary-phase/Hamilton–Jacobi skeleton
+  (pointwise composition); layer 2 = the full path sum, whose required
+  global consistency is *verbatim* the kernel composition law
+  `K(a,c)=∫K(a,X)K(X,c)dX` plus hermiticity `K(a,c)=K(c,a)*`; interplay =
+  what stationary phase discards (Gell-Mann–Hartle decoherence functional).
+- **Computed witness** (`output/0003_two_layer_dephasing.py`): pure
+  dephasing with one environment qubit. Joint purity exactly 1 (layer 1
+  lossless), pointer weights frozen (layer 2 lossless), Schmidt spectrum
+  carries 100% of the decoherence (interplay) — and fully **recurs** at
+  t=π/2, so the loss is displacement, not destruction; irreversibility is
+  the many-mode dilution limit (`mechanism/0002`).
+- **Self-frames:** the ladder principle ("maximally coherent to itself",
+  uncertainty saturated, layer 2 empty) lands on coherent states — which
+  are Zurek's einselected pointer states. Structural match; derivation open.
+- **W1 (working hypothesis):** entropy-producing curvature lives in the
+  interplay only; Berry phase is quarantined as reversible layer-1
+  holonomy. Break condition stated.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
