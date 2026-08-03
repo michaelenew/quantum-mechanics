@@ -214,13 +214,66 @@ square** (verified). And `0005`'s level-spacing collapse is recovered as
 **mass ~ `√Q` = distance from the nilpotent cone**, so apparent continuity near
 the cone and exact masslessness on it are one phenomenon.
 
-**Scope and the opening.** Split quaternions are 2+1 dimensional. The 3+1
-version is `sl(2,ℂ)`, where `X² = −det(X)·1` still holds (verified) but `det X`
-is complex, giving a **fourth** class: **loxodromic** — rotation *and* boost
-about one axis. That is the generic case and is what a massive particle *with*
-spin should be. **Open: is the loxodromic class where mass and spin coexist in
-a single object?** If so the whole taxonomy is the conjugacy classification of
-one-parameter subgroups of `SL(2,ℂ)`, with no case-splitting.
+**Scope.** Split quaternions are 2+1 dimensional. The 3+1 version is `sl(2,ℂ)`,
+where `X² = −det(X)·1` still holds but `det X` is complex, giving a **fourth**
+class: **loxodromic** — rotation *and* boost about one axis.
+
+### The loxodromic case: one object, mass and spin (`exploration/0008`)
+
+Answered. Write `X = (ζ/2)(n̂·σ)` with `ζ = η − iθ` the **complex rapidity**
+(boost `η` and rotation `θ` about the *same* axis). Then `det X = −ζ²/4`, and
+the four classes are four regions of one complex parameter.
+
+**`det X` carries both bivector invariants** — the gap `0005` flagged:
+
+```
+Re(det X) = (θ² − η²)/4  ~  F·F   ~  B² − E²
+Im(det X) = ηθ/2         ~  F·F̃   ~  E·B      ← nonzero only for loxodromic
+```
+
+This exposes a limitation in `0004`: it classified by **one** invariant, so a
+loxodromic element with `θ = η` (`Re det = 0`, `Im det ≠ 0`) would have been
+misfiled as null/massless. It is neither.
+
+**A massive spinning particle is not a plane.** A bivector is simple (a single
+plane) iff `F·F̃ = 0`, so loxodromic ⟺ **non-simple** — and a non-simple
+bivector has a *canonical* decomposition into two orthogonal simple pieces. That
+is a theorem about the one object, not a case-split. Verified explicitly:
+`span{t,z}` closed with a **boost** of rapidity `η`, `span{x,y}` closed with a
+**rotation** by `θ`, the two orthogonal complements. **So `0006`'s imposed
+`S^{μν}u_ν = 0` is automatic** — the hack is retired, not merely retracted.
+
+**Mass is having an axis.** `det X ≠ 0` → distinct eigenvalues → two
+independent eigendirections → an invariant timelike plane → a rest frame →
+massive. `det X = 0` → the eigendirections **collide** (`|v₁×v₂| = 0`) → no rest
+frame → massless. Masslessness is the matrix being **defective**; "has a rest
+frame" and "is diagonalizable" are the same statement. Sharper than `0007`'s
+distance-from-the-cone, and agrees with it (`|det X|` *is* that distance).
+
+**The flow factors: compact × non-compact.** `exp(sX)` has eigenvalues
+`exp(±s(a+ib))`; the phase returns to zero at *every* multiple of the period
+while the modulus grows and never returns. Applying `0004`'s rule to each
+factor:
+
+```
+compact factor     → DISCRETE   → spin
+non-compact factor → CONTINUOUS → momentum
+```
+
+One object gives a quantized spin and a continuous momentum. They need no
+gluing — they are the two factors of one flow.
+
+**The whole taxonomy from one family:** `θ→0` pure boost (massive, **spin 0**);
+`η→0` pure rotation; axis→null nilpotent (**massless**, helicity); both nonzero
+**loxodromic** (massive **with** spin, generic). Massive spin-0 — the case that
+forced the retracted hack — is just `θ = 0`. The particle taxonomy is the
+conjugacy classification of one-parameter subgroups of `SL(2,ℂ)`, **with no
+case-splitting anywhere.**
+
+Masslessness is worth one more line: `det X = 0` is **not** `ζ = 0` (that is
+`X = 0`). It needs a **complex null axis** `n̂·n̂ = 0`. Masslessness is a
+different *kind* of axis, not a limit — which is why no tuning of `η, θ` reaches
+it, and why `0006` felt forced into a separate case.
 
 ### Spin-0 objection: withdrawn
 
@@ -459,14 +512,15 @@ in `0004`.
 - **Charge quantization as a winding number** — the one α-adjacent target with
   a real chance. Needs a compact direction the framework can *motivate* rather
   than assume.
-- **The loxodromic case** — the next calculation. Does one `sl(2,ℂ)` element
-  with complex `det` carry both mass and spin? This would retire `0006`'s
-  retracted hack properly rather than merely withdrawing it, and would make the
-  particle taxonomy the conjugacy classification of one-parameter subgroups of
-  `SL(2,ℂ)` with no case-splitting anywhere.
-- **The helicity value.** The algebra gives "massless with a rotational
-  component"; getting `±1` needs the representation, not just the element.
-  Connects to `0005`'s spinor square root — `sl(2,ℂ)` is where both live.
+- **Values need representations.** `0008` settles the kinematic *structure* —
+  which objects exist and how they relate — but claims no number: not the spin
+  magnitude, not `±1` helicity, not a mass. Getting values needs the rep and
+  the dynamics, neither of which exists yet. This is where `0005`'s spinor
+  square root should reconnect, since `sl(2,ℂ)` is where both live.
+- **What fixes `ζ`?** The mass sector's whole predictive content is now the
+  value of **one complex number per particle**. Generations would be different
+  `ζ` — and since `ζ` is complex there are *two* real numbers per particle to
+  explain, not one.
 - **Light bending by the relational construction** — the cheapest falsifier of
   differential relativity, and untried. Do this first.
 - **The plane-to-plane rank-2 lead** — speculative, uncomputed.

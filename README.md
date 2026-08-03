@@ -219,10 +219,27 @@ are the light cone of the algebra.** It also absorbs `0004`'s `4×4` nilpotent
 (symmetric square of this `2×2` one) and `0005`'s level spacing (mass `~ √Q` is
 distance from the cone).
 
-Scope: split quaternions are 2+1. In `sl(2,ℂ)` the identity `X² = −det(X)·1`
-survives but `det` is complex, adding a fourth class — **loxodromic**, rotation
-and boost about one axis. Open question: is that where mass and spin coexist in
-one object?
+In 3+1 (`sl(2,ℂ)`) the identity survives but `det` is complex, adding a fourth
+class — **loxodromic** — and that is where mass and spin coexist in one object
+(`exploration/0008`). Writing `X = (ζ/2)(n̂·σ)` with `ζ = η − iθ` the complex
+rapidity, `det X = −ζ²/4`, and:
+
+- `det X` carries **both** bivector invariants — `Re ~ F·F`, `Im ~ F·F̃` — which
+  gives `0005`'s homeless parity-odd invariant a home and exposes that `0004`
+  classified by only one of them.
+- A massive spinning particle is a **non-simple** bivector, whose *canonical*
+  decomposition into two orthogonal planes (boost in `span{t,z}`, rotation in
+  `span{x,y}`) makes the imposed `S^{μν}u_ν = 0` automatic.
+- **Mass is having an axis**: `det X ≠ 0` → two eigendirections → a rest frame.
+  `det X = 0` → they **collide** → massless. "Has a rest frame" and "is
+  diagonalizable" are the same statement.
+- The flow factors **compact × non-compact** — phase returns exactly every
+  period while the modulus never does — so one object yields a **quantized spin
+  and a continuous momentum**, needing no gluing.
+
+Massive spin-0 is just `θ = 0` in that family. The particle taxonomy becomes
+the conjugacy classification of one-parameter subgroups of `SL(2,ℂ)` with no
+case-splitting. No *values* are claimed — that needs representations.
 
 Method rule adopted here: **name the assumption, cite the measurement.** It
 earned its keep — a Casimir argument that looked like an obstruction was not
