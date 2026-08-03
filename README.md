@@ -125,6 +125,37 @@ CDP (2011), and Masanes–Müller (2011). What the consistency-first packaging
 may add is a single unifying physical picture motivating those axioms at
 once, plus the two-tier resolution of the c-vs-instantaneous puzzle.
 
+## Mass as trapped momentum (`trapped_momentum/`)
+
+A side workstream on a reframing: a particle as a massless excitation closed on
+itself. The premise is not a departure from established theory — the Dirac
+velocity operator `cα` has eigenvalues `±c` only, so a free electron already
+moves at `c` instantaneously, with zitterbewegung at `2mc²/ħ` and amplitude
+`ħ/(2mc)`. Taking that as fundamental, three things drop out exactly
+(`output/0001`, 39/39 checks):
+
+- **Spin, with no free parameter.** `L = mcr = mc·ħ/(2mc) = ħ/2` — the mass
+  cancels identically.
+- **Both de Broglie relations.** An internal clock at `ω₀ = mc²/ħ`,
+  Lorentz-transformed, *is* a plane wave: `E = ħω` and `p = ħk` become
+  theorems rather than postulates. Exact at every speed tested.
+- **Time dilation**, from `sin θ = v/c` on the helix — total speed `c` split
+  between circulating and translating.
+
+Blocked on a real defect: the loop radius giving spin `ħ/2` makes the
+circulating quantum carry `2mc²`, and the radius giving `mc²` predicts spin 1.
+**Right spin or right energy, never both.**
+
+Substantial prior art, named in the summary — Hestenes' zitterbewegung
+interpretation is the same model, developed over thirty years, and Carter's
+Kerr–Newman electron gets `g = 2` exactly at the same half-Compton radius.
+Nothing here is new physics; the value is that one geometric premise reaches
+spin, de Broglie, time dilation, and the equivalence principle at once.
+
+The one possible contribution back to the main line: a closed null curve has
+**zero proper length**, which suggests the timelike/spacelike two-tier split of
+`foundations/0006` may want a **null middle term**.
+
 ## On Bell
 
 Treated as a strong checkpoint, not a settled wall (`testability/exploration/0004`).
@@ -143,6 +174,7 @@ own workstream.
 | `foundations/` | Postulates and formal objects. | P1–P5 reframed around consistency-first (`exploration/0003`). |
 | `mechanism/` | What *is* a measurement, mechanically? | Coincidence / split-merge + EPR refinement + a dilution law from monogamy (`exploration/0002`). |
 | `testability/` | What confirms or breaks it? | The Bell fork reframed (`exploration/0003`); non-classicality now a derivation; quantum-selection open. Numerical demonstration in `output/0002`. |
+| `trapped_momentum/` | Is a particle a closed null ray? | Spin, both de Broglie relations, and time dilation drop out exactly; blocked on a factor of 2 (`exploration/0001`). |
 
 Each folder has a `SUMMARY.md` (current state), `exploration/` (numbered notes,
 later = more recent), and where applicable `output/` (checkable artifacts).
