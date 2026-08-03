@@ -58,18 +58,54 @@ directly, and the reason it cannot is the reframing's own central claim:
 a boost.** "Angular momentum is invariant" and "rest mass is invariant" are one
 fact, not two.
 
-### The Pythagoras identity (`exploration/0002`)
-
-Chasing that objection produced the sharpest available form of the whole idea:
+### The Pythagoras identity — and its demotion (`0002`, then `0003`)
 
 ```
 m c = p_⊥      p = p_∥      E² = (p_⊥c)² + (p_∥c)² = (mc²)² + (pc)²
 ```
 
-**The relativistic dispersion relation is Pythagoras on the null ray's
-momentum.** Mass and momentum are not analogous quantities in a shared
-framework — they are one quantity resolved along orthogonal axes. Verified to
-machine precision through `v = 0.999c`. Identity, not analogy.
+Verified to machine precision through `v = 0.999c`. But this is a **frame-
+adapted** reading, not a covariant one: it requires choosing a spin axis and
+boosting *along* it. Boost perpendicular and the loop contracts to an ellipse,
+the ray is Doppler-modulated around the circuit, and no instantaneous
+trapped/translating split survives. Keep as intuition, not as the definition.
+
+### The covariant version: the helix axis is timelike (`exploration/0003`)
+
+The rest-frame worldline `x^μ(t) = (ct, r cos Ωt, r sin Ωt, 0)` is a **null
+helix winding about the particle's own timelike CoM worldline**. Verified:
+`ds² = 0` throughout, `|v| = c`, spacetime pitch angle exactly **45°** (the
+null condition as geometry).
+
+**"Rotation around the time axis" is literal, not loose.** The helix axis is
+frame-covariant; the spatial circulation plane is only its 3D shadow — which is
+why choosing a spatial axis felt arbitrary. It is arbitrary.
+
+Boosting **tilts that axis** (`tan(tilt) = β`, verified); the winding is
+unchanged. Inertia is resistance to the tilt. Frame-independently:
+
+> A boost can always remove the spatial momentum. It can **never** remove the
+> rest energy. `mc²` is the irreducible timelike component of `P^μ` — the
+> minimum of `E` over all frames (checked over 3999 boosts).
+
+That states inertia with no reference to any spatial direction.
+
+### The obstruction, and the distinction that survives it
+
+Mass and spin are the **two independent Poincaré Casimirs** (`P·P`, `W·W`), so
+mass cannot simply *be* an angular momentum. Empirically blunter: **massive
+spin-0 particles exist** (Higgs, π⁰). A model where mass *is* trapped angular
+momentum forbids them.
+
+> **The trapped thing is energy–momentum, not angular momentum.** How it
+> circulates is a separate question, and that answer is the spin.
+
+"Mass is trapped momentum" survives; "mass is trapped *angular* momentum" does
+not. The two were being run together.
+
+**Counter-circulation resolves it:** two opposed rays at `E/2` each cancel in
+spin and add in energy → massive, spin 0. This is the **same structural fix**
+already flagged for the factor of 2, which raises its priority considerably.
 
 ### A corollary that worsens the factor-2 problem
 
@@ -115,6 +151,16 @@ trapping.**
 
 ## Prior art (the user asked; there is a lot)
 
+- **Kaluza–Klein** — the closest prior art to the core claim, and the one that
+  *supports* rather than constrains it. A massless field with momentum
+  quantised on a compact dimension of radius `R` appears in 4D as massive:
+  `m = nħ/(Rc)`, hence `L = mcR = nħ`. "Mass is trapped momentum" as a standard
+  derivation rather than a picture. It dissolves the "which axis" question
+  (no spatial axis to choose), explains the loop's invisibility rather than
+  assuming it, and reproduces the same integer-only `L = nħ` — localising the
+  factor-2 defect to the spin side, not the mass side. Open tension: KK's
+  compact direction is spatial, while `0003`'s winding axis is timelike, and a
+  compact timelike direction is normally pathological.
 - **Zitterbewegung** — Schrödinger 1930. The premise is textbook Dirac theory.
 - **Hestenes' zitterbewegung interpretation** — Found. Phys. **20**, 1213
   (1990); arXiv:1910.11085. Electron as a point charge in *lightlike circular
@@ -214,8 +260,15 @@ timelike dynamics / null internal structure / spacelike correlation.
 ## Known gaps
 
 - **The factor of 2** — unresolved, and fatal to the naive one-ray version.
-  Now sharpened by `0002`: the wavelength-quantization route gives `L = nħ`
-  for any radius, so it cannot reach `ħ/2` by construction.
+  Sharpened by `0002`: the wavelength-quantization route gives `L = nħ` for any
+  radius, so it cannot reach `ħ/2` by construction. **Top priority
+  calculation** (`0003`): two components with oppositely-rotating phases
+  `e^{∓imc²t/ħ}`, co-rotating spatially, beat at `2mc²/ħ` — exactly the
+  zitterbewegung frequency. Does the spin then come out `ħ/2` rather than
+  cancelling? This single calculation bears on the factor of 2, the spin-0
+  problem, and the double cover at once. Not shown.
+- **Timelike winding axis vs KK's compact spatial dimension** — not reconciled;
+  they are different claims and one may have to go.
 - **Light bending by the relational construction** — the cheapest falsifier of
   differential relativity, and untried. Do this first.
 - **The plane-to-plane rank-2 lead** — speculative, uncomputed.

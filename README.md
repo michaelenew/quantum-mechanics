@@ -149,12 +149,23 @@ Pressing on whether a boost should reduce the trapped angular momentum
 m c = p_⊥      p = p_∥      E² = (p_⊥c)² + (p_∥c)² = (mc²)² + (pc)²
 ```
 
-**The relativistic dispersion relation is Pythagoras on the null ray's
-momentum** — mass and momentum are one quantity resolved along orthogonal axes,
-as an identity rather than an analogy. `L = r·p_⊥ = r·mc` is then invariant for
-the same reason rest mass is; the two statements are one. And inertia gets a
-mechanism: a boost can only *add* `p_∥`, never spend `p_⊥`, so **inertia is the
-rigidity of the trapped component**.
+`L = r·p_⊥ = r·mc` is then invariant for the same reason rest mass is; the two
+statements are one. That split is frame-adapted though, and the covariant form
+(`exploration/0003`) is better: the ray's worldline is a **null helix winding
+about the particle's own timelike centre-of-mass worldline** — `ds² = 0`
+throughout, spacetime pitch exactly 45°. "Rotation around the time axis" is
+literal; the spatial circulation plane is only its 3D shadow, which is why
+choosing a spatial axis felt arbitrary. Boosting **tilts that axis**, and
+inertia is resistance to the tilt: a boost can always remove the spatial
+momentum but **never** the rest energy, so `mc²` is the irreducible timelike
+component of `P^μ`.
+
+A distinction the workstream was missing: **the trapped thing is
+energy–momentum, not angular momentum.** Mass and spin are independent Poincaré
+Casimirs, and massive spin-0 particles exist — so "mass is trapped momentum"
+survives while "mass is trapped *angular* momentum" does not. Two
+counter-circulating rays give mass with zero spin, which is the same structural
+fix already needed for the factor of 2.
 
 Blocked on a real defect: the loop radius giving spin `ħ/2` makes the
 circulating quantum carry `2mc²`, and the radius giving `mc²` predicts spin 1.
