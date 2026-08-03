@@ -170,22 +170,35 @@ spectrum. Running the Fourier argument both ways — `δ_{mn}` on a circle,
 `sinc` with no admissible lattice on the line — makes that exact.
 
 Scored against measurement: spin quantized (closed orbit) ✓, helicity quantized
-✓, **mass not quantized** (open orbit) ✓ — `m_μ/m_e = 206.768`,
-`m_τ/m_μ = 16.817`, no ladder. **The split between "mass is continuous" and
-"spin is quantized" falls out of the causal type of the winding plane.** It
-also decides KK-vs-timelike on data: a compact spatial dimension would give a
-mass tower, and none is seen.
+✓, and **mass apparently continuous** ✓. **The split between "mass is
+continuous" and "spin is quantized" falls out of the causal type of the winding
+plane.** Apparent continuity need not mean genuine continuity: sweeping a plane
+toward null gives orbit frequency `ω = √(1−a²)`, so the **level spacing
+collapses to zero** while the spectrum stays discrete (`exploration/0005`).
 
-Blocked on a real defect: the loop radius giving spin `ħ/2` makes the
-circulating quantum carry `2mc²`, and the radius giving `mc²` predicts spin 1.
-**Right spin or right energy, never both.** Now a sharp fork rather than a
-mystery — a loop *in space* has period `2π` → `L = nħ`, a loop *in the rotation
-group* has period `4π` → `L = nħ/2`. The model must say which object winds, and
-this version predicts the number 2 rather than accommodating it.
+The exchange calculation (`exploration/0005`, 48/48) then lands the gravity
+claim. A winding plane is a bivector, and its unique symmetric rank-2 bilinear
+`T^{μν} = F^{μα}F^ν_α − ¼η^{μν}F²` is **traceless for every plane type**.
+Since scalar exchange contracts as `(tr T)(tr T′)`, **the scalar channel
+vanishes identically** — scalar gravity is not disfavoured here, it is
+unavailable, and spin-2 is the lowest available universal channel. This is the
+same fact that makes Nordström gravity predict zero light bending. And the
+trace is the mass: free null ray → traceless → massless; confined →
+`∫T^μ_μ = Mc²` by the tensor virial theorem, so **mass is the trace that
+trapping generates**.
+
+The factor of 2 is largely resolved by the model's own premise: a null vector
+is a **spinor squared**, so rotating 360° about it fixes the vector and negates
+the spinor. The object on the loop is a spinor, antiperiodic modes are
+admissible, and the lowest is `½` → `L = ħ/2`. Residual: that the dynamics
+*select* that sector, rather than permit it, is not shown.
 
 Method rule adopted here: **name the assumption, cite the measurement.** It
 earned its keep — a Casimir argument that looked like an obstruction was not
 one, while measurements (Higgs spin, the absent mass ladder) did the real work.
+A companion habit that also paid: `0005`'s first run had a metric applied twice
+in the stress-tensor contraction, which inverted the headline result. The
+self-checks caught it. Every claim above is post-fix.
 
 Substantial prior art, named in the summary — Hestenes' zitterbewegung
 interpretation is the same model, developed over thirty years, and Carter's

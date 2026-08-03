@@ -131,10 +131,23 @@ in a ladder. `m_μ/m_e = 206.768`, `m_τ/m_μ = 16.817` — no pattern. **The sp
 between "mass is continuous" and "spin is quantized" falls out of the causal
 type of the plane**, from the proposal's own structure.
 
-**This settles the KK tension from `0003`:** KK's compact spatial dimension
-predicts a mass *tower* `mₙ = nħ/(Rc)`; the timelike reading predicts a
-continuum. No tower is observed, so the timelike reading is favoured — decided
-by data. (Caveat: towers are pushed above accessible energy, not excluded.)
+**On the KK tension from `0003`** — `0004` concluded that the absent mass ladder
+favours an open (timelike) winding over KK's compact one. **`0005` shows that
+was too quick.** Sweeping a one-parameter family of planes
+`span{(a,0,0,1),(0,1,0,0)}` (`det g = 1−a²`), the generator's eigenvalues are
+`±i√(1−a²)`, so a spacelike winding is closed with frequency `ω = √(1−a²)` and
+
+> **level spacing ∝ √(1−a²) → 0 as the plane approaches null.**
+
+So a **near-null** winding is genuinely quantized yet has spacing too fine to
+resolve — apparent continuity from real quantization, which is exactly the
+proposed mechanism. Mass continuity becomes a property of how the plane sits
+relative to the time axis (an effect of the implied geometry) rather than
+something intrinsic. KK is back in play provided the winding is near-null.
+
+Honest status: with `n` and `a` both free per particle, `m = n√(1−a²)·scale`
+fits anything, so this explains *how* apparent continuity arises but predicts
+no value. It becomes predictive only if something independent fixes `a`.
 
 ### Spin-0 objection: withdrawn
 
@@ -265,14 +278,36 @@ gravity (Nordström) predicts **zero** light deflection; vector makes like
 charges repel. **First test: does the construction bend light, and by the GR
 coefficient?** Cheap, and the fastest way to learn whether the idea survives.
 
-**Speculative lead, now well-posed (`0004`).** A null-ray particle carries a
-*circulation plane*, so the relational data between two of them is
-plane-to-plane — and a 2-plane is naturally a **bivector**. The relation
-between two bivectors is rank-2, which is the right index structure for a
-spin-2 mediator and exactly what mass-to-mass cannot supply. Causal type is
-Lorentz-invariant, so it is legitimate shared structure between two particles.
-This is now a concrete calculation: **does the bivector-to-bivector relation
-carry the trace structure of graviton exchange rather than scalar exchange?**
+**Done (`exploration/0005`).** A winding plane is a bivector
+`F^{μν} = u^μv^ν − u^νv^μ`, and its unique symmetric rank-2 bilinear
+`T^{μν} = F^{μα}F^ν_α − ¼η^{μν}F²` is **symmetric and traceless for every plane
+type** — the graviton's index structure, by the algebra of 2-forms with nothing
+electromagnetic assumed.
+
+The discriminator is decisive. Scalar exchange contracts as `(tr T)(tr T′)`;
+spin-2 as `T^{μν}T′_{μν} − ½(tr T)(tr T′)`. Every source here is traceless, so
+
+> **the scalar amplitude vanishes identically.** Scalar gravity is not
+> disfavoured in this model — it is unavailable. The lowest available universal
+> long-range channel is spin-2.
+
+Same fact as the classic test: Nordström scalar gravity predicts *zero* light
+deflection precisely because radiation's stress tensor is traceless; measured
+is 1.75″. **The light-bending falsifier of `0002` is passed in the only sense
+available** — the model cannot produce the Nordström answer. Getting the
+coefficient right needs dynamics it does not have; this is not a derivation
+of 1.75″.
+
+Read the table carefully: some *spin-2* entries also vanish, which is
+orientation-dependence (what having a tensor means), not gravity switching off.
+The static limit `T⁰⁰T′⁰⁰` is nonzero in every row, so universal attraction
+survives while sub-leading structure is orientation-sensitive — the expected
+shape of spin–spin coupling.
+
+**Mass is the trace.** Free null ray → traceless → massless. For any stationary
+bound system the tensor virial theorem gives `∫T^{ij} = 0`, hence
+`∫T^μ_μ = ∫T⁰⁰ = Mc²`. So "mass is trapped momentum" = **mass is the trace that
+trapping generates**, which finally says what the confining agent is *for*.
 
 **Constraint to respect.** If inertia derives from relations to anisotropically
 distributed matter, inertial mass could become direction-dependent.
@@ -312,15 +347,22 @@ in `0004`.
 
 ## Known gaps
 
-- **The factor of 2** — now a sharp fork rather than a mystery (`0004`).
-  A closed loop *in space* has period `2π` → `L = nħ` (spin 1). A loop *in the
-  rotation group* has period `4π` → `L = nħ/2` (spin ½), since `360°` returns
-  the state to minus itself and `720°` restores it. **The model must say which
-  object winds.** This is more promising than `0003`'s beat idea because it
-  predicts the number 2 rather than accommodating it — 2 is the order of the
-  fundamental group.
-- **Generations and charge** — untouched. An open winding direction explains
-  why mass *can* take any value, but not why it takes *these* values.
+- **The factor of 2 — largely resolved** (`0005`), by the model's own premise.
+  A null vector is a **spinor squared** (`k^μσ_μ` is rank 1, so `K = ξξ†`), and
+  the square root is two-valued: rotating 360° about a null direction leaves
+  the vector fixed and sends the spinor to **minus itself**. So the object on
+  the loop is a spinor, antiperiodic boundary conditions are admissible, and
+  the lowest mode is `½` → **`L = ħ/2`**. Nothing added. Supersedes `0003`'s
+  beat and `0004`'s group-winding fork.
+  **Residual:** this shows half-integers are *permitted*; that the dynamics
+  *select* the antiperiodic sector is not shown. Much smaller problem than the
+  original.
+- **What fixes `a`** (the winding plane's tilt) — the whole predictive content
+  of the mass sector now sits here. If `a` is set by the particle's relation to
+  the rest of the web, generations might be different `a` at the same `n`.
+- **Charge** — untouched. A bivector has two invariants (`F·F`, `F·F̃`); only
+  the first is used. The second is parity-odd, at least the right character for
+  a charge-like quantum number. Unexplored.
 - **Light bending by the relational construction** — the cheapest falsifier of
   differential relativity, and untried. Do this first.
 - **The plane-to-plane rank-2 lead** — speculative, uncomputed.
