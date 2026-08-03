@@ -149,6 +149,44 @@ Honest status: with `n` and `a` both free per particle, `m = n√(1−a²)·scal
 fits anything, so this explains *how* apparent continuity arises but predicts
 no value. It becomes predictive only if something independent fixes `a`.
 
+### The photon break, and the reorganisation (`exploration/0006`)
+
+The naive formulation **fails for the photon**: `sin θ = v/c` at `v = c` gives
+`p_⊥ = 0`, hence `L = 0`, against a measured helicity of `±1`. Real internal
+contradiction. The fix was already in the trichotomy, unused.
+
+**A null plane carries no timelike direction at all** — for `w = ak + bx`,
+`w·w = −b² ≤ 0`, never positive. Scanning every direction: spacelike plane has
+0 timelike, timelike plane has 1798/3600, **null plane has 0**. So it can spin
+spatially with no time-axis content, which is exactly what was wanted.
+
+**And the null plane *is* a photon field.** Writing `F = k ∧ x` gives
+`|E| = |B| = 1`, `E·B = 0`, `E × B` along `k`, and **both Lorentz invariants
+vanish** — the signature of radiation, holding in every frame because no frame
+removes either component. Nothing fitted. (Contrast: `x∧y` is pure magnetic,
+`t∧x` pure electric; each has a frame killing the other. Only the null case
+does not — which is why it moves at `c` for everyone.)
+
+**Helicity's two states fall out for free.** A null vector is orthogonal to
+*itself*, so `k^⊥` is 3-dimensional but degenerate (rank 2). Quotienting the
+null direction leaves a 2D spacelike polarization plane carrying only `SO(2)`
+→ one number, two signs. Massive: `u^⊥` is 3D nondegenerate → full `SO(3)` →
+spin as a 3-vector with `2s+1` states. **The photon's missing longitudinal
+state is the direction that got quotiented away** — from `k·k = 0`, not a rule.
+
+**The reorganisation.** A massive particle is not one bivector but two objects:
+a 4-velocity `u` (→ mass) and a spin bivector `S` with `S^{μν}u_ν = 0`
+(Frenkel–Pirani, → spin), verified exactly. Mass and spin become structurally
+independent, so massive spin-0 is just `u` with `S = 0`. This **supersedes the
+counter-circulation repair** below — the problem dissolves rather than needing
+a fix.
+
+| structure | gives |
+|---|---|
+| timelike direction present | mass |
+| spacelike plane orthogonal to it | spin (3-vector) |
+| null plane, no timelike direction | helicity (one number) |
+
 ### Spin-0 objection: withdrawn
 
 `0003` raised massive spin-0 particles (Higgs, π⁰) against "mass is trapped
@@ -333,6 +371,29 @@ structure has the same flavour — zero interval, no propagation, no applicable
 speed — which raises whether the two-tier split wants a **null middle term**:
 timelike dynamics / null internal structure / spacelike correlation.
 
+## On α (`exploration/0006`)
+
+Asked directly. **The decisive fact is experimental: α runs.** `α⁻¹ = 137.036`
+at `q² = 0` but `≈ 127.95` at `M_Z`. Any "derivation of 137" targets the
+zero-momentum limit of a scale-dependent coupling — a dynamical quantity this
+framework has no machinery for. Cautionary case: Eddington argued 136, then
+revised to 137 when measurement improved; the revision is what the episode is
+remembered for.
+
+**In reach: charge quantization**, by the mechanism already owned from `0004` —
+compactness → closed orbit → discrete winding number. If charge is a winding
+number on a compact direction, integer charge is automatic, by the same
+argument that gave quantized spin. Same shape as Dirac's monopole argument and
+KK charge quantization, so the framework would be rediscovering a known
+mechanism — a success condition under the standing method.
+
+**Not in reach: the value.** In KK the coupling ties to the radius,
+`α ~ (l_P/R)²` → `R ≈ 11.7 l_P` (order of magnitude; coefficient is
+convention-dependent). Geometry *relocates* "why 137" into "why `R ≈ 12 l_P`".
+Honest progress of a kind, not an answer.
+
+Recommendation: **pursue charge quantization, not the value of α.**
+
 ## Method note
 
 Standing rule adopted for this workstream: **name the assumption, cite the
@@ -360,9 +421,14 @@ in `0004`.
 - **What fixes `a`** (the winding plane's tilt) — the whole predictive content
   of the mass sector now sits here. If `a` is set by the particle's relation to
   the rest of the web, generations might be different `a` at the same `n`.
-- **Charge** — untouched. A bivector has two invariants (`F·F`, `F·F̃`); only
-  the first is used. The second is parity-odd, at least the right character for
-  a charge-like quantum number. Unexplored.
+- **Charge quantization as a winding number** — the one α-adjacent target with
+  a real chance. Needs a compact direction the framework can *motivate* rather
+  than assume.
+- **One geometric object or two cases?** `0003`'s "null helix winding about a
+  timelike worldline" describes the **massive** case only; the massless case is
+  a null plane with no winding at all. Whether one object covers both, or the
+  model is genuinely two-case, is unresolved and should be settled before
+  building further.
 - **Light bending by the relational construction** — the cheapest falsifier of
   differential relativity, and untried. Do this first.
 - **The plane-to-plane rank-2 lead** — speculative, uncomputed.

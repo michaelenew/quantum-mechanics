@@ -193,6 +193,20 @@ the spinor. The object on the loop is a spinor, antiperiodic modes are
 admissible, and the lowest is `½` → `L = ħ/2`. Residual: that the dynamics
 *select* that sector, rather than permit it, is not shown.
 
+The photon then broke the naive formulation and improved it (`exploration/0006`):
+at `v = c` the transverse component is zero, so `L = 0` — against a measured
+helicity of `±1`. The fix was the unused third case. **A null plane carries no
+timelike direction at all** (`w·w = −b² ≤ 0`), so it spins spatially with no
+mass — and writing down `F = k ∧ x` *is* a photon field, with `|E| = |B|`,
+`E ⊥ B`, and both invariants vanishing, in every frame. Helicity's two states
+follow from `k` being orthogonal to **itself**: `k^⊥` is degenerate, and
+quotienting the null direction leaves a 2D polarization plane carrying only
+`SO(2)`. The missing longitudinal state is the direction quotiented away.
+
+That forces a reorganisation: a massive particle is two objects, a 4-velocity
+`u` (mass) and a spin bivector with `S^{μν}u_ν = 0` (spin) — so mass and spin
+are structurally independent and massive spin-0 is just `S = 0`.
+
 Method rule adopted here: **name the assumption, cite the measurement.** It
 earned its keep — a Casimir argument that looked like an obstruction was not
 one, while measurements (Higgs spin, the absent mass ladder) did the real work.
