@@ -142,9 +142,26 @@ moves at `c` instantaneously, with zitterbewegung at `2mc²/ħ` and amplitude
 - **Time dilation**, from `sin θ = v/c` on the helix — total speed `c` split
   between circulating and translating.
 
+Pressing on whether a boost should reduce the trapped angular momentum
+(`exploration/0002`) produced the sharpest form of the claim:
+
+```
+m c = p_⊥      p = p_∥      E² = (p_⊥c)² + (p_∥c)² = (mc²)² + (pc)²
+```
+
+**The relativistic dispersion relation is Pythagoras on the null ray's
+momentum** — mass and momentum are one quantity resolved along orthogonal axes,
+as an identity rather than an analogy. `L = r·p_⊥ = r·mc` is then invariant for
+the same reason rest mass is; the two statements are one. And inertia gets a
+mechanism: a boost can only *add* `p_∥`, never spend `p_⊥`, so **inertia is the
+rigidity of the trapped component**.
+
 Blocked on a real defect: the loop radius giving spin `ħ/2` makes the
 circulating quantum carry `2mc²`, and the radius giving `mc²` predicts spin 1.
-**Right spin or right energy, never both.**
+**Right spin or right energy, never both.** Sharpened by `0002` — the
+wavelength-quantization route gives `L = nħ` for *any* radius, so it cannot
+reach `ħ/2` at all, pointing at something structural rather than a bad choice
+of scale.
 
 Substantial prior art, named in the summary — Hestenes' zitterbewegung
 interpretation is the same model, developed over thirty years, and Carter's
