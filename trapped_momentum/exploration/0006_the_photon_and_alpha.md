@@ -94,7 +94,17 @@ One number, two signs.
 Massive particles have a nondegenerate 3-dimensional complement → a full
 `SO(3)` of spin planes → spin as a 3-vector with `2s+1` states.
 
-## The reorganisation this forces
+## The reorganisation this forces — **RETRACTED, see `0007`**
+
+> **This section is withdrawn.** What follows is Frenkel–Pirani, i.e. standard
+> relativistic spinning-particle theory, asserted rather than derived from the
+> mechanism. It matches observation by construction and explains nothing — it
+> replaced one object that covered many cases conceptually with three
+> structures fitted to what is already measured. `0007` does the job properly:
+> a single split-quaternion element whose square `v² = −Q(v)·1` reproduces the
+> whole trichotomy, with the photon as the **nilpotent** case — nonzero
+> rotational component, zero invariant. Kept below only as the record of a
+> wrong turn.
 
 A massive particle is **not one bivector**. It is two objects:
 

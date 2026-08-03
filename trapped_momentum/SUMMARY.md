@@ -174,18 +174,53 @@ null direction leaves a 2D spacelike polarization plane carrying only `SO(2)`
 spin as a 3-vector with `2s+1` states. **The photon's missing longitudinal
 state is the direction that got quotiented away** — from `k·k = 0`, not a rule.
 
-**The reorganisation.** A massive particle is not one bivector but two objects:
-a 4-velocity `u` (→ mass) and a spin bivector `S` with `S^{μν}u_ν = 0`
-(Frenkel–Pirani, → spin), verified exactly. Mass and spin become structurally
-independent, so massive spin-0 is just `u` with `S = 0`. This **supersedes the
-counter-circulation repair** below — the problem dissolves rather than needing
-a fix.
+**The `u + S` reorganisation proposed here is RETRACTED** (see `0007`). It was
+Frenkel–Pirani asserted rather than derived — three structures fitted to what
+is already measured, in place of one object. What survives from `0006` is the
+null-plane-is-a-photon-field result and helicity from the degeneracy of `k^⊥`.
 
-| structure | gives |
-|---|---|
-| timelike direction present | mass |
-| spacelike plane orthogonal to it | spin (3-vector) |
-| null plane, no timelike direction | helicity (one number) |
+### One object: split quaternions (`exploration/0007`)
+
+The proper fix. Split quaternions, `i² = −1`, `j² = k² = +1`. For **any** pure
+`v = bi + cj + dk`:
+
+```
+v² = −(b² − c² − d²)·1  ≡  −Q(v)·1
+```
+
+The square of a pure element is a **scalar**, so one number controls everything
+it can do — and the trichotomy of `0004` is just the sign of `Q` on **one
+object**, not three structures:
+
+| | `exp(θv)` | orbit |
+|---|---|---|
+| `Q > 0` | `cos(θ√Q) + v sin(θ√Q)/√Q` | closed, period `2π/√Q` |
+| `Q < 0` | `cosh + v sinh` | open, exponential |
+| `Q = 0` | **`1 + θv` exactly** (series terminates) | open, **linear only** |
+
+**The point.** `i² = −1` makes the `i`-part genuinely *rotational*; `j,k` square
+to `+1` and are *boost* content. So `Q` is rotation² minus boost². A
+**nilpotent** (`i+j`) has rotational component `b = 1 ≠ 0` — **genuine spin** —
+with `Q = 0` — **no mass, no rest frame**. Rotation exactly balanced against
+boost, so it never enters the invariant.
+
+> "No projected evidence of rotation in time but spinning in space" is exactly
+> `b ≠ 0` with `b² − c² − d² = 0`. **The nilpotents are the light cone of the
+> algebra** — lightlike character and nilpotency are one fact.
+
+Also unifies earlier results: the `2×2` nilpotent has `N² = 0` while `0004`'s
+`4×4` vector-rep version had `N³ = 0`, because the vector rep is the **symmetric
+square** (verified). And `0005`'s level-spacing collapse is recovered as
+**mass ~ `√Q` = distance from the nilpotent cone**, so apparent continuity near
+the cone and exact masslessness on it are one phenomenon.
+
+**Scope and the opening.** Split quaternions are 2+1 dimensional. The 3+1
+version is `sl(2,ℂ)`, where `X² = −det(X)·1` still holds (verified) but `det X`
+is complex, giving a **fourth** class: **loxodromic** — rotation *and* boost
+about one axis. That is the generic case and is what a massive particle *with*
+spin should be. **Open: is the loxodromic class where mass and spin coexist in
+a single object?** If so the whole taxonomy is the conjugacy classification of
+one-parameter subgroups of `SL(2,ℂ)`, with no case-splitting.
 
 ### Spin-0 objection: withdrawn
 
@@ -424,11 +459,14 @@ in `0004`.
 - **Charge quantization as a winding number** — the one α-adjacent target with
   a real chance. Needs a compact direction the framework can *motivate* rather
   than assume.
-- **One geometric object or two cases?** `0003`'s "null helix winding about a
-  timelike worldline" describes the **massive** case only; the massless case is
-  a null plane with no winding at all. Whether one object covers both, or the
-  model is genuinely two-case, is unresolved and should be settled before
-  building further.
+- **The loxodromic case** — the next calculation. Does one `sl(2,ℂ)` element
+  with complex `det` carry both mass and spin? This would retire `0006`'s
+  retracted hack properly rather than merely withdrawing it, and would make the
+  particle taxonomy the conjugacy classification of one-parameter subgroups of
+  `SL(2,ℂ)` with no case-splitting anywhere.
+- **The helicity value.** The algebra gives "massless with a rotational
+  component"; getting `±1` needs the representation, not just the element.
+  Connects to `0005`'s spinor square root — `sl(2,ℂ)` is where both live.
 - **Light bending by the relational construction** — the cheapest falsifier of
   differential relativity, and untried. Do this first.
 - **The plane-to-plane rank-2 lead** — speculative, uncomputed.

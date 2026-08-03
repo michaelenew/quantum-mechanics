@@ -203,9 +203,26 @@ follow from `k` being orthogonal to **itself**: `k^⊥` is degenerate, and
 quotienting the null direction leaves a 2D polarization plane carrying only
 `SO(2)`. The missing longitudinal state is the direction quotiented away.
 
-That forces a reorganisation: a massive particle is two objects, a 4-velocity
-`u` (mass) and a spin bivector with `S^{μν}u_ν = 0` (spin) — so mass and spin
-are structurally independent and massive spin-0 is just `S = 0`.
+The fix is **one object, not three** (`exploration/0007`). In the split
+quaternions (`i² = −1`, `j² = k² = +1`), every pure element satisfies
+
+```
+v² = −(b² − c² − d²)·1  ≡  −Q(v)·1
+```
+
+so the square of a pure element is a **scalar**, and the whole trichotomy is
+the sign of `Q` on a single element. Since `i` is the rotational direction and
+`j,k` are boost directions, a **nilpotent** (`Q = 0`) has nonzero rotational
+component with zero invariant — **genuine spin, no mass**. That is the photon,
+as a boundary case rather than a bolted-on third structure: **the nilpotents
+are the light cone of the algebra.** It also absorbs `0004`'s `4×4` nilpotent
+(symmetric square of this `2×2` one) and `0005`'s level spacing (mass `~ √Q` is
+distance from the cone).
+
+Scope: split quaternions are 2+1. In `sl(2,ℂ)` the identity `X² = −det(X)·1`
+survives but `det` is complex, adding a fourth class — **loxodromic**, rotation
+and boost about one axis. Open question: is that where mass and spin coexist in
+one object?
 
 Method rule adopted here: **name the assumption, cite the measurement.** It
 earned its keep — a Casimir argument that looked like an obstruction was not
