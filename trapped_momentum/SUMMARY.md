@@ -90,22 +90,60 @@ unchanged. Inertia is resistance to the tilt. Frame-independently:
 
 That states inertia with no reference to any spatial direction.
 
-### The obstruction, and the distinction that survives it
+### Causal type of the winding plane, and quantization (`exploration/0004`)
 
-Mass and spin are the **two independent Poincaré Casimirs** (`P·P`, `W·W`), so
-mass cannot simply *be* an angular momentum. Empirically blunter: **massive
-spin-0 particles exist** (Higgs, π⁰). A model where mass *is* trapped angular
-momentum forbids them.
+**The central result of the workstream.** A 2-plane in Minkowski space has an
+induced metric whose determinant sign is Lorentz-invariant and takes exactly
+three values — there is no fourth case:
 
-> **The trapped thing is energy–momentum, not angular momentum.** How it
-> circulates is a separate question, and that answer is the spin.
+| `det g` | type | motion | class |
+|---|---|---|---|
+| `> 0` | spacelike | rotation | elliptic |
+| `< 0` | timelike | boost | hyperbolic |
+| `= 0` | null | null rotation | parabolic |
 
-"Mass is trapped momentum" survives; "mass is trapped *angular* momentum" does
-not. The two were being run together.
+"The time axis, the space axis, or their `x = t` line" **is** this
+classification, forced by the metric signature rather than chosen.
 
-**Counter-circulation resolves it:** two opposed rays at `E/2` each cancel in
-spin and add in energy → massive, spin 0. This is the **same structural fix**
-already flagged for the factor of 2, which raises its priority considerably.
+**Quantization is compactness.** Pushing a test vector around each motion: only
+the spacelike plane gives a closed orbit (`|orbit(2π) − start| = 7×10⁻¹⁵`); the
+boost runs off along a hyperbola (`10¹⁷` by `s = 40`), the null rotation along
+a parabola. Running the Fourier argument in both: on a circle,
+`(1/2π)∫e^{i(m−n)θ}dθ = δ_{mn}` to 1e-17 → **discrete**; on the line, overlap
+decays as `sinc` and *any* real mode number is admissible → **continuous**. The
+orthogonality integral produces a lattice only when the domain is compact.
+
+**Prediction ledger, scored against measurement:**
+
+| plane | orbit | spectrum | observable | experiment |
+|---|---|---|---|---|
+| spacelike | closed | discrete | spin | quantized, `ħ/2` steps ✓ |
+| null | open* | discrete* | helicity | quantized, `±1` photon ✓ |
+| timelike | open | continuous | **mass** | **not** quantized ✓ |
+| timelike | open | continuous | rapidity | continuous ✓ |
+
+\* the parabolic motion is itself open; massless states escape a continuum only
+because the null-rotation generators annihilate them, leaving a compact circle
+about the momentum. Same rule applied to what survives.
+
+The third row is the result: if mass came from a closed winding it would arrive
+in a ladder. `m_μ/m_e = 206.768`, `m_τ/m_μ = 16.817` — no pattern. **The split
+between "mass is continuous" and "spin is quantized" falls out of the causal
+type of the plane**, from the proposal's own structure.
+
+**This settles the KK tension from `0003`:** KK's compact spatial dimension
+predicts a mass *tower* `mₙ = nħ/(Rc)`; the timelike reading predicts a
+continuum. No tower is observed, so the timelike reading is favoured — decided
+by data. (Caveat: towers are pushed above accessible energy, not excluded.)
+
+### Spin-0 objection: withdrawn
+
+`0003` raised massive spin-0 particles (Higgs, π⁰) against "mass is trapped
+angular momentum" — but that claim was never made; the proposal said *trapped
+momentum*, and the conflation was introduced in these notes. Under the causal-
+type reading the objection dissolves anyway: mass is timelike winding, spin is
+spacelike winding, and a massive spin-0 particle simply has the first without
+the second. `0003` is annotated accordingly.
 
 ### A corollary that worsens the factor-2 problem
 
@@ -227,11 +265,14 @@ gravity (Nordström) predicts **zero** light deflection; vector makes like
 charges repel. **First test: does the construction bend light, and by the GR
 coefficient?** Cheap, and the fastest way to learn whether the idea survives.
 
-**Speculative lead.** A null-ray particle carries a *circulation plane*, so the
-relational data between two of them is plane-to-plane — naturally rank-2
-symmetric, not scalar. That is the right index structure for a spin-2 mediator
-and exactly what mass-to-mass cannot supply. Most likely place a route past the
-obstruction lives. Not computed.
+**Speculative lead, now well-posed (`0004`).** A null-ray particle carries a
+*circulation plane*, so the relational data between two of them is
+plane-to-plane — and a 2-plane is naturally a **bivector**. The relation
+between two bivectors is rank-2, which is the right index structure for a
+spin-2 mediator and exactly what mass-to-mass cannot supply. Causal type is
+Lorentz-invariant, so it is legitimate shared structure between two particles.
+This is now a concrete calculation: **does the bivector-to-bivector relation
+carry the trace structure of graviton exchange rather than scalar exchange?**
 
 **Constraint to respect.** If inertia derives from relations to anisotropically
 distributed matter, inertial mass could become direction-dependent.
@@ -257,18 +298,29 @@ structure has the same flavour — zero interval, no propagation, no applicable
 speed — which raises whether the two-tier split wants a **null middle term**:
 timelike dynamics / null internal structure / spacelike correlation.
 
+## Method note
+
+Standing rule adopted for this workstream: **name the assumption, cite the
+measurement.** A theorem is a map of where the load-bearing assumptions sit,
+not a wall. It earned its keep immediately — the Poincaré-Casimir argument
+*looked* like an obstruction and was not one (the framework routes around it by
+using different plane types, and Wigner's classification assumes particles are
+irreps of exactly the Poincaré group, which a modified symmetry structure need
+not grant). What actually did the work was measurement: the Higgs and π⁰ spins,
+and the absence of a lepton mass ladder, which is what settled KK-vs-timelike
+in `0004`.
+
 ## Known gaps
 
-- **The factor of 2** — unresolved, and fatal to the naive one-ray version.
-  Sharpened by `0002`: the wavelength-quantization route gives `L = nħ` for any
-  radius, so it cannot reach `ħ/2` by construction. **Top priority
-  calculation** (`0003`): two components with oppositely-rotating phases
-  `e^{∓imc²t/ħ}`, co-rotating spatially, beat at `2mc²/ħ` — exactly the
-  zitterbewegung frequency. Does the spin then come out `ħ/2` rather than
-  cancelling? This single calculation bears on the factor of 2, the spin-0
-  problem, and the double cover at once. Not shown.
-- **Timelike winding axis vs KK's compact spatial dimension** — not reconciled;
-  they are different claims and one may have to go.
+- **The factor of 2** — now a sharp fork rather than a mystery (`0004`).
+  A closed loop *in space* has period `2π` → `L = nħ` (spin 1). A loop *in the
+  rotation group* has period `4π` → `L = nħ/2` (spin ½), since `360°` returns
+  the state to minus itself and `720°` restores it. **The model must say which
+  object winds.** This is more promising than `0003`'s beat idea because it
+  predicts the number 2 rather than accommodating it — 2 is the order of the
+  fundamental group.
+- **Generations and charge** — untouched. An open winding direction explains
+  why mass *can* take any value, but not why it takes *these* values.
 - **Light bending by the relational construction** — the cheapest falsifier of
   differential relativity, and untried. Do this first.
 - **The plane-to-plane rank-2 lead** — speculative, uncomputed.

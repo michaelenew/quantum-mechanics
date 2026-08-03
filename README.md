@@ -160,19 +160,32 @@ inertia is resistance to the tilt: a boost can always remove the spatial
 momentum but **never** the rest energy, so `mc²` is the irreducible timelike
 component of `P^μ`.
 
-A distinction the workstream was missing: **the trapped thing is
-energy–momentum, not angular momentum.** Mass and spin are independent Poincaré
-Casimirs, and massive spin-0 particles exist — so "mass is trapped momentum"
-survives while "mass is trapped *angular* momentum" does not. Two
-counter-circulating rays give mass with zero spin, which is the same structural
-fix already needed for the factor of 2.
+The central result (`exploration/0004`): a 2-plane in Minkowski space has an
+induced-metric determinant whose **sign is Lorentz-invariant and takes exactly
+three values** — spacelike (rotation), timelike (boost), null (null rotation).
+"The time axis, the space axis, or their `x = t` line" is that classification,
+forced by the signature rather than chosen. And **quantization is compactness**:
+only the spacelike plane gives a closed orbit, so only it yields a discrete
+spectrum. Running the Fourier argument both ways — `δ_{mn}` on a circle,
+`sinc` with no admissible lattice on the line — makes that exact.
+
+Scored against measurement: spin quantized (closed orbit) ✓, helicity quantized
+✓, **mass not quantized** (open orbit) ✓ — `m_μ/m_e = 206.768`,
+`m_τ/m_μ = 16.817`, no ladder. **The split between "mass is continuous" and
+"spin is quantized" falls out of the causal type of the winding plane.** It
+also decides KK-vs-timelike on data: a compact spatial dimension would give a
+mass tower, and none is seen.
 
 Blocked on a real defect: the loop radius giving spin `ħ/2` makes the
 circulating quantum carry `2mc²`, and the radius giving `mc²` predicts spin 1.
-**Right spin or right energy, never both.** Sharpened by `0002` — the
-wavelength-quantization route gives `L = nħ` for *any* radius, so it cannot
-reach `ħ/2` at all, pointing at something structural rather than a bad choice
-of scale.
+**Right spin or right energy, never both.** Now a sharp fork rather than a
+mystery — a loop *in space* has period `2π` → `L = nħ`, a loop *in the rotation
+group* has period `4π` → `L = nħ/2`. The model must say which object winds, and
+this version predicts the number 2 rather than accommodating it.
+
+Method rule adopted here: **name the assumption, cite the measurement.** It
+earned its keep — a Casimir argument that looked like an obstruction was not
+one, while measurements (Higgs spin, the absent mass ladder) did the real work.
 
 Substantial prior art, named in the summary — Hestenes' zitterbewegung
 interpretation is the same model, developed over thirty years, and Carter's

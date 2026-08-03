@@ -93,14 +93,23 @@ spin-0 particles exist.** The Higgs (125 GeV, `s = 0`) and the π⁰ (135 MeV,
 `s = 0`) are massive with no spin at all. A model in which mass *is* trapped
 angular momentum predicts they cannot exist.
 
-The repair is a distinction the workstream should have been making all along:
+The repair is a distinction worth stating explicitly:
 
 > **The trapped thing is energy–momentum, not angular momentum.** How that
 > trapped energy–momentum *circulates* is a separate question, and its answer
 > is the spin.
 
-"Mass is trapped momentum" survives intact. "Mass is trapped *angular*
-momentum" does not, and the two were being run together.
+**Attribution correction (added after review).** The original proposal said
+"mass is nothing but trapped momentum," and separately that the photon's linear
+momentum *becomes effectively* angular momentum. It never claimed mass **is**
+trapped angular momentum. That conflation was introduced in these notes, not by
+the proposal, and the paragraph above originally implied otherwise. The
+distinction is still worth having on the record — but as a clarification of the
+notes, not a correction to the idea.
+
+See `0004`: under the causal-type reading the objection dissolves entirely
+rather than needing this repair, because mass and spin come from *different*
+plane types.
 
 ## Counter-circulation resolves it — and it is the same repair as the factor 2
 
