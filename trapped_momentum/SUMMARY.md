@@ -482,6 +482,52 @@ Honest progress of a kind, not an answer.
 
 Recommendation: **pursue charge quantization, not the value of α.**
 
+## Status: what this is, and what it is not (`0009`, `0010`)
+
+**Prior art — the honest verdict.** Essentially every piece of mathematical
+structure here is standard and specifically mapped. The trichotomy is Möbius
+conjugacy; the complex determinant is the Riemann–Silberstein vector; helicity
+from `k^⊥` degeneracy is Wigner (1939); the spinor square root of a null vector
+is Penrose's flagpole; and the organising claim — *particle taxonomy = orbit
+classification of the symmetry group, mass and spin as orbit invariants,
+quantisation from the orbit's geometry* — is **Souriau's coadjoint-orbit
+programme (1970)**, stated first and carried much further. What is not in the
+literature is the *route* here, which is a pedagogical path, not a result.
+(Souriau and Penrose–Rindler verified by search; Riemann–Silberstein, Petrov,
+and Wigner asserted from knowledge, search quota exhausted — confirm before
+relying on them.)
+
+**Where it stands.** Weaker than "describes": there is no dynamics, no action,
+no field equations. It is a **kinematic taxonomy**. And absorbing many rounds of
+correction gracefully is partly a warning sign — a framework flexible enough to
+accommodate everything predicts nothing.
+
+**The first real test (`0010`), and its result.** Thomas precession, with
+predictions recorded *before* computing. Three confirmed: the Wigner angle
+formula, `Δ = 2π(γ−1)` per orbit, and the slow limit `πβ²`. Plus a clean
+cross-check — rapidity space has curvature `−1`, so the holonomy is the
+enclosed hyperbolic area `2π(cosh η − 1) = 2π(γ−1)`. **Thomas precession is the
+curvature of velocity space.**
+
+**The fourth prediction was falsified**, and that is the finding: a product of
+two boosts is **hyperbolic**, not loxodromic (`tr A = 2[c₁c₂ + s₁s₂cos θ]`,
+manifestly real). The Wigner rotation lives in the **polar** decomposition, not
+the **conjugacy class** — and `0008` classified by the latter.
+
+> **The workstream has two separable assets, and only one passed.**
+> The **representation** (`SL(2,ℂ)`, Pauli algebra, spinors, bivectors) earns
+> its keep — the rotation is one visible term where the standard route is a page
+> of tensor algebra. The **classification** (`0008`'s four classes) was the wrong
+> instrument here and remains untested.
+>
+> This matters because the "saves students a pile of equations" hope rests
+> entirely on the first, which is decades-old Penrose–Rindler material — while
+> everything novel-sounding in `0004`–`0008` sits in the second.
+
+**Standing practice adopted:** no result claimed for the framework without a
+prediction recorded before the computation. Prediction 4 is exactly the kind
+that retrofitting would have hidden.
+
 ## Method note
 
 Standing rule adopted for this workstream: **name the assumption, cite the
@@ -512,6 +558,18 @@ in `0004`.
 - **Charge quantization as a winding number** — the one α-adjacent target with
   a real chance. Needs a compact direction the framework can *motivate* rather
   than assume.
+- **Does the classification forbid anything?** (`0010`) The taxonomy makes
+  existence claims, so test it on existence questions. Sharpest target: Wigner's
+  classification permits continuous-spin representations that are not observed.
+  If the loxodromic/nilpotent structure says why, that is a real result; if it
+  says nothing, the taxonomy is decorative.
+- **Composition closure** — new, cheap, and follows from `0010`'s failure.
+  Products of boosts stay hyperbolic. What physically meaningful process
+  *generates* loxodromic elements? If nothing realisable does, the "generic"
+  class is generic only formally, which is a serious problem for a taxonomy
+  that places massive spinning particles there. **Do this first.**
+- **Read Souriau** before building further — that is where this programme
+  already lives.
 - **Values need representations.** `0008` settles the kinematic *structure* —
   which objects exist and how they relate — but claims no number: not the spin
   magnitude, not `±1` helicity, not a mass. Getting values needs the rep and

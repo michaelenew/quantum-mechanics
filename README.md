@@ -241,6 +241,27 @@ Massive spin-0 is just `θ = 0` in that family. The particle taxonomy becomes
 the conjugacy classification of one-parameter subgroups of `SL(2,ℂ)` with no
 case-splitting. No *values* are claimed — that needs representations.
 
+**Status, stated plainly** (`exploration/0009`, `0010`). This is a kinematic
+taxonomy with no dynamics, and essentially every piece of its mathematics is
+standard: Möbius conjugacy, the Riemann–Silberstein vector, Wigner's little
+groups, Penrose's flagpole — and the organising claim is **Souriau's
+coadjoint-orbit programme (1970)**, stated first and carried much further.
+
+The first test with predictions recorded *before* computing
+(`output/0009_thomas_precession.py`) confirmed three and **falsified one**. A
+product of two boosts is **hyperbolic**, not loxodromic — the Wigner rotation
+lives in the *polar* decomposition, not the *conjugacy class*. So:
+
+> The **representation** (`SL(2,ℂ)`, Pauli algebra, spinors) earns its keep —
+> Thomas precession is one visible term in one product, and `2π(γ−1)` is the
+> holonomy of curvature-`−1` velocity space. The **classification** was the
+> wrong instrument here and remains untested.
+
+That distinction matters: the pedagogical payoff rests on the first, which is
+decades-old standard material, while everything novel-sounding sits in the
+second. Standing practice adopted: no framework result claimed without a
+prediction recorded before the computation.
+
 Method rule adopted here: **name the assumption, cite the measurement.** It
 earned its keep — a Casimir argument that looked like an obstruction was not
 one, while measurements (Higgs spin, the absent mass ladder) did the real work.
