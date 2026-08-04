@@ -286,9 +286,22 @@ Universality both validates and silences the guide at this order — gravity
 reads only `(E,S)` — and the two sub-claims falsified en route both failed on
 the same object, the ring's mass quadrupole, thereby promoting it: at fixed
 `(E,S)` trapped light has the *minimum* quadrupole `S²/2E` at radius
-`r = S/E = ` Kerr's `a = J/M`. **Stage 2b, pre-registered:** does the ring's
-trace-free quadrupole equal Kerr's `M₂ = −J²/M` with factor exactly 1? (SSC
-must be fixed explicitly first.)
+`r = S/E = ` Kerr's `a = J/M`.
+
+**Stage 2b answered the registered question: factor 1/2, not 1**
+(`exploration/0013`, `output/0012`, 21/21). The bare ring carries half of
+Kerr's `M₂ = −J²/M`, and the other half is carried by the **confinement
+stresses**: `M₂ = −½(Ea² + Y)` with `Y` the total stress second moment, so
+Kerr ⟺ the confinement's own stress second moment vanishes. Computed ladder:
+hoop 1/2, membrane 3/4, spokes 5/6 of Kerr. If minimal coupling = Kerr
+multipoles [K], the electron sits at Kerr — so gravity hands the model a
+concrete constraint on its oldest gap: whatever traps the circulating momentum
+must be pre-stressed with zero stress second moment. Exact Kerr requires the
+Israel disk (negative interior sheet + positive rim), re-derived from the
+Appell branch cut. Stage 3 is thereby reframed: **the confinement is the
+dynamical object.** Registered prediction: a self-gravitating (geon)
+confinement lands at the Kerr value exactly, because the exterior it must
+match *is* Kerr.
 
 Method rule adopted here: **name the assumption, cite the measurement.** It
 earned its keep — a Casimir argument that looked like an obstruction was not

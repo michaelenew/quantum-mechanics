@@ -627,10 +627,30 @@ absorption, not the count. Pre-registration stays regardless.
   quadrupole** `Q = Er²/2` — which is thereby promoted to the distinguishing
   observable: at fixed `(E,S)` the light ring has the *minimum* quadrupole
   `S²/2E` and sits at `r = S/E`, which is exactly Kerr's `a = J/M`.
-- **Stage 2b — pre-registered, not yet computed** (`0012`): does the ring's
-  trace-free quadrupole match Kerr's `M₂ = −J²/M`, with the order-unity factor
-  exactly 1? Hazard registered: the spin supplementary condition enters at
-  `S²` order and must be fixed explicitly before the factor means anything.
+- **Stage 2b — DONE; the registered hope FAILED at factor 1/2, productively**
+  (`0013`, `output/0012`, 21/21). `M₂_ring = −Ma²/2` vs Kerr's `−Ma²`, both
+  verified two ways from scratch (the Appell form reproduces
+  `M_l = M·Re[(ia)^l]` through `l = 4`). SSC doesn't bite: the static
+  symmetric source has an unambiguous centroid, so the 1/2 is physics. The
+  gap is carried by the **confinement stresses**: with
+  `ρ_eff = T⁰⁰ + T^kk`, the virial protects `M₀ = E` but the stress second
+  moment `Y = ∫T^kk ρ²` is architecture-dependent, `M₂ = −½(Ea² + Y)`, and
+  **Kerr ⟺ the confinement's own stress second moment vanishes**. Computed
+  ladder: hoop 1/2, membrane 3/4, spokes 5/6 of Kerr (`1 − 1/2n`, noted not
+  explained); pre-stressed structures can reach 1. Extracted constraint: if
+  minimal coupling = Kerr multipoles [K, unverified], the electron sits AT
+  Kerr, so **whatever confines the zitter motion must carry zero stress
+  second moment** — GR returning information about the model's oldest gap.
+  Exact Kerr (all moments) needs the **Israel disk**, re-derived here from
+  the Appell branch cut: `σ = −Ma/2π(a²−ρ²)^{3/2}`, negative interior sheet
+  plus positive rim, moments summing to `M` and `−Ma²` distributionally.
+- **Stage 3 reframed by 2b**: the confinement is the dynamical object, not
+  the photon. Registered prediction for the self-gravitating (geon) case: it
+  lands at `Y = Ea²` exactly, because the exterior it must match *is* Kerr —
+  making the factor 1/2 the signature of a material scaffold and its
+  correction to 1 the signature of gravity doing the confining. First
+  tractable piece: does the ring's own linearized field stress push `Y`
+  toward `+Ea²`?
 - **Unpopulated orbits**: if the tail-chasing construction *cannot* build
   continuous-spin orbits, the constructive principle selects exactly the
   observed particle types — a genuine explanatory win. Pre-register first.
