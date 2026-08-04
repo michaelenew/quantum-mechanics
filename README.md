@@ -262,6 +262,21 @@ decades-old standard material, while everything novel-sounding sits in the
 second. Standing practice adopted: no framework result claimed without a
 prediction recorded before the computation.
 
+**Reframed as the starting point** (`exploration/0011`): from Einstein's "what
+if a photon were the clock" the workstream arrived by its own route at
+Souriau's structure — the route validated the destination. His *orbit*
+classification is the right instrument where our *conjugacy* taxonomy failed
+the Thomas test, and his framework supplies what we lack (phase spaces,
+dynamics in external fields, quantization). The **factor-2 question is now
+closed** (`output/0010`, 4/4 pre-registered): the spin sphere's symplectic area
+is `4πs`, single-valuedness of the patch transition forces `2s ∈ ℤ`, so
+`s = 0, ½, 1, …` is *exhaustive* — non-half-integer spin is forbidden by
+topology, and the factor 2 is `area(S²)/period(S¹)`. Quantization, final form:
+**integrality of curvature over a compact surface.** The road back: Souriau →
+SR (done in reverse — tail-chasing *constructs* massive orbits from the
+massless one) → external gravity (pre-registered MPD test pending) → GR (the
+honest wall: interaction).
+
 Method rule adopted here: **name the assumption, cite the measurement.** It
 earned its keep — a Casimir argument that looked like an obstruction was not
 one, while measurements (Higgs spin, the absent mass ladder) did the real work.

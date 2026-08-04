@@ -528,6 +528,39 @@ the **conjugacy class** — and `0008` classified by the latter.
 prediction recorded before the computation. Prediction 4 is exactly the kind
 that retrofitting would have hidden.
 
+## The starting point found, and the factor-2 CLOSED (`0011`, `output/0010`)
+
+Reframing adopted: the workstream **found its starting point**. From Einstein's
+"what if a photon were the clock" we arrived by our own route at **Souriau's
+coadjoint-orbit structure for particles** — the route validated the
+destination. Plan: absorb Souriau rather than rederive (his *orbit*
+classification is the right instrument where our *conjugacy* taxonomy failed
+`0010`'s test — orbits are phase spaces, so dynamics can live on them), then
+build back to SR and GR with the tail-chasing photon as the constructive guide.
+
+**The factor-2 question is closed** (`output/0010`, 29/29, 4/4 pre-registered
+predictions confirmed). The spin sphere has symplectic area `4πs`; a quantum
+phase over it needs two patches; single-valuedness of the transition function
+forces `e^{4πis} = 1`, i.e. **`2s ∈ ℤ`**. Verified three ways: patch mismatch
+`= 4πs`, Chern number `= 2s` (integer), and `R(2π) = (−1)^{2s}` uniformly on
+each SU(2) multiplet. `0005` showed half-integers *permitted*; this shows
+everything else **forbidden** — `s = 0, ½, 1, …` is exhaustive, and the factor
+2 is `area(S²)/period(S¹) = 4π/2π`. The "do dynamics select the antiperiodic
+sector?" question dissolves: it was never dynamical. `0004`'s rule in final
+form: **quantization is the integrality of curvature over a compact surface.**
+
+**The road back** (all Souriau content [K] — arXiv blocked, search exhausted;
+verify against the text): Stage 1, SR — done in reverse by `0001`–`0003`; the
+tail-chasing move *constructs massive orbits from the massless one*. Stage 2,
+external gravity — pre-registered test: does the loop-averaged tidal force on
+the circulating photon reproduce the Mathisson–Papapetrou spin-curvature term?
+Stage 3, GR — the honest wall; needs interaction, where symplectic
+no-interaction theorems lurk (their hypotheses assume worldline canonical
+variables; whether the tail-chasing reading escapes them must be *shown*).
+Problems to eye in Souriau: unpopulated orbits (continuous spin — if the
+null-ray construction *cannot* build them, that is an explanatory win),
+massless non-localizability vs our concrete null plane, and interaction.
+
 ## Method note
 
 Standing rule adopted for this workstream: **name the assumption, cite the
@@ -539,6 +572,15 @@ irreps of exactly the Poincaré group, which a modified symmetry structure need
 not grant). What actually did the work was measurement: the Higgs and π⁰ spins,
 and the absence of a lepton mass ladder, which is what settled KK-vs-timelike
 in `0004`.
+
+**Correction to an earlier caution** (`0011`): "absorbing corrections
+gracefully is partly a warning sign" mis-aimed. Every absorption in this
+workstream *removed* a difference in kind (photon-as-third-structure → one
+algebra element; mass+spin as two objects → one non-simple bivector); none
+added structure. That is the Maxwell pattern — unification of apparent kinds —
+and it is to be aspired to. The caution that survives: flexibility is a warning
+sign only when absorption *adds* structure (epicycles). Track the direction of
+absorption, not the count. Pre-registration stays regardless.
 
 ## Known gaps
 
@@ -563,13 +605,19 @@ in `0004`.
   classification permits continuous-spin representations that are not observed.
   If the loxodromic/nilpotent structure says why, that is a real result; if it
   says nothing, the taxonomy is decorative.
-- **Composition closure** — new, cheap, and follows from `0010`'s failure.
-  Products of boosts stay hyperbolic. What physically meaningful process
-  *generates* loxodromic elements? If nothing realisable does, the "generic"
-  class is generic only formally, which is a serious problem for a taxonomy
-  that places massive spinning particles there. **Do this first.**
-- **Read Souriau** before building further — that is where this programme
-  already lives.
+- **Composition closure** — follows from `0010`'s failure. Products of boosts
+  stay hyperbolic. What physically meaningful process *generates* loxodromic
+  elements? Deprioritised by `0011`: Souriau's *orbit* classification is the
+  right instrument where conjugacy failed, so answer this inside the orbit
+  picture after reading him.
+- **Read Souriau** — now the gating item (`0011`); every [K] claim there needs
+  verification against the text. Blocked on network access this session.
+- **Stage 2 pre-registered test** (`0011`): loop-averaged tidal force on the
+  circulating photon vs the Mathisson–Papapetrou spin-curvature term. The
+  next calculation.
+- **Unpopulated orbits**: if the tail-chasing construction *cannot* build
+  continuous-spin orbits, the constructive principle selects exactly the
+  observed particle types — a genuine explanatory win. Pre-register first.
 - **Values need representations.** `0008` settles the kinematic *structure* —
   which objects exist and how they relate — but claims no number: not the spin
   magnitude, not `±1` helicity, not a mass. Getting values needs the rep and
