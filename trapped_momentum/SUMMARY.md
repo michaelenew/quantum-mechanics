@@ -612,9 +612,25 @@ absorption, not the count. Pre-registration stays regardless.
   picture after reading him.
 - **Read Souriau** — now the gating item (`0011`); every [K] claim there needs
   verification against the text. Blocked on network access this session.
-- **Stage 2 pre-registered test** (`0011`): loop-averaged tidal force on the
-  circulating photon vs the Mathisson–Papapetrou spin-curvature term. The
-  next calculation.
+- **Stage 2 — DONE, CLEAN** (`0012`, `output/0011`, 20/20, 5/5 predictions).
+  The loop-averaged force on the confined photon ring equals
+  `−½R^i_{0jk}S^{jk}` with the coefficient **−1/2 exact** (machine precision by
+  both quadrupole subtraction and Richardson), in a generic random stationary
+  metric. The hoop tension (`τ = E/2πr`, the null-string condition) is
+  load-bearing: photon alone mis-weighs by its pressure term; with tension the
+  system weighs exactly `E` and combined `T^{jk} ≡ 0` pointwise, so the spin
+  force is purely the energy-flux (gravitomagnetic) coupling. Universality
+  confirmed: a 100× heavier, 100× slower flywheel with equal `S` feels the
+  identical dipole force — gravity reads only `(E,S)` at this order, so the
+  guide is *consistent and necessarily silent* here. Two pre-registered
+  sub-claims were falsified en route by the same object — the ring's **mass
+  quadrupole** `Q = Er²/2` — which is thereby promoted to the distinguishing
+  observable: at fixed `(E,S)` the light ring has the *minimum* quadrupole
+  `S²/2E` and sits at `r = S/E`, which is exactly Kerr's `a = J/M`.
+- **Stage 2b — pre-registered, not yet computed** (`0012`): does the ring's
+  trace-free quadrupole match Kerr's `M₂ = −J²/M`, with the order-unity factor
+  exactly 1? Hazard registered: the spin supplementary condition enters at
+  `S²` order and must be fixed explicitly before the factor means anything.
 - **Unpopulated orbits**: if the tail-chasing construction *cannot* build
   continuous-spin orbits, the constructive principle selects exactly the
   observed particle types — a genuine explanatory win. Pre-register first.

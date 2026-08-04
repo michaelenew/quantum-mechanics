@@ -274,8 +274,21 @@ is `4πs`, single-valuedness of the patch transition forces `2s ∈ ℤ`, so
 topology, and the factor 2 is `area(S²)/period(S¹)`. Quantization, final form:
 **integrality of curvature over a compact surface.** The road back: Souriau →
 SR (done in reverse — tail-chasing *constructs* massive orbits from the
-massless one) → external gravity (pre-registered MPD test pending) → GR (the
-honest wall: interaction).
+massless one) → external gravity → GR (the honest wall: interaction).
+
+**Stage 2 came back clean** (`exploration/0012`, `output/0011`, 20/20, 5/5
+pre-registered). The confined photon ring's loop-averaged force in a generic
+random stationary metric is exactly Mathisson–Papapetrou, coefficient **−1/2**
+to machine precision. The confinement is load-bearing: the photon alone
+mis-weighs by its pressure term, and the hoop tension (`τ = E/2πr` — the
+null-string condition) restores weight `E` and makes `T^{jk} ≡ 0` pointwise.
+Universality both validates and silences the guide at this order — gravity
+reads only `(E,S)` — and the two sub-claims falsified en route both failed on
+the same object, the ring's mass quadrupole, thereby promoting it: at fixed
+`(E,S)` trapped light has the *minimum* quadrupole `S²/2E` at radius
+`r = S/E = ` Kerr's `a = J/M`. **Stage 2b, pre-registered:** does the ring's
+trace-free quadrupole equal Kerr's `M₂ = −J²/M` with factor exactly 1? (SSC
+must be fixed explicitly first.)
 
 Method rule adopted here: **name the assumption, cite the measurement.** It
 earned its keep — a Casimir argument that looked like an obstruction was not
