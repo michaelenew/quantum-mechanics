@@ -128,10 +128,32 @@ the signature of a good framework. Track the direction, not the count. The
 pre-registration practice (`0009`/`0010`) stays regardless — it is what makes
 the direction checkable.
 
+## The text
+
+Full citation [K — bibliographic details from memory; every network route to
+verify was blocked this session: WebFetch 403 on arXiv/Springer/Google
+Books/OpenLibrary, proxy CONNECT 403 on crossref/openlibrary, Google Books API
+quota zero]:
+
+> J.-M. Souriau, **Structure of Dynamical Systems: A Symplectic View of
+> Physics**, Progress in Mathematics 149, Birkhäuser Boston, 1997. Translated
+> by C.H. Cushman-de Vries; translation edited by R.H. Cushman and
+> G.M. Tuynman. Original: *Structure des systèmes dynamiques*, Dunod, Paris,
+> 1970.
+
+The user has located a Google Books entry under this title
+(id `4tBrbryIKQAC`). Reading priorities, in order: (1) the Poincaré coadjoint
+orbit classification / relativistic particle models with spin — where `0008`
+lives, done right; (2) prequantization and the integrality condition — the
+source of `output/0010`; (3) the massless particle non-localizability result —
+the flagged tension with `0006`'s concrete null plane; (4) spinning particle in
+external fields (BMT-type) — the Stage 2 input. Section numbers deliberately
+omitted: [K] memory of the TOC is not reliable enough to cite.
+
 ## Next
 
-1. **Obtain and read Souriau** (SSD, English translation 1997) — verify every
-   [K] above, especially orbit dimensions, the massless localization result,
+1. **Obtain and read Souriau** (citation above) — verify every [K] in this
+   note, especially orbit dimensions, the massless localization result,
    and the MPD derivation. Blocked on network access this session.
 2. **Stage 2 calculation with pre-registered prediction**: loop-averaged tidal
    force on the circulating photon vs. the MPD spin-curvature term.
