@@ -644,13 +644,32 @@ absorption, not the count. Pre-registration stays regardless.
   Exact Kerr (all moments) needs the **Israel disk**, re-derived here from
   the Appell branch cut: `σ = −Ma/2π(a²−ρ²)^{3/2}`, negative interior sheet
   plus positive rim, moments summing to `M` and `−Ma²` distributionally.
-- **Stage 3 reframed by 2b**: the confinement is the dynamical object, not
-  the photon. Registered prediction for the self-gravitating (geon) case: it
-  lands at `Y = Ea²` exactly, because the exterior it must match *is* Kerr —
-  making the factor 1/2 the signature of a material scaffold and its
-  correction to 1 the signature of gravity doing the confining. First
-  tractable piece: does the ring's own linearized field stress push `Y`
-  toward `+Ea²`?
+- **Stage 3 first piece — DONE** (`0014`, `output/0013`, 11/11). The
+  registered "exterior must be Kerr" justification was **withdrawn before
+  computing** (no Birkhoff for rotation; neutron stars have `q ≈ 2–10` [K]),
+  and replaced by the correct mechanism: material tension is the *only*
+  negative-second-moment agent, so with gravity supplying fraction `f` of the
+  confinement, `Y(f) = f·Ea²` and `M₂` marches **linearly from half-Kerr to
+  exactly Kerr at `f = 1`**. Confirmed at leading order; the `f → 1` endpoint
+  has uncontrolled second-order corrections (`GE/a ≈ 0.59` there).
+  Two findings en route: **the null ring's gravitational self-interaction is
+  finite in the thin limit with no cutoff** — parallel null neighbours do not
+  interact (TEP), while the static massive ring diverges as `ln(1/δ)`;
+  *nullness regularizes*, a structural virtue of the trapped-light premise.
+  And the hand-derived self-force `f_in = (32/3)Gσ²/a` (verified by an
+  independent component-wise route to 8 digits) puts the **linearized geon at
+  `a* = (16/3π)GE ≈ 1.70 GE`** — the extremal-Kerr scale times an order-unity
+  factor. One registered sub-prediction falsified: the sector slope ratio is
+  `1 : +2 : −3` (measured), not `1 : −2 : 1` (guessed from the energy
+  contraction); the force's momentum-flux term redistributes the sectors, and
+  the log-cancellation itself stands.
+  **The electron is not a geon**: gravity supplies `~10⁻⁴⁴` of its
+  confinement (`a/GE = (m_P/m_e)²/2 ≈ 3×10⁴⁴`, super-extremal, no horizon).
+  The `0013` zero-stress-moment constraint must be met by non-gravitational
+  structure. Running theme now explicit: every GR probe converts "what
+  confines the ray" from a philosophical gap into a quantitative constraint —
+  load-bearing (weight), zero stress second moment (Kerr `M₂`),
+  non-gravitational (electron scale), finite self-energy (null limit).
 - **Unpopulated orbits**: if the tail-chasing construction *cannot* build
   continuous-spin orbits, the constructive principle selects exactly the
   observed particle types — a genuine explanatory win. Pre-register first.

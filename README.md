@@ -299,9 +299,22 @@ concrete constraint on its oldest gap: whatever traps the circulating momentum
 must be pre-stressed with zero stress second moment. Exact Kerr requires the
 Israel disk (negative interior sheet + positive rim), re-derived from the
 Appell branch cut. Stage 3 is thereby reframed: **the confinement is the
-dynamical object.** Registered prediction: a self-gravitating (geon)
-confinement lands at the Kerr value exactly, because the exterior it must
-match *is* Kerr.
+dynamical object.**
+
+Stage 3's first piece is done (`exploration/0014`, `output/0013`, 11/11). The
+registered "exterior must be Kerr" justification was withdrawn before
+computing (no Birkhoff for rotation) and replaced by the correct mechanism:
+material tension is the only negative-second-moment agent, so as self-gravity
+supplies fraction `f` of the confinement, `M₂(f) = −(1+f)Ea²/2` — **a linear
+march from half-Kerr to exactly Kerr at full self-confinement**, at leading
+order. En route: the null ring's gravitational self-interaction is **finite
+with no thickness cutoff** (parallel null neighbours don't interact — nullness
+regularizes, where a static massive ring diverges logarithmically), the
+linearized geon sits at `a* = (16/3π)GE ≈ 1.70 GE` (extremal-Kerr scale ×
+order-unity), and **the electron is not a geon** — gravity supplies `~10⁻⁴⁴`
+of its confinement, so the zero-stress-moment constraint must be met by
+non-gravitational structure. Every GR probe so far has converted "what
+confines the ray" into a quantitative constraint.
 
 Method rule adopted here: **name the assumption, cite the measurement.** It
 earned its keep — a Casimir argument that looked like an obstruction was not
