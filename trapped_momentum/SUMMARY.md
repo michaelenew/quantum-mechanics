@@ -734,17 +734,31 @@ absorption, not the count. Pre-registration stays regardless.
   `Y_conf = 0` ⟹ `M₂ = −Ea²` = **exactly Kerr, with no free parameter**,
   where every material architecture needs one. This is the positive
   realisation of `0015`'s negative result.
-- **Self-consistency picks extremality** (`0016`) — and this **answers the
-  strong-field endpoint left open in `0014`**. The ring radius is forced to
-  `R = S/E = J/M = a`; demanding it *be* Kerr's prograde photon orbit gives
-  `x = 2[1 + cos((2/3)arccos(−x))]` with **unique root `x = 1`: extremal
-  Kerr**, whose `M₂ = −Ma²` matches the geodesic argument exactly — two
-  independent routes agreeing. `0014`'s linearized `a* ≈ 1.70 GE` overshoots
-  the exact `1.00 GE` by 70%, as expected at compactness 0.59. **Caveat:** at
-  extremality Boyer–Lindquist `r` degenerates (horizon, photon orbit, ISCO
-  all at `r = M`, infinitely far apart in proper distance), so the
-  coincidence of `r` values is partly coordinate artefact — redo in
-  horizon-penetrating coordinates.
+- ~~**Self-consistency picks extremality** (`0016`)~~ — **FALSIFIED by the
+  invariant redo** (`0017`, `output/0016`, 22/22, 5/5 predictions). The
+  degeneracy was worse than a caveat: at extremality the horizon and prograde
+  photon orbit share both BL `r = M` *and* circumferential radius `2M`, with
+  only proper distance (logarithmically divergent) separating them. Stated
+  invariantly, the coordinate-independent size of a photon orbit is its
+  **impact parameter** `b = L/E`; since each photon carries `L/E = b` and
+  `a = J/M = b`, the condition is `a = b` — but
+  `b_ph − a = r^{3/2}/√M > 0` for every `r > 0`, so **no fixed point exists.**
+  (Orbit equations `u³ − 3Mu ± 2a√M = 0`, `b = a ± r^{3/2}/√M`, verified
+  against `3√3M`, `2M`, `−7M` plus an independent closed form.) It fails a
+  second way too: a ring on the extremal orbit generates `a = 2M`
+  (super-extremal), where **no circular photon orbit exists at all**. And
+  binding energy (`M < ΣE` ⟹ `a = kb > b`) makes the gap *wider*, so the
+  result doesn't hinge on test-particle mass bookkeeping.
+  **With it goes `0016`'s claim to have answered `0014`'s strong-field
+  endpoint — that is open again.** What survives untouched: the
+  geodesic-confinement mechanism itself (`Y_conf = 0` ⟹ `M₂ = −Ea²`); only the
+  claim that a *self-generated* Kerr geometry supplies such an orbit to its
+  own source is dead.
+  **Remaining gap, honest:** the analysis treats each photon as a test
+  particle in the *total* field, double-counting its own contribution. A ring
+  element should move in the field of the *others*, and `0014` showed that
+  self-field is finite for null rings — so the correction is well-defined,
+  bounded, and O(1) here. **Self-confinement is unresolved, not refuted.**
 - **Bridge to `foundations/`** (`0016`): the repo posits mutual **consistency**,
   not force, as fundamental — and a consistency constraint carries no
   stress-energy, evading the `0015` bound for the same reason geometry does.

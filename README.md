@@ -347,12 +347,18 @@ What replaces it is the **positive** mechanism: covariantly, a photon on a
 coordinates is the connection (not a boost effect; `∂_μT^{μν} = 0` is
 covariant, so the content is curvature). Such confinement carries no matter
 stress, so `Y_conf = 0` and `M₂ = −Ea²` is **exactly Kerr with no free
-parameter**. And self-consistency fixes the scale: the ring radius is forced to
-`R = S/E = a`, and demanding it be Kerr's prograde photon orbit has the unique
-root `a = M` — **extremal Kerr**, which also **answers the strong-field
-endpoint** `0014` left open (its linearized `1.70 GE` overshoots the exact
-`1.00 GE` by 70%). Caveat: Boyer–Lindquist `r` degenerates at extremality, so
-that coincidence needs redoing in horizon-penetrating coordinates.
+parameter**. A further claim — that self-consistency fixes the scale at extremal Kerr — was
+**falsified by its own flagged redo** (`exploration/0017`, `output/0016`,
+22/22). Stated invariantly, the size of a photon orbit is its impact parameter
+`b = L/E`, and since `a = J/M = b` the condition is `a = b`; but
+`b_ph − a = r^{3/2}/√M > 0` always, so no fixed point exists — and a ring on
+the extremal orbit would generate `a = 2M`, super-extremal, where no photon
+orbit exists at all. Binding energy widens the gap rather than closing it.
+**`0014`'s strong-field endpoint is open again.** The geodesic-confinement
+mechanism survives; only the claim that a self-generated geometry supplies the
+orbit to its own source is dead. Self-confinement is **unresolved, not
+refuted** — the mean-field treatment double-counts each photon's own field, and
+the self-field-corrected version (finite, per `0014`) is untried.
 
 This bridges to `foundations/`: a **consistency constraint carries no
 stress-energy**, so it evades the bound exactly as geometry does — and "what

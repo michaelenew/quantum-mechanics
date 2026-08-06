@@ -92,7 +92,16 @@ with **no tuning and no free parameter** — where every material architecture
 needs one. `0015` said "Kerr's quadrupole is a signature of non-material
 confinement"; this is its positive realisation.
 
-## Self-consistency picks extremality
+## Self-consistency picks extremality — **FALSIFIED, see `0017`**
+
+> **This section is withdrawn.** The redo the caveat below asked for was done
+> in `0017` and the result does not survive. Stated invariantly — impact
+> parameter `b = L/E` against spin parameter `a`, both coordinate-independent —
+> the condition is `a = b`, and `b_ph = a + r^{3/2}/√M` is **strictly greater
+> than `a`** for every `r > 0`. No fixed point exists. The BL coincidence was
+> exactly the coordinate artefact the caveat identified. **With it goes this
+> note's claim to have answered `0014`'s strong-field endpoint — that is open
+> again.** Kept below as the record.
 
 The ring radius is not free: `R = S/E = J/M = a`, the Kerr spin parameter
 itself. Demand that it *be* the prograde circular photon orbit — the orbit on
