@@ -549,8 +549,21 @@ everything else **forbidden** — `s = 0, ½, 1, …` is exhaustive, and the fac
 sector?" question dissolves: it was never dynamical. `0004`'s rule in final
 form: **quantization is the integrality of curvature over a compact surface.**
 
-**The road back** (all Souriau content [K] — arXiv blocked, search exhausted;
-verify against the text): Stage 1, SR — done in reverse by `0001`–`0003`; the
+**Souriau sourcing (updated).** The text is unreachable from this environment
+— `books.google.com`/`www.google.com` return a gateway **403 to CONNECT under
+organization egress policy**, arXiv and Springer are blocked, and
+`googleapis.com` passes but the Books API has 0/day quota. WebSearch works, and
+verified most of the claims: the coadjoint-orbit treatment with invariants
+`(m,s)` **[V]**; massless orbits non-generic and **smaller-dimensional** than
+massive **[V]** (the specific 8 and 6 are *not* confirmed); **BMT equations**
+from linearizing a presymplectic refinement of Souriau's structure **[V]**;
+spinning particles in **curved backgrounds** **[V]**; and a **9-dimensional
+evolution space** for his massless spinning model **[V, new]** (evolution space
+≠ orbit, so it neither confirms nor contradicts the "6"). Still **[K]**:
+massless non-localizability — do not build on it. The integrality result is
+independent of the text (`output/0010`, 29/29).
+
+**The road back** (Souriau content flagged per the sourcing note above): Stage 1, SR — done in reverse by `0001`–`0003`; the
 tail-chasing move *constructs massive orbits from the massless one*. Stage 2,
 external gravity — pre-registered test: does the loop-averaged tidal force on
 the circulating photon reproduce the Mathisson–Papapetrou spin-curvature term?
