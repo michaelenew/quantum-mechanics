@@ -693,13 +693,51 @@ absorption, not the count. Pre-registration stays regardless.
 
   > **Kerr's quadrupole is a signature of non-material confinement.**
 
-  Chain for the electron, with its one unverified link: *if* minimal coupling
-  = Kerr multipoles [K], then combined with the 5/6 ceiling and gravity's
-  `10⁻⁴⁴` share, whatever confines the electron is **neither ordinary
-  material tension nor gravity**. Two independent arrows now point at the
-  vacuum (this, plus `0013`'s negative-energy Israel sheet). **Verifying the
-  minimal-coupling claim is promoted to the top of the reading list** — it is
-  load-bearing for that conclusion.
+  ~~Chain for the electron...~~ **RETRACTED — see below.**
+- **Link 1 verified, and it breaks the electron chain** (`0016`,
+  `output/0015`, 9/9, 5/5 predictions). Minimal coupling *does* generate
+  Kerr's complete multipole series (Arkani-Hamed–Huang–O'Connell
+  arXiv:1906.10100; Guevara–Ochirov–Vines PRD **100**, 104024;
+  Chung–Huang–Kim–Lee) — **but in the infinite-spin limit.** A spin-`s` state
+  carries multipoles only to rank `2s`, and the spin-induced quadrupole
+  operator `S_iS_j + S_jS_i − (2/3)δ_ijS²` **vanishes identically as a
+  matrix** for `s = ½` (verified; nonzero for `s ≥ 1`).
+
+  > **The electron has no quadrupole moment at all.**
+
+  So `0015`'s inference ("the electron sits at Kerr's quadrupole, hence its
+  confinement is neither tension nor gravity") is **void and withdrawn** —
+  annotated at the source. The `0015` **theorem is untouched**; it never
+  needed the electron. Surviving: `g = 2` at dipole order (rank 1 ≤ 2s), the
+  Carter match from `0001`. **Correction to `0001`/`0013`: the Kerr–electron
+  coincidence is weaker evidence than those notes treated it as** — Kerr and
+  the electron agree exactly where the electron *has* moments and vacuously
+  beyond, because spin-½ truncates the series.
+- **Confinement as geometry — the positive mechanism** (`0016`). Covariantly,
+  a photon on a **closed null geodesic is unforced**: what reads as a
+  confining force in flat coordinates is the connection. (Boundary: *not* a
+  boost effect — `∂_μT^{μν} = 0` is covariant, so the content is curvature,
+  not velocity.) Such a confinement carries **no matter stress**, so
+  `Y_conf = 0` ⟹ `M₂ = −Ea²` = **exactly Kerr, with no free parameter**,
+  where every material architecture needs one. This is the positive
+  realisation of `0015`'s negative result.
+- **Self-consistency picks extremality** (`0016`) — and this **answers the
+  strong-field endpoint left open in `0014`**. The ring radius is forced to
+  `R = S/E = J/M = a`; demanding it *be* Kerr's prograde photon orbit gives
+  `x = 2[1 + cos((2/3)arccos(−x))]` with **unique root `x = 1`: extremal
+  Kerr**, whose `M₂ = −Ma²` matches the geodesic argument exactly — two
+  independent routes agreeing. `0014`'s linearized `a* ≈ 1.70 GE` overshoots
+  the exact `1.00 GE` by 70%, as expected at compactness 0.59. **Caveat:** at
+  extremality Boyer–Lindquist `r` degenerates (horizon, photon orbit, ISCO
+  all at `r = M`, infinitely far apart in proper distance), so the
+  coincidence of `r` values is partly coordinate artefact — redo in
+  horizon-penetrating coordinates.
+- **Bridge to `foundations/`** (`0016`): the repo posits mutual **consistency**,
+  not force, as fundamental — and a consistency constraint carries no
+  stress-energy, evading the `0015` bound for the same reason geometry does.
+  "What confines the ray?" may be a category error like "what force keeps a
+  free particle moving straight?". Testable content: constraint-confinement
+  predicts `Y_conf = 0` identically, hence `M₂` with **no free parameter**.
 - **Unpopulated orbits**: if the tail-chasing construction *cannot* build
   continuous-spin orbits, the constructive principle selects exactly the
   observed particle types — a genuine explanatory win. Pre-register first.

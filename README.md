@@ -330,10 +330,34 @@ tensegrity, whose energy DEC bounds below by `~πE`, comparable to the ring
 itself. So the `0013` ladder's 5/6 is a hard ceiling for *matter*, and
 self-gravity reaches 1 precisely because it removes matter stress rather than
 rearranging it: **Kerr's quadrupole is a signature of non-material
-confinement.** If minimal coupling = Kerr multipoles [K, unverified], the
-electron's confinement is then neither ordinary tension nor gravity — with two
-independent arrows (this, and the negative-energy Israel sheet) pointing at
-the vacuum.
+confinement.**
+
+Link 1 was then **verified, and it broke the electron application**
+(`exploration/0016`, `output/0015`, 9/9). Minimal coupling does generate Kerr's
+full multipole series — *in the infinite-spin limit*. But a spin-`s` state
+carries multipoles only to rank `2s`, and the spin-induced quadrupole operator
+**vanishes identically as a matrix for `s = ½`**: the electron has no
+quadrupole at all, so the inference drawn from it is withdrawn. The theorem
+stands; only its application dies. Surviving: `g = 2` at dipole order — and a
+correction to `0001`/`0013`, that the Kerr–electron coincidence is weaker
+evidence than they treated it as, since spin-½ truncates the series.
+
+What replaces it is the **positive** mechanism: covariantly, a photon on a
+**closed null geodesic is unforced** — the "confining force" of flat
+coordinates is the connection (not a boost effect; `∂_μT^{μν} = 0` is
+covariant, so the content is curvature). Such confinement carries no matter
+stress, so `Y_conf = 0` and `M₂ = −Ea²` is **exactly Kerr with no free
+parameter**. And self-consistency fixes the scale: the ring radius is forced to
+`R = S/E = a`, and demanding it be Kerr's prograde photon orbit has the unique
+root `a = M` — **extremal Kerr**, which also **answers the strong-field
+endpoint** `0014` left open (its linearized `1.70 GE` overshoots the exact
+`1.00 GE` by 70%). Caveat: Boyer–Lindquist `r` degenerates at extremality, so
+that coincidence needs redoing in horizon-penetrating coordinates.
+
+This bridges to `foundations/`: a **consistency constraint carries no
+stress-energy**, so it evades the bound exactly as geometry does — and "what
+confines the ray?" may be a category error like "what force keeps a free
+particle moving straight?"
 
 Method rule adopted here: **name the assumption, cite the measurement.** It
 earned its keep — a Casimir argument that looked like an obstruction was not

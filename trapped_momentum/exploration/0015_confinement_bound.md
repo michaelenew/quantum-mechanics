@@ -108,7 +108,16 @@ That dissolves what looked like a tension between `0013` and `0014`:
 
 > **Kerr's quadrupole is a signature of non-material confinement.**
 
-## What this means for the electron
+## What this means for the electron — **WITHDRAWN, see `0016`**
+
+> **This entire section is retracted.** Link (1) was verified in `0016` and
+> carries a qualifier that voids the inference: minimal coupling reproduces
+> Kerr's multipoles **in the infinite-spin limit**, and a spin-`s` state carries
+> multipoles only to rank `2s`. For `s = ½` the spin-induced quadrupole
+> operator vanishes *identically as a matrix* — **the electron has no
+> quadrupole moment at all**, so there is nothing to sit at fraction 1 of.
+> The theorem above is untouched (it never needed the electron); only this
+> application dies. Kept below as the record of the wrong inference.
 
 Assembling the chain, with its one unverified link flagged:
 
