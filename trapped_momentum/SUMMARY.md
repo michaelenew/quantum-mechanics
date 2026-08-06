@@ -670,6 +670,36 @@ absorption, not the count. Pre-registration stays regardless.
   confines the ray" from a philosophical gap into a quantitative constraint —
   load-bearing (weight), zero stress second moment (Kerr `M₂`),
   non-gravitational (electron scale), finite self-energy (null limit).
+- **The confinement bound — THEOREM** (`0015`, `output/0014`, 17/17, 5/5
+  predictions). Reducing the stress second moment to the **transmitted radial
+  force** `u(ρ) = 2πρS^{ρρ}` collapses everything to one quadrature,
+  `Y_tot = −2∫₀^a uρ²dρ` (verified against all three architectures to 1e-8 —
+  the `0013` ladder was three choices of one function). Then: all stresses in
+  tension ⟹ `u ≤ 0`, `u' ≤ 0`, `|u(a)| ≤ E/a` ⟹
+
+  > `0 ≤ Y_tot ≤ 2Ea²/3`, i.e. **M₂ fraction ∈ [1/2, 5/6]. No all-tension
+  > material confinement reaches Kerr — it is outside the reachable set.**
+
+  Bound **tight at both ends** via `u = −(E/a)(ρ/a)^n`, closed form
+  `(1 + 2/(n+3))/2`: `n = 0` → 5/6 (spokes), `n → ∞` → 1/2 (hoop). Reaching
+  Kerr needs peak `|u| = 1.5 E/a` — 50% more internal tension than the load
+  transmitted — closable only by **hoop compression**: a pre-stressed
+  tensegrity, not a web. DEC then bounds its energy below by `~πE` at radius
+  `a`, so **the confinement is comparable to or heavier than the ring**
+  (lower bound only; the self-consistency where confinement energy shifts
+  `a = S/E` is unsolved). This dissolves the apparent `0013`/`0014` tension:
+  the ladder's 5/6 is a hard ceiling for *matter*, and self-gravity reaches 1
+  precisely because it removes matter stress rather than rearranging it.
+
+  > **Kerr's quadrupole is a signature of non-material confinement.**
+
+  Chain for the electron, with its one unverified link: *if* minimal coupling
+  = Kerr multipoles [K], then combined with the 5/6 ceiling and gravity's
+  `10⁻⁴⁴` share, whatever confines the electron is **neither ordinary
+  material tension nor gravity**. Two independent arrows now point at the
+  vacuum (this, plus `0013`'s negative-energy Israel sheet). **Verifying the
+  minimal-coupling claim is promoted to the top of the reading list** — it is
+  load-bearing for that conclusion.
 - **Unpopulated orbits**: if the tail-chasing construction *cannot* build
   continuous-spin orbits, the constructive principle selects exactly the
   observed particle types — a genuine explanatory win. Pre-register first.

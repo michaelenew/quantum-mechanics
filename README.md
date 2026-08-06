@@ -316,6 +316,25 @@ of its confinement, so the zero-stress-moment constraint must be met by
 non-gravitational structure. Every GR probe so far has converted "what
 confines the ray" into a quantitative constraint.
 
+That line reaches a **theorem** (`exploration/0015`, `output/0014`, 17/17,
+5/5 pre-registered). Reducing the stress second moment to the transmitted
+radial force `u(ρ) = 2πρS^{ρρ}` collapses it to one quadrature
+`Y_tot = −2∫uρ²dρ`, and all-tension confinement then forces
+
+> **M₂ fraction ∈ [1/2, 5/6] — Kerr is outside the reachable set.**
+
+The bound is tight at both ends (`u ∝ ρⁿ` gives `(1+2/(n+3))/2`, sweeping
+spokes→hoop). Reaching Kerr needs 50% more internal tension than the load
+transmitted, closable only by **hoop compression** — a pre-stressed
+tensegrity, whose energy DEC bounds below by `~πE`, comparable to the ring
+itself. So the `0013` ladder's 5/6 is a hard ceiling for *matter*, and
+self-gravity reaches 1 precisely because it removes matter stress rather than
+rearranging it: **Kerr's quadrupole is a signature of non-material
+confinement.** If minimal coupling = Kerr multipoles [K, unverified], the
+electron's confinement is then neither ordinary tension nor gravity — with two
+independent arrows (this, and the negative-energy Israel sheet) pointing at
+the vacuum.
+
 Method rule adopted here: **name the assumption, cite the measurement.** It
 earned its keep — a Casimir argument that looked like an obstruction was not
 one, while measurements (Higgs spin, the absent mass ladder) did the real work.
