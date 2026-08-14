@@ -182,12 +182,32 @@ symmetry `∫(a→X→c) = [∫(c→X→a)]*`), and all irreversibility in their
   interplay only; Berry phase is quarantined as reversible layer-1
   holonomy. Break condition stated.
 
+## The arithmetic bridge (0010)
+
+A parallel workstream (`michaelenew/formal-languages`, `arithmetic/`
+0056–0066) measured, in a finite revision-dynamics frame, several things
+posited here: the graded cost of P3's obstruction (forced entropy =
+log₂|holonomy|, Haar floor), the classical/amplitude ledger (k bits →
+1 bit → 0), the epistemic-restriction boundary (stabilizer fragment
+recovered, stops at the parity), negativity 1/2 located on the phase
+fiber, the relational-sheet gauge structure supporting P1, the
+double-cover reading of contextuality, where holonomy goes non-abelian
+(second loop through a shared multi-valued edge), and the logic face
+(incompleteness as the same no-global-section structure). See
+`exploration/0010_the_arithmetic_bridge.md` for the dictionary and
+cautions.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
   quantum-selection question. Open and tractable (`exploration/0007` step 3).
 - Quantum-MRE equivalence to Lüders / Petz recovery — open.
-- Frustration ≅ contextuality as cohomological structures — proposed, not shown.
+- Frustration ≅ contextuality as cohomological structures — now shown in the
+  finite revision-dynamics frame (`exploration/0010`): the liar-detection
+  parity and the context obstruction are computationally the same class,
+  the obstruction dies on the double cover, and its cost is measured
+  (forced entropy = log₂ of the holonomy group's smallest orbit; Haar
+  floor; negativity 1/2 on the phase fiber). Continuum case still open.
 - "Correlation sources curvature" as an Einstein-like equation on the
   information manifold — speculative; standing candidate.
 - No dynamics yet; only kinematics and the update rule.
