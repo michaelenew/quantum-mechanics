@@ -219,6 +219,37 @@ the composition-rule dial on knot webs (convolution → colorings;
 unitary → Jones-tier?); det-1 webs as abelian-invisible test cases;
 deficit-angle geometry from the web's information metric.
 
+## Curvature from crossings: the defect ledger (0012)
+
+The "interactions are crossings, curvature is their loop holonomy" claim
+tested at the 2+1 boundary, all computed (`exploration/0012`,
+`output/0005`). **Holonomy IS the angle defect**: parallel transport
+composed honestly from unfolding isometries around every vertex of the
+tetrahedron/cube/octahedron/icosahedron matches 2π − Σ face angles to
+1e-8, with the surface flat elsewhere — curvature sits at defects and is
+the loop holonomy. **The budget is topological**: on knot projections
+built from real plane curves (1/3/5/7 crossings, map traced from the
+rotation system, exact rationals) the combinatorial curvature totals
+χ = 2 always, with κ per crossing exactly 2/V — **interactions
+redistribute curvature, they cannot create it**; adding a crossing adds
+a face and dilutes. **The budget is the mass bound**: with δ = 8πGm,
+Σδ = 4π gives Σm = 1/(2G) and per-defect m < 1/(4G); and the rotation
+parts of all defect holonomies compose to the identity exactly when the
+deficits sum to 0 mod 2π — Gauss–Bonnet *is* the condition for trivial
+global holonomy, so the curvature budget and web consistency are one
+constraint. **Masses add, centres braid**: two defects compose with
+rotation d₁+d₂ either way (mass = the abelianization of ISO(2)) but the
+orders differ by the pure translation (I−R_{d₁})(I−R_{d₂})(p₁−p₂) —
+gravity's nonlinearity is the noncommutativity of defect holonomy, the
+braided tier as physics. Honest gaps: 2+1 has no attraction and no
+waves (no Newtonian limit from this mechanism alone); in 3+1 conical
+defects are *strings*, so the literal reading is a knotted string
+network; combinatorial κ is a ledger, not a metric. Open: derive a
+deficit angle from the Fisher metric around a degree-k node (this
+would close the repo's flagged "correlation sources curvature" row);
+whether dynamical redistribution yields an effective force; framing
+(writhe) ↔ defect spin.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
@@ -231,5 +262,10 @@ deficit-angle geometry from the web's information metric.
   (forced entropy = log₂ of the holonomy group's smallest orbit; Haar
   floor; negativity 1/2 on the phase fiber). Continuum case still open.
 - "Correlation sources curvature" as an Einstein-like equation on the
-  information manifold — speculative; standing candidate.
+  information manifold — speculative; standing candidate. Sharpened by
+  `exploration/0012`: in the defect reading the *total* curvature is
+  topological (a conservation law, not a source law), so any such
+  equation must be a redistribution law. The concrete missing step is
+  a deficit angle computed from the Fisher metric around a degree-k
+  interaction node.
 - No dynamics yet; only kinematics and the update rule.
