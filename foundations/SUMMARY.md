@@ -197,6 +197,28 @@ double-cover reading of contextuality, where holonomy goes non-abelian
 `exploration/0010_the_arithmetic_bridge.md` for the dictionary and
 cautions.
 
+## Interactions as crossings (0011)
+
+Knot theory is a *sub-case* of this repo's web formalism, verified
+computationally (`exploration/0011`, `output/0004`): arcs = channels,
+crossings = three-party constraints, global sections = Fox colorings =
+flat dihedral connections; the section counts (trefoil 9 at p=3,
+figure-eight 25 at p=5, granny 27 distinguishing it from the trefoil)
+are the knots' holonomy invariants, and the modulus where sections open
+divides |Δ(−1)| = |H₁(branched double cover)| — the knot's tax lives on
+its second loop, like the arithmetic frame's paradox tax. det T(3,5) = 1
+shows abelian shadows can vanish for nontrivial knots: complete
+detection needs nonabelian holonomy (Kronheimer–Mrowka: every
+nontrivial knot has irreducible SU(2) representations). Curvature
+clause pinned: discrete Bianchi (bulk face-holonomies cancel pairwise —
+every edge borders two faces) plus flat-but-holonomied torus classes
+(|H¹| = 4 by exact GF(2) rank) — holonomy is the primitive, curvature
+its local density, concentratable entirely at defects; in 2+1 gravity
+this is the whole theory (conical defects, Chern–Simons form). Open:
+the composition-rule dial on knot webs (convolution → colorings;
+unitary → Jones-tier?); det-1 webs as abelian-invisible test cases;
+deficit-angle geometry from the web's information metric.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
