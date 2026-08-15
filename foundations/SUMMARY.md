@@ -543,6 +543,40 @@ Open: covariance test of the fan/two-body in boosted frames;
 radiation; retarded two-body forces; the first-passage constant
 (~0.83r/tick) behind c's stability.
 
+## The compass and the flyby (0023)
+
+O3′ decided (`exploration/0023`, `output/0018`). **The covariance
+test**, run as the operational relativity principle with a calibrated
+floor (7e−9): the screened moving atom in a constant ambient at angle
+ψ to the motion is direction-blind at rest (1e−6) but splits in
+motion — **pure cos2ψ, scaling exactly as v²** (ratio 4.01), three
+orders above floor; a co-moving pair adds a fore-aft **dipole**
+(+3.0e−3) from aberration of the partner's direction. **Verdict: the
+bare retarded web is causal but not boost-invariant** — an internal
+quadrupole compass reads absolute motion at order v². Diagnosis by
+exact EM analogy: a retarded scalar sector alone always fails this
+way; covariance needs the velocity-coupled gravitomagnetic (h₀ᵢ)
+sector, and the measured multipoles specify the counterterm. A
+second, independent derivation of the same conclusion: |u| = 1
+blocks the anisotropic-strength profile that makes EM's moving field
+Lorentzian rather than Galilean — the completion must make channel
+strength velocity-dependent. **Radiation**: no wave zone (far
+curvature dies as 1/R^3.07; 2D radiation would be R^(−1/2)); the
+enclosed budget cycle-averages to the static atom exactly
+(0.15142 = 0.15142, breathing <1%) — the (1−v²) suppression is
+near-zone redistribution, not loss; eternal uniform motion shows it
+at every radius only because its compensating front left in the
+infinite past; the web is radiation-free like 2+1 GR. **The
+flyby**: a moving probe passing a static partner traces a
+velocity-only orientation coupling (spread 1.4e−3 vs static baseline
+flat at 1.3e−6), asymmetric between approach and recession — the
+web's gravitomagnetism, measured. Open: build the covariant
+completion (velocity-dependent strength; does cancellation force the
+Lorentzian profile uniquely?); the Galileo/Lorentz dial (bare
+retarded = ether, extrapolated = Galileo, strength-corrected =
+Lorentz?); closed forms for the quadrupole coefficient and fan;
+matter dynamics (does the coupling deflect?).
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
