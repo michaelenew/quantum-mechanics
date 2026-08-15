@@ -707,6 +707,40 @@ Open: derive the level N; quantize the dressing (BF + Fisher
 kinetic term); the 3+1 build with the template; P5/measurement on
 the holonomy Hilbert space.
 
+## Completing the prototype (0028)
+
+The three remaining items (`exploration/0028`, `output/0023`).
+**The level**: evenness is a theorem (π ∈ {2πn/N} iff N even — the
+measured flip forces it); level 2N is a **central Z₂ (deck)
+extension** of level N ((U²,V) obey the level-N relation with
+C = V^N central, C² = 1), and the 4→2 deck sectors carry periodic
+(Z,X) vs **antiperiodic (spinor)** shift, operator-exactly — the
+tower 2→4→8… is the chain of double covers with cat/spinor sector
+pairs, and by the arithmetic thread's never-closing theorem the full
+object is the inverse limit: **the 2-adic odometer as the level
+structure** (structure pinned; the finite rung is the remaining
+freedom — plausibly set by the 4π budget). **The dressing closed**:
+the exact nonlinear law is **K = πs/det g** — ratios K·det/(πs) =
+1.0000–0.99 across the strength sweep, spatial profile, and an
+anisotropic two-lump test; the atom law is its proper-area integral
+(δ = π∫s/√det = πS/√det A₀ — the det^{−1/2} vs det^{−1} tension was
+proper-vs-coordinate bookkeeping); 0020's gradient hypothesis dies;
+the far-tail residual is the strength-free tidal halo. Participation
+buys curvature at rate π/det g. **The measurement rule reduced to
+one bit**: on the web's own degenerate observable (Z⊗Z total-deficit
+parity, rank-2 outcome) with a coherent prior, the MRE update
+exp(P log σ P)/Z (verified minimal against 200 perturbations)
+differs from Lüders PσP/tr by trace distance **0.158**, while
+agreeing exactly (6e−17) for rank-1 outcomes and commuting priors
+(both = Bayes classically). P5's content: MRE on **states**
+(falsifiable departure, sequential-measurement signature) vs on
+**instruments** (recovers textbook QM). The 2+1 prototype is
+complete: metric → field equation with exact nonlinearity →
+conservation-as-EOM → derived cone → forced Poincaré → BF action →
+quantized holonomy algebra with 2-adic level tower → measurement
+pinned to one testable bit. Open: what truncates the tower; the
+halo's law; deciding the measurement bit; then 3+1.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
