@@ -250,6 +250,34 @@ would close the repo's flagged "correlation sources curvature" row);
 whether dynamical redistribution yields an effective force; framing
 (writhe) ↔ defect spin.
 
+## Probing the movie synthesis (0013)
+
+Three computational probes of the movie/interaction synthesis
+(`exploration/0013`, `output/0006`–`0008`). **Cocycle localization**:
+quandle cohomology solved by exact elimination — H²_Q(R₃;Z₃) = 0,
+H³_Q(R₃;Z₃) = Z₃ — so with dihedral colors the 2-knot invariant cannot
+live on double curves (particle paths) and must live at triple points
+(interactions): "knowledge concentrates at interactions" as a computed
+cohomological fact; the derived GF(4) 2-cocycle separates trefoil from
+unknot and the degeneracy axiom is shown by measurement to *be*
+Reidemeister-I safety. **The interaction algebra**: the loop braid
+presentation emerges from the free-group conjugation action (both
+standard mixed relations hold; the forbidden move ρ₁σ₂σ₁ = σ₂σ₁ρ₂
+fails); the leapfrog has infinite order (some round-trip losses are
+never recovered — no closing word); and the tetrahedron census over
+GF(2) gives 5/24 Yang–Baxter vs 26/40320 tetrahedron solutions —
+consistent triple interactions are ~350× rarer than pairwise.
+**The Fisher deficit** (the open row's first number, pipeline validated
+on flat/sphere/Gaussian-knowledge exact cases): approaching a beacon
+the knowledge curvature scales as K ~ 1/d (exponents → −0.99, d·K →
+0.082) — an integrable halo, not a conical atom; symmetric webs
+flatten the centre (k=6 → 0; k=3 → exactly 1/3). Verdict: the smooth
+metric reads the halo, the discrete decoration carries the atom — the
+sharp next object is Fisher geometry *plus a discrete connection*
+coupling to the decorations. Open: analytic K for the beacon web;
+the (metric, monodromy) formulation; classifying the 26 tetrahedron
+solutions; R2/R3 staging.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
