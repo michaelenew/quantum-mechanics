@@ -332,6 +332,32 @@ a level-2 state sum. Open: φ as a mutual-information quantity (the
 exchange-rate law); deriving binary trust from the causal-order
 decoration; staging the movie move set over census weights.
 
+## The exchange rate (0016)
+
+0015's opens executed (`exploration/0016`, `output/0011`). **The
+compensator is an information functional**: the cone angle factors as
+Θ = ∮√(J_ang|rad/J_rad)·dφ = ∮√(C/E)e^{−I}dφ with I the Gaussian
+mutual information between radial and angular score errors — the
+deficit splits exactly into an anisotropy part and a correlation part
+(k=2: 2.758 + 0.384; k=12: 0.495 + 0.010), anchored by two exact
+facts: any constant SPD information matrix is flat (∮√detA/A_rr = 2π,
+verified over random A), and **removing the beacon's own channel
+removes the atom (transport 0.00000): participation curves,
+spectating does not** — the apex exists only for participants, and
+the amplitude phase is priced in the web's own currency. **Binary
+trust derived**: generic double points have two-point fibers
+(Whitney), monodromy acts through Sym(2) = Z₂ (model cover verified:
+sheet flips iff winding odd), triple points are unlinkable — 0015's
+conditional discharged; the U(1) compensator is forced with value
+pinned to π − δ by continuity (max step 0.049 over the family).
+**Time reversal**: 19/21 orbits keep nonconstant bidirectional
+weights; the two casualties are exactly the (4,4) orbits (placement
+group 384) — **chiral weights live precisely on the deepest
+braiding**; a nonabelian bidirectional witness verified both
+directions. Open: the correlation share's decay law (two-party
+effect?); chiral weights as an arrow-of-time invariant / framing-
+anomaly shadow; the cup/cap algebra — the last unstaged move family.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
