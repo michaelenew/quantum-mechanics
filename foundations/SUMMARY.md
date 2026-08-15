@@ -270,13 +270,43 @@ consistent triple interactions are ~350× rarer than pairwise.
 **The Fisher deficit** (the open row's first number, pipeline validated
 on flat/sphere/Gaussian-knowledge exact cases): approaching a beacon
 the knowledge curvature scales as K ~ 1/d (exponents → −0.99, d·K →
-0.082) — an integrable halo, not a conical atom; symmetric webs
-flatten the centre (k=6 → 0; k=3 → exactly 1/3). Verdict: the smooth
-metric reads the halo, the discrete decoration carries the atom — the
-sharp next object is Fisher geometry *plus a discrete connection*
-coupling to the decorations. Open: analytic K for the beacon web;
+0.082); symmetric webs flatten the centre (k=6 → 0; k=3 → exactly
+1/3). Verdict revised by 0014: the halo is the tidal dressing of a
+genuine conical atom at the apex. Open: analytic K for the beacon web;
 the (metric, monodromy) formulation; classifying the 26 tetrahedron
 solutions; R2/R3 staging.
+
+## The cone at the interaction (0014)
+
+All four sharp opens of 0013 chased (`exploration/0014`,
+`output/0009`). **The cone theorem**: near a beacon the Fisher metric
+is e_r e_rᵀ + A(φ) + O(d) — a flat cone plus a tidal O(d) correction,
+which *derives* the 1/d halo exponent and gives the deficit in closed
+form, δ = 2π − ∮√(EC−B²)/E dφ, validated against honest parallel
+transport (1.93515 vs 1.93439 at k=3; 0.98508 vs 0.98490 at k=6). The
+minimal web has **δ(2) = π**: transporting a frame once around a
+pairwise interaction *negates* it — "the round trip puts you in your
+dual state" is now a theorem of information geometry, with
+densification washing the flip out as δ(k) → 2π/(k−1) (measured to
+k=20). This revises 0013 ("no conical atom" — the annuli could only
+see the halo) and closes the open row: **an interaction node is a
+conical defect of computable deficit in knowledge geometry.**
+**Metric ⊗ decoration**: the composite ISO(2)×Z₂ holonomy of the free
+loop group computed; the dual path x² is trivial in every instrument
+(full recovery), the commutator displaces while rotation- and
+flip-trivial (pure braided residue), and at k=2 the metric's π-flip
+and the decoration's bit are the *same* Z₂ — one bit, two carriers,
+traded under densification. **The 26 tetrahedron solutions**: 21
+orbits under inverse × bit-flip; 13 nonabelian placement groups
+(orders to 384) — braided triple-interaction substrate exists at
+|X|=2, cataloged. **R2/R3 staged**: signed state sum (inverse op +
+negated weight at negative crossings); formal R2 leaves the trefoil
+sum identical; R3 verified as the cocycle equation over all 64
+triples — all three move families now matched to their funding
+axioms (R1 ↔ degeneracy, R2 ↔ signs, R3 ↔ cocycle). Open: the
+sparse–dense transition as a decoherence dial; deriving the
+decoration as the discrete remnant of the metric flip; a 3-cocycle
+on the order-384 placement group.
 
 ## Known gaps
 
