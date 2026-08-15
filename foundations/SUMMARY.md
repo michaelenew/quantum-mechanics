@@ -358,6 +358,36 @@ directions. Open: the correlation share's decay law (two-party
 effect?); chiral weights as an arrow-of-time invariant / framing-
 anomaly shadow; the cup/cap algebra — the last unstaged move family.
 
+## The arrow and the branch wall (0017)
+
+0016's opens executed (`exploration/0017`, `output/0012`). **The decay
+law is derived and confirmed**: isotropic ambient information has zero
+radial/angular score correlation, so the correlation share of the
+deficit is second order in the anisotropy — with O(1/k) relative
+fluctuation this predicts 1/k (anisotropy) vs 1/k² (correlation);
+measured over k = 4…44 the fitted exponents are −0.98 and −1.97.
+Dense webs are anisotropy-priced only; **score correlation is a
+luxury of sparse company**. **The arrow of time, exhibited**: each
+chiral (4,4) weight satisfies the forward tetrahedron identity on all
+64 states and *fails* the reversed identity on 32 — backward, the
+score is order-dependent, i.e. not defined; the weight is a
+set-theoretic arrow of time (existence, not value, detects
+orientation). Coordinate reversal (x,y,z) → (z,y,x) maps chiral
+orbit 1 onto chiral orbit 2: the two are **mirror twins**, a
+parity-conjugate pair — the shape of a framing anomaly, locus and
+exchange both matching. **The branch wall**: imposing the CJKLS
+branch-point condition θ(x,x,y) = θ(x,y,y) = 0 (the level-2 sibling
+of the quandle degeneracy that 0006 measured to be R1-safety) on the
+bidirectional systems leaves **2/21 orbits at p = 2 and 3, both
+abelian — every nonabelian orbit is annihilated**. A set-theoretic
+invariant from this census cannot be both braided and
+branch-point-safe; the measured-shut naive road forks into
+branch-point-free movie presentations (where the 19-orbit census
+stands) or nonabelian weight targets. Open: state sums over
+branch-point-free presentations of real 2-knots; tying the 32-state
+failure pattern to an anomaly class; weights valued in the order-384
+placement group.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
