@@ -832,6 +832,37 @@ formula), or is it a different wave theory? Open: TT/polarization
 extraction; the dressing's effective wave equation (the divergence
 identity one dimension up); the status of codim-3 point participants.
 
+## The correspondence test (0032)
+
+The refined frontier question, answered (`exploration/0032`,
+`output/0027`): **the web waves, but not in Einstein's channel — and
+the failure is one named object.** Discriminators (plane-wave modes
+through the validated pipeline): TT waves carry zero spatial Ricci at
+linear order (amplitude-scaling exponent 2.00), scalar/trace respond
+linearly (1.00), a vector plane wave is identically zero — so
+Einstein radiation is invisible to the linear Ricci scalar, and the
+question must be asked of the metric wave. **Polarization**: the
+web's far-field wave, decomposed Frobenius-orthogonally against the
+propagation direction, is **pure vector** — amplitude = wA/R exactly
+(0.6% at R = 3 and 6), at the fundamental (harmonic purity 6×10⁹);
+TT/longitudinal/trace all second order (1/R², ~1%). Coherently, the
+Ricci wave is quadratic in the wiggle amplitude (1.89) at 2Ω —
+0031's frequency doubling explained: it is the vector wave's
+second-order composite. **Selection rule inverts**: GR's traveling
+string wave is exactly non-radiating (Vachaspati/Garfinkle, imported)
+while standing waves radiate; in the web both radiate at 1/R and the
+traveling wave is 3.5× stronger. **Verdict**: what propagates is the
+direction field u — the only unfrozen piece of I + w uuᵀ; Einstein's
+TT gravitons would live in a **propagating strength tensor**, which
+is frozen. Same object three 2+1 diagnoses demanded (0023 compass,
+0024 baseline, 0025 MM), whose kinematic form 0024 built (mmᵀ +
+boosted baseline). Plebanski's simplicity constraint, web-natively:
+make the strength sector dynamical; check its radiative modes are
+the two TT gravitons. Battery: `mode_metric`,
+`polarization_channels`, `string_wave_metric` (any string shape →
+retarded channel field). Open: the strength dynamics; whether the
+vector wave carries budget or is gauge; the quadrupole coefficient.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
