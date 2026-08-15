@@ -388,6 +388,39 @@ branch-point-free presentations of real 2-knots; tying the 32-state
 failure pattern to an anomaly class; weights valued in the order-384
 placement group.
 
+## The wall theorem (0018)
+
+0017's opens executed (`exploration/0018`, `output/0013`). **The
+movie state sum exists**: branch-point-free abstract movies carry
+Z(movie) = the weight distribution over all initial colorings —
+tetrahedron-move invariant at any embedding (verified through an
+arbitrary strand injection after a prefix, all 256 states),
+distant-commutation invariant, and separating. The chiral arrow is
+**fiberwise**: the reversed movie's fiberwise flips split 16/16, so
+Z is ordering-independent even where the per-state functional is
+ill-defined — the local anomaly cancels in the aggregate, the arrow
+lives one level below the partition function. **The anomaly is a
+polynomial**: F(s) = left ⊕ right fits exactly at degree 1
+(orbit 1: 1+s₁+s₃+s₅; orbit 2: 1+s₀+s₃+s₄ — each reading one
+placement's strand slots), is *canonical* (every nonconstant forward
+weight gives the same F), balanced (32/64 — which is why the
+aggregate cancels), and the mirror-twin relation descends to F as a
+strand relabeling (swap 0↔1, 4↔5). **The wall is a theorem over
+every group**: branch-point degeneracy leaves only two free weight
+values, turning the bidirectional identities into word equations
+valid over any target; universal cancellation alone forces
+a = b = e on all 19 walled orbits (chiral systems contain e = a,
+e = b outright); the abelianized lattice (|Z²/L| = 1, perfect-
+subgroup argument) independently walls all solvable targets; brute
+force over Z₂,Z₃,Z₅,S₃,D₄,Q₈,S₄,A₅ confirms, matching 0012's kernel
+dims exactly. The two unwalled orbits' full systems are ab = ba and
+a = b: **zero noncommuting weight pairs exist across the census and
+every group** — the escape is branch-point-free surfaces or
+twisted (beyond-group) coefficients, not a bigger group. Open: the
+spun-trefoil test with real movie presentations; whether F pulls
+back along embeddings (globalizing the arrow); the wall at |X| = 3;
+twisted coefficients.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
