@@ -421,6 +421,35 @@ spun-trefoil test with real movie presentations; whether F pulls
 back along embeddings (globalizing the arrow); the wall at |X| = 3;
 twisted coefficients.
 
+## The continuum limit (0019)
+
+O2 pressed from both framings (`exploration/0019`, `output/0014`).
+**The atom of a weighted channel**: a lone channel of strength w is an
+exact cone, δ(w) = 2π(1−(1+w)^(−1/2)) (transport-verified); weak law
+δ → πw (correction −3w/4); saturation δ → 2π as w → ∞ — the extremal
+per-defect bound m < 1/4G as a single channel's asymptote; and
+**ambient screening with a discovered closed form**: a weak atom
+inside ambient I + a·eeᵀ is reduced by f(a) = (1+a)^(−1/2) (matched
+<2e−3; isotropic case f = 1/c exact by algebra) — ambient information
+renormalizes the coupling downward. **Fuzzing dissolves the atom**: a
+Gaussian-fuzzed source has finite central curvature, interior T(R)
+tracking π×enclosed strength, and exterior transport matching the
+point atom to <2% at 3σ and 5σ — the shell property for information
+webs. **The two framings meet**: quadrature refinements and random
+clouds both converge (errors → 0.0017 / 0.0088) to the transport of
+the continuous-source metric (per-point polar integration, no source
+discretization) — the limit of points and the fuzzed distribution are
+the same object. **The local law**: Brioschi curvature against
+strength density s(x) = Sρ(x): K/(πs) = 0.9802 at S = 0.02, → 1 as
+S → 0, spatially uniform (0.94–0.95 across the profile at S = 0.05),
+finite-S correction negative (slope ≈ −0.93 — screening at the field
+level). **K(x) = π s(x) in the weak limit ⇔ K = 8πG ρ_mass with
+ρ_mass = s/8G: participation density is mass density — the flagged
+"correlation sources curvature" row is now a measured equation.**
+Open: the two analytic derivations (linearized K = πs; the screening
+form); the nonlinear law (determinant/screening candidate); dynamics
+on top of the equation (O1); the Lorentzian step (O3).
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
@@ -433,10 +462,12 @@ twisted coefficients.
   (forced entropy = log₂ of the holonomy group's smallest orbit; Haar
   floor; negativity 1/2 on the phase fiber). Continuum case still open.
 - "Correlation sources curvature" as an Einstein-like equation on the
-  information manifold — speculative; standing candidate. Sharpened by
-  `exploration/0012`: in the defect reading the *total* curvature is
-  topological (a conservation law, not a source law), so any such
-  equation must be a redistribution law. The concrete missing step is
-  a deficit angle computed from the Fisher metric around a degree-k
-  interaction node.
+  information manifold — **now a measured equation** (`exploration/0019`):
+  K = π·s(x) in the weak limit (s = participation-strength density),
+  i.e. K = 8πG ρ_mass with ρ_mass = s/8G, spatially local, with the
+  shell property and a screening correction at finite strength. The
+  deficit-from-Fisher step was closed by `exploration/0014`; what
+  remains of this row is the analytic limit theorem, the nonlinear
+  (screened) form, dynamics (the redistribution law — total curvature
+  stays topological), and the Lorentzian signature.
 - No dynamics yet; only kinematics and the update rule.
