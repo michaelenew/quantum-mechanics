@@ -512,6 +512,37 @@ time). Open: closed-form fan; net radiation from accelerating
 sources; deriving c from the interaction algebra; the retarded
 two-body problem (velocity-dependent forces?).
 
+## The cone from the web (0022)
+
+O3 closed at the causal-structure level (`exploration/0022`,
+`output/0017`): 0021's c-bound is **derived** from P1 + the movie
+premise (all change at interactions ⇒ strictly local update). Four
+computed steps. **The exact cone**: news occupies precisely the
+graph-metric ball (set-equal to BFS, zero tail); the cone's shape is
+the connectivity's — polygonal on lattices (anisotropy √2, measured
+1.408/1.414 on N4/N8), **round on the random web** (1.127, 1.073):
+isotropy of the light cone = statistical isotropy of connectivity,
+emergent not axiomatic. **The retarded rule emerges**: gossiped
+freshest-records of a moving source converge to the retarded field
+y(t − ρ/c) with c the web's own measured front speed (error 6.3% →
+4.3% of the move as the web densifies) — 0021's rule is the
+continuum shadow of "a node knows only what its channels told it,"
+so the light cone, δ = πw(1−v²), and the fan now stand on the
+postulates alone. **One web, one cone**: two payloads arrive at
+identical ticks at all 2500 nodes (= graph distance) — c's
+universality is one interaction graph for all influence; its value
+is the a/τ unit conversion (exactly physical c's status). **The two
+tiers are sectors**: mid-transient with three sources, tr h =
+S_total at every node at every tick (2e−16) while the traceless part
+is frozen until arrival then changes — correlational tier = trace
+(exact, signal-free), actionable tier = traceless (c-bounded,
+carries all curvature by 0020): P2's split is an exact sector
+decomposition of the field. Remaining: **O3′ — boost symmetry**
+(cone ≠ full Lorentz invariance; the clean (1−v²) law is evidence).
+Open: covariance test of the fan/two-body in boosted frames;
+radiation; retarded two-body forces; the first-passage constant
+(~0.83r/tick) behind c's stability.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
