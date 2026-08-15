@@ -577,6 +577,37 @@ retarded = ether, extrapolated = Galileo, strength-corrected =
 Lorentz?); closed forms for the quadrupole coefficient and fan;
 matter dynamics (does the coupling deflect?).
 
+## The three completions (0024)
+
+0023's prescription executed (`exploration/0024`, `output/0019`): the
+velocity-dependent-channel completions are **built** and measured.
+**Galilean pole**: channels point at the extrapolated present
+position (retarded data only — causal): for uniform motion the field
+equals the static field exactly; compass dead; and the c-cone
+survives extrapolation (kicked source: K = 0 beyond r = ct) —
+Galilean relativity with a light cone, no velocity structure.
+**Lorentz pole**: the isometric boost in closed form — channel
+w·mmᵀ/(γ²X²+Y²) with m = (γ²X, Y) (anisotropic strength, the 2D
+Liénard–Wiechert profile) **plus the boosted baseline**
+I + (γ²−1)v̂v̂ᵀ: atom speed-invariant (= static to 5e−5 at v = 0.3,
+0.6, 0.8), **no curvature fan** (0021's fan was the ether rule's
+artifact), co-moving pair orientation spread 2.8e−7 with ratios equal
+to the static pair's — the relativity principle exact, with velocity
+structure in strength + baseline. **The baseline is not optional**:
+boosted channels over unboosted I give 24.5% atom drift and compass
+spread 6.5e−2 — the self-channel/h₀₀ sector must transform; Lorentz
+structure requires a dynamical baseline (the Euclidean model carries
+by hand the γ² factor a Lorentzian η would absorb — where the minus
+sign lives, constructively). **The dial**: ether (compass + fan +
+δ = πw(1−v²)) / Galileo (trivially covariant) / Lorentz
+(nontrivially covariant) — all three share the derived causal cone;
+causality never chooses the symmetry. Open: the composition
+experiment (two boosts: velocity addition/Wigner analog — the
+model-internal Lorentz-vs-Galileo discriminator); the mixed-velocity
+baseline prescription (true two-body at the Lorentz pole); deriving
+the pole from a web-native principle; the honest 2+1 packaging
+(η + h_μν, linearized-GR correspondence).
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
