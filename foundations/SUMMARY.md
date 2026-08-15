@@ -741,11 +741,46 @@ quantized holonomy algebra with 2-adic level tower → measurement
 pinned to one testable bit. Open: what truncates the tower; the
 halo's law; deciding the measurement bit; then 3+1.
 
+## Nailing the prototype (0029)
+
+The closing pass (`exploration/0029`, `output/0024`). **The
+measurement bit, decided by P3**: the sheaf/chain condition — an
+unread coarse measurement must not disturb compatible fine statistics
+— is satisfied exactly and *uniquely* by Lüders (6e−17; matching in
+every outcome-block basis forces PσP/tr), while state-MRE breaks the
+gluing (total-variation shift 0.040, basis mismatch 0.147). The
+web's oldest postulate selects the instrument tier for P5: MRE at
+the channel level reproduces Lüders — **no rift with textbook QM; P5
+is a derivation, and the standing quantum-MRE⇔Lüders gap closes.**
+**The square-root ledger**: measured log-slopes in det g — density
+tier −0.9995, loop tier −0.5000: the holonomy observable screens at
+exactly half the density exponent, the same ½ as trust=√information
+(stat-tracker) and amplitude=√probability (Born); registered
+conjugate square: time↔trust (loop tier, energy) as space↔
+distribution (density tier, momentum). **The rung dissolves**: on a
+closed web Σδ = 4π = 2N quanta with atoms 1..N−1; N = 2 admits a
+UNIQUE universe — four π-atoms, the pillowcase; ≥3 atoms at higher
+rungs (no two-body closed universe); counts 1, 13, 81 at N = 2, 3, 4
+— the level is the resolution of the world's ledger, content not
+law. **The halo's law**: exterior residual exponent −3.92→−4, S²
+scaling (3.64/4), σ² scaling (1.89/1.96), coefficient ≈ 0.50:
+K_halo ≈ −S²σ²/(2r⁴) — a second-order quadrupole vacuum dressing,
+invisible to the linear tier by construction; the classical field
+content is fully catalogued. **The 2+1 prototype is nailed**: every
+fundamental element forced (metric, cone, symmetry, action, quantum
+algebra, update rule); the only freedoms are the world's content and
+ledger resolution. Deferred to 3+1: ISO(2,1) variational multiplet,
+spacetime monodromy, the movie as matter dynamics, the conjugate
+square as design constraint.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
   quantum-selection question. Open and tractable (`exploration/0007` step 3).
-- Quantum-MRE equivalence to Lüders / Petz recovery — open.
+- Quantum-MRE equivalence to Lüders — **decided** (`exploration/0028`–`0029`):
+  P3's sheaf/chain consistency forces the instrument tier, where MRE
+  reproduces Lüders exactly and uniquely; the state-tier alternative is
+  refuted from inside the theory. Petz-recovery connections remain open.
 - Frustration ≅ contextuality as cohomological structures — now shown in the
   finite revision-dynamics frame (`exploration/0010`): the liar-detection
   parity and the context obstruction are computationally the same class,
