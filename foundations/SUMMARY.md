@@ -308,6 +308,30 @@ sparse–dense transition as a decoherence dial; deriving the
 decoration as the discrete remnant of the metric flip; a 3-cocycle
 on the order-384 placement group.
 
+## The forced compensator (0015)
+
+0014's opens executed (`exploration/0015`, `output/0010`). **No third
+channel preserves the flip**: the deficit is pure shape (scale-
+invariance verified by transport), and sweeping all two-direction
+environments plus channel multiplicity, δ < π strictly everywhere
+except the two-party web (max 2.4619; orthogonal channels minimize at
+1.8403; doubled ≠ single — measurement intensity reshapes the cone).
+So the residual π − δ lies strictly inside (0, π) for every
+intermediate web: a binary carrier cannot hold the flip, and **if
+round-trip trust is binary, densification forces a continuous U(1)
+compensator — the amplitude tier as geometry's change-maker**,
+mirroring the arithmetic result that amplitudes complete the paradox
+buy-back. **The ledger closes at 0.016%**: unwrapped transport around
+the 3-ring (6.2644) = atomic deficits (5.8054) + halo integral
+(0.4579) — atoms + halo and nothing else; compensator table
+φ(k) = π − δ(k): 0, 1.206, 2.157, 2.636, 2.835 → π. **Tetrahedral
+weights exist for every orbit** (nonconstant, all 21 orbits, p = 2,
+3, 5; p = 2 enhancements on several; nonabelian witness verified on
+all 64 states): the census is a nonempty enumerated starting set for
+a level-2 state sum. Open: φ as a mutual-information quantity (the
+exchange-rate law); deriving binary trust from the causal-order
+decoration; staging the movie move set over census weights.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
