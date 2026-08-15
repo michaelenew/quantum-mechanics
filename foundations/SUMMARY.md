@@ -863,6 +863,30 @@ the two TT gravitons. Battery: `mode_metric`,
 retarded channel field). Open: the strength dynamics; whether the
 vector wave carries budget or is gauge; the quadrupole coefficient.
 
+## The 3+1 battery (0033)
+
+The computational battery brought to parity with 2+1
+(`exploration/0033`, `output/0028`) — and each new instrument
+returned an exact law on first use. **The charge reader**
+(`develop_loop3`, affine holonomy in 3D): around a string, rotation
+angle = the exact atom δ(w) to 1e−5, rotation **axis = the string's
+direction**, translation = the 2D moment law 2sin(δ/2)·(proper
+distance) to 0.01%; non-linking loops develop to the identity —
+charge = linking at the geometric tier, matching 0030's operator
+statement. **The codimension ladder**: a 3D point carries a
+shell-independent solid-angle deficit Ω = 4π/(1+w) exactly; with the
+2D atom this is one law — deficit fraction of a codim-c source =
+1 − (1+w)^(−(c−1)/2) — the square-root ledger stacked once per
+transverse dimension. **Momentum**: displacing the string leaves the
+rotation charge invariant while the translation drifts at exactly
+2sin(δ/2)√(1+w) — the 0025 law read natively in 3D. **Additivity**:
+two parallel strings give 0.862 of the naive charge sum (constant-
+ambient screening estimate 0.897). Parity census: every 2+1
+instrument now has a 3+1 counterpart or is dimension-generic; the
+one instrument without a target is a dynamical-strength-sector
+meter — because the sector doesn't exist yet (0032). Open: the
+strength dynamics; boosted-string charges; the ladder at general c.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
