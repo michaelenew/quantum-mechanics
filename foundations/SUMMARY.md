@@ -608,6 +608,40 @@ baseline prescription (true two-body at the Lorentz pole); deriving
 the pole from a web-native principle; the honest 2+1 packaging
 (η + h_μν, linearized-GR correspondence).
 
+## Noether on the web (0025)
+
+The symmetry audit (`exploration/0025`, `output/0020`), run in
+Noether's operational form (no action yet: symmetry ↔ measured
+conserved object). **Inventory**: translations/rotations exact;
+**dilation exact at field level** (g_λ(λx,λt) = g(x,t) to 1e−16,
+causal sector included) with the cone pinning z = 1 — the
+Schrödinger z = 2 scaling breaks the field (0.08); no-pair-force =
+the dilation Ward identity; mass is dimensionless. Time reversal
+broken by retardation (0.144 mid-transient, 0 in statics) — the
+web's arrow. Mass-broadcast test: ether/Galileo channel trace = w
+exactly (mass = central charge); Lorentz trace direction-dependent
+(mass mixes into motion) — Bargmann's dichotomy in the field.
+**Charges are holonomies**: loop development implemented — rotation
+part = mass (calibrated), translation part = mass moment
+(2sin(δ/2)×proper distance, <2%), and under interior motion energy
+is conserved (3e−5) while the moment drifts perfectly linearly
+(bend 0.000) at rate 2sin(δ/2)√(1+w)|v| (0.02%) — **momentum = mass
+× proper velocity, read off the monodromy**. Conservation laws are
+quasi-local monodromies (the 2+1 ADM structure), conserved by the
+causal cone — the jump law is Noether conservation. **The choice
+that's not a choice**: in-model Michelson–Morley — signals ride the
+derived, rule-independent cone, so only the length standard can
+respond: T_∥/T_⊥ = γ at baseline I (ether AND Galileo poles fail:
+Galileo's covariance was static-sector only), **null exactly and
+uniquely at β = γ²** — the Lorentz pole's boosted baseline. Three
+convergent verdicts: operational (MM), algebraic (z = 1 dilation +
+massive central charge = Schrödinger-incompatible; Poincaré fine),
+central-charge (the trace-broadcast poles are the failing ones).
+Open: composition/Thomas–Wigner as confirmation; the action whose
+Noether charges are these monodromies (Chern–Simons-shaped);
+spacetime monodromy (boost charge, angular momentum); the arrow
+here vs 0017's census chirality.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
