@@ -642,6 +642,37 @@ Noether charges are these monodromies (Chern–Simons-shaped);
 spacetime monodromy (boost charge, angular momentum); the arrow
 here vs 0017's census chirality.
 
+## The action and the Wigner rotation (0026)
+
+Both queued items delivered (`exploration/0026`, `output/0021`).
+**The action**: the web's geometric sector is discrete BF theory,
+S[θ,B] = Σ_f B_f(curl θ − src_f) — verified lattice-exactly: varying
+B gives curl θ = sources (the measured local law K = πs as an EOM);
+varying θ gives ∂S/∂θ_e = B_left − B_right, so stationarity forces B
+constant — **the second EOM is the conservation law**; gauge
+invariance exact; the boundary Wilson loop equals the enclosed
+deficit sum exactly and obeys the jump law exactly (Noether
+conservation with no numerics). **The action's charges are the
+measured charges**: the ISO(2) boundary monodromy (basepoint-framed)
+matches 0025's developed-loop measurement on the Fisher web to ~3%/1%
+(rotation/moment) at w = 0.05, with the gap growing super-linearly in
+w — the screening + halo as the measured non-topological dressing
+over the BF skeleton (the dressing, not the core, hosts 0019's open
+nonlinear law). **Thomas–Wigner confirmed on solutions**: the
+slice-map realization of boosts factorizes as S = R(ω)·P with P =
+the single boost to the relativistically-added velocity (8e−17;
+|v₃|² = v₁²+v₂²−v₁²v₂²) and ω = the Thomas–Wigner formula (1e−12),
+order-reversal flipping the rotation; the twice-boosted two-defect
+web equals the once-boosted Wigner-rotated web pointwise (4e−16);
+the Galileo pole is abelian. The loop closes: cone derived (0022) →
+symmetry forced (0025) → structure constants confirmed on solutions
+→ action written with the conserved monodromies as its Noether
+charges — the web's geometric sector is 2+1 defect gravity in BF/CS
+form, end to end. Open: ISO(2,1) lattice BF (full Poincaré multiplet
+variationally); deriving the dressing from an extended functional;
+the matter term (dynamics for participants); the quantum tier (BF/CS
+quantization meeting the forced U(1) compensator).
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
