@@ -773,6 +773,39 @@ ledger resolution. Deferred to 3+1: ISO(2,1) variational multiplet,
 spacetime monodromy, the movie as matter dynamics, the conjugate
 square as design constraint.
 
+## The 3+1 build (0030)
+
+The template executed one dimension up, to the stopping condition
+(`exploration/0030`, `output/0025`). **Built, lattice-exact**: the
+3+1 action — discrete BF with a **2-form budget** (first EOM: flat
+off strings; second EOM: dB = 0, the budget a closed 2-form);
+**strings cannot end** (signed source flux through any closed box
+vanishes from the lattice's own curls — atom conservation as a
+geometric identity); the loop charge = total string flux **linking**
+it (Stokes exact, jump law exact, gauge invariance exact). **The
+gravity sector lifts transversally**: a straight string's metric is
+(2D cone) × ℝ exactly, so every 2+1 law applies per transverse plane
+— plus a new closed form: **string–string screening f(α) =
+1/√(1 + w cos²α)** — parallel strings screen maximally, orthogonal
+strings are mutually transparent. **The cone is dimension-blind**
+(3D random web: front = graph ball exactly, octant anisotropy 1.23).
+**The quantum deformation is linking** (per-edge Weyl exact; signed
+crossing counts = linking on explicit configurations including the
+enters-and-exits null case) — and its representation theory is the
+movie/census formalism with the wall theorem as selection rule: the
+gravity and knot threads are now one construction. Lorentz
+kinematics, the level tower, and the measurement rule are inherited
+(dimension-generic). **The obstruction, named**: 4D BF is
+topological and the web's channels are slaved — no gravitons; the
+bridge is Plebanski's simplicity constraint (B = e∧e), and the
+web-native candidate is **the Fisher dressing made load-bearing**
+(inert in 2+1, necessarily dynamical in 3+1). Second obstruction:
+nonabelian string matter walled by 0018 (escapes known); third:
+matter still scripted. The program's frontier is one question: what
+in an information web plays the simplicity constraint — the
+condition that turns topological bookkeeping into gravity that
+waves.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
