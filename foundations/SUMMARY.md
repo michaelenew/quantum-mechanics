@@ -450,6 +450,38 @@ Open: the two analytic derivations (linearized K = πs; the screening
 form); the nonlinear law (determinant/screening candidate); dynamics
 on top of the equation (O1); the Lorentzian step (O3).
 
+## The divergence and the current (0020)
+
+O2's rigor and O1 pressed together (`exploration/0020`,
+`output/0015`). **K = πs is proved at the linear tier**, every step
+machine-checked: the weighted cone is exactly flat off-apex;
+linearized curvature is a total divergence K_lin = div V, whose flux
+for a point channel is πw at every radius (closed form V·n =
+w·cos²θ/R) — so K_lin = πw·δ² and superposition gives K = πs;
+Richardson extrapolation pins the constant (1.0002). **The screening
+law is derived** (δ = πw/√(1+a), two circle integrals) and its
+general form δ = πw/√det A₀ measured to <2e−3 including correlated
+ambients: the local coupling is 1/√(information volume). **The trace
+identity**: tr h(x) = S_total everywhere (machine precision) — the
+web stores its total strength locally at every point; only the
+traceless anisotropy sector varies and curves. **Honest negative**:
+bare pointwise screening under-corrects the finite-S field ratio at
+every S — ambient gradients carry the rest; the nonlinear law is
+bounded, open. **O1/O5 read off the proof**: K_lin = div V makes
+∂ₜK + div J = 0 structural for any motion (the linearized
+Bianchi/conservation pair is free); verified as the jump law (a
+moving defect changes a loop's ∫K only on crossing, by exactly its
+atom), the continuity law ∂ₜK + div(πsv) = 0 (moving fuzzed source,
+6 stations, <3%), and **no pair force** (atom independent of partner
+distance to 1.6e−6; nothing pulls — exactly 2+1). Geometry has no
+autonomous dynamics in this regime: field equation + conserved
+response + free matter motion is the complete 2+1 structure; the
+dynamical question moves up to the matter movie and to the
+Lorentzian step. Open: the gradient (nonlinear) law; the det-law
+one-liner; retardation (c-bounded channel updates — where a light
+cone could first enter); coupling source motion to the tetrahedron
+event algebra.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
