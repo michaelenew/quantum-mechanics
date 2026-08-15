@@ -806,6 +806,32 @@ in an information web plays the simplicity constraint — the
 condition that turns topological bookkeeping into gravity that
 waves.
 
+## Testing the candidate (0031)
+
+0030's frontier question, answered at the existence tier
+(`exploration/0031`, `output/0026`): **the Fisher dressing is
+load-bearing in 3+1 — the web waves.** Instrument: a full 3D Ricci
+pipeline validated on exact geometries (3-sphere R = 6 to 1e−5;
+global monopole closed form to 1e−5; straight string flat to 1e−6).
+**Statics**: a point channel in 3D is a global monopole,
+R = 2w/((1+w)r²) exact — bulk curvature off-source, impossible in
+pure BF; the codim ladder splits the sectors (strings flat = BF;
+points curve the bulk = dressing). **Dynamics**: a wiggling string
+(retarded nearest-point channels) emits **outgoing curvature
+waves** — amplitude 1/R^1.03 (a wave zone; the same rule gave
+1/R^3.07 in 2+1: dimension switched the dressing on),
+**frequency-doubled** (2nd harmonic ×17,714 over the fundamental —
+the quadrupole doubling of GR's binary radiation), **propagating at
+c** (radial phase advance 3.968 vs outgoing prediction 4.000, 0.8%;
+instantaneous control 1.498 and 10.7× weaker). The web did not need
+the simplicity constraint imposed to gain local degrees of freedom;
+3 spatial dimensions freed its slaved geometry. The frontier
+reframes from existence to **correspondence**: does the wave sector
+match Plebanski-constrained BF (two TT polarizations, the quadrupole
+formula), or is it a different wave theory? Open: TT/polarization
+extraction; the dressing's effective wave equation (the divergence
+identity one dimension up); the status of codim-3 point participants.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
