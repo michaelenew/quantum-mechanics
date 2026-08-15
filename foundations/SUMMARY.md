@@ -673,6 +673,40 @@ variationally); deriving the dressing from an extended functional;
 the matter term (dynamics for participants); the quantum tier (BF/CS
 quantization meeting the forced U(1) compensator).
 
+## The quantum tier (0027)
+
+0026's action quantized, written as *shape* — the 3+1 prototype
+(`exploration/0027`, `output/0022`; all exact algebra). **The Weyl
+algebra of holonomies**: at level N the cycle-holonomies obey
+UV = ωVU and Wilson operators W(c₁)W(c₂) = ω^(c₁×c₂)W(c₂)W(c₁),
+operator-exactly — **the quantum deformation is the intersection
+form**: the classical monodromy charges stop commuting and their
+noncommutativity is pure topology. **The deficit spectrum**: θ is a
+phase, so its conjugate B is discrete — deficits {2πn/N}, insertions
+shift by one unit exactly; masses in units 1/(4GN) (participation
+quantized by amplitude single-valuedness; the 4π budget caps atoms
+at 2N). **The minimal web is a qubit**: N = 2 gives U = Z, V = X
+exactly with spectrum {0, π} — **the measured flip δ(2) = π (0014)
+is the minimal quantization's only nontrivial deficit**; the ±
+double-cover sectors are X eigenstates; φ = π − δ binary at {π, 0};
+one bit, two carriers, now as the N = 2 representation of the
+action; densification = large-N limit. **Braiding**: W measures the
+deficit, WAW⁻¹ = ωA — defects are abelian anyons (quantum face of
+"centres braid"); N = 2 circuit phase −1 = the spinor sign.
+**The 3+1 template**: B becomes a 2-form, defects strings, charges
+on loops and surfaces, intersection becomes **linking** (Hopf Gauss
+integral = 1.0000): the 3+1 quantum algebra is the linking/braiding
+algebra of loops and surfaces — **which is the movie/census
+formalism: the gravity thread and the knot thread are one theory in
+3+1**, with the census results (incl. the wall theorem) as its
+selection rules. The shape, end to end: holonomy state space,
+monodromy charges, BF action (conservation = second EOM), forced
+Poincaré symmetry, derived cone, intersection-deformed quantum
+algebra, quantized participation, anyonic matter, Fisher dressing.
+Open: derive the level N; quantize the dressing (BF + Fisher
+kinetic term); the 3+1 build with the template; P5/measurement on
+the holonomy Hilbert space.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
