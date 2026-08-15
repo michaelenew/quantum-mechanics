@@ -482,6 +482,36 @@ one-liner; retardation (c-bounded channel updates — where a light
 cone could first enter); coupling source motion to the tetrahedron
 event algebra.
 
+## The retarded web (0021)
+
+O3 engaged directly (`exploration/0021`, `output/0016`): channel
+directions point at **retarded** source positions (c-bounded update),
+one change, three results. **Discovered exact law**: the moving
+atom's deficit is δ = πw(1 − v²) — six-digit match at five speeds via
+the 0020 flux integral (R-independent to 1e−13), transport-confirmed.
+Motion suppresses gravity in the Euclidean web; under v → iv the law
+continues to πw(1 + v²) — the Lorentzian moving mass gravitates more.
+**The signature lives in one coefficient's sign, set by the update
+rule; the state metric stayed Riemannian.** **The fan**: uniform
+motion is exactly scale-free, so the wake is K = f(θ)/r² (K·r²
+angle-only to 4 decimals) — negative ahead/side, positive astern,
+vanishing angular average (transport R-independent). This exposed a
+correction: 0014's cone formula assumes a developable apex (B = E′/2)
+— false for the aberrated atom (0.528 vs transport's 0.475) and
+slightly violated at beacon apexes (0014's 0.04% gaps were real model
+error, not numerics); transport and flux are ground truth. **The
+light cone, measured**: a kicked source's finished move leaves a
+distant loop unchanged (<1e−3) until the news shell arrives; blip on
+crossing; exact return (conservation through the transient); K = 0
+beyond r = ct to 1e−6; front edge tracks ct with fitted speed
+0.988c. **O3's reframe**: the causal cone lives in the response
+dynamics over a Riemannian state space — P2's two-tier split computed
+in curvature; what O3 still owes is deriving the c-bound itself
+(plausibly from the event structure: influence one crossing at a
+time). Open: closed-form fan; net radiation from accelerating
+sources; deriving c from the interaction algebra; the retarded
+two-body problem (velocity-dependent forces?).
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
