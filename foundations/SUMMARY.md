@@ -1690,6 +1690,46 @@ with a specific coupling and surviving sector); the first
 post-Newtonian correction from the lattice; composite N inside the
 self-dual reading; 0048's standing items.
 
+## The falsification audit (0059)
+
+`exploration/0059`, `output/0053`. Asks what the program actually
+predicts *differently* from GR, and whether data kills it. **The
+one-body sector is exactly Schwarzschild — the delta is zero.**
+0037's perihelion advance exceeded 6πM/p by 1.053 (M/p = 0.011) and
+1.021 (M/p = 0.0044) and flagged the excess as "the second-order
+term"; integrating the exact Schwarzschild orbit equation on the same
+orbit (e = 0.5, p = 0.45) gives **1.0532** and **1.0205**, excess
+coefficients 4.84/4.67 against the measured ~4.8. The excess *is*
+GR's own second-order term — as it must be, since the Kerr–Schild
+point channel is Schwarzschild, so β = γ = 1 by construction.
+**Therefore the screening law is not a physical varying G, and the
+naive reading is already dead**: G_eff = G(1−U) with U = GM/(rc²)
+would have Earth's eccentricity modulate U_sun by 3.30e−10 annually,
+breathing the lunar orbit by **127 mm** against LLR's ~1 mm —
+excluded **127×**; an O(1) shift in PPN β is excluded **12500×**
+(|β−1| < 8e−5). Two internal facts already pointed here and were not
+joined up: 0020's own note that a **constant ambient is flat**, and
+0012's exact **deficit additivity** (Deser–Jackiw–'t Hooft) — a flat
+background cannot change a Gauss–Bonnet deficit. So δ = πw/√(det A₀)
+is **bookkeeping in the w-parameterization**, not new gravity; this
+**corrects 0058 §3.1**, which had listed it as the best
+modified-gravity prediction. **The falsifiable surface is the
+two-body rule**: 0037's O(M₁M₂) field-equation violation (48.7/48.3/
+48.2 over a 4× mass range, 1.03% spread) is the only unfixed
+dynamical freedom, and the theory makes no two-body prediction yet.
+It is binary — reproduce Einstein–Infeld–Hoffmann and the theory
+equals GR at 1PN; miss and |β−1| ~ O(1), excluded by ~10⁴ — with **no
+free parameter in the classical sector to absorb the difference**.
+Battery: `exact_advance`, `potential`. Honest limits: §1 is a
+test-particle comparison and says nothing about two bodies; §2's LLR
+figure is order-of-magnitude (δa/a ~ ΔG/G, not a fitted ephemeris),
+though the margin will not reverse; §2 refutes the naive reading and
+reaches the subtler one by elimination. Open: **the two-body rule vs
+EIH** (now the single highest-value computation, and the only one
+that can falsify the program); the closed form of the ~48
+coefficient; fixing t or N in the quantum sector (a derived t
+predicts a graviton mass, bounded by LVK).
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the

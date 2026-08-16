@@ -134,12 +134,24 @@ method caveat, is not high for any of them.
 
 1. **The screening law δ = πw/√(det A₀)** — a weak channel's deficit
    inside ambient information A₀ is reduced by 1/√(information
-   volume), i.e. **the local gravitational coupling is set by ambient
-   information density** (0019, 0020; uniaxial case derived, general
-   case measured to <2e−3). I found nothing resembling this. It is
-   sharp, computable, and — unlike most of the repo — *predicts a
-   deviation from standard gravity* rather than recovering it. Best
-   novelty candidate, and the best falsification target.
+   volume) (0019, 0020; uniaxial case derived, general case measured
+   to <2e−3). I found nothing resembling this.
+
+   > **CORRECTED BY 0059.** This entry originally claimed the law
+   > "predicts a deviation from standard gravity" and called it the
+   > best falsification target. That was wrong. 0059 shows the
+   > one-body sector is *exactly* Schwarzschild (0037's perihelion
+   > excess is GR's own second-order term, 1.0532/1.0205 confirmed
+   > against the exact orbit equation), so β = γ = 1 and there is no
+   > room for a coupling that runs; and the naive varying-G reading
+   > G_eff = G(1−U) is independently excluded by lunar laser ranging
+   > by ~127×. The screening is **bookkeeping in the
+   > w-parameterization**, not new gravity — consistent with 0020's
+   > own note that a constant ambient is flat, and with 0012's exact
+   > deficit additivity. It may still be novel as a statement about
+   > the parameterization; it is not an observational claim. The
+   > real falsification target is the **two-body rule vs
+   > Einstein–Infeld–Hoffmann** (0059 §3).
 2. **The trace identity tr h(x) = S_total everywhere** (0020, machine
    precision) — the web stores its total strength locally at every
    point; only the traceless anisotropy sector curves. Found no
