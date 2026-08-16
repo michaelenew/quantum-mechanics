@@ -1250,6 +1250,45 @@ functional; an independent J-flux surface integral; whether the bond
 is a *constraint* phenomenon rather than a source; the boost
 charges.
 
+## The functional (0045)
+
+The action attempted (`exploration/0045`, `output/0040`): **half
+written cleanly — resolving 0030's obstruction — half falling back
+to the prototype path.** **The channel is a Maxwell field**: the
+web's own channel one-form A_μ = w·k_μ has *exactly* the
+Liénard–Wiechert field strength (1e−8 static, 2e−8 boosted; the
+potentials differ by a pure gradient) — the metric's building block
+is a linear gauge field. **The metric is its square** (the
+Kerr–Schild double copy, imported from GR, verified for the web's
+channel), and that one fact explains four standing measurements:
+0044's linearization (gravity is linear per channel because the
+gauge theory is), 0041's charges-add/bonds-multiply (addition in the
+single copy, multiplication in the square), 0042's bond quantum =
+(charge quantum)², and the ½-ledger at the top of the theory — **the
+channel is the amplitude, the metric is the probability**. Measured:
+the single copy's harmonic vacuum selects p = d−2 for d ≥ 3, the
+same ladder gravity selected (0042). **0030's obstruction
+resolved**: the 3+1 single copy is not BF but **Maxwell** — genuine
+field strength, radiative, double-copying to gravity *with*
+gravitons; in 2+1 the correspondence degenerates (gravity takes
+constant w — the conical defect, no force — where Maxwell gives a
+logarithm with force), matching 0023's measured no-radiation. The
+obstruction was an artefact of taking BF as the 3+1 single copy.
+**The honest negative**: off-shell squaring fails — scanning the
+metric cross-term coefficient leaves the two-body violation minimal
+at c = 0 (5.2e−3, rising to ~5e−2 at c = ±1), so the double copy is
+a *solution-level* correspondence and the bond enters as source
+stress (the verified route). **State of the action**: single copy
+written — S = −¼∫F²d⁴x + Σ q∫A·dx with g = η + φk⊗k, A = φk, k null
+geodesic, linear per channel, degenerating in 2+1 to 0026's
+S = ΣB(curl θ − src); gravitational functional on the **prototype
+path**, fixed by its charges and conservation laws (0044) rather
+than derived by squaring. Open: an off-shell squaring map (now
+sharply constrained); verifying the single copy for *accelerated*
+sources; k-null as the one axiom the double copy needs and the web
+supplies (0037); sharpening the 2+1 degeneracy into a statement
+about which gauge theories double-copy to topological gravity.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
