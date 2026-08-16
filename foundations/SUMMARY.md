@@ -1364,27 +1364,35 @@ in the 1–4% conserved residual; a consolidation pass stating the
 full derivation chain postulates → metric → cone → Lorentz →
 functional → channel rule with each link's evidence.
 
+## The chain (0048) — consolidation
+
+The derivation stated end to end (`exploration/0048`), with an
+executable table of contents (`output/0043`): **twelve keystones,
+one suite, 0.7 s, all passing** — ledger (influence = √info, slope
+0.500) → atom (0.772467 exact) → codim ladder (4π/(1+w)) → cone
+(front = ball, set-exact) → Lorentz (pullback 1e−15) → frame
+(e = 𝟙+½·channel squares exactly) → quantum tier (UV = −VU at N=2;
+bond = n_a n_b) → vacuum selection (1/ρ vacuum 3e−7, 1/ρ² not) →
+classics (Kepler exact; bending 4M/b) → waves (luminosity 0.99 of
+quadrupole at reduced quadrature) → bond (virial 1e−8; anti-string
+deficit 8e−8) → Green rule (channel = LW 2e−8). Each link tagged
+[FORCED/MEASURED/DERIVED/IMPORTED] with its evidence; the one-
+sentence statement of the theory recorded; the ½-ledger counted
+through every tier (trust = √info, amplitude = √prob, channel =
+√metric, frame = √budget). **The honest residue, renumbered**: κ
+unfixed (candidate: tied to level N); the lattice Palatini unbuilt;
+the Lorentzian η of the 4D lift motivated (L6) but assumed as
+arena; the closed-loop Vachaspati test open; the 1–4% two-body
+residual unseparated (O(v) vs O(h²)); content and rung (world's
+data, not law); P4 → Tsirelson untouched; the arithmetic/continuum
+bridges standing.
+
 ## Known gaps
 
-- Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
-  quantum-selection question. Open and tractable (`exploration/0007` step 3).
-- Quantum-MRE equivalence to Lüders — **decided** (`exploration/0028`–`0029`):
-  P3's sheaf/chain consistency forces the instrument tier, where MRE
-  reproduces Lüders exactly and uniquely; the state-tier alternative is
-  refuted from inside the theory. Petz-recovery connections remain open.
-- Frustration ≅ contextuality as cohomological structures — now shown in the
-  finite revision-dynamics frame (`exploration/0010`): the liar-detection
-  parity and the context obstruction are computationally the same class,
-  the obstruction dies on the double cover, and its cost is measured
-  (forced entropy = log₂ of the holonomy group's smallest orbit; Haar
-  floor; negativity 1/2 on the phase fiber). Continuum case still open.
-- "Correlation sources curvature" as an Einstein-like equation on the
-  information manifold — **now a measured equation** (`exploration/0019`):
-  K = π·s(x) in the weak limit (s = participation-strength density),
-  i.e. K = 8πG ρ_mass with ρ_mass = s/8G, spatially local, with the
-  shell property and a screening correction at finite strength. The
-  deficit-from-Fisher step was closed by `exploration/0014`; what
-  remains of this row is the analytic limit theorem, the nonlinear
-  (screened) form, dynamics (the redistribution law — total curvature
-  stays topological), and the Lorentzian signature.
-- No dynamics yet; only kinematics and the update rule.
+Superseded in detail by `exploration/0048`'s "honest residue" (the
+maintained list). Standing items in brief: κ normalization; lattice
+Palatini; the Lorentzian-arena step; the closed-loop test; the
+two-body residual; content/level-rung freedom; P4 → Tsirelson
+(`exploration/0007` step 3); continuum versions of the 0010
+arithmetic-frame results; matter dynamics beyond scripted sources
+and the frame field's full quantum dynamics.
