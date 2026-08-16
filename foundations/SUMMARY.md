@@ -1010,6 +1010,33 @@ radiation vs the quadrupole formula (strongest correspondence test
 now in reach); the 4D field equation whose nonlinearity is the
 measured O(M₁M₂) term.
 
+## The binary test (0038)
+
+The strongest correspondence test, run (`exploration/0038`,
+`output/0033`): two vacuum-profile sources on a circular orbit
+(v = 0.2), covariant retarded channels superposed, against GR's
+retarded quadrupole formula computed numerically from the same
+worldlines (predictor sanity: face-on/edge-on = 2.000, circular
+polarization on axis). **The quadrupole formula is missed:
+face-on ratio 0.014 (70× too weak), edge-on 0.47 — and the pattern
+inverts** (GR loudest face-on; the web nearly silent there; the
+dipole cancellation itself works). Vacuum structure splits the same
+way: the on-axis wave is a vacuum wave (Ricci 1.9e−8); the orbital
+plane radiates large non-vacuum stress (4.8e−3 > the Riemann wave)
+— the O(M₁M₂) interaction zone radiating. **Diagnosis**: linearized
+GR's moving-source solution is the tensor Liénard–Wiechert
+potential 4m·u_μu_ν/(u·ℓ) — momentum flux in the tensor structure;
+w·kkᵀ lacks the m·v_iv_j sector at order v², which is exactly the
+quadrupole's order (they agree exactly for uniform motion —
+acceleration is where they part). Third appearance of the
+anisotropic-strength object (0024 kinematics, 0034 statics, now
+radiation). Scoreboard: **single-source sector fully Einstein;
+the two-body rule is the program's frontier**, its failure measured
+(0.014/0.47/O(M₁M₂)). Open: the fix rule — channels carrying the
+momentum-flux tensor (test: tensor-LW channel pair sector, re-run
+this module; note momentum is already a monodromy charge the
+channel must broadcast); then in-model Hulse–Taylor energy balance.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
