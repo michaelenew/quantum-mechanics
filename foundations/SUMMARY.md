@@ -1411,6 +1411,37 @@ physical datum — already classified (0029) as content, not law.
 last constructive gap); the residual separation; cusp radiation vs
 GR's burst structure; loop decay power vs Γ·Gμ².
 
+## The Palatini construction (0050)
+
+The chain's last constructive gap closed, plus two quantitative
+fronts (`exploration/0050`, `output/0045`). **The simplicity
+constraint counts the gravitons**: 0030's obstruction was a
+dof claim, so it is settled by rank — free BF leaves 1 solution per
+internal pair against a 1-dimensional gauge orbit (**0 physical
+dof**); Palatini's torsion equation on ω has **rank 24 of 24** (ω
+determined *algebraically* by e, so the theory is second-order in e
+alone); the resulting system gives 10 − 4 − 4 = **2 dof**.
+Imposing B = e∧e takes the count from 0 to 2 — the simplicity
+constraint is what releases the gravitons, and by 0046 it *is* the
+ledger. **The construction on the web's own solution**: solving the
+torsion equation numerically for the channel tetrad gives torsion
+residual ~5e−17 (machine), and the functional's variables (e, ω)
+reproduce the metric route's Ricci to **1e−6 relative on three
+non-vacuum profiles** (vacuum profile flat both ways) — 0046's
+identification is now a construction. **Loop decay measured**:
+Γ = P/(Gμ²) = **45.8 (R = 20), 45.4 (R = 30)** — stable in radius to
+1%, against GR's Γ ~ 40–100 for Kibble–Turok loops. **The residual
+is velocity, not nonlinearity**: the conserved binary's ratio goes
+0.0138 → 0.0017 when v halves (**exponent 3.03**) and is
+**identical** when M halves — post-Newtonian source structure, which
+the quadrupole formula also lacks, not a field-theory failure
+(residue #5 closes). Battery: `spin_connection`,
+`torsion_residual`, `ricci_palatini`, `rank`, `loop_power`. Open:
+the strictly discrete action (vary S = Σ ε e∧e∧F on 0030's lattice);
+cusp beaming; which PN term gives the v³; and 0048's standing
+items (Lorentzian arena, P4 → Tsirelson, matter, arithmetic
+bridges).
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
