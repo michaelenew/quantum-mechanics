@@ -959,6 +959,30 @@ rule-artifact or falsifiable physics; energy flux/quadrupole
 coefficient. Battery: `riemann4`/`ricci4`, `ks_metric`, `cov_k`,
 `E_and_ric`.
 
+## The Newtonian limit (0036)
+
+0035's sharpest gap closed from the web's own field law
+(`exploration/0036`, `output/0031`). The 2+1 measured law K = πs
+says curvature lives only at participation — flat off-source.
+Lifted to the 4D null-channel metric (G_μν = 0 off-source), that
+principle **selects the strength profile**: for w ∝ ρ^(−p), the
+off-source Ricci vanishes at **p = 1 only** (8e−7; p = 0, 0.5, 1.5,
+2 all fail by 4–5 orders) — w = 2M/ρ, **the Schwarzschild profile**
+(uniqueness beyond power laws = Birkhoff, imported). Geodesics:
+the bare constant-w point exerts **zero force** (the 2+1
+no-pair-force lifted, machine-zero at two radii); the selected
+profile gives **a = −M/r² to six digits** and **Kepler ω²r³ = M
+exact** — attraction is the profile, and the profile is the field
+law. The constant-w monopole of 0031 rereads as a violation of the
+web's own law (a stress halo everywhere), not a virtue. Registered
+(no assert): strength = √(diluted flux) gives exactly 1/ρ in 3D —
+the ½ exponent's **fifth** appearance (trust = √info, amplitude =
+√prob, det^(−1/2) screening, codim-ladder step, now Newton): the
+ledger that prices measurement may price gravity. Open: the 4D
+field equation (turn selection into derivation); the √flux
+mechanism; precession/light-bending (one command away); two-body
+post-Newtonian.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
