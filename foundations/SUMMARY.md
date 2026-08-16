@@ -1037,6 +1037,37 @@ momentum-flux tensor (test: tensor-LW channel pair sector, re-run
 this module; note momentum is already a monodromy charge the
 channel must broadcast); then in-model Hulse–Taylor energy balance.
 
+## The momentum channel and the bond (0039)
+
+0038's deficit closed in two steps, ending on the founding claim
+(`exploration/0039`, `output/0034`). **The momentum channel**: the
+sender broadcasts its stress tensor metered by its clock,
+h = [4m·uuᵀ + 2m·η]/(u·ℓ) (tensor Liénard–Wiechert); static limit =
+linearized isotropic Schwarzschild exactly; for uniform motion it
+agrees with the null channel at the gauge-invariant E_ij tier to
+O(m) — the broadcasts part only under acceleration. **Wave zone**
+(R/λ ≈ 6; 0038's R = 3 was near zone): null channel face-on ratio
+0.001 — no quadrupole radiation at all; momentum channel **0.528 =
+one half, by theorem** — free particles radiate from ∫T_ij = Σmγvvᵀ
+while the quadrupole formula's ½Ï uses source conservation, and for
+circular orbits the vvᵀ term is exactly half of Ï. **The missing
+half is the bond**: the binding interaction's stress must radiate —
+the pair's mutual channel, their *correlation*, carries budget and
+sources curvature: the program's founding claim is quantitatively
+the other half of the quadrupole formula (it also explains 0037's
+O(M₁M₂) static violation and 0038's in-plane non-vacuum radiation).
+**The bond channel, built and verified**: its integrated stress is
+the conservation deficit S = ½Ï − Σmγvvᵀ (from the worldlines, no
+model), broadcast retarded from the pair's center — **the
+quadrupole formula is reproduced: face-on 1.017/0.988, edge-on
+0.978/1.005 (~2% = O(v))**. The channel ontology at this tier:
+(i) participation → statics/Newton; (ii) momentum flux → the free
+half; (iii) the bond (correlation) → the other half. Open: resolve
+the bond spatially and check it cancels the O(M₁M₂) static
+violation; derive S_ij web-natively (virial = force × proper
+separation, both 0025 charges); in-model Hulse–Taylor;
+self-consistent motion.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
