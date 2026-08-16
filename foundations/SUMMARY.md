@@ -1471,6 +1471,38 @@ Open: a self-contained lattice theory (independent link variables,
 discrete local Lorentz, exact difference EOMs); the cusp waveform's
 spectral index vs GR's |f|^(−4/3); and 0048's standing items.
 
+## The lattice theory (0052)
+
+0051's two opens closed (`exploration/0052`, `output/0047`). **A
+self-contained lattice theory**: SO(3,1) group elements on every
+link (Λᵀη Λ = η to 7e−16) plus frame vectors, with
+S = Σ_x ε^{μνρσ}ε_IJKL e^I_μ e^J_ν F^KL_ρσ built from plaquette
+holonomies on a 3⁴ web of **random** links. Under a *large* local
+Lorentz transformation at one site, **|ΔS| = 7.1e−15 (relative
+4.8e−15) — machine zero**: a discrete theory with a discrete gauge
+symmetry, no linearization or continuum limit invoked (ε_IJKL is an
+invariant tensor and every factor is based at the same site).
+**The field equation is exact on the lattice**: numerical δS/δe =
+6.5535113389 against the analytic
+2ε^{μνρσ}ε_IJKL e^J_ν F^KL_ρσ = 6.5535113340 (5e−9, the
+finite-difference floor) — the discrete Einstein equation holds as
+a *difference equation*, not to O(a²); the ω-variation remains the
+O(a²) one (0051). **The cusp spectrum**: GR predicts cusp bursts
+with harmonics ~ n^(−4/3); measured in the cusp direction the slope
+**brackets −4/3**, crossing it in the n = 8–32 decade (−1.224,
+−1.302, −1.416, −1.478 over rising windows; low end pre-asymptotic,
+high end steepened by finite element count), while the **transverse
+direction falls exponentially** (1.63e−3 → 1.6e−16 over n = 2–16,
+effective slope −14.6). *Power law only where the cusp beams* — GR's
+cusp phenomenology, the basis of cosmic-string burst searches,
+reproduced from the channel rule alone. Battery: `lattice_action`,
+`plaquette_F`, `rand_lorentz`, `harmonics`. Open (standing from
+0048): the Lorentzian arena; P4 → Tsirelson; matter beyond scripted
+sources; the arithmetic bridges. Newly available: **the lattice's
+quantum tier** — the level-N Weyl algebra on these link variables,
+where "budget = frame squared" should become an operator statement
+about the measure.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
