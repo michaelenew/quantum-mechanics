@@ -983,6 +983,33 @@ field equation (turn selection into derivation); the √flux
 mechanism; precession/light-bending (one command away); two-body
 post-Newtonian.
 
+## The classical tests (0037)
+
+The Einstein-vs-Newton discriminators, run through the
+vacuum-selected metric, plus the first two-body measurements
+(`exploration/0037`, `output/0032`). **Light bending**: null
+geodesics give 4M/b to 0.6%/0.3% at b = 1, 2 — Einstein's full
+deflection, twice Newton's; the 1919 factor of 2 lives in the null
+channel structure. **Perihelion precession**: prograde, exactly
+repeatable (spread 6e−8), ratio to 6πM/p = 1.053 at M/p = 0.011 and
+1.021 at M/p = 0.0044 with the *same* excess coefficient (~4.8×M/p)
+— the gap is the second-order term; the advance converges to
+Einstein's formula as M → 0. **Two bodies** (superposed
+vacuum-profile channels): the off-source violation scales exactly
+as M₁M₂ (48.7/48.3/48.2 over a 4× range) — the web's nonlinearity
+localized, where the post-Newtonian sector lives; far-field masses
+add (−(M₁+M₂)/r² to 0.4% at r = 10); **channel nullity** — a single
+channel is exactly null in the metric it creates (2e−16, the
+Kerr–Schild identity: each channel rides the very cone it builds),
+and fails at O(w₁w₂) with two sources: **interaction is
+cone-bending**. Battery: `geodesic_step`, `future_u0` (the
+past-directed-root trap), `light_bending`, `run_orbit`, `g_two`.
+Open: the two-body fix rule (candidate: 0020's screening one tier
+up — check against Einstein–Infeld–Hoffmann); orbiting-pair
+radiation vs the quadrupole formula (strongest correspondence test
+now in reach); the 4D field equation whose nonlinearity is the
+measured O(M₁M₂) term.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
