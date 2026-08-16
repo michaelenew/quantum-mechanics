@@ -1,5 +1,15 @@
 # 0032 — The correspondence test: the web waves in the wrong channel
 
+> **Correction (0034).** The verdict below is reversed by the gauge
+> audit: the vector metric wave carries 1–2% of the invariant
+> curvature — it is gauge dressing. The Ricci-*tensor* wave is
+> TT-dominant (0.977) with a linear TT component at the fundamental
+> that this exploration's scalar-only instrument could not see. The
+> measurements below (discriminators, metric polarization,
+> traveling/standing amplitudes) stand; the inference "nothing
+> propagates in the TT channel, the strength tensor must radiate"
+> was a gauge artifact. See `exploration/0034`.
+
 0031 gave existence: the 3+1 web radiates. This exploration asks
 the refined question — **which wave theory is it?** — against
 linearized Einstein gravity, in three independent probes. The

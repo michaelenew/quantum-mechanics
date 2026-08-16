@@ -832,10 +832,12 @@ formula), or is it a different wave theory? Open: TT/polarization
 extraction; the dressing's effective wave equation (the divergence
 identity one dimension up); the status of codim-3 point participants.
 
-## The correspondence test (0032)
+## The correspondence test (0032) — verdict corrected by 0034
 
 The refined frontier question, answered (`exploration/0032`,
-`output/0027`): **the web waves, but not in Einstein's channel — and
+`output/0027`) — **but see 0034: the verdict below is reversed
+gauge-invariantly; the measurements stand.** As measured at the
+metric level: **the web waves, but not in Einstein's channel — and
 the failure is one named object.** Discriminators (plane-wave modes
 through the validated pipeline): TT waves carry zero spatial Ricci at
 linear order (amplitude-scaling exponent 2.00), scalar/trace respond
@@ -886,6 +888,40 @@ instrument now has a 3+1 counterpart or is dimension-generic; the
 one instrument without a target is a dynamical-strength-sector
 meter — because the sector doesn't exist yet (0032). Open: the
 strength dynamics; boosted-string charges; the ladder at general c.
+
+## The gauge audit (0034)
+
+The severity question — does 0032's wrong polarization force
+falsified predictions? — answered by auditing gauge-invariance
+(`exploration/0034`, `output/0029`): **no, and the verdict of 0032
+reverses — the invariant wave is Einstein's.** New instrument: the
+full 3D **Ricci-tensor** pipeline (validated: 3-sphere Einstein
+condition to 1e−5; TT plane waves have *linear* Ricci tensor −½∇²h
+to 0.1% — invisible to the scalar, visible to the tensor; vector
+plane waves identically zero). The decisive 3D fact: Weyl ≡ 0, so
+Ricci determines Riemann — zero tensor = flat = pure coordinates.
+**The audit**: the web wave's Ricci-tensor polarization is
+**TT-dominant, fraction 0.977 at R = 3 and 6** (channel halving
+exactly: 1/R); the metric-level vector wave carries 1–2% of the
+invariant curvature — gauge dressing. **The linear TT wave**: the
+dominant component R_xz (TT, in the jitter×string-axis plane) is
+linear in A (0.98), fundamental-pure (>1e3), exactly 1/R
+(1.170 vs 7/6), outgoing at c (1.998 vs 2.000; instantaneous
+control 337× weaker) — a genuine linear TT curvature wave from the
+cross-derivative (radial retardation × string-axis structure) that
+plane-wave intuition and the scalar instrument both miss; the
+diagonal 2Ω quadratic tier is the quadrupole echo 0031 saw.
+**Severity verdict**: a physical vector wave would have been fatal
+(LIGO polarization, pulsar dipole bounds, waveform frequency), but
+no gauge-invariant observable at linear order transmits it; what is
+invariant has the Einstein signature. 0032's strength-sector claim
+corrected: the direction field alone carries TT radiation; the
+strength tensor is demanded by velocity statics (0023/0024/0025),
+not by waves. Remaining risks, named: second-order scalar admixture
+(long 0.19/trace 0.10); luminal traveling wiggle radiating where
+Nambu–Goto exactly does not (matter sector, unconstrained by data);
+and the unbuilt **time sector** (lapse/shift) — now the program's
+sharpest missing construction. Battery: `ricci_tensor`.
 
 ## Known gaps
 
