@@ -1608,6 +1608,41 @@ folding shared-frame correlations into the kernel; counting
 polarizations in the constrained measure (the real spin-2 test);
 0048's standing items.
 
+## The graviton's mass and the kernel price (0056)
+
+0055's opens closed (`exploration/0056`, `output/0051`); the first
+is the quantum arc's most consequential structural fact. **The
+graviton is massive; Newton lives at a critical point**: the
+curvature quantum carries price V (= 2 log N for geometric
+curvature) and hops with amplitude t, giving pair gap Δ = 2V − 4t —
+measured +3.52/+1.76/+0.44/**+0.0005**/−0.44 at t/t_c = 0.2, 0.6,
+0.9, 1.0, 1.1 (N = 3; same pattern at N = 5). Three phases: **gapped**
+(massive quantum ⇒ Yukawa force of range 1/Δ), **critical** at
+**t_c = V/2 = log N** (gap closes, massless, long-ranged), and
+**condensed** (flat vacuum unstable to curvature pairs). So *the
+theory has a Newtonian limit only at criticality* — how a lattice
+theory acquires a continuum limit at all, and the honest quantum
+status of 0036's classical Newton: the classical chain already sits
+at the continuum point; the quantum model must be tuned there. **The
+price counts what the curvature leaves alone**: the simplicity
+kernel factorizes exactly as **K(F) = N⁴·|ker F|** with
+ker F = {b : ε_IJKL b^J F^KL = 0} — flat leaves N⁴ directions,
+simple curvature N² (acts in a plane), non-simple N⁰ — so 0055's
+0/2/4 log N hierarchy is the **codimension of the kernel** and
+"geometric" means "acts in a plane." The Pfaffian was the symptom;
+the rank is the cause. **The shared frame correlates neighbours**:
+two plaquettes sharing a frame have joint weight
+N⁸·|ker F₁ ∩ ker F₂|, giving **0.0265 bits** of mutual information
+between adjacent costs (independent would be exactly 0) — cheap
+together means their curvature planes share an untouched direction,
+the lattice's form of "all curvature 2-forms come from one tetrad";
+0053 §4's correlation resolved into its geometric cause. Battery:
+`pair_gap`, `kernel`, `m_of`. Open: **quantum Newton** (at t_c,
+compute V(d) and test for 1/d — now the sharpest open in the
+quantum arc); the critical theory's polarizations (the real spin-2
+test, with a specific coupling to sit at); composite-N divisor
+structure inside the kernel picture; 0048's standing items.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
