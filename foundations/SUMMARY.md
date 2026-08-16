@@ -1387,6 +1387,30 @@ residual unseparated (O(v) vs O(h²)); content and rung (world's
 data, not law); P4 → Tsirelson untouched; the arithmetic/continuum
 bridges standing.
 
+## The closed loop (0049)
+
+Two post-consolidation residues closed (`exploration/0049`,
+`output/0044`). **The exact loop**: a Kibble–Turok Nambu–Goto
+solution (unit left/right movers, closed, period 2π; conformal
+gauge to 4e−17) — compact, exactly conserved, no ends. **The
+measurement**: Ricci/Riemann of its Green-function field = **0.032
+and 0.034** at two wave-zone probes — a **14× collapse** from the
+truncated open string's 0.46–0.53, joining the conserved binary's
+0.014–0.042. The string sector obeys the same law: the
+Green-function field is vacuum iff the source is conserved. Two
+anomaly threads resolve together: 0032's "inverted selection rule"
+was a wrong source model (no tension, open ends), not wrong field
+dynamics; and Vachaspati's traveling-wave silence is correctly an
+infinite-string statement — a loop cannot carry a traveling-only
+mode (both movers must close). **κ is a unit, N is the physics**:
+8πG·m_q = 8πG/(4GN) = 2π/N identically — G cancels from the
+quantized ledger (the participation→deficit conversion unit, as c
+is ticks→length), leaving the level N as the coupling's only
+physical datum — already classified (0029) as content, not law.
+0048's residues #1 and #4 close. Open: the lattice Palatini (the
+last constructive gap); the residual separation; cusp radiation vs
+GR's burst structure; loop decay power vs Γ·Gμ².
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
