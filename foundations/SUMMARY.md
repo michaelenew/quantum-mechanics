@@ -1289,6 +1289,45 @@ sources; k-null as the one axiom the double copy needs and the web
 supplies (0037); sharpening the 2+1 degeneracy into a statement
 about which gauge theories double-copy to topological gravity.
 
+## The frame functional (0046)
+
+The critical pass through the action derivation, and the path it
+opened (`exploration/0046`, `output/0041`). **The flaw in 0045**:
+its off-shell negative used a cross term of weight √(w₁w₂) — a
+guess; if the metric is a square the additive object is the *frame*
+(g = e·η·eᵀ), which dictates its own cross term
+¼w₁w₂(k₁·k₂)(k₁k₂ᵀ+k₂k₁ᵀ). **The exact tetrad**: e = 𝟙 + ½w·kkᵀη
+squares to Kerr–Schild *exactly* (1e−15, including w = 3 and
+Doppler-scaled k — nullity kills the quadratic term). The channel
+is the frame perturbation, linear at any strength (0044's
+linearization becomes an identity); **the ledger's ½ is the literal
+coefficient**; collinear channels superpose exactly (mass additivity
+at a point is an identity). **The corrected off-shell test**: the
+frame-square cross term *reduces* the two-body violation ~2×
+(5.16e−3 → 2.97e−3 at c = 1; minimum 2.5e−3 near c = 1.5) where
+0045's wrong-weight term increased it — the frame is the additive
+variable; the residual is the genuine second-order bond iteration.
+**The functional**: first-order tetrad gravity —
+S = (1/2κ)∫ε_IJKL e∧e∧F in 3+1, S = (1/κ)∫ε e∧F in 2+1 — checked
+against everything measured: the 2+1 form **is** 0026's BF with
+B = e; the 3+1 form is BF with **B = e∧e** (Plebanski satisfied
+identically) whose ω-equation d_ω(e∧e) = 0 is 0030's measured
+lattice dB = 0; linear per channel by the exact tetrad; the bond as
+the e-equation's second-order iteration (integrated cross stress =
+the virial bond, 0040); matter S_m = m∫|e(ẋ)|dτ = the sender-clock
+rule as a variational principle. **0030's frontier question
+answered in the ledger's vocabulary: B = e∧e is "probability =
+amplitude²" at the action level** — in 2+1 the tiers coincide
+(B = e: topological, additive, no gravitons); in 3+1 the budget is
+the square of the frame, and that one squaring is where gravitons,
+multiplicative bonds, and bond quantum = (charge quantum)² come
+from. Battery: `channel_tetrad`, `square_frame`, `g_frame_cross`.
+Open: lattice Palatini (e on 0030's lattice, B = e∧e imposed,
+torsion equation verified); derive the sender-clock rule from
+δS_m; B = e∧e as an operator identity on the level tower; iterate
+the e-equation once to confirm the two-body residual drops an
+order.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
