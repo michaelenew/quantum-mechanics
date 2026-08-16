@@ -1503,6 +1503,41 @@ quantum tier** — the level-N Weyl algebra on these link variables,
 where "budget = frame squared" should become an operator statement
 about the measure.
 
+## The quantum lattice (0053)
+
+The lattice theory quantized at level N, full bore
+(`exploration/0053`, `output/0048`) — four exact results. **The
+ground space derives the Weyl algebra**: the level-N gauge sector on
+T² is the Z_N quantum double; degeneracy N² two independent ways
+(rank formula; brute enumeration 243/27 = 9 at N = 3); Wilson and
+dual loops built from the model satisfy W_x T_x = ωT_x W_x (6.5e−16)
+and commute across cycles — **0027's postulated cycle algebra is now
+a theorem of the lattice model**. **The 2-form tier is homology**:
+on T³ the chain identities d∘d = 0 hold exactly over ℤ (dB = 0 is
+the complex's own identity); b₁ = b₂ = 3, so the charge sector has
+degeneracy N³ and the budget sector N³ — Poincaré-dual partners
+paired by linking. **The square measure prices curvature** (the
+headline): the plaquette weight K(F) = Σ_B m(B)ω^{BF} is N·δ_{F,0}
+for the uniform budget (curvature *forbidden* — free BF,
+topological) but **N·gcd(F, N)** for the squared budget B = e·e
+(exact, N = 3, 4, 5, 7, 8) — curvature *priced* at
+log(N/gcd(F,N)) per plaquette: **one curved plaquette costs one
+level-N symbol of the ledger**. The quantum mechanism of the
+graviton release (0050's 0 → 2 count, now as a change of measure),
+and the quantum ancestor of K = πs. On the tower N = 2^k the price
+is graded by the **2-adic valuation** of the curvature (N = 8:
+64, 8, 16, 8, 32, 8, 16, 8) — 0028's odometer arithmetic in the
+action. **The measure is a correlated web**: under B = e·e,
+budgets sharing an edge carry MI = 0.118/0.143/0.143 bits (N = 3,
+5, 7) while disjoint budgets are exactly independent — the
+conservation law's quantum seed is correlation; the budget field
+has bonds; the web quantizes into a web. Battery: `rank_modp`,
+`t2_complex`/`t3_complex`, `K_square`, `mi_shared`. Open: the
+constrained model's spectrum (the lattice graviton via a transfer
+matrix over the N·gcd weights); the correlated-measure feedback
+into K(F); the 2-adic action vs the deck sectors; 0048's standing
+items.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
