@@ -1328,6 +1328,42 @@ torsion equation verified); derive the sender-clock rule from
 the e-equation once to confirm the two-body residual drops an
 order.
 
+## The derived channel (0047)
+
+0046's matter-variation front closed, and the principle underneath
+it found (`exploration/0047`, `output/0042`). **The channel rule is
+the functional's retarded Green function**: varying the action, the
+A-sector gives A = q·u/(u·ℓ) — the Liénard–Wiechert potential, which
+*is* the channel (1e−8) — and the e-sector at linear order gives the
+tensor LW, which *is* the momentum channel (0039's ansatz, now δS).
+**The sender-clock normalization u·ℓ is the Jacobian of the retarded
+projection — derived, not chosen**; 0035's clock-principle open
+closes and the element-vs-system fork dissolves (integrate the Green
+function over the conserved source — no per-element choice exists).
+**Conservation is the operative principle, measured**: wave-zone
+Ricci/Riemann ratios — conserved binary (LW + bond) **0.014
+face-on, 0.042 at 45°**; non-conserved (LW only) 0.067 and **0.909**
+— the Green-function field is vacuum iff the source is conserved,
+failing hardest exactly where the bond radiates. The bond (binary)
+and the internal tension (string) are the *same*
+conservation-completing term at two source types; 0035's ~20%
+admixture retro-diagnosed as the nearest-point (non-conserved
+effective source) artifact. **The string's tension** (partial): the
+Nambu–Goto tension term halves the wiggling string's admixture
+(1.14 → 0.46 traveling, 1.13 → 0.53 standing), but truncated open
+ends break conservation (ratio non-convergent in window size) — the
+Vachaspati test stays open pending a **closed-loop** source, with
+the sharp prediction: traveling modes silent, standing modes
+radiating. **The operator square**: the budget operator as the
+symmetrized square of the frame operator has holonomy spectrum
+ω^(n_a n_b) = 0042's bond table — "budget = frame squared" now
+holds at every tier: metric (exact tetrad), charges
+(add/multiply), action (B = e∧e), operators. Open: the closed
+loop; the lattice Palatini (carried); separating O(v) from O(h²)
+in the 1–4% conserved residual; a consolidation pass stating the
+full derivation chain postulates → metric → cone → Lorentz →
+functional → channel rule with each link's evidence.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
