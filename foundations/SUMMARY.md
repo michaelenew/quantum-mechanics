@@ -1538,6 +1538,40 @@ matrix over the N·gcd weights); the correlated-measure feedback
 into K(F); the 2-adic action vs the deck sectors; 0048's standing
 items.
 
+## The lattice graviton (0054)
+
+**A gravitational effect derived from the quantized lattice and
+computed in it** (`exploration/0054`, `output/0049`). **The
+derivation**: integrating out the links leaves an exact measure on
+plaquette fluxes, P({F}) ∝ Π_p W(F_p − n_p) with Σ_p F_p = 0 (the
+Jacobian is the uniform gauge volume) — and the constraint *is*
+0029's closed-universe budget (a mass must be compensated), while a
+Wilson loop measures ω^(Σ_R F) by lattice Stokes. **The deficit,
+computed**: exact enumeration on a 3×3 torus with a neutral source
+pair gives phase **exactly 2πn/N for every loop enclosing the mass**
+— independent of the loop's size and shape (p0, p0+p1, the 2×2
+block all give +2.09440 = 2π/3) — and **exactly zero** for every
+loop that doesn't; verified at N = 2, 3, 4, 5, → 0 as N → ∞. The
+conical defect of 0014/0027 recovered as a quantum expectation
+value: the chain's oldest object arriving from its newest end.
+**The quantum correction**: the identical computation under free BF
+gives **|⟨W⟩| = 1.0000 exactly at every loop** — same deficit,
+*rigid* geometry — while the ledger's squared measure gives |⟨W⟩|
+falling with the loop's **area** (0.4007, 0.1618, 0.0361). The
+magnitude is a purely quantum observable with no classical
+counterpart: **the square is what makes geometry jitter.** **The
+lattice graviton**: in the flux basis V(F) = log(N/gcd(F,N)) is a
+curvature quantum's on-site energy and the electric term is its
+hopping; Σ F = 0 forces quanta into **± pairs**; diagonalizing the
+pair's centre-of-mass motion on a ring gives a dispersion with
+**bandwidth 3.86 and group velocity 1.91 — a propagating mode**,
+where free BF (V = ∞) leaves the band *empty*. 0050 counted the
+release (0 → 2), 0053 found it in the measure, and here it is a
+spectrum. Battery: `flux_expectations`, `weight_fn`,
+`pair_dispersion`. Open: polarizations (quantize the nonabelian
+links — the real spin-2 test); the area law's coefficient; two
+masses (the bond's quantum ancestor); 0048's standing items.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
