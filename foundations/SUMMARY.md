@@ -1643,6 +1643,53 @@ quantum arc); the critical theory's polarizations (the real spin-2
 test, with a specific coupling to sit at); composite-N divisor
 structure inside the kernel picture; 0048's standing items.
 
+## Quantum Newton and the selective critical point (0057)
+
+0056's sharpest open closed (`exploration/0057`,
+`output/0052_quantum_newton.py`). **The critical dispersion is
+quadratic**: on a 3D lattice with on-site price V and hopping t to
+six neighbours, E(k) = V − 2t Σ cos k_i closes at t_c = V/6, where
+E(k) = 2t Σ(1 − cos k_i) → t k² — ratio E/(t k²) = 0.9867, 0.9967,
+0.9992, 0.9998 at k = 0.4, 0.2, 0.1, 0.05. A quadratic dispersion is
+a 1/k² propagator, and in three spatial dimensions that is Newton.
+**Quantum Newton**: the static potential is the lattice Green
+function G(r) = (1/L³) Σ_{k≠0} cos(k·r)/E(k), and *the removed zero
+mode is not a regularization choice but the closed-universe budget*
+Σ F = 0 (0029/0054). Fitting G = A/r + B on L = 56 gives
+A/(1/4πt) = 1.0996, 1.0237, **0.9907** on windows r = 2..8, 4..10,
+6..14; holding the window at 6..14 and growing the box separates
+short-r lattice structure from long-r periodic images, converging
+monotonically **0.8744 → 0.9482 → 0.9907 → 1.0023** at L = 32, 40,
+56, 72 with the offset shrinking −0.0145 → −0.0084. So **the
+critical quantum theory mediates a 1/r force with the Newtonian
+coefficient 1/(4πt) to 0.2%**, and the coupling law is exact —
+doubling t halves A, ratio **2.0000**. 0036's classical Newton,
+obtained from the quantized model. **Only the geometric sector is
+massless**: two price tiers (2 log N geometric, 4 log N non-, per
+0055/0056) mean two critical couplings, and at the geometric one the
+simple gap is **0.000000** while the non-simple gap is **exactly
+2 log N** (2.197225 at N = 3, 3.218876 at N = 5) — the geometric
+price itself. That is the mode selection Plebanski's constraint is
+supposed to perform, **obtained as a gap rather than an
+imposition**. **The priced direction is the self-dual imbalance**:
+splitting the curvature bivector over Z_N, Pf(F) is a function of
+**|F⁺|² − |F⁻|² alone** (verified over all N⁶ curvatures at N = 3
+and 5), so since the price depends only on Pf, exactly **one** of
+the six internal directions is priced and the balanced cone is free
+— |F⁺| = |F⁻| is not imposed here, it is the statement that the
+theory charges for imbalance. Battery: `green_line`, `fit_coulomb`,
+`hodge`, `sd_asd`. Honest limits: §1–2's t_c = V/6 is the
+single-quantum 3D convention, not 0056's pair convention t_c = V/2
+(both correct for their model, neither the full interacting
+lattice's); §2 verifies the lattice sum converges to its own
+continuum limit under a physically forced zero-mode removal rather
+than deriving 4π; §2's propagator is free; §3 plugs the exact tier
+structure into a model dispersion; §4 needs 2 invertible, so even N
+is excluded. Open: polarization count at t_c (the spin-2 test, now
+with a specific coupling and surviving sector); the first
+post-Newtonian correction from the lattice; composite N inside the
+self-dual reading; 0048's standing items.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
