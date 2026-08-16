@@ -1139,6 +1139,42 @@ tension = force. Open: that operator; beyond power laws; a
 constructive two-body solution; the d ≠ 3 measurement (would upgrade
 the dimensional selection from extension to theorem).
 
+## The bond operator and the dimension theorem (0042)
+
+0041's three fronts moved (`exploration/0042`, `output/0037`).
+**The dimension theorem, measured**: a general-dimension curvature
+pipeline (`ricci_nd`) shows the point channel's off-source Ricci
+vanishes at **p = d−2 and only there** (d = 3: 3e−7 at p=1; d = 4:
+7e−7 at p=2; d = 5: 1e−6 at p=3, against 1e−2-scale failures
+elsewhere) — the web's vacuum principle selects the **harmonic
+profile in every dimension**, so with μ/T = −1/p the bond's
+transverse charge (μ+T)/T = (d−3)/(d−2) vanishes only at d = 3:
+**three spatial dimensions is the unique dimension in which
+correlation carries no participation charge**. 0041's extension is
+now a measurement. **The bond's operator**: 0041 predicted a
+product structure on the charge lattice, and the quantum tier
+already had exactly one — the **mutual braiding phase ω^(n_a n_b)**
+of two defects (0027's abelian anyons), built from the level-N Weyl
+algebra. Verified at N = 5: its spectrum is the **multiplication
+table** where the charge's is the addition table, and it
+**separates states the total charge cannot** (every charge sector
+holds three distinct bond values) — correlation is not a function
+of the marginals. With m = n/(4GN), bond energies go as n_a n_b:
+**the bond's quantum is the square of the charge quantum**, one
+tier apart in the ½-ledger. **Where the bond's energy lives (a
+trap)**: modelling the bond as independent *matter* overshoots the
+binding energy by exactly 2.000 — the bond is field; its stress is
+a legitimate source (the quadrupole's missing half) while its
+energy is already in the field's nonlinearity. The 0034/0035
+channel adds 4S_ij/r to the **spatial block only** — the
+construction that reproduced Einstein's luminosity is exactly the
+one that avoids the trap, with the reason now measured. Battery:
+`ricci_nd`, `ks_point_nd`, `bond_phase`. Open: the bond's action
+(both ends now pinned — tension = force classically, ω^(n_a n_b)
+quantum-mechanically); d ≠ 3 radiation; a genuine second-order
+two-body solve; whether the binding energy is the braiding phase's
+semiclassical limit.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
