@@ -1211,6 +1211,45 @@ restating the ladder in terms of **codimension** rather than
 dimension; the second-order two-body solve; d ≠ 3 radiation (now a
 propagator question, not a source one).
 
+## Noether in 3+1 (0044)
+
+0025's programme (symmetry ↔ measured conserved object → action) run
+one dimension up (`exploration/0044`, `output/0039`). **The channel
+ansatz linearizes the field equations**: for g = η + w·k⊗k with k
+null and geodesic, G^μ_ν is *exactly linear* in the channel
+amplitude (G/λ constant over an 8× range at three profiles,
+deviations 2e−6–1e−5) — so a single channel of any strength solves
+the full nonlinear theory (why the vacuum profile is exact and the
+classical tests came out exact), and **all nonlinearity lives in how
+channels superpose: the bond sector alone**. (Kerr–Schild
+linearization, imported from GR; the content is that the web's
+channel form *is* that ansatz.) **The ten charges, as 2-surface
+integrals** — the 3+1 lift of 0025's loop monodromies (new battery:
+`adm_energy`, `adm_momentum`, `adm_angmom`): static E = 0.020000 =
+m; boosted E = γm and P = γmv to 0.1% at v = 0.3, 0.6; binary
+J_z = 1.0242e−3 vs 2γmav = 1.0206e−3 with J_x,y ~ 2e−14; and
+**binary E = 0.039214 vs 2γm + binding = 0.039225** (2γm alone would
+be 0.040825). **The ADM integral sees the bond's energy**: the bond
+enters as *stress only*, and the constraint converts it into exactly
+the binding energy — which is why adding it as matter as well (0042
+§3) double-counts by 2. That thread closes. **The conservation laws,
+explicitly**: dE/dt = −L with L measured (4.1947e−5 vs GR's
+4.1943e−5); the face-on wave is exactly circularly polarized at
+ω = 2Ω (amplitude ratio **1.0000**, phase **90.0°**) = pure m = 2, so
+**dJ/dE = 2/ω = 1/Ω is measured, not assumed**, giving dJ/dt =
+−L/Ω = −2.62e−5; and the orbit's dE_orb/dJ_orb = Ω, so the fluxes
+come off in exactly the ratio that keeps the orbit circular. **What
+the action must be**: (i) reduce per channel to a form whose field
+equation is linear in that channel's amplitude — supplied
+*trivially* by BF in 2+1, *nontrivially* by Kerr–Schild in 3+1; (ii)
+generate the pair stress −(F·d)n̂n̂ᵀ as the bond, whose energy the
+constraint reports as binding. The functional itself is the one
+unwritten item, now boxed in from three sides (and must reduce to
+0026's S = ΣB(curl θ − src) on removing a dimension). Open: the
+functional; an independent J-flux surface integral; whether the bond
+is a *constraint* phenomenon rather than a source; the boost
+charges.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
