@@ -63,6 +63,14 @@ brackets the root. The first run gave Γ = 2.7e6.)*
 
 ## 4. The residual is velocity, not nonlinearity
 
+> **Corrected by 0051 §3.** The scan below cannot separate strength
+> from velocity: at fixed R/λ the field strength h ≈ 4v³ is
+> *determined* by v, so the "M halved" row necessarily had the same
+> h as the baseline. A distance scan settles it — the residual falls
+> as exactly 1/R, i.e. it is **near-zone contamination**, and the
+> conserved binary's wave-zone field is **exactly vacuum**. The
+> measurements below stand; the inference drawn from them does not.
+
 0048 residue #5 asked whether the conserved binary's 1–4% vacuum
 residual is O(v) source structure or O(h²) field nonlinearity.
 Measured at ~6 wavelengths:

@@ -1430,17 +1430,46 @@ reproduce the metric route's Ricci to **1e−6 relative on three
 non-vacuum profiles** (vacuum profile flat both ways) — 0046's
 identification is now a construction. **Loop decay measured**:
 Γ = P/(Gμ²) = **45.8 (R = 20), 45.4 (R = 30)** — stable in radius to
-1%, against GR's Γ ~ 40–100 for Kibble–Turok loops. **The residual
-is velocity, not nonlinearity**: the conserved binary's ratio goes
-0.0138 → 0.0017 when v halves (**exponent 3.03**) and is
-**identical** when M halves — post-Newtonian source structure, which
-the quadrupole formula also lacks, not a field-theory failure
-(residue #5 closes). Battery: `spin_connection`,
+1%, against GR's Γ ~ 40–100 for Kibble–Turok loops. **The residual** was
+reported here as velocity-not-nonlinearity (0.0138 → 0.0017 when v
+halves, identical when M halves) — **corrected by 0051**: that scan
+cannot separate the two (h ≈ 4v³ at fixed R/λ), and a distance scan
+shows the residual is near-zone contamination falling as 1/R. Battery: `spin_connection`,
 `torsion_residual`, `ricci_palatini`, `rank`, `loop_power`. Open:
 the strictly discrete action (vary S = Σ ε e∧e∧F on 0030's lattice);
 cusp beaming; which PN term gives the v³; and 0048's standing
 items (Lorentzian arena, P4 → Tsirelson, matter, arithmetic
 bridges).
+
+## The discrete action (0051)
+
+The functional varied on a lattice, the cusp burst, and a
+self-correction (`exploration/0051`, `output/0046`). **The discrete
+action, varied**: writing S = Σ ε^{μνρσ}ε_IJKL e e F on a 7-point
+stencil and differentiating numerically — δS/δω = 2.9e−4 at the
+solved spin connection, **falling as a²** (1.15e−3, 2.88e−4,
+7.20e−5) so it is discretization error, against **1.27** at a
+perturbed connection (ratio 4400); δS/δe = 1.1e−3 at the **vacuum**
+profile against 2.63 and 2.03 at non-vacuum profiles. **Both
+Euler–Lagrange equations come out of the lattice action** — the
+functional is verified variationally, not only by
+constraint-matching (0046) or the continuum route (0050). 0050's
+open #1 closes. **The cusp burst**: the loop's cusps move at exactly
+c (1.0000) along ∓x̂; flux in the cusp direction is 4.85× the
+transverse, and the **temporal peak/mean is 34.75 against 1.01
+transverse** — GR's beamed cusp burst, the structure cosmic-string
+burst searches target. **A correction to 0050 §4**: that section's
+"post-Newtonian source structure, strength-independent" was
+unsupported — at fixed R/λ, h ≈ 4v³ is determined by v, so the scan
+could not separate them. A distance scan can: the residual falls as
+**exactly 1/R** (0.02731, 0.01378, 0.00691, 0.00346 at R/λ = 3, 6,
+12, 24; same at half velocity), i.e. it is **near-zone
+contamination** — the non-vacuum part falls as 1/R² while the
+radiative part falls as 1/R, so **the conserved binary's wave-zone
+field is exactly vacuum**. Stronger than the claim it replaces.
+Open: a self-contained lattice theory (independent link variables,
+discrete local Lorentz, exact difference EOMs); the cusp waveform's
+spectral index vs GR's |f|^(−4/3); and 0048's standing items.
 
 ## Known gaps
 
