@@ -1572,6 +1572,42 @@ spectrum. Battery: `flux_expectations`, `weight_fn`,
 links — the real spin-2 test); the area law's coefficient; two
 masses (the bond's quantum ancestor); 0048's standing items.
 
+## Three quantum fronts (0055)
+
+0054's opens closed (`exploration/0055`, `output/0050`), the first
+being the quantum arc's sharpest result. **The quantum simplicity
+constraint**: summing the frame factors of B = e∧e inside the action
+gives a Gauss sum over *simple bivectors*,
+K(F) = Σ_{a,b} ω^{ε_IJKL a^I b^J F^KL}, whose weight depends only on
+the simplicity invariant Pf(F) = ε_IJKL F^IJ F^KL/8 — with an exact,
+level-independent hierarchy: **flat costs 0, simple (geometric)
+curvature costs 2 log N, non-simple costs exactly 4 log N** (N = 2
+and 3). *Non-geometric curvature costs exactly twice what geometric
+curvature costs*, and nothing is forbidden (no K = 0) — the
+constraint is a **suppression by N² per plaquette, not a delta
+function**: Plebanski's constraint is *priced, not imposed*. The arc
+closes — 0046 identified simplicity with the ledger, 0053 showed the
+ledger prices curvature, and here the price resolves **by
+simplicity**, the sector where the polarizations live. **The
+jitter's tension**: 0054's area law gets its derived coefficient —
+the single-plaquette factor f(N) = Σ_F gcd(F,N)ω^F / Σ_F gcd(F,N),
+a normalized Ramanujan-type sum (1/3, **2/5**, 1/4, 4/9, 6/13 at
+N = 2, 3, 4, 5, 7) — with ⟨W(R)⟩ = f^|R| measured 0.4007/0.1618
+against 0.4000/0.1600 (the 4-plaquette value carries the torus's
+global-constraint correlation). Geometry's zero-point jitter has a
+string tension. **No pair force, quantum mechanically**: the
+interaction energy of two sources is **exactly zero at every
+separation**, reproducing 0020's classical no-pair-force and 0043's
+dimensional trade — the quantization introduced no spurious
+dynamics, and the null is sharp because the same measure *does*
+produce a deficit and a propagating quantum. Battery:
+`simplicity_kernel`, `pfaffian`, `single_plaquette_factor`,
+`log_partition`. Open: the **3+1 quantum force** (where the
+classical theory gives Newton — the sharpest remaining test);
+folding shared-frame correlations into the kernel; counting
+polarizations in the constrained measure (the real spin-2 test);
+0048's standing items.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
