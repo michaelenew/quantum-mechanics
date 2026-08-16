@@ -1104,6 +1104,41 @@ derivation of T = F; N-body pair sums; the bond's quantum (no
 deficit ⇒ not charge-quantized — candidate: entanglement, the ½
 ledger).
 
+## The bond ledger (0041)
+
+0040's opens, three answered and one registered
+(`exploration/0041`, `output/0036`) — with a coincidence that turns
+out to be a condition. **The local negative**: 0037's static
+O(M₁M₂) violation is *not* locally the bond's field stress (pointwise
+G_ij/t_ij scatters −603..+618 against 8π = 25.1) — the bond is an
+integrated, gauge-invariant object and the superposition's local
+residual is pseudotensor gauge; 0037's "violation" is the two-body
+gauge problem, not a local defect. **Tension is the force, always**:
+for F = k/d^(p+1) the virial deficit is −(F·d)n̂n̂ᵀ at every exponent
+(p = 0.5, 1, 2, 3; 1e−8). **But μ/T = −1/p exactly**, so μ + T = 0 —
+zero deficit, verified through the charge reader at five exponents —
+happens **only at p = 1, the inverse-square law**, which is exactly
+what the web's vacuum principle selected (0036). *The web's field
+law is the one for which correlation carries no participation
+charge*: a theory whose two tiers must stay distinguishable has one
+force law available. **The dimensional selection**: in d spatial
+dimensions the harmonic profile gives p = d−2 and the transverse
+charge (μ+T)/T = (d−3)/(d−2) — **zero only at d = 3**, which is also
+the only dimension where a bond (a line) is codimension 2 and the
+missing charge is a conical deficit at all. The two-tier postulate,
+the inverse-square law, and three spatial dimensions are one
+condition. **N bodies**: the 3-body conservation deficit is exactly
+the pair sum of bonds (2e−16) — participation additive (Σm_a,
+holonomy charge), bonds bilinear (Σ_{a<b} m_a m_b): **charges add,
+bonds multiply** — marginals vs joints, entropy vs mutual
+information. **The bond's quantum** (registered): no deficit ⇒ no
+2πn/N charge, but bilinear in participations ⇒ weights n_a n_b, the
+multiplication table — the shape of entanglement, not of charge;
+the open construction is the bond's operator with classical limit
+tension = force. Open: that operator; beyond power laws; a
+constructive two-body solution; the d ≠ 3 measurement (would upgrade
+the dimensional selection from extension to theorem).
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
