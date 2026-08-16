@@ -1175,6 +1175,42 @@ quantum-mechanically); d ≠ 3 radiation; a genuine second-order
 two-body solve; whether the binding energy is the braiding phase's
 semiclassical limit.
 
+## The dimensional trade (0043)
+
+0042's ladder run **down** to d = 2 returns the program's founding
+object and shows what dimension trades (`exploration/0043`,
+`output/0038`). **The atom is the d = 2 vacuum**: the harmonic
+exponent there is p = 0 — constant channel strength — measured as
+vacuum (1.5e−6) and nowhere else; the test particle feels **no
+force** (machine zero); the deficit is **0.772467** against the
+exact atom 2π(1−(1+w)^(−1/2)) = 0.772467. 0014's cone and 0019's
+atom are the two-dimensional case of the same field law that gives
+Schwarzschild at d = 3, and **0020's "no pair force in 2+1" is now
+derived** from the vacuum principle rather than observed.
+**Topological vs geometric holonomy**: the charge reader around a
+codim-2 source is *exactly* R-independent (0.772467 at R = 0.6, 1,
+2, 4; spread 4e−12) while around a codim-3 point it dilutes as
+2πM/R (0.4661 → 0.0771) — **the codimension decides whether a
+charge is a topological invariant or a curvature integral.** **The
+trade**: d = 2 has topological charge and no force; d = 3 has
+Newton's force and **zero** bond charge; d ≥ 4 has both. *Three
+spatial dimensions is where the bond has traded its charge for a
+force* — the unique dimension in which correlation acts without
+registering as participation. This refines 0042 honestly: the
+braiding phase ω^(n_a n_b) is the **2+1 realization** of the bond's
+product structure, while in 3+1 the same bilinearity appears
+dynamically as m_a m_b/d — one product structure, two carriers,
+selected by codimension (3+1 *strings* get the topological carrier
+back: linking, 0030). **The half is kinematics**: 0039's 50/50
+split holds for every force law (ratio 1.000000 at p = 0.5, 1, 2,
+3), following from mΩ²a = F ⟹ 2mv² = Fd — circular motion alone.
+The "missing half" was never gravitational: it is what binding
+means for a closed orbit, and gravity only set its tension. Open:
+the bond's action (both ends pinned, middle unwritten);
+restating the ladder in terms of **codimension** rather than
+dimension; the second-order two-body solve; d ≠ 3 radiation (now a
+propagator question, not a source one).
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
