@@ -923,6 +923,42 @@ Nambu–Goto exactly does not (matter sector, unconstrained by data);
 and the unbuilt **time sector** (lapse/shift) — now the program's
 sharpest missing construction. Battery: `ricci_tensor`.
 
+## The time sector (0035)
+
+0034's sharpest missing construction, built — and it absorbs three
+fronts at once (`exploration/0035`, `output/0030`). **The covariant
+null-channel metric**: k_μ = ℓ_μ/(u·ℓ) (retarded null vector,
+normalized by the *sender's clock*), g = η + w·kkᵀ — Kerr–Schild
+form. Three derived consequences, machine-verified: (1) **the web is
+the slice** — static k = (−1, n̂), spatial block = I + w·n̂n̂ᵀ
+exactly; (2) **the strength law is derived, not chosen** — moving
+slice = I + wD²n̂n̂ᵀ exactly, D the Doppler factor: w_eff = wD²;
+(3) **boost covariance is automatic** — machinery on the boosted
+worldline = Lorentz pullback of static to 4e−16, so 0024's baseline
+was the slice shadow of the null structure and the 0023/0024/0025
+statics anomalies dissolve by isometry. Instrument: 4D
+Riemann/Ricci/Einstein pipeline validated on flat, static
+Schwarzschild–Kerr–Schild (vacuum 5e−7), and boosted Schwarzschild
+built by the covariant machinery itself (3e−7). **Implied matter in
+closed form**: constant-w point = global monopole equation of state
+exactly (G^t_t = G^r_r = −w/r², zero tangential); static string =
+cosmic-string spacetime (flat off-axis 1e−6); **GR's point mass is
+the same form with w = 2M/(u·ℓ)** — web-vs-GR statics is a strength
+profile, not a structure; codim ladder derived for general c
+(one-line theorem). **Detector response**: a measured normalization
+fork — element-clock metering broadcasts γ(t_ret) undecayed
+(non-decaying trace wave, Ricci/Riemann ~1: the photon-rocket
+pathology, rejected); system-clock metering gives E_ij = R_{0i0j}
+**TT at 0.982–0.992, exactly 1/R, vector second order** — 0034's
+caveat closes: detectors see the TT wave. The 4D Ricci wave is
+0.19–0.20 of the Riemann wave: dominantly Weyl, with a measured
+~20% radiative stress admixture as the quantified departure from
+vacuum GR. Open: the Newtonian limit (what makes w run as 1/ρ —
+now the sharpest gap); the clock principle; whether the 20% is
+rule-artifact or falsifiable physics; energy flux/quadrupole
+coefficient. Battery: `riemann4`/`ricci4`, `ks_metric`, `cov_k`,
+`E_and_ric`.
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
