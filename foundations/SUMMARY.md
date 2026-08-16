@@ -1068,6 +1068,42 @@ violation; derive S_ij web-natively (virial = force × proper
 separation, both 0025 charges); in-model Hulse–Taylor;
 self-consistent motion.
 
+## The bond is a string (0040)
+
+What the bond *is*, in closed form, confirmed by two independent
+routes (`exploration/0040`, `output/0035`). **The virial law**:
+the conservation deficit closes as **S_ij = −(m₁m₂/d)n̂ᵢn̂ⱼ =
+−(F·d)n̂ᵢn̂ⱼ** (1e−8) — the bond's integrated stress is a pure
+tension along the line joining the participants, magnitude force ×
+separation (0039's 2% residual identified as γ−1). **Measured from
+the field itself**: in prolate spheroidal coordinates (masses at
+the foci) the field-stress cross-terms reduce to two universal
+integrals — trace = 1.000000 (the exact calibration) and
+longitudinal = 0.000000 (the result) — giving ∫t_ij = −(m₁m₂/d)n̂n̂ᵀ,
+*identically* the virial bond: **the bond is not an add-on, it is
+the field between the participants**, and its integrated stress is
+a stretched string. **The anti-string**: tension T = m₁m₂/d² =
+exactly the force; energy μ = −m₁m₂/d² = the binding energy; so
+**μ = −T**, and since a string's deficit is 4π(μ+T) (verified on
+four string types with the 0033 charge reader: cosmic string
+0.25129, mass line/strut 0.12564, **bond 0.00000**), the bond has
+**zero conical deficit while carrying the whole binding energy**.
+The theory's two string species are one equation of state's
+extremes — cosmic string (μ=+T): all deficit, no attraction; bond
+(μ=−T): all attraction, no deficit. The bond carries budget but
+**no holonomy charge** — invisible to the charge reader, exactly as
+correlation (not participation) must be: P2's two tiers as two
+string equations of state. **In-model Hulse–Taylor**: radiated
+power 4.1947e−5 vs GR's quadrupole 4.1943e−5 — **ratio 1.0001**;
+the γ-bond variant gives 0.980, the spread being γ−1 = v²/2 (the
+1PN correction the formula doesn't capture — the honest floor).
+Battery: `gauss_legendre`, `radiated_power`, `tt_project`,
+`bond_stress_closed`. Open: does the bond cancel 0037's O(M₁M₂)
+static violation (completing the two-body rule); the web-native
+derivation of T = F; N-body pair sums; the bond's quantum (no
+deficit ⇒ not charge-quantized — candidate: entanglement, the ½
+ledger).
+
 ## Known gaps
 
 - Whether P4 (or MRE inside a PR-box) tightens the bound to Tsirelson — the
