@@ -90,6 +90,18 @@ but it carries no observational content.
 
 ## 3. Where falsifiability actually lives: the two-body rule
 
+> **CORRECTED BY 0060.** The binary below is wrong. 0046 identified
+> the classical action as S = (1/2κ)∫ε_IJKL e∧e∧F and 0050 verified
+> it (torsion rank 24/24, 2 dof, Ricci matched to 1e−6) — that is
+> the **Palatini action of general relativity**, so the field
+> equations are Einstein's and EIH follows *necessarily*, not as a
+> test outcome. **No classical measurement in this program can
+> falsify GR, because classically the program is GR.** The question
+> with a real failure mode is whether the web's *construction*
+> (channels + bond) can generate Einstein's solutions; 0060 runs the
+> first piece and validates a pass/fail criterion for the rest. The
+> section below is retained as written for the record.
+
 The program's only unfixed dynamical freedom is 0037's measured
 O(M₁M₂) violation of the field equation by superposed channels —
 coefficient 48.7 / 48.3 / 48.2 over a 4× mass range, a **1.03%**

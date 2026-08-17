@@ -1730,6 +1730,51 @@ that can falsify the program); the closed form of the ~48
 coefficient; fixing t or N in the quantum sector (a derived t
 predicts a graviton mass, bounded by LVK).
 
+## The second-order test (0060)
+
+`exploration/0060`, `output/0054`. **Corrects 0059 §3.** 0046
+identified the classical functional as S = (1/2κ)∫ε_IJKL e∧e∧F and
+0050 verified it (torsion rank 24/24, ω algebraic in e, 2 dof,
+Palatini route matching the metric route's Ricci to 1e−6) — **that is
+the Palatini action of general relativity**, so the field equations
+are Einstein's and EIH follows necessarily. **No classical
+measurement in this program can falsify GR, because classically the
+program is GR.** The question with a real failure mode is instead
+whether the web's *construction* (channels + bond) can generate
+Einstein's solutions. **The diagnostic, validated**: truncating
+harmonic-coordinate Schwarzschild at successive orders and measuring
+the log-log slope of the off-source residual against mass gives
+**1.985** (first order, h² missing), **2.885** (second order, h²
+correct), **0.996** (exact — a finite-difference floor scaling as M¹,
+so the noise has a different slope from any signal). The instrument
+reads out whether h² is right. **The measurement**: scanning 0046's
+frame-square cross-term coefficient c over [−2,+4] gives a minimum at
+c = 1.5 (2.51e−3 vs superposition's 5.16e−3) — but the mass slope is
+**2.015 / 2.022 / 2.042** at c = 0 / 1.0 / 1.5, signal 433× above the
+floor. **The optimum reduces the coefficient 2× and leaves the order
+untouched**: no scalar multiple of the frame-dictated cross term is
+the second-order solution, and the pointwise-ansatz path is closed.
+This **confirms** 0046's conjecture ("no pointwise ansatz supplies it
+— that is the field equation's own job") and closes its open item
+with the answer that a genuine iteration is required and has not been
+run. Recorded structural correspondence, not yet measured: **the bond
+is the Weyl strut** — GR needs a strut to hold two static masses
+apart, and the bond's virial law ∫S = −F·d is exactly a strut of
+tension F = Gm₁m₂/d² over length d. Battery: `log_slope`,
+`worst_residual`, `harmonic_schwarzschild`, `two_body_residual`.
+Honest limits: §2 scans one scalar on a fixed tensor structure, so it
+kills *that* structure at any weight, not every possible ansatz;
+§1's 2.885 falls short of 3 because the FD floor contributes at the
+smallest masses (only 7× separation there); R_μν ≠ 0 is
+gauge-invariant so the violation is real, but its magnitude is
+coordinate-dependent; the strut identification is structural, not
+numerical. Open: **does the bond's contribution move the slope from 2
+to 3** (the sharpest well-posed classical test, now with a validated
+criterion and a real failure mode); verify the strut tension
+numerically; a genuine e-equation iteration; and the quantum sector's
+free parameters, which remain the only place an *observational*
+falsifier could live.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
