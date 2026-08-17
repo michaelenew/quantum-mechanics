@@ -1793,6 +1793,58 @@ numerically; a genuine e-equation iteration; and the quantum sector's
 free parameters, which remain the only place an *observational*
 falsifier could live.
 
+## Curvature from the quantized 3+1 model (0061)
+
+`exploration/0061`, `output/0055`. The 3+1 analogue of 0054's quantum
+deficit — two positives and one sharp negative. **The split is exact
+in finite arithmetic**: building the Riemann operator on bivectors over
+Z_N (symmetric 6×6 plus first Bianchi) and decomposing by
+Kulkarni–Nomizu (needs N coprime to 6) gives **Riemann 20, Ricci 10,
+Weyl 10 in n = 4** and **6, 6, 0 in n = 3**, matching the continuum
+n²(n²−1)/12, n(n+1)/2, n(n+1)(n+2)(n−3)/12 exactly at N = 5 and 7.
+**Weyl exists in 3+1 and vanishes identically in 2+1 — the graviton's
+existence, and its absence one dimension down, as finite-field
+arithmetic with no continuum limit taken.** **The vacuum Einstein
+equation is arithmetic too**: with the Hodge star on bivectors
+(Euclidean, ⋆² = 1), **[R, ⋆] = 0 ⟺ traceless Ricci = 0**, verified
+3000/3000 at N = 5, with pure-Weyl curvatures commuting 300/300 — in
+block form R = [[W⁺+s/12, r̊],[r̊ᵀ, W⁻+s/12]] and Einstein is exactly
+the vanishing off-diagonal block, so "this curvature is Einstein" is a
+finite decidable predicate on Z_N data. **But the measure does not
+select it** — the honest negative, killing the hypothesis the arc had
+drifted toward since 0055. Lifting the per-plaquette price (kernel
+codimension 0/2/4) to an operator by summing its six plaquette
+columns: price changed in **220/300** when Ricci varied at fixed Weyl
+and **209/300** when Weyl varied at fixed Ricci, so it factors through
+neither; and the cheapest-tier fractions are **0.0087 (pure Weyl) /
+0.0002 (generic) / 0.0605 (pure Ricci)** — both special sectors beat
+generic (44× and 300×) but **pure Ricci beats pure Weyl, the opposite
+of vacuum selection**. The simplicity price is not the Einstein
+equation; what imposes vacuum is the action's variation, not the
+measure's weight. **Ambrose–Singer says why**: a smooth metric with
+finite holonomy is flat, so a literal Z_N-holonomy lattice carries
+piecewise-flat geometry with conical defects — in 2+1 that is the
+whole theory (Deser–Jackiw–'t Hooft, and 0054's deficit is the abelian
+sector doing exactly its job), but in 3+1 it means **string defects
+and no Weyl to carry gravitons**. The Weyl sector exists in the
+arithmetic and a Z_N gauge sector cannot carry it — **one obstruction
+underlying four standing opens** (0054/1, 0055/3, 0056/2, 0057/1). The
+2+1 quantum success was not a warm-up for 3+1; it was the abelian
+ceiling, reached. Battery: `Curv`, `hodge_matrix`, `operator_price`,
+`rank_modp`. Honest limits: §1–3 use formal Riemann tensors over Z_N
+with the symmetries imposed **by hand**, so the tetrad and
+torsion-freedom are assumed rather than produced; Euclidean signature
+throughout (the real 5+5 SD/ASD split is Riemannian — Lorentzian Weyl
+is 5 *complex* NP scalars); N = 5, 7 only; the six-columns↔six-plaquettes
+lift is a modelling choice ignoring 0056 §3's shared-frame correlation;
+the tail statistic is on 6000 samples/sector with means within 1.5%;
+and Ambrose–Singer is about smooth metrics, so §4 constrains what the
+continuum limit can be rather than being a lattice theorem. Open:
+**quantize the nonabelian links** (the one move §4 requires, resolving
+all four standing opens — target: a nonzero Weyl block and a mode count
+against 2); Lorentzian ⋆² = −1; what the geometric/non-geometric tier
+*is* tensorially, given it is not Ricci/Weyl.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
