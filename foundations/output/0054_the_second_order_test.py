@@ -51,6 +51,33 @@ channels, plus the bond) ACTUALLY GENERATE EINSTEIN'S SOLUTIONS?
       no scalar multiple of the frame-dictated cross term is the
       second-order solution.
 
+  s2b THE ORDER DIAGNOSTIC IS GAUGE-DEPENDENT (adversarial review,
+      incorporated).  "Truncate at first order" is NOT a
+      coordinate-independent notion: Kerr-Schild Schwarzschild
+      TERMINATES at first order (it is exact, so its residual is
+      the floor), while harmonic Schwarzschild does not (slope 2).
+      Same spacetime, different slope.  An M-dependent diffeo with
+      xi = O(M) shifts the truncated metric at O(M^2) -- exactly
+      the order being measured -- so the leading residual
+      coefficient is not an invariant and Stewart-Walker does not
+      apply to a truncated series.  What survives:
+        - "R_mn is nonzero at O(w1 w2)" IS gauge-invariant, since
+          R_mn is a tensor.  Confirmed analytically off this
+          module: on the axis outside both bodies the bilinear
+          Ricci is exactly 4 w1 w2 d^2/(r1^3 r2^3) l_mu l_nu.
+        - the measurement is about the WEB'S OWN construction in
+          the WEB'S OWN coordinates, which is the object of
+          interest -- not a claim that no gauge-equivalent repair
+          exists;
+        - the test certifies a candidate h2 only modulo ker R^(1)
+          (pure gauge plus homogeneous linearized-vacuum
+          solutions), which only boundary conditions exclude.
+      The noise floor is separately checked to be
+      finite-difference TRUNCATION (slope 1, ratio 2.00 per
+      halving down to M = 6.25e-4 at 8.7e-8) and not roundoff
+      (eps_mach/h^2 ~ 2.2e-10, some 400x below), so it cannot
+      flatten the tail toward slope 0 in this range.
+
   s3  WHAT IS AND IS NOT SHOWN.  This is a CONFIRMATION of a stated
       expectation, not a falsifier.  It closes 0046's open item
       ("iterate the e-equation once to confirm the residual drops
@@ -157,6 +184,18 @@ def verify_diagnostic() -> None:
     assert 2.6 < s2 < 3.3, s2
     assert se < 1.4, se
     assert s2 - s1 > 0.7, (s1, s2)
+    # the floor must be FD truncation (slope 1), not roundoff
+    # (slope 0) -- otherwise the small-M tail flattens and fakes
+    # a slope change.  eps_mach/h^2 ~ 2.2e-10 here.
+    deep = [worst_residual(harmonic_schwarzschild(m, 'exact'))
+            for m in (0.0025, 0.00125, 0.000625)]
+    for a, b in zip(deep, deep[1:]):
+        assert 1.9 < a / b < 2.1, (a, b)
+    assert deep[-1] > 100 * 2.22e-16 / 1e-6, deep[-1]
+    print(f"      floor is FD truncation, not roundoff: halving M "
+          f"halves it ({deep[0] / deep[1]:.2f}x, {deep[1] / deep[2]:.2f}x)")
+    print(f"      and sits {deep[-1] / (2.22e-16 / 1e-6):.0f}x above "
+          f"the roundoff floor eps/h^2")
     print()
     print("  THE SLOPE DISTINGUISHES A CORRECT SECOND-ORDER TERM FROM")
     print("  A MISSING ONE, on a case where the answer is known.  The")

@@ -117,12 +117,61 @@ object GR requires at this order.
 Whether the bond supplies the *correct* h² is the sharp open
 question, and §1 now gives it a pass/fail criterion.
 
+## 4. The diagnostic is gauge-dependent — what survives
+
+Adversarial review of §1's reasoning found a real error, incorporated
+here rather than buried.
+
+**"Truncate at first order" is not a coordinate-independent notion.**
+Kerr–Schild Schwarzschild *terminates* at first order — it is exact,
+so its residual is the floor. Harmonic Schwarzschild does not, and
+gives slope 2. Same spacetime, different slope. More generally, an
+M-dependent diffeomorphism with ξ = O(M) shifts a truncated metric at
+O(M²) — precisely the order being measured — so the leading residual
+coefficient is **not** an invariant, and Stewart–Walker (which governs
+perturbations of an exact one-parameter family) does not license
+treating it as one.
+
+What survives the objection:
+
+1. **"R_μν ≠ 0 at O(w₁w₂)" is gauge-invariant**, because R_μν is a
+   tensor and vanishing is chart-independent. Confirmed
+   analytically: on the axis outside both bodies the bilinear Ricci
+   is exactly **4w₁w₂d²/(r₁³r₂³) ℓ_μℓ_ν** — null dust with positive
+   energy density, a product of the two bodies' tidal scales. The
+   superposition genuinely is not a vacuum solution.
+2. **The measurement is about the web's own construction in the
+   web's own coordinates**, which is the object of interest. It is
+   not a claim that no gauge-equivalent repair exists.
+3. **The test certifies a candidate h² only modulo ker R⁽¹⁾** — pure
+   gauge plus homogeneous linearized-vacuum solutions, which only
+   boundary/matching conditions exclude.
+
+Separately checked, because it could have faked a slope change: the
+noise floor is finite-difference **truncation** (slope 1 — ratio 2.00
+per halving down to M = 6.25e−4 at 8.7e−8), not roundoff
+(ε_mach/h² ≈ 2.2e−10, some 400× below). A roundoff-dominated tail
+would flatten toward slope 0; this one does not.
+
+**The strut, independently corroborated.** The same review, reasoning
+from GR alone with no knowledge of this repo, concluded that for a
+static pair the second-order source carries a net force Gm₁m₂/d² per
+body, so an order-by-order repair *either accelerates the bodies or
+reintroduces the Bach–Weyl / Israel–Khan strut*. That is §3's
+identification arrived at from the opposite direction, and upgrades it
+from a noticed resemblance to a corroborated structural fact — though
+still not a numerical measurement of the bond's tension.
+
 ## Honest limits
 
 - §2 scans one scalar degree of freedom (the coefficient of a fixed
   tensor structure). It shows *that* structure cannot be the second
   order at any weight. It does **not** prove no pointwise ansatz of
   any form can work — a different tensor structure is untested.
+- Per §4, the *order* statement is relative to the coordinate
+  presentation. The gauge-invariant residue of §2 is narrower than
+  the section's headline: the web's construction as presented is not
+  second-order correct, and the O(w₁w₂) Ricci is genuinely nonzero.
 - §1's second-order slope is 2.885, not 3.000, because at the
   smallest masses the FD floor begins to contribute (2.38e−6 against
   a floor of 3.48e−7, only 7×). The separation from 2 is what the

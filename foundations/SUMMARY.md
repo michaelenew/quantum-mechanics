@@ -1760,10 +1760,28 @@ with the answer that a genuine iteration is required and has not been
 run. Recorded structural correspondence, not yet measured: **the bond
 is the Weyl strut** — GR needs a strut to hold two static masses
 apart, and the bond's virial law ∫S = −F·d is exactly a strut of
-tension F = Gm₁m₂/d² over length d. Battery: `log_slope`,
+tension F = Gm₁m₂/d² over length d. **The diagnostic is gauge-dependent** (adversarial review,
+incorporated): "truncate at first order" is not coordinate-independent
+— Kerr–Schild Schwarzschild *terminates* at first order while harmonic
+does not, and an M-dependent diffeo with ξ = O(M) shifts a truncated
+metric at O(M²), the very order measured, so the leading residual
+coefficient is not an invariant. What survives: **R_μν ≠ 0 at
+O(w₁w₂) is gauge-invariant** (confirmed analytically — on the axis the
+bilinear Ricci is exactly 4w₁w₂d²/(r₁³r₂³) ℓ_μℓ_ν, null dust with
+positive energy density); the measurement is about the web's own
+construction in its own coordinates; and the test certifies h² only
+modulo ker R⁽¹⁾. The floor is separately verified to be
+finite-difference *truncation* (slope 1, ratio 2.00 per halving down
+to 8.7e−8 at M = 6.25e−4) and not roundoff (392× above ε/h²), so it
+cannot flatten the tail and fake a slope change. **The strut is
+independently corroborated**: the same review, reasoning from GR alone,
+concluded a static pair's second-order source carries a net force
+Gm₁m₂/d² per body, so the repair either accelerates the bodies or
+reintroduces the Bach–Weyl/Israel–Khan strut. Battery: `log_slope`,
 `worst_residual`, `harmonic_schwarzschild`, `two_body_residual`.
 Honest limits: §2 scans one scalar on a fixed tensor structure, so it
-kills *that* structure at any weight, not every possible ansatz;
+kills *that* structure at any weight, not every possible ansatz; the
+*order* statement is relative to the coordinate presentation;
 §1's 2.885 falls short of 3 because the FD floor contributes at the
 smallest masses (only 7× separation there); R_μν ≠ 0 is
 gauge-invariant so the violation is real, but its magnitude is
