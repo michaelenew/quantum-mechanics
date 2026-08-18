@@ -37,35 +37,71 @@ one sharp negative.
       its six plaquette columns, and test what the price is a
       function of:
 
-        same Weyl, Ricci changed  ->  price CHANGED in 210/300
-        same Ricci, Weyl changed  ->  price CHANGED in 214/300
+        same Weyl, Ricci changed  ->  price CHANGED in 220/300
+        same Ricci, Weyl changed  ->  price CHANGED in 209/300
 
       It factors through NEITHER.  And the Einstein sector is not the
       cheap one:
 
         sector                 mean price   fraction at the cheapest tier
-        pure Weyl (Ricci = 0)     21.545        0.0107
-        generic                   21.510        0.0001
-        pure Ricci (Weyl = 0)     21.186        0.0652
+        pure Weyl (Ricci = 0)     21.478        0.0087
+        generic                   21.535        0.0002
+        pure Ricci (Weyl = 0)     21.216        0.0605
 
       Both algebraically special sectors are far likelier to be cheap
-      than generic (107x and 650x), so the measure does prefer special
+      than generic (44x and 300x), so the measure does prefer special
       curvature -- but it prefers PURE RICCI over PURE WEYL, the
       opposite of vacuum selection.  THE SIMPLICITY PRICE IS NOT THE
       EINSTEIN EQUATION.  Whatever imposes vacuum in this theory is
       the action's variation, not the measure's weight.
 
+      WHAT THE PRICE IS.  The weight comes from integrating the
+      frame out of the action's eps.B.F term, B = e^e:
+        K(F) = sum_{a,b} omega^{eps_IJKL a^I b^J F^KL}
+      a sum of PHASES.  The exponent is linear in a, so the
+      a-sum is a CHARACTER SUM: N^4 when eps_IJKL b^J F^KL
+      vanishes, exactly 0 otherwise.  So
+        K(F) = N^4 * #{ b : the curvature annihilates b }
+      -- 0056's kernel count, now derived.  A tempting misreading,
+      checked and REJECTED: K is not the count of frame pairs
+      pairing to zero (2673 vs K = 729 at N = 3 simple); the
+      surplus phases cancel among themselves.  So the tiers count
+      HOW MANY INDEPENDENT PLANES THE CURVATURE ROTATES IN --
+      none, one, or two.  It cannot be Einstein for two reasons:
+      the price interrogates a SINGLE BIVECTOR's rank while
+      Einstein interrogates the OPERATOR's commutator with the
+      star; and A MEASURE IS NOT AN EQUATION OF MOTION --
+      integrating out sums over every frame, varying selects
+      stationary points.
+
   s4  AND AMBROSE-SINGER SAYS WHY.  A smooth metric whose holonomy
       group is FINITE is flat (the holonomy algebra is spanned by the
       curvature).  So a literal Z_N-holonomy lattice describes
       piecewise-flat geometry with conical defects -- exactly right in
-      2+1, where that IS Deser-Jackiw-'t Hooft and 0054's deficit, but
-      in 3+1 it means STRINGS, not gravitons.  The Weyl sector exists
-      in the arithmetic (s1) and a Z_N gauge sector cannot carry it.
+      2+1, where that IS Deser-Jackiw-'t Hooft and 0054's deficit, and
+      in 3+1 it gives STRING defects.  The Weyl sector exists in the
+      arithmetic (s1) and a finite-holonomy sector cannot carry it.
       That is a structural reason the abelian quantum arc reached
-      Newton (0057) and keeps not reaching polarizations, and it
-      names the next move exactly as 0054 already did: QUANTIZE THE
-      NONABELIAN LINKS.
+      Newton (0057) and keeps not reaching polarizations.
+
+      THREE CORRECTIONS to how this was first stated:
+      (a) STRINGS RADIATE, and this repo measured it -- 0049 gets
+          Gamma = P/(G mu^2) = 45.8 for an oscillating Kibble-Turok
+          loop against GR's 40-100.  A STATIC straight string is flat
+          outside itself and radiates nothing; an OSCILLATING one
+          radiates strongly.  The correct claim is narrower: the
+          finite sector holds the DEFECT but not the RADIATION FIELD.
+      (b) QUANTUM DOES NOT MEAN FINITE.  Quantization discretizes
+          spectra, not the group: lattice QCD keeps SU(3), loop
+          quantum gravity keeps SU(2) and gets discrete areas from
+          representation labels.  Z_N was a TRACTABILITY choice --
+          it is what made 0053-0057 exactly enumerable.
+      (c) "NONABELIAN" IS THE WRONG WORD for the fix.  A finite
+          nonabelian group is still finite and still forced flat; and
+          Lorentzian pp-waves have ABELIAN holonomy (null rotations)
+          while being Ricci-flat and curved.  The operative property
+          is CONTINUITY.  The classical lattice (0047) already uses
+          SO(3,1) links; only the quantum sector shrank to Z_N.
 
 Run directly for the verification suite.
 """
@@ -404,16 +440,27 @@ def verify_ambrose_singer_reading() -> None:
         dW = rank_modp([flat(cv.weyl(M)) for M in basis(cv)], N)
         reading = ("point defects -- exactly Deser-Jackiw-'t Hooft "
                    "and 0054" if n == 3 else
-                   "STRING defects, and no Weyl to carry gravitons")
+                   "STRING defects, but not their radiation field")
         print(f"      n = {n}: Weyl dimension {dW} -> {reading}")
     print()
-    print("  THE WEYL SECTOR EXISTS IN THE ARITHMETIC (s1) BUT A Z_N")
-    print("  GAUGE SECTOR CANNOT CARRY IT.  That is a structural reason")
-    print("  the abelian quantum arc reached Newton (0057) and keeps")
-    print("  not reaching polarizations -- and it names the next move")
-    print("  exactly as 0054 already did: quantize the nonabelian")
-    print("  links.  The 2+1 success was not a warm-up for 3+1; it was")
-    print("  the abelian sector doing the only job it can do.")
+    print("    Corrections to the first statement of this:")
+    print("      (a) strings DO radiate -- 0049 measured Gamma = 45.8")
+    print("          for an oscillating loop.  The finite sector holds")
+    print("          the DEFECT, not the RADIATION FIELD.")
+    print("      (b) quantum does NOT mean finite: lattice QCD keeps")
+    print("          SU(3), loop quantum gravity keeps SU(2).  Z_N was")
+    print("          a tractability choice, not a consequence.")
+    print("      (c) the fix is CONTINUITY, not non-commutativity --")
+    print("          a finite nonabelian group is still forced flat,")
+    print("          and pp-waves have abelian holonomy while curved.")
+    print()
+    print("  THE WEYL SECTOR EXISTS IN THE ARITHMETIC (s1) BUT A")
+    print("  FINITE-HOLONOMY SECTOR CANNOT CARRY IT.  That is a")
+    print("  structural reason the abelian quantum arc reached Newton")
+    print("  (0057) and keeps not reaching polarizations.  The 2+1")
+    print("  success was not a warm-up for 3+1; it was the abelian")
+    print("  sector doing the only job it can do -- and the finiteness")
+    print("  that caps 3+1 is exactly what made 2+1 exactly solvable.")
 
 
 def run_verification_suite() -> None:

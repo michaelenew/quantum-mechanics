@@ -1825,8 +1825,33 @@ measure's weight. **Ambrose–Singer says why**: a smooth metric with
 finite holonomy is flat, so a literal Z_N-holonomy lattice carries
 piecewise-flat geometry with conical defects — in 2+1 that is the
 whole theory (Deser–Jackiw–'t Hooft, and 0054's deficit is the abelian
-sector doing exactly its job), but in 3+1 it means **string defects
-and no Weyl to carry gravitons**. The Weyl sector exists in the
+sector doing exactly its job), and in 3+1 it gives **string defects but
+not their radiation field**. **Three corrections recorded**: (a)
+strings DO radiate — 0049 measured **Γ = 45.8** for an oscillating
+Kibble–Turok loop against GR's 40–100, so the finite sector holds the
+*defect*, not the *radiation field* (a straight static string is flat
+outside itself and radiates nothing; an oscillating one radiates
+strongly); (b) **quantum does not mean finite** — quantization
+discretizes spectra, not the group (lattice QCD keeps SU(3), LQG keeps
+SU(2) with discrete representation labels), so Z_N was a *tractability*
+choice and is exactly what made 0053–0057 enumerable; (c)
+**"nonabelian" is the wrong word for the fix** — a finite nonabelian
+group is still forced flat, and Lorentzian pp-waves have *abelian*
+holonomy while being Ricci-flat and curved, so the operative property
+is **continuity** (the classical lattice already uses SO(3,1); only the
+quantum sector shrank). **What the price actually is**: the weight
+comes from integrating the frame out of ε·B·F, and the a-sum is a
+*character sum* returning N⁴ when ε_IJKL b^J F^KL vanishes and exactly
+zero otherwise, so **K(F) = N⁴ × #{b : the curvature annihilates b}** —
+0056's kernel count, now derived. A tempting misreading was checked and
+rejected: K is *not* the count of frame pairs pairing to zero (2673 vs
+K = 729 at N = 3 simple); the surplus phases cancel. So the tiers count
+**how many independent planes the curvature rotates in** — none, one,
+or two. It cannot be Einstein for two reasons: the price interrogates a
+*single bivector*'s rank while Einstein interrogates the *operator*'s
+commutator with ⋆; and **a measure is not an equation of motion** —
+integrating out sums over every frame, varying selects stationary
+points. The Weyl sector exists in the
 arithmetic and a Z_N gauge sector cannot carry it — **one obstruction
 underlying four standing opens** (0054/1, 0055/3, 0056/2, 0057/1). The
 2+1 quantum success was not a warm-up for 3+1; it was the abelian
@@ -1839,11 +1864,18 @@ is 5 *complex* NP scalars); N = 5, 7 only; the six-columns↔six-plaquettes
 lift is a modelling choice ignoring 0056 §3's shared-frame correlation;
 the tail statistic is on 6000 samples/sector with means within 1.5%;
 and Ambrose–Singer is about smooth metrics, so §4 constrains what the
-continuum limit can be rather than being a lattice theorem. Open:
-**quantize the nonabelian links** (the one move §4 requires, resolving
-all four standing opens — target: a nonzero Weyl block and a mode count
-against 2); Lorentzian ⋆² = −1; what the geometric/non-geometric tier
-*is* tensorially, given it is not Ricci/Weyl.
+continuum limit can be rather than being a lattice theorem. Open: **what the price is
+tensorially** — now the sharpest conceptual open in the quantum arc,
+since §3's negative is a question rather than a dead end: the tariff
+sorts by *rank* (0/2/4), both it and Einstein are built on ⋆
+(⟨⋆F, F⟩ vs [R, ⋆] = 0) and may be shadows of one structure, **the
+ratio is exactly 2 at every N** with nothing yet explaining it, and
+there may be a *different* observable (correlation function, saddle
+point) that encodes the field equation even though the pointwise weight
+does not; **lift the quantum sector to a continuous twist group**
+(continuity, not non-commutativity — resolving all four standing opens,
+target a nonzero Weyl block and a mode count against 2); Lorentzian
+⋆² = −1.
 
 ## Known gaps
 

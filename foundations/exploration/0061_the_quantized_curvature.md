@@ -90,6 +90,56 @@ of vacuum selection.
 > vacuum in this theory is the action's variation, not the measure's
 > weight.
 
+### What the price actually is, and why it cannot be Einstein
+
+The weight comes from integrating the frame out of the action's
+ε·B·F term, with B = e∧e built from two frame vectors:
+
+```
+K(F) = Σ_{a,b ∈ Z_N⁴} ω^{ ε_IJKL a^I b^J F^KL }
+```
+
+This is a sum of **phases**, and the mechanism matters. The exponent is
+linear in a, so the a-sum is a character sum: it returns N⁴ when the
+vector m^I = ε_IJKL b^J F^KL vanishes and **exactly zero otherwise**.
+The whole sum collapses to
+
+```
+K(F) = N⁴ × #{ b : the curvature annihilates b }
+```
+
+which is 0056's kernel count, now with its derivation. Measured at
+N = 3: 6561 / 729 / 81 for flat / simple / non-simple, matching
+N⁴|ker F| exactly.
+
+**A tempting misreading, checked and rejected**: K is *not* the number
+of frame pairs whose pairing with F vanishes. That count is 2673 for a
+simple curvature where K = 729 — the other 1944 pairs carry nonzero
+phases that cancel among themselves. The price is interference, not
+tallying.
+
+So the tiers have a concrete geometric meaning: a curvature 2-form
+rotates the frame, and the price counts **how many independent planes
+it rotates in.** Flat turns none and is free; simple turns one plane
+and leaves a whole plane fixed; non-simple turns two planes at once
+and leaves nothing.
+
+Two reasons this cannot coincide with Einstein:
+
+1. **Different objects.** The price interrogates a *single bivector*
+   (6 numbers, one plaquette) and asks its rank. Einstein interrogates
+   the *operator* R: Λ² → Λ² (20 numbers) and asks whether it commutes
+   with ⋆. Both involve the Hodge star — the simplicity invariant is
+   ⟨⋆F, F⟩, the Einstein condition is [R, ⋆] = 0 — but one is a
+   quadratic form on a vector and the other a commutator of operators.
+2. **A measure is not an equation of motion.** Integrating out the
+   frame produces a *weight* summing over every frame, including all
+   the non-stationary ones. The Einstein equation comes from *varying*,
+   which selects stationary points. Asking whether the measure's cheap
+   configurations are the equation's solutions asks whether a
+   distribution's peak coincides with a variational solution set.
+   There was never a reason it must.
+
 That kills a hypothesis the arc had been drifting toward since 0055,
 and it is worth killing cleanly. 0057's mode selection (geometric vs
 non-geometric) is a real gap structure; it is *not* Ricci vs Weyl.
@@ -101,10 +151,10 @@ holonomy algebra is spanned by the curvature (Ambrose–Singer). So a
 literal Z_N-holonomy lattice does not describe a curved geometry at
 all: it describes **piecewise-flat geometry with conical defects.**
 
-| | Weyl dim | what a Z_N sector can carry |
+| | Weyl dim | what a finite-holonomy sector can carry |
 |---|---|---|
 | n = 3 | 0 | point defects — exactly Deser–Jackiw–'t Hooft, and 0054's deficit |
-| n = 4 | 10 | **string** defects, and no Weyl to carry gravitons |
+| n = 4 | 10 | **string** defects — but not the radiation field around them |
 
 In 2+1 that is not a limitation, it is the whole theory: flat
 everywhere off the sources, all content in the holonomy. 0054's
@@ -112,15 +162,44 @@ Wilson-loop deficit is the abelian sector doing exactly the job it can
 do, and doing it exactly right.
 
 In 3+1 it is a ceiling. The Weyl sector exists in the arithmetic (§1)
-and **a Z_N gauge sector cannot carry it.** That is a structural
+and a finite-holonomy sector cannot carry it. That is a structural
 reason the abelian quantum arc reached Newton (0057, via a
 *dispersion* model rather than genuine curvature) and keeps not
 reaching polarizations — 0054's open 1, 0055's open 3, 0056's open 2,
 0057's open 1 are all the same obstruction, now named.
 
-**The 2+1 quantum success was never a warm-up for 3+1.** It was the
-abelian sector's ceiling, reached. The next move is the one 0054
-already wrote down: **quantize the nonabelian links.**
+### Three corrections to how this was first stated
+
+**(a) Strings radiate — this repo measured it.** An earlier phrasing
+said 3+1 creases give "no Weyl to carry gravitons," which read as
+*cosmic strings cannot emit gravitational waves.* That is false, and
+0049 refutes it directly: an oscillating Kibble–Turok loop radiates
+with **Γ = P/(Gμ²) = 45.8**, against GR's 40–100 for that family. A
+*straight, static* string is flat outside itself and radiates nothing;
+an *oscillating* one radiates strongly. The correct statement is
+narrower and more interesting: **the finite sector can hold the defect
+but not the radiation field.** The geometry around a static string
+really is flat, so Z_N represents it exactly; the wave the loop emits
+carries genuine curvature spread through space, which finite holonomy
+cannot represent.
+
+**(b) Quantum does not mean finite.** Quantization discretizes
+*spectra*, not the symmetry group — the rotation group is continuous
+while angular momentum eigenvalues are discrete. Lattice QCD keeps
+SU(3); loop quantum gravity keeps SU(2) and gets discrete areas and
+volumes from *representation labels*, not from a finite group. **Z_N
+was a tractability choice, not a consequence of quantization** — it is
+what made 0053–0057 exactly enumerable. It bought exactness and cost
+generality.
+
+**(c) "Nonabelian" is the wrong word for the fix.** A finite
+*nonabelian* group is still finite and Ambrose–Singer still forces
+flatness, so going nonabelian-but-finite buys nothing. And abelian
+does not imply no waves: Lorentzian pp-waves have abelian holonomy
+(generated by null rotations) while being Ricci-flat and genuinely
+curved. The operative property is **continuity**, not
+non-commutativity. The classical lattice (0047) already uses
+continuous SO(3,1) links; only the quantum sector shrank to Z_N.
 
 ## Honest limits
 
@@ -153,16 +232,27 @@ already wrote down: **quantize the nonabelian links.**
 
 ## Open
 
-1. **Quantize the nonabelian links** — the single move that §4 says is
-   required, and the common resolution of four standing opens
-   (0054/1, 0055/3, 0056/2, 0057/1). The target is now sharp: produce
-   a curvature operator whose Weyl block is nonzero, and count its
-   propagating modes against 2.
-2. **Lorentzian signature**: redo §2 with ⋆² = −1 and the complex
+1. **What the price is, tensorially** — the sharpest conceptual open
+   in the quantum arc, and the reason §3's negative is a question
+   rather than a dead end. The tariff sorts curvature by **rank**
+   (0 / 2 / 4), which is a statement about a bivector, not about a
+   metric's curvature tensor. Sub-questions:
+   - What is the rank grading's meaning on a full lattice geometry,
+     as opposed to one plaquette?
+   - Both the tariff and Einstein are built on ⋆ — ⟨⋆F, F⟩ and
+     [R, ⋆] = 0. Is there one structure they are both shadows of?
+   - **The ratio is exactly 2 at every level N.** That is very clean
+     for an accident and nothing yet explains it.
+   - Is there a *different* observable in the measure — a correlation
+     function, a saddle point — that does encode the field equation
+     even though the pointwise weight does not?
+2. **Lift the quantum sector to a continuous twist group** — the move
+   §4 actually requires (continuity, not non-commutativity), and the
+   common resolution of four standing opens (0054/1, 0055/3, 0056/2,
+   0057/1). The classical lattice already carries SO(3,1) links. The
+   target is sharp: produce a curvature operator whose Weyl block is
+   nonzero, and count its propagating modes against 2.
+3. **Lorentzian signature**: redo §2 with ⋆² = −1 and the complex
    SD/ASD split; the Einstein criterion should survive as a statement
    about the complexified operator.
-3. If the price is not the Einstein equation (§3), what *does* the
-   measure's geometric/non-geometric tier correspond to
-   tensorially? It is not Ricci/Weyl; 0056's kernel codimension says
-   it is "acts in a plane," which deserves its own decomposition.
 4. Standing: the correlation gap (0058); the bond's h² (0060).
