@@ -2699,6 +2699,31 @@ cut not horizon, Srednicki from memory. Open: C2 thermality
 the same cut, C4 as renormalized-G, interacting/deconfined-phase
 entanglement.
 
+## The wedge temperature (0083)
+
+C2 done: **Unruh for the free graviton, measured**
+(`exploration/0083`, `output/0074`). Methods note: the inverse route
+(reconstructing the modular Hamiltonian matrix) fails in double
+precision — deep modular modes at ε ≳ 30 sit 1e−16 from ν = ½ and the
+log divergence turns rounding into O(10) matrix contamination — so
+the test is forward: build the lattice boost explicitly, compute its
+exact β-thermal Gaussian state, compare states. Results: at β = 2π
+the boost-thermal state reproduces the reduced half-space state near
+the cut to 4.3e−5 relative (S to 0.026%, ν₁ to 6e−5); fitting β gives
+**β*/2π = 0.9999** at m² = 0.0025 with deviation linear in m²a²
+(coefficient ≈ 0.06) — a lattice artifact, β → 2π in the continuum;
+fitting the horizon offset gives **s* = 0.5000** (the horizon sits
+half a spacing beyond the last site, measured); the transverse tower
+sees one geometric temperature (β*/2π = 1.0002 → 0.9811 as k⊥ = 0 →
+0.4, both polarizations identical). Path C now holds both Clausius
+inputs measured in-model: area-law entropy (C1) + Unruh temperature
+(C2); missing is the coupling (source + first law = C3/C4). The
+saturated-channel conjecture (is I → ∞ a horizon?) now has a modular
+target. Limits: free theory only, near-cut window (deep modular
+spectrum untested), k⊥ = 0 line IR-regulated, boost discretization
+choice absorbed into measured s. Open: C3 (discriminator at field
+level), C4 renormalized-G, saturated channel, interacting thermality.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
