@@ -2242,6 +2242,68 @@ machine-verified, the measurement-gravity unification obligation.
 Missing: the wall, semiclassics, matter, the arena — and scrutiny
 (one builder; 0062 found real errors, more exist unfound).
 
+## The three paths (0070)
+
+Orientation doc, no module (`exploration/0070`). Straight-line plans
+to 0069's bar. **Path A (the wall)**: A0 the exact RG probe of the
+derived measure (executed, 0071) → A1 the continuum frame kernel
+(ℝ⁴ Gauss integral: expected delta-on-simple + 1/Pf² tail — BC's
+delta *plus a derived correction*) → A2 one-vertex SU(2) with the
+derived weight (character expansion, exact partial sums) → A3 the
+graviton-propagator test vs 0063 (where BC bled, EPRL survived).
+Then: nonabelian blocking; SL(2,C); sources; marry substrate to
+0063's modes. Alternatives: Hamiltonian/transfer-matrix route;
+adopt-EPRL-and-test-our-observables; strong-coupling organization.
+**Path C (semiclassics)**: C1 graviton half-space entanglement
+(Gaussian, exact — area law + coefficient) → C2 thermality
+(Bisognano–Wichmann on the lattice) → C3 entropy = lost pairwise
+capacity (deficit law + monogamy) → C4 the 1/4 confrontation. Then:
+the saturated-channel-is-a-horizon conjecture (0065's I → ∞ =
+extremal defect). Alternatives: topological entanglement entropy of
+the 4D deconfined phase; Unruh deferred to matter. **Path N/Λ**: Λ1
+budget with boundary (open-lattice link integration: Σ F = boundary
+holonomy, exact) → Λ2 zero mode in the τ theory → Λ3 residual
+spectrum 2πn/N → Λ4 confront Λ_obs and cross-check N against the
+hierarchy. Alternatives: P4/Tsirelson (dormant), t-renormalization
+via A3 — and 0071 already delivers the first constraint: **N ≥ 3**.
+The pick: A0 first (executed); next stones by cost: A1 and Λ1, then
+C1, then A2–A3.
+
+## The RG probe (0071)
+
+`exploration/0071`, `output/0063` (0.04 s). Path A's first stone:
+the derived measure has no coupling knob, so its phase is a fact —
+computed exactly in the abelian sector. **The ensemble is
+RG-closed**: 2D blocking = 4-fold convolution = dual weight → 4th
+power (exact, integers, N = 12); gcd-functions close under powers,
+so the divisor ensemble is an RG-invariant family with the pure
+levels as fixed points — the flow is exactly followable on the
+divisor simplex. **2D: the jitter wins totally** — free-sector share
+0.300 → 0.914 → 1.000 in two blockings: 0055's area law as an RG
+flow; D = 2 gravity is empty anyway. **3D: confined** — Wegner
+duality maps the ledger exactly to spin models at couplings ½ln 3 =
+0.549 (Ising, K_c ≈ 0.222) and ln(5/2) = 0.916 (Potts, K_c ≈ 0.551)
+— deep in the ordered phase, Wilson area law at all scales, **no
+long-range rigid geometry in the 3D vacuum** (cited K_c's, flagged).
+**4D: rigidity begins at N = 3** — the two-valued family is closed
+under the exact self-duality r ↦ (r−1+N)/(r−1), r* = 1+√N; the
+ledger sits at r = N: **confined for N = 2, deconfined for every
+N ≥ 3** ((N−1)² > N). Under the single-transition assumption, **the
+derived measure first supports long-range rigid geometry in four
+dimensions, and only for N ≥ 3** — the program's first internal
+evidence selecting D = 4, and the first derived constraint on its
+knob (N = 2's failure joins its standing degeneracies). **Where it
+bleeds**: D ≤ 3 bled (jitter wins); D = 4 N ≥ 3 survives its first
+test, but deconfined Z_N is topological order — rigidity without
+gravitons (0061 §4's ceiling stands); the substrate is rigid, the
+modes need the continuous group, and the marriage is 0070's A1–A3.
+Battery: `ledger`, `conv`, `level_shares`, the duality involution.
+Honest limits: 3D K_c cited; 4D single-transition assumed; N ≥ 5
+intermediate-phase caveat open; abelian, Euclidean, hypercubic;
+Wilson magnitude as the criterion. Open: the N ≥ 5 window question;
+topological entanglement entropy of the 4D phase; A1; Λ1; C1;
+nonabelian blocking.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
