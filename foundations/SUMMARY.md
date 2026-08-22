@@ -2116,10 +2116,53 @@ limits: **one-sided model** (classical latent, quantum carrier) — the
 fully relational entangled-ρ_AB version is the true RT-shape question
 and remains open, the most important scope line; the record's plateau
 is σ_x-specific (rigorous cap is χ); many-copy survival shown
-wrap-free; 2+1 static scope inherited. Open: the two-sided tier
-(entanglement entropy in place of MI); the π ceiling as physics in
-the quantum lattice; qutrit check of 2π(1−1/d); standing: t and N,
-τ A/B, bond h² from redundancy, nonabelian Dirichlet square.
+wrap-free; 2+1 static scope inherited. Open: the two-sided tier — **taken
+by 0067**: for relational records the weight is κ²·C² (the tangle),
+separable pairs source no geometry, and the deficit tracks the tangle
+rather than entanglement entropy; the π ceiling as physics in the
+quantum lattice; qutrit check of 2π(1−1/d); standing: t and N, τ A/B,
+bond h² from redundancy, nonabelian Dirichlet square.
+
+## The entanglement tier (0067)
+
+`exploration/0067`, `output/0061` (0.2 s). 0066's sharpest open
+taken: both ends quantum. The relative coordinate is recorded
+**relationally** — |ψ⟩ = √p|00⟩ + √(1−p)e^{iκθ}|11⟩, a phase between
+the correlated branches — and **ρ_A = diag(p,1−p) is exactly
+θ-independent**: neither end alone sees the coordinate, postulate P1
+as a density matrix (contrast: |+⟩|0⟩ with local encoding carries
+QFI = κ² at zero entanglement — 0066's one-sided mechanism, distinct).
+**The weight is the tangle**: the Bures configuration metric is
+(QFI/4)·uuᵀ with QFI = 4κ²p(1−p) (numeric Hessian, ~6e−7), and
+Wootters' C = 2√(p(1−p)), so **w = κ²C² exactly** —
+separable ⇒ C = 0 ⇒ **an unentangled pair sources no geometry**;
+maximal entanglement recovers the full one-carrier weight; the
+program's squares align again (probability = amplitude², bond =
+charge², ledger = Dirichlet square, weight = concurrence²). **The
+discriminator**: at weak coupling, δ/(πκ²) tracks **C² to 3–4
+digits** (0.0396/0.0396 at p = 0.01; 0.5095/0.5100 at p = 0.15)
+while entanglement entropy E and quantum MI 2E are far off (E/C² >
+1.4 at small p) — **curvature couples to the tangle, not to
+entanglement entropy**: the RT shape is not this program's pair-level
+prediction, stated as a sharp falsifiable-in-model selection (RT's
+own setting is a duality with boundary-QFT entropy — the contrast
+says what this model selects, not that RT errs). **The
+persistent-pair law**: the Bell-basis readout attains κ²C² at the
+phase reference (2e−15); the n-pair record's MI converges to
+½ln(1+nκ²C²) (ratio 0.955 → 0.986 at n = 600, monotone), so
+**δ = 2π(1−e^{−I_record}) with per-pair capacity = the tangle**:
+entanglement is the capacity, the record is the account, the deficit
+follows the account. Across the tiers: trust = precision (0065) →
+QFI with the dimension-capped split (0066) → per-pair precision =
+tangle (0067). Battery: `fid`, `concurrence`, `_mi_record`. Honest
+limits: one family (Schmidt-aligned; local-coherence records are a
+separate mechanism, no decomposition theorem); two qubits; pure
+states; 2+1 static scope inherited; one (p,κ) for the convergence.
+Open: **weight monogamy** — CKW (C²_AB + C²_AC ≤ 1) + w = κ²C² would
+give a per-node cap Σw ≤ κ² across a node's channels: tangle
+monogamy as **mass monogamy**, the most exciting new open; the
+local+tangle weight decomposition; mixed states (w ≤ κ²C²(ρ)?);
+standing: t and N, τ A/B, bond h², nonabelian Dirichlet square.
 
 ## Known gaps
 
