@@ -2923,6 +2923,29 @@ spin-structure is structural not spinor-constructed. Open: the parity
 proof, whether the two spin shadows compose in one structure
 (Gaussian integers mod N?), covered-family RG.
 
+## The arithmetic pass (0091)
+
+Audit stone, no module (`exploration/0091`): the formal-languages
+arithmetic branch's late probes (0064–0066: epistricted wall, sign
+problem, reference tower, braided holonomy) walked and reconciled.
+Verdict: **nothing load-bearing is stranded**; two items carried
+forward. (1) **The mandatory-amplitude boundary** (their epistricted
+theorem, ported as an honesty theorem about our foundations): a
+knowledge-restriction alone reproduces exactly the stabilizer
+fragment and cannot cross the contextual fraction — so whatever
+carries this stream past that line (the Fisher/Bures amplitude
+structure) is doing irreducible work; P1–P5 is not a hidden epistemic
+restriction. (2) **Two streams, one door at 2**: their "binary fibers
+cannot braid (S₂ abelian); the door is a doubled shared channel"
+independently matches 0090's even wall + double-cover cure — two is
+degenerate and doubling opens the door, found from opposite sides.
+Echoes recorded: their conserved reference coin ↔ the budget's one
+global mode (0086); their negativity-on-the-phase-fiber ↔ 0073/0074's
+sign problem and Born cure; their noncommuting-loop quantization open
+= 0088's ordered multi-source open (jointly filed). Limits: late
+probes read in full, interior 63 explorations at summary level;
+finding 1 imported, not re-run.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
