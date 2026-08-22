@@ -2304,6 +2304,51 @@ Wilson magnitude as the criterion. Open: the N ≥ 5 window question;
 topological entanglement entropy of the 4D phase; A1; Λ1; C1;
 nonabelian blocking.
 
+## The continuum kernel (0072)
+
+`exploration/0072`, `output/0064` (3 s). Path A's second stone (A1):
+the Z_N frame Gauss sum redone with continuous Gaussian-regulated
+frames (a, b ∈ ℝ⁴, scale L) collapses to a rational closed form in
+the two simplicity invariants: **K_L(F) = (2π)⁴/(ε² + ε|F|² +
+Pf(F)²), ε = 1/L⁴**. Mechanism: canonical form of ⋆F splits the 8D
+integral into four atomic integrals ∬e^{iλxy−(x²+y²)/2L²} =
+2π/√(ε+λ²) (quadrature, 7 digits), and the canonical pair satisfies
+x⁴ + |F|²x² + Pf² exactly (machine, 50 curvatures); an 8D seeded MC
+bridge confirms a generic F (0.03%). **The Z_N structure returns with
+a dictionary**: simple curvature at |F| = 1 costs exactly 4 ln L, the
+non-simple/simple ratio → 2 (1.85/1.92/1.95 at L = 10/100/1000) —
+the parity echo — so 0/2logN/4logN corresponds under **N ~ L²**: the
+level is the square of the frame scale. **What Barrett–Crane never
+had**: Pf = (|F⁺|²−|F⁻|²)/2 exactly, so the kernel is a **Cauchy
+suppression of the self-dual imbalance**, concentrating on the
+balanced cone as ε → 0 (off/on 4.8e−2 → 4.9e−6 at L = 3 → 30) — BC's
+delta as the singular limit, but with a **derived on-cone measure**
+(∝ 1/(ε+|F|²), log-uniform), a **derived off-cone tail** (∝ 1/Pf²,
+nothing forbidden), and a **canonical regulator** (ε = 1/L⁴). BC bled
+at the bare delta; EPRL chose a spread; here the spread is derived —
+whether its profile passes the graviton-propagator test is exactly
+A2–A3, and this kernel is A2's per-plaquette weight. **The filter
+correspondence** (recorded): the sibling stat-tracker's new math
+(code-length optimality/Theorem A′; the GPB1→IMM ridge repair with a
+96.3% causal ceiling; the s_P = 0 boundary ill-posed because Fisher
+vanishes ∝ s²; fractional order ν) resonates three ways
+(grid-of-worlds = divisor ensemble; everything priced in nats;
+categorical-made-continuous = 0063's lesson) and two give-backs are
+logged: **τ = s² reparameterization makes the boundary Fisher finite
+(= 1/4)** — the ledger's square applied to their chart, one line,
+checkable; and coherent (amplitude-mixing) IMM, speculative. Also
+logged: formal-languages carries an unmerged arithmetic branch
+(0057–0066, ~14.6k lines: "no finite ħ," "paradox tax," "epistricted
+wall," "braided holonomy") — queued for a pass. Battery:
+`star_matrix`, `pf`, `K_closed`, `_char_poly`. Honest limits:
+Euclidean, Gaussian regulator (profile not proven
+regulator-independent; structure should be); per-plaquette
+independent frames (0056 §3 correlation not folded in); MC bridge
+seeded and labeled; filter give-backs are suggestions, nothing run
+in their harness. Open: A2 (one-vertex nonabelian with this kernel);
+A3 (the propagator test where BC bled); regulator-independence; the
+arithmetic-branch pass.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
