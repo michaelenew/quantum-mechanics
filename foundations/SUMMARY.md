@@ -2946,6 +2946,31 @@ sign problem and Born cure; their noncommuting-loop quantization open
 probes read in full, interior 63 explorations at summary level;
 finding 1 imported, not re-run.
 
+## The heat-kernel theorem (0092)
+
+The queue's "CLT fixed-point theorem" attempted — **false as filed,
+replaced by better** (`exploration/0092`, `output/0082`). True part:
+second-moment universality — any light-tailed class weight of width s
+has −ln r_j = (2/3)⟨θ²⟩C₂(j) + O(s⁴) (verified: Gaussian and window
+collapse with dev ∝ s², τ to 0.1–0.3%). False part: **the freeze
+lemma** — convolution powers coefficients, so log-ratios never move:
+no convolution CLT can reshape a spectrum toward Casimir ratios. And
+the ledger needs reshaping: the Born counting weight has kurtosis
+13–25 (Fejér-squared tails), flatness dev 0.63–0.67 at any width —
+the bare ledger never resembles the heat kernel. **True mechanism:
+the MK bond move (pointwise power) is a Laplace localization** — ONE
+blocking takes flatness 0.633 → 0.0016; the flow thereafter moves
+only τ. 0077's Casimir ratios are an RG-localization result with the
+entry mechanism identified and its speed measured. Bonus: the freeze
+lemma retroactively unifies 0086/0087/0088 — free tiers can neither
+distort sources nor renormalize themselves for the same reason
+(convolution preserves everything); structure moves only where
+nonlinearity lives. Consequence: **the τ beta function is now cheap**
+— structure frozen after one blocking ⇒ the flow is a scalar map
+dτ/d(block). Limits: basin boundary (kurtosis threshold) unmapped;
+2/3 is χ-normalization convention. Open: basin boundary, the scalar
+τ flow (F2's in-theory version, now cheap), the assembled complex.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
