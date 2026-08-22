@@ -2971,6 +2971,35 @@ dτ/d(block). Limits: basin boundary (kurtosis threshold) unmapped;
 2/3 is χ-normalization convention. Open: basin boundary, the scalar
 τ flow (F2's in-theory version, now cheap), the assembled complex.
 
+## The τ flow (0093)
+
+The running of τ — one of the wall's three outstanding pieces, filed
+heavy, delivered cheap via 0092 (`exploration/0093`, `output/0083`).
+The flow is one-dimensional (heat-kernel leak ≤ 1.2e−4 per step,
+measured then relied on): the 4D MK recursion is a scalar map. **The
+beta function has the one-loop shape**: β = c·τ²(1+O(τ)), c(b=2) =
+0.127 ± 3% over τ ∈ [0.05, 0.2], POSITIVE — τ = 0 is the UV fixed
+point: **asymptotic freedom in the ledger's one continuum coupling**,
+with the confining runaway (super-quadratic β) at strong coupling.
+Scheme test b = 3: sign and quadratic order stable, coefficient
+±30% (MK-typical; continuum b₀ = 22/3 memory-flagged, MK overshoots
+3–4× as usual). **Dimensional transmutation verified by direct
+integration**: strong coupling at n = 152 blockings vs one-loop pole
+prediction 157 — ln(L*/a) = ln b/(cτ₀): an invariant scale from a
+scale-free start, the program's first emergent dimensionful quantity
+and an unforced hierarchy-generation mechanism (pin τ₀ and the
+formula predicts a hierarchy — the RG arc's sharpest
+falsifiable-shaped statement, feeding 0069 (D)). Reconciliations:
+0076's "near-stationary" = slow one-loop flow below their
+resolution; 0077's gapless channel untouched (ratios preserved, τ
+scale runs); F2's filter-first call updated — the theory got there
+first via 0092, and the filter row keeps a sharpened numeric target
+(regret coefficient vs c). Limits: MK uncontrolled (30% = floor of
+the error bar), τ-to-physical-normalization unfixed, Euclidean.
+Open: pin τ₀ (vertex normalization or N = 5), the two-coupling flow
+(τ + vertex susceptibility), F2 cross-check, the assembled complex —
+now the wall's last outstanding piece.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
