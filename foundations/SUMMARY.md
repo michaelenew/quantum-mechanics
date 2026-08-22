@@ -2441,6 +2441,42 @@ the even-N obstruction; the coherent-state unbinned amplitude
 (EPRL-shaped); packaging the 2+1 abelian sign-problem toy;
 arithmetic-branch cross-reference.
 
+## The tension spectrum (0075)
+
+`exploration/0075`, `output/0067` (0.9 s). A3's tensorial half — the
+half Barrett–Crane's propagator failed — computed exactly on the
+healed weight. **The instrument**: for W = Σ c_R χ_R, a plaquette
+chain propagates mode R with t_R = c_R/(d_R c₀), tension −ln t_R
+(Schur; the orientation-average identity verified numerically at
+1e−3). **The spectrum**: finite, positive, rising — (1,0) 1.100 <
+(1,1) 1.201 < (2,0) 1.611 < (2,1) 1.725 < (2,2) 1.879 < (3,3) 2.452
+at s₀ = 0.75; ordering bin-scale-stable, numbers not. **The graviton
+multiplet leads the simple tower**: within the balanced sector,
+(1,1) < (2,2) < (3,3) strictly at both scales, and (1,1) is the
+9-dim symmetric-traceless SO(4) tensor — the covariant graviton —
+with the derived profile supplying the **high-spin damping BC
+lacked**. Measured alongside: the unbalanced (1,0)
+(connection/2-form) interleaves below (1,1) by 0.10–0.30 — the
+measured job description for vertex-level simplicity, absent at one
+plaquette; a pointer, not a hidden failure. **The failure modes**:
+BC's bare balanced delta gives t(j,j) = 1 for every j (all balanced
+modes massless-degenerate — the high-spin pathology as a flat
+spectrum); the naive 0073 lift gives t(1,0) = −0.055 (undefined
+tension — the sign disease as an unphysical spectrum). **Only the
+Born square has a physical spectrum.** Scope: these are 1D-chain
+tensions (the nonabelian rep-resolved f(N)), not 4D masses — 0071's
+lesson; A3's momentum half needs the 4D complex, and its
+sector-resolved input is now ordered: **the 4D question is which
+multiplet deconfines first, with the graviton leading the simple
+tower**. Battery: `spectrum`, `density`, the transfer identity.
+Honest limits: one plaquette/chain, no intertwiners, Euclidean,
+integer bins; s₀ moves numbers not ordering; the interleaving is a
+bare-chain fact; BC here = the bare delta representative. Open: **4D
+sector-resolved deconfinement** (A4 — nonabelian 0071 with an
+ordered candidate list); the vertex (does the interleaving lift?);
+the coherent-state amplitude; standing: Λ1, C1, arithmetic-branch
+pass, sign-problem toy.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
