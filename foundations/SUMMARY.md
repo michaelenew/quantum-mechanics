@@ -2900,6 +2900,29 @@ one slot/one vertex shift design, ε′ = 0.01, means-level
 monotonicity. Open: the assembled complex, the full coupling tensor,
 coherent-state refinement.
 
+## The even wall (0090)
+
+The sign-problem toy packaged, and upgraded (`exploration/0090`,
+`output/0081`). **The wall**: no integer counting amplitude (frame
+multiplicities c_e ≥ 0 with autocorrelation = Ŵ) exists for even
+N — exhaustive at N = 2, 4, 6, 8, 10; odd N's quadratic count
+re-verified. **Not positivity**: real nonnegative amplitudes exist at
+every even N ≤ 16 (PSD square root, exact) — at N = 2 the entire
+failure is 2c₀c₁ = 1, half a frame. The wall is INTEGRALITY:
+quantization itself (frames come in wholes) rejects even levels.
+**The cure is the double cover**: doubling the frames on the 2-part
+gives |A|² = 4·N·gcd exactly at every flux (verified N = 2, 4, 8, 16
+and 6, 10, 12, 24) — cover degree squared as normalization, frames
+whole upstairs. Reading: even levels are the ledger's SPIN levels —
+the second independent arithmetic shadow of spin beside the
+Lorentzian mod-4 congruence. Constraint stack: "N odd" softens from
+exclusion to covering instruction; smallest level stays N = 5 (the
+Lorentzian congruence rejects even N independently). Limits:
+exhaustive only to N = 10 (parity proof sketched, not written);
+spin-structure is structural not spinor-constructed. Open: the parity
+proof, whether the two spin shadows compose in one structure
+(Gaussian integers mod N?), covered-family RG.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
