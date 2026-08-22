@@ -106,8 +106,8 @@ making contact with the RT / Van Raamsdonk / Jacobson literature.**
 > w = precision = e^{2I} − 1, giving δ = 2π(1 − e^{−I}) — the deficit
 > as a closed-form function of the pairwise mutual information, linear
 > (first-law shape) in the weak limit. The quantum tier (Bures /
-> entanglement) remains open.
-Until it is closed, comparison to that literature is by analogy.
+> entanglement) remains open; until then, comparison to the quantum
+> entanglement literature specifically is by analogy.
 
 **(b) G is registered, not derived.** ρ_mass = s/8G follows from
 *imposing* δ = 8πGm. The content is K = πs with a derived π; the 8πG
