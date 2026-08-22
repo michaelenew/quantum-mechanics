@@ -2724,6 +2724,35 @@ spectrum untested), k⊥ = 0 line IR-regulated, boost discretization
 choice absorbed into measured s. Open: C3 (discriminator at field
 level), C4 renormalized-G, saturated channel, interacting thermality.
 
+## The capacity cut (0084)
+
+C3 done (`exploration/0084`, `output/0075`): the web's own count
+across C1/C2's cut. The cut decomposes exactly (spectra of the two
+sides match to 5.6e−16) into **collective two-mode-squeezed
+channels**, each a relational channel with QFI = sinh²(2r) = 4ν²−1 —
+the CV heir of C² — so the whole ledger chain applies per channel:
+W_k = 4ν_k²−1, I_k = ln 2ν_k, δ_k = 2π(1−1/(2ν_k)). **The pairwise
+account fails exactly as 0068's GHZ lesson predicted**: two-site
+negativity across the cut is nonzero ONLY for the adjacent pair
+(exact zeros at every other separation, chain and 3D), carrying
+12–15% of the cut; the field vacuum is GHZ-like, P1's node-vs-rest
+reading is forced. Site-level CKW-shaped monogamy holds (0.033 ≤
+0.089), collective share 63% (correcting a first guess of ~99%).
+Three area laws on one spectrum, coefficients per polarization:
+S/A = 0.0244, W/A = 0.0179, **δ/A = 0.0522 rad/plaquette** → the
+graviton's horizon charge 0.104 rad per plaquette (ledger units —
+C3's done-criterion). The discriminator now RUNS: W/S drifts 0.79 →
+0.61 across a mass scan — capacity- and entropy-coupled horizon
+charges respond differently to mass/IR, so C4 will decide between
+them, not straddle. Noted: δ_k saturates at 2π per channel as ν → ∞ —
+0066's full-turn cap reappearing at the cut (feeds the
+saturated-channel/horizon conjecture). Limits: W_k is the natural
+TMS-QFI *extension* of 0065's derived pair capacity, not yet derived
+from a field-level inference network (the gap); free theory; W/A is
+the most IR-sensitive account ((ln ξ)² per mode). Open: derive the
+field capacity from the postulates, C4, saturated channel = 2π per
+channel?, decoherence tier.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
