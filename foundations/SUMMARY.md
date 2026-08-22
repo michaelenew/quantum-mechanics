@@ -2815,6 +2815,32 @@ modulus — bridge back to the full theory via 0078's machinery),
 Λ-leak phenomenology (Λ ∝ (Pn mod N)/P·2π/N into 0069 step 4), the
 2+1 continuum limit, decoherence as modulus→phase transfer.
 
+## The nonabelian split (0087)
+
+The two ledgers survive the lift (`exploration/0087`, `output/0078`;
+2D rung, the program's Born counting weight W = A², A = Σ_{j≤2}χ_j).
+SU(2) characters are real so the abelian phase can't lift as a
+phase — it lifts as a **character-indexed factorization**:
+⟨χ_j(loop)⟩ = [χ_j(h₀)/d_j]·d_j r_j^A, source and record exactly
+separated per rep. **The record envelope is fusion arithmetic**:
+r_j = c_j/(d_j c₀) with c_j the fusion count — flat counting gives
+exact rationals 1, 4/5, 2/3, 1/2, 9/25, 1/5 (quadrature = counting at
+1e−8); f(N) = φ/P's heir is the Born weight's fusion table. **The
+reading theorem**: ⟨χ_j⟩(A,h₀)/⟨χ_j⟩(A,e) = χ_j(h₀)/d_j at every
+area — the record damps but cannot distort; validated by
+gauge-unfixed 7-link MC (vacuum d_j r_j² within errors, readings
+match, θ₀ reconstructed 0.9005 vs 0.9). **Where the phase went**: the
+abelian phase shrinks to the center Z₂ (center twist reads (−1)^{2j}
+exactly — 't Hooft sector, SU(2)'s only true phases) and the
+continuous deficit migrates into the reading spectrum. Corollary:
+integer-j probes (the graviton channel) are center-blind — fermions
+would see a topological sector gravity cannot. Limits: 2D gluing
+(4D = the vertex, untested conjecture); one counting; MC at A=2.
+Open: test the split on one 16D vertex (class twist into 0078's
+Gaussian), 't Hooft superselection for the matter thread,
+non-commuting multi-source ordering, reading theorem as a
+channel-capacity statement (F1's dictionary row).
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
