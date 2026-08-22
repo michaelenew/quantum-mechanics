@@ -2753,6 +2753,37 @@ the most IR-sensitive account ((ln ξ)² per mode). Open: derive the
 field capacity from the postulates, C4, saturated channel = 2π per
 channel?, decoherence tier.
 
+## The quarter (0085)
+
+C4 done as located-plus-finding (`exploration/0085`, `output/0076`).
+**Located, not derived**: S/A = A/4G fixes a = 0.44 ℓ_P (NN entropy;
+0.38–0.63 across account/stencil) — a consistency condition (G is
+registered), the Sakharov/induced position exactly as 0082 §4
+predicted; no bare match exists. **The finding**: the program keeps
+two ledgers. Deficit additivity (0012) gives a horizon's sourced
+deficit δ = 8πGM = 2√(πA) — G-independent, ∝√A — while the measured
+vacuum-cut deficit is area-extensive (0.0522 rad/plaquette): the
+deficit is the SOURCE ledger (mass-extensive), entropy/capacity the
+RECORD account (area-extensive), and **only the record account can be
+Bekenstein–Hawking**; they cross at R* ≈ 4 ℓ_P. Corollary: above
+~5 ℓ_P the zero-point record dwarfs the sourced deficit, so the
+vacuum record must not source (else curvature catastrophe at every
+cut) — the budget/zero-mode deletion (0069/0080) is the protection:
+**path Λ's constraint makes path C's vacuum safe; the two paths
+protect each other undesigned**. Saturated-channel picture sharpened:
+99% of the 2π cap at I = ln 100 ≈ 4.6 nats; extremal 3+1 channel = a
+string of tension 1/4G; a mass M's extremal string totals L = 4GM =
+2R_s — **the horizon's source structure is one-dimensional (~R_s/ℓ_P
+strings, 0061 §4's Ambrose–Singer defects), its record structure
+two-dimensional (A/ℓ_P²)** — stated for falsification against
+holography's area count. Limits: Rindler proxy; chained
+interpretation for 8πGM; bundle is conjecture-shaped; the
+mutual-protection argument is structural, not yet computed. Open: the
+protection calculation (cheap, Z_N-toy-sized: budget + defect on an
+open lattice — vacuum record sources nothing, defect does), extremal
+channel through a cut vs C2's modular structure, decoherence as
+transfer between the two ledgers.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
