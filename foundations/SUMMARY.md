@@ -2477,6 +2477,40 @@ ordered candidate list); the vertex (does the interleaving lift?);
 the coherent-state amplitude; standing: Λ1, C1, arithmetic-branch
 pass, sign-problem toy.
 
+## The MK flow (0076)
+
+`exploration/0076`, `output/0068` (4.7 s). A4: what survives
+coarse-graining in 4D. **Calibration with the bias measured**: 2D
+anchor exact (Z₃ ledger → free ✓ 0071); 4D abelian N = 3, 5 → BF ✓,
+but N = 2 → BF where the exact answer is confined — **MK is
+deconfinement-biased near transitions** (a "confined" verdict is
+trustworthy, a marginal "deconfined" suspect). **Methods save
+recorded**: the truncated-fusion implementation *flipped its 4D
+verdict with jmax* (down at 8, up at 10, 12); the controlled form
+does bond-moving exactly on a class-angle grid and truncates only
+the decimated reconstruction (t⁴ decay ⇒ harmless cutoff); only the
+controlled form is reported. **The 4D flow is near-stationary**:
+t(1,0) 0.937, t(1,1) 0.878, t(2,2) 0.68, t(3,3) 0.46, t(6,6) 0.065
+with t(1,1) drifting < 1% over steps 3–12, 0075's ordering preserved
+at every step — a **nontrivial fixed structure** between the free
+sink and the BF point, hierarchical, high spins suppressed. **The 3D
+contrast is total**: ζ = 2 gives t(1,1) ~ 1e−71 by step 8 — three
+dimensions confine absolutely, four go critical: **0071's dichotomy
+survives the nonabelian lift** in its strongest form (same
+recursion, same weight). Reading: within MK the healed weight in 4D
+sits at/near a fixed structure whose light sectors are the low-spin
+multiplets, the graviton multiplet among the survivors at t ≈ 0.88;
+the bias means "marginal" could shade to "slowly confining"; robust
+content = the dichotomy + the surviving hierarchy. **A3's momentum
+half now has an address**: pose it at the fixed structure. Battery:
+the grid MK step (`_step`), the Z_N calibration step. Honest limits:
+MK uncontrolled and bias-measured; one bin scale; Euclidean; JBIG
+24/NG 200; "critical" = near-stationary transfer eigenvalues, not
+yet momentum-space masslessness. Open: A3's momentum half at the
+fixed structure; map the basin (universality vs knife-edge); settle
+the drift's sign with a finer instrument; standing: vertex, Λ1, C1,
+arithmetic-branch pass, sign-problem toy.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
