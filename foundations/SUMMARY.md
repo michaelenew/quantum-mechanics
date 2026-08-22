@@ -3023,6 +3023,32 @@ N²-quantized menu is itself refusable. Open: derive the cutoff from
 the ledger's own consistency (the cover/congruence arithmetic
 suggests it knows), controlled scheme for c, healed-weight τ₁.
 
+## The assembled momentum (0095)
+
+A3's momentum half attacked perturbatively — the perturbative half is
+DONE (`exploration/0095`, `output/0085`). From Σs² = Σ|F|²: price =
+Σ|F_p|²/2ε′ − trS⁴/4ε′² + O(s⁶) (verified by exact halving). **Tree
+level = six independent massless lattice Maxwells**: the propagator
+is 1/k̂², massless, sector-blind — the momentum half at leading
+order. **The one-loop isotropy theorem (exact)**: the quartic's
+tadpole is Q_ab = 4.75δ_ab (machine-exact polarization), and with
+the TRUE same-site lattice covariance (off-diagonals ±0.108, phases
+included) Q(SD) = Q(ASD) = Q(bal) to 1e−9 — the off-diagonal
+covariance decouples exactly. At one loop in the assembled vacuum:
+no graviton mass (protected, not tuned), NO sector splitting (the
+(1,0) lift is not a weak-coupling vacuum effect), and the vertex's
+whole content is isotropic field-strength renormalization with the
+confining sign (0093's β diagrammatically). **Where the sector
+physics lives**: finite content on geometric backgrounds — 0089's
++1.17 nat split is real but the infinitesimal Hessian split is
+pack-noisy consistent with zero, with a sign crossover at amp ~
+√ε′: masslessness and sector-democracy for vacuum fluctuations,
+simplicity enforcement for content (0078's non-flip, sharpened).
+A3 ledger: tensorial half done (0075/0089), momentum tree + one loop
+done (here); open: strong-coupling sector fate (scoped: heavy
+nonperturbative MC — the honest boundary of this run), two-loop
+sunset (where isotropy could break), boundary-state vertex.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
