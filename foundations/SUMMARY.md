@@ -2395,6 +2395,52 @@ intertwiners as positivity restorers at a true vertex; standing: Λ1,
 C1, the arithmetic-branch pass (its sign-problem probe now directly
 relevant).
 
+## The nonabelian Dirichlet square (0074)
+
+`exploration/0074`, `output/0066` (0.6 s). 0073's demand met — and
+outbid. **The ledger is a Born square, exactly**: for every odd N
+tested (3..61, all fluxes), **gcd(F,N) = |Σ_e ω^(e²F)|²/N** — the
+Z_N ledger weight is the squared magnitude of a quadratic Gauss sum,
+the Born rule applied to a single-frame amplitude (B = e² as the
+abelian shadow of B = e∧e). The measure 0053 took as given was
+|amplitude|² from the start. Even N fails at most fluxes — N = 2's
+degeneracy family traced to the root. The positivity mechanism is
+visible: the amplitude's dual expansion **counts frames**
+(r(m) = #{e: e² = m} ≥ 0), so the weight's dual is the
+autocorrelation of a nonnegative function — verified exactly
+(dual(gcd) = r⋆r, N = 15, 21); τ = 1∗1 was the arithmetic face, the
+Born structure its cause. **The positivity theorem (fusion form)**:
+W = A² with a counting amplitude A = Σ n_j χ_j (n ≥ 0) has
+c_j(W) = Σ n n′ N^j ≥ 0 — 200 random countings, min exactly 0 — and
+the necessity is exhibited: the *virtual* amplitude χ₁ − χ₀ (an
+Adams image, the natural nonabelian-divisor candidate) has
+c₁(A²) = −1: Adams lifts carry signs, Born lifts don't — **the right
+square is the Born square**. **The derived amplitude is diagonal**:
+a∧b is simple and simple = balanced (1e−14), so
+A(U⁺,U⁻) = Σ n_j χ_j(U⁺)χ_j(U⁻) with n_j the Gaussian frame
+counting (deterministic quadrature, two bin scales); W = A² has
+**every coefficient ≥ 0**, diagonal dominance (2.71 vs 1.00),
+positive-small off-diagonal (nothing forbidden, signs healed), a
+peaked diagonal profile following the radial counting, and a
+pointwise balanced ridge of 240× — the kernel's concentration
+preserved. **Wall status**: 0073 lifted the weight → sign problem;
+0074 lifts the amplitude and squares on the group → positive by
+fusion. The cure is the program's own rule at the right tier; the
+healed object is **Barrett–Crane as an amplitude** with a derived
+radial profile; **A3 is unblocked**. And the abelian tier is exactly
+solvable — the program owns a closed-form **toy of the sign problem**
+(the sibling arithmetic branch's cognate probe). Battery:
+`born_coeffs`, `su2_admissible`, the quadratic-Gauss identity.
+Honest limits: Born identity verified ≤ 61, not proven (classical
+Gauss-sum territory — cite or derive next); n_j is bin-scale-
+dependent (positivity and diagonality are not); one plaquette, no
+intertwiners, Euclidean, integer bins; the A²-vs-K convention
+(price-doubling bookkeeping) noted unresolved. Open: **A3 on the
+healed weight** (the decisive stone); the Born identity's proof and
+the even-N obstruction; the coherent-state unbinned amplitude
+(EPRL-shaped); packaging the 2+1 abelian sign-problem toy;
+arithmetic-branch cross-reference.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
