@@ -2872,6 +2872,34 @@ in-context tension spectrum as one entry of it, the measurement
 thread's first stone (does a channel's modulus leak into phase at a
 vertex?).
 
+## The context spectrum (0089)
+
+0075's standing interleaving tested at the vertex
+(`exploration/0089`, `output/0080`). Anchor: the vertex kit closes in
+SD/ASD variables — single-plaquette eigenvalues ±(|F⁺|±|F⁻|)/(2√2)
+fourfold, 2Pf = |F⁺|²−|F⁻|², so the (1,0)/(1,1) distinction is the
+η = |F⁻|/|F⁺| axis in the measure's own variables. **The unbalance
+curve** (64 paired seeds, geometric context): context Δprice falls
+monotonically 5.05 → 3.89 as η: 0 → 1 — pure self-dual is the most
+expensive content a geometric vertex can be handed, balanced the
+cheapest; paired SD-over-balanced penalty **+1.17 ± 0.12 nats/site**
+(59/64 positive, isolated +0.57 ± 0.31, amplification ~2×); the SD
+insert sits at/above the non-simple rung of 0078's ladder (extreme
+non-simplicity, charged accordingly). **Verdict, honestly sized**:
+the penalty exceeds the 0.10–0.30 nats/step bare-chain gap by 4–12×
+(clears the upper bound at ~7σ) — any assembly charging ≳ half a
+vertex per chain step lifts (1,0) above (1,1); the interleaving is a
+bare-chain artifact as 0075 conjectured, mechanism = the shared-frame
+integral's specific dislike of unbalanced curvature (simplicity as a
+mode filter, EPRL's hand-imposed constraint generated with measured
+strength). NOT decisive: different currencies (nats/step vs
+nats/site), assembly share unfixed — the decisive object is the
+assembled 4D complex (A3 completion), which now has its ordered
+candidate list (0075) and its per-site charge sheet (here). Limits:
+one slot/one vertex shift design, ε′ = 0.01, means-level
+monotonicity. Open: the assembled complex, the full coupling tensor,
+coherent-state refinement.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
