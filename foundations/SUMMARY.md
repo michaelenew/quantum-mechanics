@@ -2546,6 +2546,46 @@ does the (1,0) interleaving lift); the CLT fixed-point theorem; the
 τ beta function vs the YM shadow; standing: Λ1, C1,
 arithmetic-branch pass, sign-problem toy.
 
+## The vertex (0078)
+
+`exploration/0078`, `output/0070` (8 s). The wall's last standing
+stone. At a site six plaquettes share the same four tetrad columns,
+so the frame integral must be done jointly — a 16-dimensional
+Gaussian that closes: **W_vertex = Π_k(ε′+s_k²)^(−1/2)**, s_k the
+eigenvalues of the joint coupling S (blocks (⋆F_μν)/2). **Anchored**:
+single-plaquette reduction recovers 0072's invariants (±λ/2 fourfold,
+Σλ² = |F|², Πλ² = Pf²); Σs² = Σ|F|² to 1e−6; 16D MC bridge within
+5%. **Cross-simplicity emerges**: six individually-simple plaquettes
+cost ~14–15 nats from a common tetrad vs ~22–23 unrelated — **+7.4
+nats mean for incompatibility** — while the one-plaquette product is
+exactly blind (equal to 1e−6): the shared-frame integral generates
+the off-diagonal Plebanski constraints the spin-foam program imposes
+by hand. **The insertion ladder**: into a tetrad six-pack, geometric
++0.00 / foreign-simple +4.16 / non-simple +4.88, vs isolated 0 / 0 /
++1.87 — context amplifies the constraint tier ~3× and charges
+compatibility itself: **cheap means geometric together** — the
+suppression 0075 found missing at the bare chain, delivered. **The
+honest non-flip**: Weyl vs Ricci at matched norm — Ricci still
+cheaper in 22/24 trials, no systematic reversal: the vertex does not
+make the measure select vacuum (0061 §3's measure-≠-equation lesson
+survives where it should); what it establishes is the operational
+riding — the measure concentrates on tetrad-geometric curvature, so
+the gapless (1,1) carrier's favored content IS metric fluctuation,
+with the vacuum question left to the action as the classical arc
+always said. **The wall arc closes**: 0071 (abelian phases, D = 4,
+N ≥ 3) → 0072 (kernel) → 0073 (sign problem) → 0074 (Born cure) →
+0075/0076/0077 (spectrum, 4D criticality, heat-kernel fixed point,
+gapless graviton channel) → 0078 (vertex simplicity) — six stones,
+every one off the derived measure, no knob turned. Battery:
+`build_S`, `jacobi_eig`, `vertex_price`. Honest limits: joint frame
+integral, not yet a boundary-state 4-simplex with intertwiner
+labels; ε′ = 0.01, seeded trials 8–24; six-columns lift for
+Weyl/Ricci; Euclidean. Open: the boundary-state vertex and its
+propagator (spin-foam-grade A3 completion); the in-context tension
+spectrum (does (1,0)'s lightness survive shared-frame coupling?);
+standing: Λ1, C1, arithmetic-branch pass, sign-problem toy, CLT
+theorem, τ beta function.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
