@@ -2617,6 +2617,32 @@ Seeded in lucid-filter as `research/wall-correspondence/` on branch
 correspondence, not isomorphism — port-backs are candidate
 principles; F5/F6 thin; the filter house rules bind work done there.
 
+## The open budget (0080)
+
+0069 §2's step 1 (budget off the compact torus) done exactly
+(`exploration/0080`, `output/0071`, all enumeration/integer, no
+sampling). **A disk has no budget**: all N⁴ flux combos attained with
+identical multiplicity N^(V−1) — Σ F ≡ 0 was the closure of the
+surface, not dynamics. **Frozen boundary restores it as Stokes mod
+N**: Σ F ≡ hol(∂) exactly, every trial; torus control recovers Σ F ≡ 0
+with the H¹ = Z² Wilson-moduli count. The budget is a topological
+ledger: Λ-residual is exactly 0 (closed), a boundary datum
+(Dirichlet), or a quantized observable (free). On the free disk the
+exact distribution P(Σ F = h) = (1/N)Σ (Ŵ(n)/Ŵ(0))^P ω^{nh} with the
+integer dual Ŵ(n) = Σ_{d|N,(N/d)|n} φ(d)(N/d): quantized at 2πh/N,
+approaching **uniform** at area-law rate r_max^P with r_max = φ(N)/P(N)
+= f(N) at prime N — the universe forgets its total curvature at the
+confinement-tension rate (0064). Composite N: the coarsest subgroup
+dies last (N=15: mod-5 residue survives at (4/9)^P, verified at
+P=256). Consequence for the Λ path: the measure does **not** prefer
+Λ = 0 on a free arena — smallness must come from closure or boundary
+data; the program predicts quantization always, zero only for closed
+universes. 0064's zero-mode divergence resolved: on the open arena
+Ŵ(0)^P is just Z_disk — the divergence was the closed budget eating
+the zero mode, not a pathology. Open: the 4D/nonabelian analogue
+(connects to the boundary-state vertex), the continuum-τ zero mode
+(step 2), the arena question (step 4).
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
