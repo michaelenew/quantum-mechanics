@@ -2203,6 +2203,45 @@ collapse as geometric discharge?** (sharpest next); higher tangles
 (does the ladder continue?); P1 formalization; standing: t and N,
 τ A/B, bond h², nonabelian Dirichlet square.
 
+## The bar (0069)
+
+Orientation pass, no module (`exploration/0069`). The requirement
+list for "a quantum gravity theory" with brutal status per item:
+(A) interacting quantum geometry — partial at the toy tier, **the
+wall is the interacting continuous 3+1 measure**, unattempted, with
+one unique asset (the derived Dirichlet-square measure); (B) GR
+classical limit — done modulo the bond's h²; (C) semiclassical
+benchmarks (Hawking/Unruh/area laws) — **untouched, the largest
+silent gap**, though the information tier is area-law-shaped;
+(D) UV story — N is the regulator and (per 0049) the coupling's only
+physical datum: deriving N = deriving the hierarchy; (E) matter —
+dormant; (F) the arena — the manifold–spacetime identification and
+3+1 Lorentzian remain the deepest unpriced assumptions; (G) the
+measurement problem jointly — this program's unique obligation, now
+concrete as collapse-as-geometric-discharge (0068). Path order:
+wall → matter → semiclassics → derive N → arena → falsifiables. A
+skeptic converts at (A)+(C)+one derived knob. **Falsifiability,
+vacuum energy first**: the mechanism already exists — the Λ mode is
+the zero mode, deleted by the closed-universe budget (0029 = 0057's
+removed k = 0 = 0064's sole divergence), giving unimodular-flavor
+phenomenology (uniform vacuum energy does not gravitate; the 10¹²⁰
+problem does not arise in standard form); the continuation: mod-N
+budget ⇒ **quantized Λ residual** in units set by N — steps: budget
+off the torus (compactness currently does real work), zero mode in
+the τ theory, residual spectrum, confront Λ_obs·V with the quantum
+and cross-check N against the hierarchy. Other lines: graviton mass
+possibly dissolved (0063 massless without tuning), tangle-vs-entropy
+sharp but in-model, monogamy/π-cap Planck-scale, EP deviations dead
+(0059). **Program comparison table recorded** (string/KLT = our
+double copy; LQG = nearest cousin, our arc an exactly solvable
+abelian spin foam with weak simplicity as the priced ledger;
+CDT/Hamber = our reproduced phase structure; Jacobson/RT = same
+territory, opposite measure per 0067's discriminator). Distinctive:
+fewest knobs (two, one dissolving; G and c units), derived measure,
+machine-verified, the measurement-gravity unification obligation.
+Missing: the wall, semiclassics, matter, the arena — and scrutiny
+(one builder; 0062 found real errors, more exist unfound).
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
