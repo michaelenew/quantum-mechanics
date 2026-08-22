@@ -1969,11 +1969,58 @@ continuous analogue of the ledger weight gcd(F,N)/N is unknown**
 (gcd has no smooth limit; its Fourier dual is the object to take a
 limit of), now the sharpest structural open of the continuous arc;
 doublers noted; zero-point per-mode, silent on backreaction. Open:
-the continuous ledger weight; the cubic vertex from ε e∧e∧F (whose
-static face is 0060's bond); the nonperturbative count (Monte Carlo
-or an exactly solvable sector); standing: t and N derivations, the
-correlation gap, the bond's h², composite N, the symplectic
-reframing.
+the continuous ledger weight (**answered at the abelian tier by
+0064**: it is τ, the Dirichlet square of BF); the cubic vertex from
+ε e∧e∧F (whose static face is 0060's bond); the nonperturbative count
+(Monte Carlo or an exactly solvable sector); standing: t and N
+derivations, the correlation gap, the bond's h², composite N, the
+symplectic reframing.
+
+## The divisor ensemble (0064)
+
+`exploration/0064`, `output/0058` (0.24 s). The ledger weight
+gcd(F,N)/N — a black box since 0053 — opened by Cesàro's identity
+**gcd(F,N) = Σ_{d|N} φ(d)[d|F]** (verified exactly, all N ≤ 60): the
+per-plaquette weight is a φ-weighted mixture of **flatness constraints
+at every level d | N**, so the partition function is a sum over
+**divisor fields** — **the quantization level is a local dynamical
+variable**, distributed by Euler φ. On a closed 2-plaquette universe
+the budget couples levels through their **lcm**
+(Z = Σ φ(d₁)φ(d₂)N/lcm(d₁,d₂), exact at N = 6, 12) — 0053 §4's
+correlation as a formula. **Closed forms for the measured arc**:
+0055's jitter base is exactly **f(N) = φ(N)/P(N)** (Pillai), matching
+every measured value (1/3, 2/5, 1/4, 4/9, 6/13), and it *is* the
+probability that the local level is maximal — classical rigidity is
+the d = N sector, **quantum jitter is the φ-probability of
+sub-maximal local levels**; tension = log(P/φ). Prime N → two-level
+ensemble (BF + free, weights → ½, ½; continuum tension **log 2**);
+dyadic N = 2^k → **uniform distribution over the dyadic tower**
+(1/(k+2) per level, exact) — 0053's 2-adic grading resolved as the
+divisor lattice. **The continuum ledger, derived** (0063 open 1
+answered at the abelian tier): the Fourier dual is
+Ŵ(n) = Σ_{e|gcd(n,N)} e·φ(N/e), and at divisibility-saturated
+N = lcm(1..K)², **Ŵ(n)/Ŵ(1) = τ(n) exactly** for n ≤ K (K = 6, 10,
+14; N up to 10¹¹) — the number-of-divisors function, with
+**τ = 1∗1**: probability = amplitude² becomes **Dirichlet
+convolution** in the charge basis — the continuum ledger is the
+Dirichlet square of the topological theory, arithmetic and
+heavy-tailed, not the heat kernel 0063 chose. The divergent zero mode
+Ŵ(0)/Ŵ(1) = P/φ (68 → 4328) is exactly the mode the closed-universe
+budget removes — the measure's one divergence and the budget's one
+deletion are the same object. **First observable**: the closed
+2-plaquette ⟨W⟩ falls slowly (0.350 → 0.239 over N = 144 → 7×10⁵);
+Στ² diverges logarithmically, so the strict limit needs the budget's
+zero-mode care — a trend, not a limit. Battery: `phi`, `divisors`,
+`pillai`, `dual_weight`, `lcm_range`. Honest limits: abelian tier
+only; τ-exactness is along the saturated sequence (primes give the
+two-level structure instead); §4 unresolved; novelty caveat per
+0058's method (Cesàro is 19th-century; Στ(n)qⁿ is Eisenstein-adjacent
+— the arithmetic bridge may be knocking). Open: the **nonabelian
+Dirichlet square** (convolution square of the trivial weight on the
+representation ring — bridge to EPRL machinery); redo quantum Newton
+and the mode count under the derived τ weight (controlled A/B vs heat
+kernel); the Eisenstein/E₂ connection (0048's arithmetic bridge);
+queued next: the correlation/trust tier.
 
 ## Known gaps
 

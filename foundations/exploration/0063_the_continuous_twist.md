@@ -135,12 +135,12 @@ computation.
 
 ## Open
 
-1. **The continuous ledger weight**: what replaces gcd(F,N)/N for
-   U(1) — and for SO(3,1)? The Z_N weight's Fourier dual (a
-   Ramanujan-type sum) is the natural object to take a limit of,
-   rather than the weight itself. Until this is derived, the
-   continuous quantum theory has the right *kinematics* (this
-   exploration) but a chosen, not derived, *measure*.
+1. **The continuous ledger weight** — **answered at the abelian tier
+   by 0064**: the Fourier dual of gcd(·,N) at divisibility-saturated
+   N is exactly τ(n), the number-of-divisors function, and τ = 1∗1 is
+   the Dirichlet square of the BF weight. The derived continuum
+   ledger is arithmetic and heavy-tailed, not the heat kernel used
+   here. Remaining: the nonabelian (representation-ring) version.
 2. **First interaction**: expand ε e∧e∧F one order past quadratic —
    the cubic graviton vertex from the web's own functional; check it
    against GR's (the two-body bond, 0060, is its static face).
