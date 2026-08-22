@@ -2671,6 +2671,34 @@ lift (F3's causal-attainability doppelgänger now has a sharp target:
 does the dynamics prefer the real-amplitude class?), the SU(2)
 analogue, folding the stack into the bar's knob-derivation.
 
+## The half space (0082)
+
+C1 of path C done (`exploration/0082`, `output/0073`): the free
+graviton's (0063) zero-point entanglement across a flat cut, exact
+Gaussian covariance algebra, machinery certified against CFT first
+(half-chain S = −(1/6)ln m to 0.2% at L=2048). **Area law measured,
+coefficient extracted**: α = 0.0242 per polarization (NN stencil,
+N⊥→64 extrapolants agree to 0.5%), S_graviton/A = 2α = 0.0484;
+memory-flagged anchor Srednicki '93 spheres 0.30/4π ≈ 0.0239 — same
+scale. The gapless channel (0077) signs the entanglement: the
+subleading term is (1/6)ln L/N⊥², measured 0.1638 vs c=1 CFT's 1/6 —
+the massless graviton line's central charge, the third independent
+instrument to see the same massless thing. The coefficient is
+**regulator-dependent**: the program's own central-difference stencil
+factorizes exactly into doubler sublattices (S_cd(L) = 2S_sub(L/2) to
+1e−9) and gives α_cd = 0.0482 (ratio 1.99, z-factor exactly 2,
+transverse net ≈1 measured not proven) — the species problem on
+schedule, so **C4 must be a renormalized-G (Sakharov) confrontation,
+never a bare match**. Massive control monotone. Framing: this stone
+is deliberately the standard side of 0067's tangle-vs-entropy
+discriminator — the entropy side is present and textbook-correct in
+this vacuum, so the program's difference must live at the coupling
+(0067), to be confronted by C3/C4. Limits: free TT sector only, flat
+cut not horizon, Srednicki from memory. Open: C2 thermality
+(Bisognano–Wichmann, still Gaussian), C3 web-native capacity across
+the same cut, C4 as renormalized-G, interacting/deconfined-phase
+entanglement.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
