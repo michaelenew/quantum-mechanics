@@ -3000,6 +3000,29 @@ Open: pin τ₀ (vertex normalization or N = 5), the two-coupling flow
 (τ + vertex susceptibility), F2 cross-check, the assembled complex —
 now the wall's last outstanding piece.
 
+## The pinned flow (0094)
+
+The knob-derivation attempted (`exploration/0094`, `output/0084`):
+**the program's first no-continuous-knob chain to a dimensionless
+number**. Chain: constraint stack → admissible N (5, 13, 17, 25,
+29) → level cutoff J(N) (quantum-group admissibility, both
+conventions k=N and k=N−2 carried) → the DERIVED Born counting
+weight (no dial) → one MK blocking → τ₁(N) (heat-kernel flat ≤
+0.0025) → ln(L*/a) = ln2/(c·τ₁). **The menu**: N=5 → 10⁸–10¹⁷;
+N=13 → 10⁶⁵–10⁸⁸; N=17 → 10¹¹⁴–10¹⁴³; exponent quadratic in the
+level (τ₁ ≈ 1.2/J², ln L* ≈ 4.5 J²). May be claimed: a discrete
+menu of exponentially large pure numbers from derived structure —
+0069 (D)'s demand met in shape. May NOT be claimed: matches to
+observed numbers (near-misses recorded honestly: 10¹⁷ ~ M_P/M_EW at
+N=5, 10⁶⁵ ~ horizon/Planck at N=13 k=N−2 — but c is ±30% on the
+EXPONENT, conventions move small-N exponents 2×, and the
+level↔cutoff identification is a modeling bridge, NOT derived — now
+the arc's sharpest open). Falsifiability shape: derive the bridge +
+match one level, and every other level is a prediction; the
+N²-quantized menu is itself refusable. Open: derive the cutoff from
+the ledger's own consistency (the cover/congruence arithmetic
+suggests it knows), controlled scheme for c, healed-weight τ₁.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
