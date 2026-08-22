@@ -2841,6 +2841,37 @@ Gaussian), 't Hooft superselection for the matter thread,
 non-commuting multi-source ordering, reading theorem as a
 channel-capacity statement (F1's dictionary row).
 
+## The vertex coupling (0088)
+
+0087's open 1 against the real 4D object (`exploration/0088`,
+`output/0079`): **the two-ledger split fails at the vertex,
+measurably, from first order — and the failure is the physics.**
+Test: shift one plaquette by a fixed source δF, ask whether the price
+response depends on the other five (context). Free-tier control:
+under the product weight the response is context-independent to
+1e−12 (locality = the reading theorem's precondition). At the vertex:
+the same source's response ranges over contexts by 0.17–1.5 nats
+(mean spread 0.72), even flipping sign; converged central-difference
+linear coefficients +1.113/+0.061/+0.543 across geometric/foreign/
+random contexts — coupling present from first order. Orientation
+lensing: rotating the source's plane from its own slot toward a
+foreign one traces a smooth 2.17 → 1.69 nat curve — the vertex
+charges orientation relative to the ambient frame. Reading: the
+ledger separation is a free-tier theorem (2D = topological =
+distortion-free), and the vertex is precisely where it must break —
+context-dependent reading is the measure-level seed of gravitational
+nonlinearity (geometry reads geometry). Mechanisms named: decoherence
+-as-transfer can only happen at vertices (free tiers keep ledgers
+separate); 0087's reading theorem governs propagation between
+interactions, while readings through interacting regions pick up
+context (lensing's information shape: attenuation honest, orientation
+charged). Limits: Gaussian-regulated vertex not boundary-state;
+algebra-valued sources (center sector invisible); 6 seeds. Open: the
+coupling tensor/susceptibility (cousin of the cubic graviton vertex),
+in-context tension spectrum as one entry of it, the measurement
+thread's first stone (does a channel's modulus leak into phase at a
+vertex?).
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
