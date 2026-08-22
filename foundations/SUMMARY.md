@@ -2349,6 +2349,52 @@ in their harness. Open: A2 (one-vertex nonabelian with this kernel);
 A3 (the propagator test where BC bled); regulator-independence; the
 arithmetic-branch pass.
 
+## The nonabelian plaquette (0073)
+
+`exploration/0073`, `output/0065` (1.3 s). Path A's A2 (first half):
+0072's kernel lifted to a class function on Spin(4) = SU(2)⁺×SU(2)⁻
+(chord and angle lifts) and expanded in characters. **The center is
+blind**: every half-integer coefficient vanishes identically — vector
+frames see SO(4), no spinorial sector (matter needing spinors needs a
+spinorial B; recorded for 0069's E). **Simple reps dominate,
+heavy-tailed**: at ε = 0.01 the balanced diagonal carries the weight
+(0.62/0.45/0.34/0.27 at j = 1..4) — Barrett–Crane's simple reps
+emerging softly, with a tail far above any heat kernel (matched at
+step one, predicted 0.14 vs actual 0.27 at j = 4) — the τ-lesson
+nonabelian. **The sign problem arrives**: the weight is pointwise
+positive but NOT character-positive — c(2,0) < 0 at every ε tested
+(−0.008 even at ε = 1), c(1,0) crosses near ε ≈ 0.05 reaching −0.27
+by ε = 0.003; both lifts diseased (which coefficient differs, the
+negativity doesn't); grid-stable to 1e−17. Osterwalder–Seiler
+positivity fails for the naive one-plaquette lift: **the disease
+interacting QG measures die of, met on schedule at the wall** (the
+sibling arithmetic branch's probes name "the sign problem" — a
+cognate, hit independently). **The cure has the ledger's shape**: the
+U(1) dual ledger was τ = 1∗1 — a Dirichlet square, coefficient-
+positive automatically — so a nonabelian dual-square weight has
+coefficients (amplitude)² ≥ 0 by construction; the naive kernel lift
+kept the kernel and dropped the square, and its negativity says the
+kernel alone was never the whole weight. **A2's disease independently
+demands 0064 open 1 — the nonabelian Dirichlet square. The next stone
+is forced, not chosen.** Also closed this turn, the filter loop: the
+τ = s² boundary cure pushed to lucid-filter as
+`research/oracle-gap/0010` on branch `claude/square-chart-boundary`
+(verified there: I(s)/s² → 1.597, I(τ) → 0.399 flat, one-sided MLE
+demo; their-harness tests flagged as theirs); scan noted the shipped
+WalkingFilter's moving grids (adaptive frames) and the
+"AI-generated, not peer-reviewed" banner convention worth adopting.
+Battery: `dual_coeffs`, `chi`. Honest limits: the class-function lift
+is a choice and OS-positivity is sufficient-not-necessary (another
+route to a positive transfer matrix is not excluded, only not
+exhibited); one plaquette, no intertwiners, Euclidean, ε finite (ε→0
+is BC's limit, not the program's). Open: **the nonabelian Dirichlet
+square** (build the dual-square weight; check invariant structure,
+automatic positivity, simple-rep concentration); A3 only after the
+square (testing a non-positive weight tests the wrong object);
+intertwiners as positivity restorers at a true vertex; standing: Λ1,
+C1, the arithmetic-branch pass (its sign-problem probe now directly
+relevant).
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
