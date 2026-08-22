@@ -1926,6 +1926,55 @@ curvature decomposition); composite N via Smith form of ⋆F over
 Z_{2^k}; standing: continuous-twist lift, Lorentzian star, the
 correlation gap, the bond's h².
 
+## The continuous twist: the graviton counted (0063)
+
+`exploration/0063`, `output/0057` (2 s). The lift 0061/0062 demanded —
+finite Z_N → continuous twist — taken at the linearized level, where
+everything is exact rational linear algebra, closing the four standing
+polarization opens (0054/1, 0055/3, 0056/2, 0057/1) at that level.
+**The mode count**: central differences make every derivative the
+symbol s_μ = sin k_μ, so the linearized vacuum equations are a 10×10
+matrix over Q; at exact rational points, ker = **4** off the shell
+(all pure gauge), **6** on the shell (η·s² = 0, e.g. (5,3,4,0),
+(13,3,4,12)) — **physical = 2**; in n = 3, ker = 3 = gauge —
+**physical = 0**. Two propagating modes in 3+1, zero in 2+1, the
+dimensional trade at the propagating level with no sampling and no
+limits. **What they carry**: gauge modes have **Riemann ≡ 0
+identically** (they carry no geometry); the TT modes h₊, hₓ have
+E = 0, **Ricci = 0 with Riemann ≠ 0 (72 components) — pure Weyl** —
+and their curvature operator **commutes with the Lorentzian star**:
+0061's target ("a curvature operator whose Weyl block is nonzero")
+delivered by the graviton itself. In n = 3 every on-shell solution
+has Riemann ≡ 0. **The Lorentzian criterion proven** (0061 open 3
+closed): ⋆² = −1, and over Q the kernels of [·,⋆] and traceless
+Ricci are identical (9 = 9 = stacked 9; vacuum pair 10 = 10 = 10).
+**Lattice grounding**: the literal central-difference stencil on a
+discrete TT wave at a real lattice momentum gives max|E| = **0.0
+(machine zero)** on the lattice shell sin²ω = Σ sin²kᵢ and 1.1e−1 off
+it; the shell's small-k limit is ω = |k| — **massless by
+construction**, no t → t_c tuning (doublers noted). **The quantum
+tier**: quantization is exact (Gaussian) — two oscillators per
+momentum, equal-time zero-point variance = 1/(2ω√(1+ω²/4)) → 1/(2ω)
+matched to 6 digits — the graviton's zero-point jitter, 0054's
+|⟨W⟩| < 1 continued to the continuum; and the compact-U(1)
+heat-kernel plaquette gives ⟨W⟩ = e^(−1/2β) exactly — tension
+**continuous in the coupling** where Z_N's was the arithmetic f(N),
+with **integer dual labels** in the character expansion: discreteness
+as output, not ingredient. Battery: `riem_sym`, `einstein_of`,
+`Ematrix`, `null_space`, `star6`, `riem_to_op`. Honest limits:
+linearized and free — the count "2" is the free count, the
+nonperturbative spin-2 question (Hamber, 0058) stays open; the U(1)
+heat-kernel weight is chosen (Villain), not derived — **the
+continuous analogue of the ledger weight gcd(F,N)/N is unknown**
+(gcd has no smooth limit; its Fourier dual is the object to take a
+limit of), now the sharpest structural open of the continuous arc;
+doublers noted; zero-point per-mode, silent on backreaction. Open:
+the continuous ledger weight; the cubic vertex from ε e∧e∧F (whose
+static face is 0060's bond); the nonperturbative count (Monte Carlo
+or an exactly solvable sector); standing: t and N derivations, the
+correlation gap, the bond's h², composite N, the symplectic
+reframing.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
