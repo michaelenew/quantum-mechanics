@@ -2586,6 +2586,37 @@ spectrum (does (1,0)'s lightness survive shared-frame coupling?);
 standing: Λ1, C1, arithmetic-branch pass, sign-problem toy, CLT
 theorem, τ beta function.
 
+## The filter adoption plan (0079)
+
+Plan doc, no module (`exploration/0079`). Two decisions. **The
+escalation protocol**: each outstanding wall piece is checked in the
+full theory first; intractable pieces pivot to the Z_N toy (iterate —
+multiple solutions likely live there). **The reframe**: the deeper
+toy is the **lucid filter** — it hit the same blocks from the
+opposite direction (this thread derived superposition-with-weights
+from information postulates; the filter discovered the lit grid is
+forced by tracking data), and it owns exactly the instruments the
+physics side lacks: causality, real data, and an exact operational
+loss. Dictionary recorded (seven established rows: trust = precision;
+grid = superposition; Born = τ = s² (ported); nats both sides;
+GPB1→IMM = product-blind→vertex; local level = fractional ν;
+CLT→heat kernel = Gaussianization). **Six adoption rows**, each with
+filter formulation, minimal extension, port-back, and trigger: F1
+vertex propagator = coupled-bank cross-stream transfer function (+
+the oracle-gap decomposition method applied to the propagator); F2
+running of τ = prequential regret growth via a temporal-decimation
+cascade — **filter-first, the instrument is exact where MK is not**;
+F3 Lorentzian lift = causal attainability of the batch posterior
+(their measured 96.3% ceiling as the template); F4 Born utility =
+coherent IMM (amplitude-mixing vs probability-mixing, scored in code
+length — highest upside, runnable on curiosity); F5 tangle =
+cross-spectral tracking with CKW as a cross-information budget; F6
+Λ/zero mode = the unobservable common mode that (1−B)^ν removes.
+Seeded in lucid-filter as `research/wall-correspondence/` on branch
+`claude/wall-correspondence`. Honest limits: structural
+correspondence, not isomorphism — port-backs are candidate
+principles; F5/F6 thin; the filter house rules bind work done there.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
