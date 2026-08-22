@@ -2511,6 +2511,41 @@ fixed structure; map the basin (universality vs knife-edge); settle
 the drift's sign with a finer instrument; standing: vertex, Λ1, C1,
 arithmetic-branch pass, sign-problem toy.
 
+## The continuum scaling (0077)
+
+`exploration/0077`, `output/0069` (17 s). The stone after 0076: a
+fixed structure with t < 1 is a finite correlation length unless
+t → 1 as frames grow — so the decisive computable is the tension
+scaling with bin scale s₀ ~ 1/L². **The graviton channel goes
+gapless**: μ(1,1) = 0.437 → 0.124 → 0.033 → 0.011 across s₀ = 1.5 →
+0.1875, power fit p = 1.82–1.90 — consistent with **μ ∝ s₀² ~ ε, the
+regulator**; convergence 0.02% under grid refinement. **The fixed
+structure is the heat kernel**: tension ratios are quadratic-Casimir
+ratios to three digits at every scale — (2,2) 3.000, (1,0) 0.500,
+(2,0) 1.500, (2,1) 2.000, (3,3) 6.000 — so **μ_R = τ·C₂(R), τ ∝ s₀²
+→ 0**: the MK fixed structure of the healed weight is the heat
+kernel on Spin(4) with vanishing diffusion time, by the CLT on
+compact groups (only τ remembers the start; four different starting
+profiles land on one structure — 0076's basin question answered for
+this family). **0064's tension resolved**: the arithmetic heavy-
+tailed ledger is the **UV completion**, the heat kernel the **IR
+universality class** — 0063's chosen weight justified a posteriori.
+**For A3**: the momentum half's mass question is answered — the
+(1,1) channel is a **gapless carrier** in the continuum-frame limit,
+with standard 1/k² at quadratic order; scope stated plainly: 0076's
+drift is the **running of τ** (the 4D Yang–Mills shadow, logs MK
+cannot resolve — gaplessness must outrun the running, the standard
+4D story), and the gapless channel is the carrier the graviton
+*needs*, not yet the graviton — whether the metric mode rides it is
+the frame/vertex question. Battery: `run_fixed`. Honest limits: all
+MK caveats inherit; smallest scale least converged; "heat kernel" is
+six ratios at four scales, not a proof; the τ ∝ s₀² ∝ ε claim is a
+two-step inference via the N ~ L² dictionary. Open: **the vertex —
+the last wall-stone standing** (does the graviton ride the carrier;
+does the (1,0) interleaving lift); the CLT fixed-point theorem; the
+τ beta function vs the YM shadow; standing: Λ1, C1,
+arithmetic-branch pass, sign-problem toy.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
