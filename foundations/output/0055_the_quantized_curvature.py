@@ -85,7 +85,7 @@ one sharp negative.
       Newton (0057) and keeps not reaching polarizations.
 
       THREE CORRECTIONS to how this was first stated:
-      (a) STRINGS RADIATE, and this repo measured it -- 0049 gets
+      (a) STRINGS RADIATE, and this repo measured it -- 0050 gets
           Gamma = P/(G mu^2) = 45.8 for an oscillating Kibble-Turok
           loop against GR's 40-100.  A STATIC straight string is flat
           outside itself and radiates nothing; an OSCILLATING one
@@ -444,7 +444,7 @@ def verify_ambrose_singer_reading() -> None:
         print(f"      n = {n}: Weyl dimension {dW} -> {reading}")
     print()
     print("    Corrections to the first statement of this:")
-    print("      (a) strings DO radiate -- 0049 measured Gamma = 45.8")
+    print("      (a) strings DO radiate -- 0050 measured Gamma = 45.8")
     print("          for an oscillating loop.  The finite sector holds")
     print("          the DEFECT, not the RADIATION FIELD.")
     print("      (b) quantum does NOT mean finite: lattice QCD keeps")

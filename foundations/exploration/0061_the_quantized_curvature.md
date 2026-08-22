@@ -57,6 +57,18 @@ So **"this curvature is Einstein" is sayable exactly inside the
 quantized model** — a finite, decidable predicate on Z_N data rather
 than a differential equation.
 
+> **Audited by 0062 — verification upgraded to exact.** The
+> 3000-sample check above contained *zero positive cases* (a random
+> curvature is essentially never Einstein), so as shipped it tested
+> only the generic direction. 0062 proves the equivalence exactly:
+> the linear maps M ↦ [M, ⋆] and M ↦ traceless Ricci(M) have
+> identical kernels on the 20-dimensional Riemann space (rank 9 =
+> rank 9 = stacked rank 9, at N = 5 and 7). One wording sharpened:
+> [R, ⋆] = 0 is **Einstein-with-Λ** — the witness Weyl + λ·Id
+> commutes with ⋆ while Ricci = (s/4)δ ≠ 0 — and *vacuum* is the
+> pair [R, ⋆] = 0 ∧ s = 0, equally arithmetic (its kernel equals the
+> full Ricci map's kernel, rank 10).
+
 ## 3. But the measure does not select it — the honest negative
 
 The attractive hypothesis was that the ledger's simplicity price
@@ -173,8 +185,10 @@ reaching polarizations — 0054's open 1, 0055's open 3, 0056's open 2,
 **(a) Strings radiate — this repo measured it.** An earlier phrasing
 said 3+1 creases give "no Weyl to carry gravitons," which read as
 *cosmic strings cannot emit gravitational waves.* That is false, and
-0049 refutes it directly: an oscillating Kibble–Turok loop radiates
-with **Γ = P/(Gμ²) = 45.8**, against GR's 40–100 for that family. A
+0050 refutes it directly (`output/0045`'s `loop_power`; 0049 built
+the loop and left decay power as its open — citation fixed by 0062):
+an oscillating Kibble–Turok loop radiates with
+**Γ = P/(Gμ²) = 45.8**, against GR's 40–100 for that family. A
 *straight, static* string is flat outside itself and radiates nothing;
 an *oscillating* one radiates strongly. The correct statement is
 narrower and more interesting: **the finite sector can hold the defect
@@ -241,8 +255,12 @@ continuous SO(3,1) links; only the quantum sector shrank to Z_N.
      as opposed to one plaquette?
    - Both the tariff and Einstein are built on ⋆ — ⟨⋆F, F⟩ and
      [R, ⋆] = 0. Is there one structure they are both shadows of?
-   - **The ratio is exactly 2 at every level N.** That is very clean
-     for an accident and nothing yet explains it.
+   - **The ratio is exactly 2 at every level N — resolved by 0062.**
+     The price is **rank(F) · log N**: the kernel map is the
+     alternating matrix ⋆F, alternating forms have even rank in every
+     characteristic, so the tiers 0/2/4 are the even ranks of a 4×4
+     alternating form and the ratio 2 is the parity theorem. Verified
+     exhaustively at N = 3, 5, 7 (every configuration).
    - Is there a *different* observable in the measure — a correlation
      function, a saddle point — that does encode the field equation
      even though the pointwise weight does not?

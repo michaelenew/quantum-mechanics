@@ -1827,8 +1827,9 @@ piecewise-flat geometry with conical defects — in 2+1 that is the
 whole theory (Deser–Jackiw–'t Hooft, and 0054's deficit is the abelian
 sector doing exactly its job), and in 3+1 it gives **string defects but
 not their radiation field**. **Three corrections recorded**: (a)
-strings DO radiate — 0049 measured **Γ = 45.8** for an oscillating
-Kibble–Turok loop against GR's 40–100, so the finite sector holds the
+strings DO radiate — 0050 measured **Γ = 45.8** for an oscillating
+Kibble–Turok loop against GR's 40–100 (0049 built the loop; citation
+fixed by 0062), so the finite sector holds the
 *defect*, not the *radiation field* (a straight static string is flat
 outside itself and radiates nothing; an oscillating one radiates
 strongly); (b) **quantum does not mean finite** — quantization
@@ -1869,13 +1870,61 @@ tensorially** — now the sharpest conceptual open in the quantum arc,
 since §3's negative is a question rather than a dead end: the tariff
 sorts by *rank* (0/2/4), both it and Einstein are built on ⋆
 (⟨⋆F, F⟩ vs [R, ⋆] = 0) and may be shadows of one structure, **the
-ratio is exactly 2 at every N** with nothing yet explaining it, and
+ratio is exactly 2 at every N** (resolved by 0062: price =
+rank(F)·log N, the parity theorem for alternating forms), and
 there may be a *different* observable (correlation function, saddle
 point) that encodes the field equation even though the pointwise weight
 does not; **lift the quantum sector to a continuous twist group**
 (continuity, not non-commutativity — resolving all four standing opens,
 target a nonzero Weyl block and a mode count against 2); Lorentzian
 ⋆² = −1.
+
+## The quantization audit (0062)
+
+`exploration/0062`, `output/0056` (14 s). Model-switch audit of the
+quantized-curvature arc (0061 and revision, spot-rechecks of 0057;
+0059/0060 were adversarially audited in-session when written).
+**Everything substantive held; one verification was hollow and is now
+exact; one wording and one citation were wrong; and the audit produced
+a theorem.** **Projectors exact**: on all 20 basis elements (N = 5, 7)
+the Weyl output is symmetric, Bianchi-satisfying, Ricci-annihilated,
+idempotent; image rank 10 = kernel of the rank-10 Ricci map — 0061's
+spot checks become identities. **The Einstein criterion proven**:
+0061 §2's "3000/3000 agree" contained **zero positive cases** (a
+random curvature is Einstein with probability ~N⁻⁹), so it tested only
+the generic direction — a true statement verified by a procedure that
+could not have caught its falsity. Now exact: the maps M ↦ [M,⋆] and
+M ↦ traceless Ricci have **identical kernels** (rank 9 = 9 = stacked
+9, N = 5 and 7). Sharpened: [R,⋆] = 0 is **Einstein-with-Λ**, not
+vacuum — witness Weyl + 2·Id commutes while Ricci = (s/4)δ ≠ 0;
+vacuum is [R,⋆] = 0 ∧ s = 0 ⟺ Ricci = 0 (rank 10 = 10 = stacked 10).
+**The price is the rank — a theorem**: the kernel map b ↦ ε b F *is*
+the alternating matrix ⋆F acting on frame vectors (verified against
+the shipped `m_of`), so |ker| = N^(4−rank) and **price(F) =
+rank(F)·log N**; alternating forms have **even rank in every
+characteristic**, so the tiers 0/2/4 are the even ranks of a 4×4
+alternating form and **the exactly-2 ratio is the parity theorem** —
+0061's open resolved, verified exhaustively at N = 3, 5, 7
+(729/15 625/117 649 configurations, tier ⟺ Pf exact in every one).
+This unifies 0055's Pfaffian, 0056's kernel codimension, and 0057's
+self-dual imbalance as shadows of one invariant: the rank of the
+curvature bivector. **Seed-stable**: the sector ordering pure Ricci >
+pure Weyl ≫ generic reproduces at seeds 7/99/12345 — 0061 §3's
+negative stands. **0057 rechecked**: Pf a function of the SD/ASD
+imbalance alone (all N⁶, N = 3 and 5); dispersion arithmetic exact.
+**Corrections applied**: Γ = 45.8 was measured in **0050**
+(`loop_power`), not 0049 (which built the loop) — fixed in 0061, the
+0055 module, and this file; "vacuum Einstein equation" → Einstein.
+Battery: `alt_matrix`, `make_rand`. Honest limits: 0061's own limits
+(hand-imposed symmetries, Euclidean signature, the six-columns lift)
+are inherited, not discharged; the rank theorem is proven for prime N;
+seed stability is three seeds, adequate for a 5–100× ordering only.
+Open: **is the whole measure symplectic** — rank stratification of ⋆F
+as the answer to "what the tier structure is tensorially" (candidate:
+nothing tensorial — the symplectic stratification is finer than any
+curvature decomposition); composite N via Smith form of ⋆F over
+Z_{2^k}; standing: continuous-twist lift, Lorentzian star, the
+correlation gap, the bond's h².
 
 ## Known gaps
 
