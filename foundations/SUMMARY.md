@@ -78,7 +78,11 @@ sheaf = "no god's-eye view" made mathematically precise.
 
 The moment we say "knowledge is a distribution," the web inherits a
 Riemannian geometry with **no axiomatic freedom**: Chentsov (classical) /
-Petz (quantum) uniqueness fixes the metric up to scale. Immediate
+Petz (quantum) uniqueness fixes the metric up to scale. *(0066 caveat:
+on mixed states Petz gives a __family__ of monotone metrics; uniqueness
+holds on pure states — all coincide with Fubini–Study — and by the
+Cramér–Rao selection of Bures. Pure-state channels, as used throughout,
+are safe.)* Immediate
 consequences:
 
 - Gaussian knowledge `(μ, σ)` → hyperbolic upper half-plane
@@ -2063,10 +2067,59 @@ sharpest open on this front; measurement model chosen to match the
 radial channel structure; inherits 0019/0020's 2+1 static scope; §4
 is leading-order with slow convergence, tied to the 3+1 bond by tier
 not construction. Open: the quantum tier (Bures for Fisher,
-entanglement for MI); build the bond's h² *from* redundancy (0060
-open 1 with a new handle); an information reading of the Z_N deficit
-2πn/N via the divisor ensemble; standing: t and N, the τ A/B, the
-nonabelian Dirichlet square.
+entanglement for MI) — **taken by 0066**: the law survives at weak
+coupling and for persistent channels (ratio → 1.0000), and splits for
+single strong carriers at the dimension cap 2π(1−1/d); build the
+bond's h² *from* redundancy (0060 open 1 with a new handle); an
+information reading of the Z_N deficit 2πn/N via the divisor ensemble;
+standing: t and N, the τ A/B, the nonabelian Dirichlet square.
+
+## The quantum tier (0066)
+
+`exploration/0066`, `output/0060` (0.26 s). 0065's open 1 taken: the
+channel's carrier lifted to a qubit (|ψ_θ⟩ = e^{−iκθσ_y/2}|0⟩,
+Gaussian prior), Fisher → Bures, and the question of which
+information measure keeps δ = 2π(1 − e^{−I}) alive. **The metric
+derivation survives quantization**: the Bures metric on configuration
+space, computed from fidelity with no formula assumed, is
+**(QFI/4)·uuᵀ per channel, additive** (8e−7, two channels, product
+carrier) — and fidelity is |amplitude|², so the quantum metric tier
+is built on the ledger's own rule; **w_Q = QFI**. **The weight is
+attainable**: the σ_x readout has classical Fisher = QFI at every θ
+(machine precision), and at weak coupling the record's MI matches the
+classical law to 0.3% — the Gaussian tier is the weak limit. **The
+bijection splits into a tower**: I_record ≤ χ ≤ ln d all *saturate*
+(χ → ln 2 exactly, record → 0.307) while ½ln(1+QFI) grows without
+bound (3.40 at κ = 30) — a single qubit's extractable correlation is
+capped by its dimension, its distinguishability is not: **trust and
+correlation, merged at the classical tier, come apart exactly where
+quantum mechanics begins**. **The deficit law: two survivals and one
+split** — (i) weak coupling: holds, all measures coinciding; (ii)
+**persistent channels** (n uses, wrap-free): the record's MI
+converges to ½ln(1+n·QFI), ratio 0.9973 → **1.0000** at n = 600, so
+δ = 2π(1−e^{−I_record}) holds with no quantum correction — the web's
+channels are persistent, so this is the physical regime; (iii) a
+single strong carrier: geometry follows QFI (δ → 2π) while the
+information law caps at **2π(1−1/d) — exactly π for a qubit**: one
+maximally-informative qubit can close at most half the circle by
+correlation accounting (measured: δ_QFI = 5.66 vs χ-law 3.1416 at
+κ = 10). **Mass reading**: m = (1−e^{−I})/4G becomes a
+*distinguishability* bound — approaching the extremal 1/4G needs
+unboundedly many carriers or unbounded dimension; per carrier,
+correlation buys at most (1−1/d)/4G. **Postulate caveat recorded**:
+0005's "Petz uniqueness" overstates — Petz classifies a *family* of
+monotone metrics on mixed states; uniqueness holds on pure states
+(Fubini–Study) and by Cramér–Rao selection of Bures; pure-state
+channels as used are safe (SUMMARY 0005 section annotated). Battery:
+`_mi_single`, `_mi_record`, `_holevo`, Bures-Hessian pattern. Honest
+limits: **one-sided model** (classical latent, quantum carrier) — the
+fully relational entangled-ρ_AB version is the true RT-shape question
+and remains open, the most important scope line; the record's plateau
+is σ_x-specific (rigorous cap is χ); many-copy survival shown
+wrap-free; 2+1 static scope inherited. Open: the two-sided tier
+(entanglement entropy in place of MI); the π ceiling as physics in
+the quantum lattice; qutrit check of 2π(1−1/d); standing: t and N,
+τ A/B, bond h² from redundancy, nonabelian Dirichlet square.
 
 ## Known gaps
 
