@@ -2643,6 +2643,34 @@ the zero mode, not a pathology. Open: the 4D/nonabelian analogue
 (connects to the boundary-state vertex), the continuum-τ zero mode
 (step 2), the arena question (step 4).
 
+## The Lorentzian congruence (0081)
+
+The Lorentzian lift's kinematic shell, exact (`exploration/0081`,
+`output/0072`). The Lorentzian star obeys S² = −I mod p, so the SD/ASD
+split — the 4D program's working coordinates — exists over the base
+ring iff √−1 does: **p ≡ 1 (mod 4)** (for composite N: every prime
+factor ≡ 1 mod 4; 9 fails despite 9 ≡ 1). At p ≡ 3 (mod 4) the split
+forces F_{p²} = F_p[i] — the continuum's complexification (why
+Ashtekar variables are complex) in arithmetic dress — and **reality
+conditions are Frobenius invariance**: x ↦ x^p maps SD onto ASD, 6/6
+verified over F₄₉. The Einstein predicate is signature-blind: 0062's
+kernel identity re-proved with η (rank 9 = 9 = 9; vacuum rank 10,
+kernel = Weyl) at both congruence classes — and the price K(F) =
+N⁴|ker F| and Pf(F) are metric-free, so the ledger never saw the
+signature. The same congruence sets the amplitude's phase (Gauss):
+g_p = √p real for p ≡ 1 (mod 4), i√p for p ≡ 3 — the amplitude whose
+square is the ledger is real exactly where the SD split is real; the
+arithmetic needs no Wick rotation to know about signature.
+**Constraint stack on the level: odd (Born) + ≥3 (deconfinement) +
+prime factors ≡ 1 mod 4 (Lorentzian) → smallest N = 5**; admissible
+primes are exactly the sums of two squares. Honest limits: kinematics
+only — no real-time measure, no causal structure, no claim the
+dynamics selects the real class (the F_{p²}+Frobenius option stays
+open, as complex variables do in the continuum). Open: the dynamical
+lift (F3's causal-attainability doppelgänger now has a sharp target:
+does the dynamics prefer the real-amplitude class?), the SU(2)
+analogue, folding the stack into the bar's knob-derivation.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
