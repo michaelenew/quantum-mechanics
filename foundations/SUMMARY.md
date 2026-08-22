@@ -2158,11 +2158,50 @@ tangle (0067). Battery: `fid`, `concurrence`, `_mi_record`. Honest
 limits: one family (Schmidt-aligned; local-coherence records are a
 separate mechanism, no decomposition theorem); two qubits; pure
 states; 2+1 static scope inherited; one (p,κ) for the convergence.
-Open: **weight monogamy** — CKW (C²_AB + C²_AC ≤ 1) + w = κ²C² would
-give a per-node cap Σw ≤ κ² across a node's channels: tangle
-monogamy as **mass monogamy**, the most exciting new open; the
-local+tangle weight decomposition; mixed states (w ≤ κ²C²(ρ)?);
-standing: t and N, τ A/B, bond h², nonabelian Dirichlet square.
+Open: **weight monogamy and the
+local+tangle decomposition — both taken by 0068** (one theorem: the
+Bloch budget); mixed states (w ≤ κ²C²(ρ)?); standing: t and N, τ A/B,
+bond h², nonabelian Dirichlet square.
+
+## The weight decomposition (0068)
+
+`exploration/0068`, `output/0062` (0.08 s). 0067's opens 1 and 2
+close as **one theorem**. **The Bloch budget**: for a qubit carrier
+with Bloch vector r and pointer n̂, exactly
+**(r·n̂)² + (|r|²−(r·n̂)²) + C² = 1** — bias + local coherence +
+tangle — verified to 1e−15 (one line: C² = 1−|r|² pure two-qubit,
+plus Pythagoras). **The decomposition theorem**:
+**w = κ²(1−(r·n̂)²) = κ²(tangle + local coherence)** — QFI from
+fidelity matches to 2.8e−7, the algebra to 7e−16 — equivalently
+w = κ²·Var(pointer): **the weight is the carrier's undecidedness**;
+the decided part is inert (|0⟩|χ⟩ sources nothing). Covariance: the
+tangle part is **encoding-independent**, the coherence part rotates
+with n̂. 0066 (pure coherence) and 0067 (pure tangle) were the two
+poles all along. **Geometry is blind to privacy**: same-w states with
+opposite splits (all tangle vs all coherence) give identical Bures
+metrics (1.1e−6, FD floor) — the deficit charges undecidedness
+wherever it lives; who can read the record leaves no geometric
+trace. **The ladder and mass monogamy**: for any pure global state
+the tangle reads as node-vs-rest (4 det ρ_A), and CKW splits it:
+**w/κ² = coherence² + C²_AB + C²_AC + τ₃** — verified on 200 random
+3-qubit states, 0 violations (mixed Wootters via char-poly
+eigenvalues with zero-root deflation, validated exactly on pure
+states, W's 2/3, GHZ's 0); poles GHZ (w all three-tangle, pairwise
+0) and W (all pairwise, τ₃ = 0, CKW saturated). Consequences:
+**the ladder** — private, shared, and collective capacity each
+charged equally; **mass monogamy** — a node's pairwise relational
+weights are capped by its total weight ≤ κ², the per-node sourcing
+bound, now inherited from CKW as a theorem; and a **P1 refinement**
+— GHZ's weight has no pairwise carrier, so "all content is pairwise"
+must be read as node-vs-rest bipartitions: collective entanglement
+sources geometry no pair accounts for. Battery: `bloch_and_C`,
+`conc_mixed` (`_eig4` with deflation), `_ptrace_*`. Honest limits:
+pure global states (mixed conjecture untested); qubit carriers and
+qubit-CKW; 2+1 static scope inherited. Open: **the mixed tier — is
+decoherence literally the transfer of weight from capacity to bias,
+collapse as geometric discharge?** (sharpest next); higher tangles
+(does the ladder continue?); P1 formalization; standing: t and N,
+τ A/B, bond h², nonabelian Dirichlet square.
 
 ## Known gaps
 
