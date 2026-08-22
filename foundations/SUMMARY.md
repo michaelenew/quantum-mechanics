@@ -2022,6 +2022,52 @@ and the mode count under the derived τ weight (controlled A/B vs heat
 kernel); the Eisenstein/E₂ connection (0048's arithmetic bridge);
 queued next: the correlation/trust tier.
 
+## The correlation tier (0065)
+
+`exploration/0065`, `output/0059` (0.02 s). Closes the gap 0058 called
+the program's highest-value structural open — "correlation sources
+curvature" was claimed with participation delivered — at the
+classical/Gaussian tier, by derivation. **The metric is derived, not
+posited**: for an explicit inference network (nodes, line-of-sight
+channels of precision λ, isotropic prior), the numerically computed
+Hessian of the expected log-likelihood equals **A₀ + Σ λ·uuᵀ** to
+3.7e−11 — the web's metric ansatz (0019/0020) is the Fisher metric of
+an estimation model, with **w = λ = the precision of the pairwise
+knowledge**; K = πs and the screening law now rest on a derived
+object. **Precision is the trust axis**: λ = n/σ² is the effective
+sample count — 0008's trust, the axis Kalman folds into variance and
+a distribution-tracker must carry separately; here the metric carries
+it, and it is what curves. And **λ = e^{2I} − 1** exactly (verified
+against direct entropies): participation = precision = trust = a
+monotone bijection of mutual information. **The deficit law**:
+composing with 0019's exact cone (re-verified geometrically),
+**δ = 2π(1 − e^{−I})** — weak limit δ ≈ 2πI (curvature *linear* in
+MI — the first-law shape; shape-match only, cited not claimed), the
+πw − ¾πw² expansion recovering 0019's measured correction, and
+saturation I → ∞ ⇒ δ → 2π giving **m = (1 − e^{−I})/4G**: the
+extremal defect is complete information and the mass cap m < 1/4G is
+the statement that mutual information is never infinite. The
+complement reads best: 2π − δ = 2π e^{−I} — the surviving angle is
+the exponential of the unknown. The screening law is an information
+statement verbatim: πw/√det A₀ = πw e^{−J}, J = ½ln det A₀ = the
+ambient's **total information** (bookkeeping per 0059, but now
+legible). **The bond tier is the redundancy tier**: precisions add
+(Fisher additivity = 0041's "charges add," derived); the information
+redundancy I₁+I₂−I_joint ≈ w₁w₂/2 sits exactly at the bond's O(w₁w₂)
+tier, and the geometric interaction of collinear deficits is
+**−3π × redundancy** at leading order (−9.31/−9.20/−9.12 → −3π).
+Battery: `fisher_numeric`, `fisher_analytic`, `expected_nll`. Honest
+limits: Gaussian/classical throughout — the quantum tier
+(Bures/entanglement, whether δ = 2π(1−e^{−I}) survives) is now the
+sharpest open on this front; measurement model chosen to match the
+radial channel structure; inherits 0019/0020's 2+1 static scope; §4
+is leading-order with slow convergence, tied to the 3+1 bond by tier
+not construction. Open: the quantum tier (Bures for Fisher,
+entanglement for MI); build the bond's h² *from* redundancy (0060
+open 1 with a new handle); an information reading of the Z_N deficit
+2πn/N via the divisor ensemble; standing: t and N, the τ A/B, the
+nonabelian Dirichlet square.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the

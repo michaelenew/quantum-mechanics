@@ -100,6 +100,13 @@ flagged; what was delivered is a different row. **Closing this — an
 explicit demonstration that `s` is (or is monotone in) a correlation
 measure — is the single highest-value open item in the repo for
 making contact with the RT / Van Raamsdonk / Jacobson literature.**
+
+> **Closed at the Gaussian tier by 0065**: the web's metric is derived
+> as the Fisher metric of an explicit inference network with
+> w = precision = e^{2I} − 1, giving δ = 2π(1 − e^{−I}) — the deficit
+> as a closed-form function of the pairwise mutual information, linear
+> (first-law shape) in the weak limit. The quantum tier (Bures /
+> entanglement) remains open.
 Until it is closed, comparison to that literature is by analogy.
 
 **(b) G is registered, not derived.** ρ_mass = s/8G follows from
