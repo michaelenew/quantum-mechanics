@@ -2784,6 +2784,37 @@ open lattice — vacuum record sources nothing, defect does), extremal
 channel through a cut vs C2's modular structure, decoherence as
 transfer between the two ledgers.
 
+## The two ledgers (0086)
+
+0085's protection calculation, run in the Z_N toy — **the first
+pivot down the escalation ladder**, and the toy *corrected* the
+story (`exploration/0086`, `output/0077`; dual t-sum vs brute flux
+enumeration at 1e−12 throughout). **The polar theorem** (exact, open
+lattice): ⟨W⟩ = e^{i·2π Σ_enc n_p/N}·f(N)^A — 0085's two ledgers are
+the polar decomposition of one complex number: phase = source ledger
+only (additive, area-independent), modulus = record only (area law,
+blind to sources). The vacuum record cannot twist categorically — no
+budget needed; |⟨W⟩| is the confidence channel, arg⟨W⟩ the content
+channel (the seed split materialized). **The budget does NOT delete
+uniform sources**: at N|P a uniform frustration passes untouched
+(phase = 2πA/3 exactly — a quantized-Λ leak); at coprime N,P the
+budget subtracts one localized quantum (fluxes are discrete, no
+smearing), uniform curvature appears at ~full strength, and the
+smeared trace-removal guess (1−A/P) is rejected by measurement. The
+budget's one job: the A = P loop reads 0 exactly — **Λ·V quantized in
+2π/N units** (0069's spectrum, 0080's residual, now dynamical).
+Revision recorded for 0085 §2: layer (i) record-safety = polar
+theorem (constraint-free), layer (ii) budget = global Λ quantization
+only. Small-universe effects measured: vacuum complementarity
+|W(A)| = |W(P−A)| bends the f^A law by A ~ P/2; an enclosed defect
+keeps 99.9% of its deficit at A/P = 1/9, eroding to 72% at 4/9.
+Limits: abelian toy (the factorization's exactness is special to the
+product measure); frustration as the source model; continuum limit
+open. Open: the nonabelian polar split (central phase × class
+modulus — bridge back to the full theory via 0078's machinery),
+Λ-leak phenomenology (Λ ∝ (Pn mod N)/P·2π/N into 0069 step 4), the
+2+1 continuum limit, decoherence as modulus→phase transfer.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
