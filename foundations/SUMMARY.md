@@ -3263,6 +3263,45 @@ the transition's order; the node-barrier filter experiment; feed
 (s_P(τ), φ(τ)) to wall-correspondence (lucid 0004, done with this
 stone).
 
+## Completing the isomorphism: time, network, prequential (0103–0105)
+
+Three tiers added in one push, closing the completable part of the
+physics↔filter isomorphism. **Time (0103, `output/0093`)**: the
+Euclidean measure IS the smoother, the filter its causal half, at
+all three proven state-space tiers — ℝ exact (Dirichlet propagator =
+s(T−t)/T smoother covariance, 1e−13), U(1) by brute contraction
+(5.5e−15), SU(2) by characters — and the smoother inherits 0099's
+curvature tax exactly (bridge fusion defect → −2/3 = −4δ,
+width-independent); causal attainability is exact at the free tier
+(fraction = 1 − t/T), giving F3 its yardstick. The Lorentzian lift
+removes end-conditioning and nothing else. **Network (0104,
+`output/0094`)**: the lattice is a bank of S³ filters (heat-bath
+kernel = Bayes with six staple observations, stated exactly); its
+Gaussian sector — 0095's Maxwell theory read as a smoother —
+predicts the dressed curve with zero knobs, ⟨θ²⟩ = 3R/κ(τ)
+(R = 765/1536 by SVD, κ = the weight's local precision): within 1.5%
+at mid-flow, 16%/20% at the stiff/Haar ends; moment-matching instead
+is wrong 2.1× — curvature is the physically right strength notion.
+**Revision (house policy)**: the Gaussian bank reproduces the entire
+scale field (sP_exc +0.0134 vs measured +0.0120, c(1) +0.0515 vs
++0.0474, c(2) −0.0045 vs −0.0046) — 0101/0102's "wandering scale" is
+link-sharing *kinematics*, not interaction structure; the honest
+interaction observable is the ~10% deficit and its flow pattern.
+Gauge quotient = identifiability quotient (link marginals exactly
+Haar on the MC checkpoints). **Prequential (0105, `output/0095`)**:
+the action IS the prequential code length of the record, in any
+reveal order (chain rule, 0.0e+00 spread) — "no arrow" =
+order-invariance, the Lorentzian reading adds an order and changes
+no total; on the closed surface the per-step predictor is a filter
+(state = holonomy posterior) and the closure constraint is worth
+exactly −ln P_free(hol=0) → ln N nats (six digits by P = 64): the
+budget is the code the boundary carries. The ledger now has an
+operational loss and it is the filter's. Remaining non-isomorphic:
+the coherent tier (F4 — the phase/source ledger has no operational
+meaning yet), the nonabelian boundary (F1), the vertex/joint tier
+(candidate theorem: both sides' product-blindness = total
+correlation). Those are the filter-first queue.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
