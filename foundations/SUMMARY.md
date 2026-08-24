@@ -3427,6 +3427,33 @@ orientation-dependent vertex structure (0088's lensing) or higher
 order; a 4-chain preliminary signal collapsed under 7× data and is
 recorded as such.
 
+## The second sweep (0112–0113 + lucid 0019–0021)
+
+All remaining fronts advanced to completion or a single named
+residual. **The vertex operator identified** (0112): the scale-field
+deficit's carrier is the magnitude-pair coupling S_mag, ε\* = −0.66
+(anti-correlating; Chern nulls by parity as a harness check); c(1)
+attribution is the one residue. **τ\* resolved** (0113): a
+nucleation-limited crossover — escape lifetimes 350–2400 sweeps at
+τ ≥ 0.045, faster decay at larger volume; only exact zeros sustain
+permanent branches. **Gravity derived** (lucid 0019): ratio records
+(the freeze lemma) + pinned masslessness make the online learning
+operator the graph Laplacian — Newton at α = 1.00 with no posited
+prior; mass sources through the temporal ratio channel; a potential
+well requires an open boundary (closed box ⇒ the pin lifts
+everything — the closed universe again); 3D transience selects the
+dimension dynamically; and the vacuum is white while the response is
+Coulomb — **the trust field violates FDT: gravity is a response
+phenomenon**, reconciling Newton with the measured short-ranged
+vacuum correlations. The sum-record control has its massless mode at
+the zone corner (staggered anti-binding): the record structure
+selects the massless momentum. **F5 run** (lucid 0020): the
+pair-only parameter tracked 8× below blind; monogamy = positive
+definiteness, e^{−2I(1;2)} + e^{−2I(1;3)} ≥ 1 exact. **The horizon
+is hot** (lucid 0021): the half-web posterior is boost-thermal at
+β = 2π to 1e−4, temperatures π and 4π decisively rejected — 0083's
+wedge theorem, operational for the record-side observer.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the

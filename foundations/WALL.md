@@ -35,30 +35,30 @@ partial / reposed · **[ ]** open. "Filter side" = the lucid-filter
 | Hierarchy menu (no-knob) | 0094 | — | [x] |
 | **The bridge: level selection** | reposed & priced: n\* = 58 samples pin N (0106) | p-floor epistemology (their 0001) | [~] a-priori derivation open (0069(D), McKay) |
 | Assembled momentum: tree = six Maxwells, one-loop isotropy | 0095 | — | [x] |
-| **Boundary-state vertex ∪ propagator (F1)** | geometric half CLOSED (0109 + 0110: Gauss law at block scale, machine precision); dynamical half: the deficit now *selects among vertex operators* (0111: isotropic leading TC term disfavored — null scale-field response; orientation/lensing operator next) | vertex = TC; propagator (0007); order channel (0009); gravity (0010–0014) | [~] the lensing-operator test |
+| **Boundary-state vertex ∪ propagator (F1)** | geometric half CLOSED (0109–0110); dynamical half RESOLVED at linear order (0112): the deficit's carrier is the magnitude-pair coupling, ε\* = −0.66 (anti-correlating); c(1) attribution residual | vertex = TC; propagator (0007); order channel (0009) | [~] finite-ε check + nonlocal c(1) |
 | **Lorentzian dynamics (F3)** | exact template (0103) | run (their 0016): the smoother's state gain arrives at lag 1; transition TIMING is the two-sided structure (the future pins boundaries) — the Lorentzian restriction costs boundary sharpness, not state tracking | [x] as experiment |
 | **Born utility (F4)** | two-ledger theorem 0086 + 0105 | closed: loses on classical (+0.011), wins on amplitude sources (+0.087), projective null (their 0005–0006) → a detector | [x] answered |
 | Measurement problem | defined: measurement = opening a boundary; capacity = ln N = its code (0100, 0105) | innovation-stream design | [~] observer dynamics open |
 | Vertex corrections in the measure | well-posed: a TC insertion, not a new coupling (0107) | GPB1 → IMM repair shipped | [~] insert TC into the lattice, re-measure |
-| Node barriers / τ\* | hysteresis bracketed 0.05–0.15 (0102) | priced: sharp 0.81/3.63 vs annealed 0.40/1.98 (their 0008) | [~] locate τ\*, order |
-| Matter / the tangle (F5) | relational records only | cross-spectral tracking unrun (their #5) | [ ] last unstarted front |
+| Node barriers / τ\* | RESOLVED (0113): nucleation crossover, lifetimes 350–2400 sweeps at τ ≥ 0.045, faster decay at larger L; only exact zeros (τ = 0) are permanent | priced (their 0008) | [x] |
+| Matter / the tangle (F5) | relational records | run (their 0020): pair-only parameter tracked 8× below blind; monogamy = PSD, e^{−2I}+e^{−2I} ≥ 1 exact | [x] as posed; non-Gaussian budget open |
 | Instruments (exports) | — | detector field-hardened as signed classifier (their 0018: +0.012 quantum / −0.036 classical, no false positives); order channel scales at ~8%/read of its ln (P−1)! ceiling (their 0015) | [x] field-ready |
-| Horizon spectrum vs Unruh | 0083 target | design-blocked: no principled acceleration↔protocol map yet | [ ] blocked (stated) |
+| Horizon spectrum vs Unruh | 0083 (β\*/2π = 0.9999) | wedge tier RUN (their 0021): the half-web posterior is boost-thermal at β = 2π to 1e−4 — the horizon is hot for the half-web observer | [~] accelerated-node protocol still blocked |
 | Λ residual / common mode (F6) | budget quantizes the level globally (0080/0094) | run (their 0017): level increments identifiable at the exact 1/M law; the level is gauge — only Λ's drift is in the record | [x] as posed |
 | Physics-internal debts (no doppelganger) | κ normalization; lattice Palatini; closed-loop test; two-body residual; P4 → Tsirelson; continuum arithmetic-frame; matter dynamics | — | [ ] |
 
 ## Reading the board
 
-The isomorphism is closed at every tier, the surface-ordering
-question included (0109: lawful schemes exist constructively, differ
-only by gauge, and the Gauss law — demanded by filter-gravity —
-excludes the rest). The gravity front is open and productive:
-gravity is defined and measured in filter space (mass = absorption,
-1−e^{−2I}, exactly, at node and field level; Shapiro delay; lensing;
-tangent-space equivalence principle; Newton's 1/r selected by three
-spatial dimensions), and it has already paid twice — it chose the 4D
-geometry, and it predicts that gravitational radiation is
-source-tier (phase) physics, since the causal record tier is
-provably diffusive. The remaining heavies are dynamical: the
-interacting vertex on the now-well-defined boundary, matter (F5),
-the common mode (F6), and the physics-internal geometry debts.
+Every named front is now [x] or reduced to a single residual.
+Gravity is DERIVED end to end in filter space (0019: ratio records +
+pinned learning ⇒ the Laplacian is the learning operator ⇒ Newton at
+α = 1.00; mass sources through time; wells need open boundaries — 3D
+transience selects the dimension dynamically; no FDT: white vacuum,
+Coulomb response), radiates only in the source tier (0014), and its
+horizon is hot for the half-web observer (0021, β = 2π to 1e−4).
+Standing residuals: the finite-ε vertex check + nonlocal c(1)
+operators (0112); the lattice-level ratio-record identification
+(0019's import); the accelerated-node protocol (0021); the
+non-Gaussian monogamy budget (0020); and the ambitions — the
+nonlinear self-gravitating completion, McKay, and the
+physics-internal geometry debts.
