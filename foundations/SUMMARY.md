@@ -3397,6 +3397,36 @@ at the boundary). The wall board (`WALL.md`) now shows every
 isomorphism tier closed and a new open front: gravity, measurable
 in filter space.
 
+## All fronts advanced (0110–0111 + lucid 0012–0014)
+
+One sweep down the ranked list, each front to its result or its
+obstruction. **Force law (lucid 0012)**: attraction is a code
+gradient — C(r) = a − b/r^1.04, the MAP source location walks to
+merger ("bodies fall because falling compresses the record");
+universal attraction = positivity of information (opposite signs
+would repel; information is nonnegative). **Coupling source (lucid
+0013)**: same-level link-sharing is measured to be explaining-away
+(anti-gravitational response −0.021 at neighbors) — the smoothing
+coupling comes from the flow's shared coarse variables (sign
+derived); the obstruction is sharp: strict hierarchies are
+ultrametric, overlap-averaged ones log-correlated, and the 1/r form
+requires level weights ~2^{−ℓ} — whether the measured β-flow
+supplies exactly those weights is the open question. **Radiative
+ledger (lucid 0014)**: the Hertz experiment run — same coupling, one
+imaginary unit apart: record tier screens (skin depth 1.32,
+exponential), source tier radiates (r^−1.02 shell, fronts t^0.44 vs
+t^1.06, far-field 240×). Radiation is source-tier physics,
+falsifiably. **Tiling (0110, `output/0100`)**: the Gauss law at
+block scale — boxes to (2,2,2)/(3,2,1): glued words empty, composites
+= 1 and source classes read back at ≤2.4e−15; 0109's debt paid.
+**Vertex response (0111, `output/0101`)**: a discriminating
+negative — the leading isotropic TC insertion moves the marginal
+(+0.0015 ± 0.0001) but BOTH scale-field responses are null at
+8-chain precision; the measured deficit therefore selects
+orientation-dependent vertex structure (0088's lensing) or higher
+order; a 4-chain preliminary signal collapsed under 7× data and is
+recorded as such.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the

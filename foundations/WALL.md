@@ -22,7 +22,7 @@ partial / reposed · **[ ]** open. "Filter side" = the lucid-filter
 | coherent (what the square buys) | [x] | answered as *detector*: lucid 0005–0006 |
 | vertex / joint structure | [x] | 0107: the vertex IS the total correlation — one theorem, three habitats (exact ratio 1.002; TC_G = 0.98 nats/vertex; GPB1) |
 | nonabelian boundary | [x] | 0108 (2D exact; order channel) + 0109: surface-ordering settled at the 3-cell tier — lawful schemes constructed (word-reduction proof, |C−1| = 2e−15), scheme = gauge (class to 4e−16), unlawful schemes fake mass and are excluded by the Gauss law |
-| **gravity** (the new front) | [x] local + static | lucid 0010–0011: mass = absorption 1−e^{−2I} (node AND field level, exactly); Shapiro delay + lensing measured; equivalence principle = tangent-space theorem; Newton's 1/r = the trust field's Green function in 3D only (α = 1.02); record tier is diffusive → gravitational WAVES predicted to be source-tier (phase) physics |
+| **gravity** (the new front) | [x] local + static + force + radiative split | lucid 0010–0014: mass = absorption 1−e^{−2I} (node and field, exact); Shapiro + lensing; tangent-space equivalence; Newton's 1/r (α = 1.02, 3D only); **force = code gradient** (α = 1.04, attractive, universal attraction = positivity of information, the fall demonstrated); **radiation = source tier** (record screens exp, source radiates r^−1.02, Hertz run); coupling: sign derived from the flow's hierarchy (same-level sharing is explaining-away, measured), 1/r form open (level weights ↔ the measured β) |
 
 ## The wall components
 
@@ -35,7 +35,7 @@ partial / reposed · **[ ]** open. "Filter side" = the lucid-filter
 | Hierarchy menu (no-knob) | 0094 | — | [x] |
 | **The bridge: level selection** | reposed & priced: n\* = 58 samples pin N (0106) | p-floor epistemology (their 0001) | [~] a-priori derivation open (0069(D), McKay) |
 | Assembled momentum: tree = six Maxwells, one-loop isotropy | 0095 | — | [x] |
-| **Boundary-state vertex ∪ propagator (F1)** | geometric half CLOSED (0109: scheme = gauge, Gauss law selects); remaining = dynamical only (TC insertions at the boundary, 0107's port) | vertex = TC; propagator measured (0007); order channel (0009); gravity built (0010–0011) | [~] dynamics only |
+| **Boundary-state vertex ∪ propagator (F1)** | geometric half CLOSED (0109 + 0110: Gauss law at block scale, machine precision); dynamical half: the deficit now *selects among vertex operators* (0111: isotropic leading TC term disfavored — null scale-field response; orientation/lensing operator next) | vertex = TC; propagator (0007); order channel (0009); gravity (0010–0014) | [~] the lensing-operator test |
 | **Lorentzian dynamics (F3)** | exact template: attainability = 1−t/T free tier (0103) | bank-level experiment pending (their #3) | [~] |
 | **Born utility (F4)** | two-ledger theorem 0086 + 0105 | closed: loses on classical (+0.011), wins on amplitude sources (+0.087), projective null (their 0005–0006) → a detector | [x] answered |
 | Measurement problem | defined: measurement = opening a boundary; capacity = ln N = its code (0100, 0105) | innovation-stream design | [~] observer dynamics open |
