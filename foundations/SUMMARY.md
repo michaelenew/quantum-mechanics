@@ -3178,6 +3178,31 @@ symmetric updates (width recursion, not tracking); U(1) bound
 numerical. Open: filter-side δ measurement, gap 2 (the innovation
 question), the S³ association problem.
 
+## Closing the catalogue (0100)
+
+The isomorphism-gap list closed out (`exploration/0100`,
+`output/0090`). **Gap 2 (the innovation channel)**: the boundary is
+the physics' one external stream — by Stokes I(bulk; ∂) = H(hol),
+computed exactly: ln N to six digits by P = 16, approached at the
+confinement rate — **the boundary's innovation capacity is the
+quantized budget**; the closed universe is the innovation-free
+filter; measurement = opening a boundary; the causal layer = the
+arrival order of boundary data. **Gap 3 (the derived vacuum's
+mixture): a split verdict, with the arc's one surprise against us.**
+Group level (Born plaquette ensemble): the radial mixture is real —
+SD(ln θ) = 0.693 vs 0.483 matched-Gaussian (+43%), kurtosis 13.
+Algebra level (Metropolis on the boxed single-site vertex ensemble):
+cutoff-dominated, kurtosis 2.59 sub-Gaussian, SD(ln ρ) BELOW the
+Gaussian control — no mixture; 0097's expectation confirmed at group
+level, refuted at algebra level; the discriminator is the full
+lattice MC (queued). **Scorecard**: gap 1 closed (δ = 1/6 theorem,
+running S³ filter); gap 2 closed (here); gap 3 partial
+(regulator-split, discriminator named); gap 4 closed as experiment
+(regime-hazard, lucid 0003). Limits: gap 2 at the abelian/2D tier
+(the 4D version merges with the boundary-state vertex); gap 3b's box
+is one regulator choice. Open: the lattice MC, the 4D boundary
+channel, the filter-side δ, the S³ association problem.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
