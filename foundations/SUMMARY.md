@@ -3149,6 +3149,34 @@ exactness; mechanism identified not dissected; gaps 2/4 located not
 built. Open: the S³ prototype brick, regime-hazard, the innovation
 question formalized, the MC as a bank-tier computation.
 
+## The S³ filter (0099)
+
+Gap 1's prototype brick, and the run's sharpest quantitative result
+(`exploration/0099`, `output/0089`). **The fusion tax**: Bayes fusion
+of two heat kernels on SU(2) fails the flat precision law by a
+WIDTH-INDEPENDENT constant — p_post = p_a + p_b − δ, δ = 0.1686 ±
+0.9% (equal and unequal widths, τ = 0.02–0.4), drifting to 1/6 =
+0.1667 at small τ (DeWitt a₁ = R/6 candidate, flagged); U(1) tax ≤
+1.6e−4, ℝ zero by algebra — curvature's alone. **The beta law
+derived**: a bond move is ζ−1 fusions ⇒ β = (1−1/b²)·δ·τ²,
+predicting c(b=2) = 0.1264 and c(b=3) = 0.1499 vs 0093's measured
+0.127/0.151 — 0.4% and 0.8%: the MK "scheme dependence" is the exact
+factor (1−1/b²), δ is the scheme-independent core, and **the beta
+function is the information the geometry's self-measurement loses to
+curvature per fusion**; if δ = 1/6 exactly, β = (1−1/b²)τ²/6 closed
+form. **The running filter**: the S³ cycle's stationary width exceeds
+the flat Kalman fixed point, excess growing with noise scale — the
+walking filter on S³ runs (0098's prediction, run). **Family
+breakdown** past τ ~ 1 (leak 2e-2 at 1.5): the curved filter's
+strong-coupling scale. Upstream: 0093's c upgraded to a law; 0094's
+error budget collapses to the δ identification; 0098's gap now has a
+measured magnitude, measurable from the filter side by any S³ fusion
+experiment. Limits: 3% constancy drift; 1/6 numerical not derived;
+symmetric updates (width recursion, not tracking); U(1) bound
+numerical. Open: prove δ = 1/6 (the (j+½)²−¼ shift, likely
+three lines), filter-side δ measurement, gap 2 (the innovation
+question), the S³ association problem.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
