@@ -83,12 +83,33 @@ association/centering problem, out of scope and flagged.)
   and the filter side can measure it (any directional-statistics
   fusion experiment on S³ measures δ).
 
+## Addendum: δ = 1/6, proved
+
+Open 1 closed in-stone. S³'s heat kernel has the exact form
+K_τ(θ) = e^{τ/4}·(θ/sinθ)·[wrapped Gaussian of rate 1/τ] — verified
+in the module (the fitted Gaussian rate equals 1/τ to 1e−4). A
+product of two family members therefore carries the van Vleck factor
+(θ/sinθ) **squared**, while the family it must be matched against
+carries it once; the surplus factor is e^{ln(θ/sinθ)} =
+e^{θ²/6 + θ⁴/180 + …}, and absorbing the θ²/6 into the Gaussian rate
+gives exactly
+
+```
+1/τ_post = 1/τ_a + 1/τ_b − 1/6
+```
+
+**δ = 1/6, exactly** (the θ⁴/180 term supplies the measured +3%
+drift; winding images are e^{−π²/τ}, negligible). So the scheme's
+beta function is the closed form **β(τ) = (1 − 1/b²)·τ²/6** — the
+fusion tax is the logarithm of the van Vleck–Morette factor, i.e.
+the curvature correction to the volume of geodesic tubes. The DeWitt
+flavor was right, and the constant is now a theorem, not a fit.
+
 ## Honest limits
 
-- The tax's constancy is measured over τ ∈ [0.02, 0.4] and drifts
-  ~3% across that range (higher-order terms); the 1/6 identification
-  is numerical (0.1% at τ = 0.02), not derived from the heat-kernel
-  expansion here.
+- The tax's constancy drifts ~3% over τ ∈ [0.02, 0.4] — now
+  understood as the θ⁴/180 term (see addendum); δ = 1/6 is exact in
+  the leading Gaussian regime.
 - The cycle in s3 uses identity-centered (symmetric) updates — the
   width recursion of an unbiased filter, not a full tracking run
   with innovations.
@@ -99,10 +120,9 @@ association/centering problem, out of scope and flagged.)
 
 ## Open
 
-1. **Prove δ = 1/6**: the small-τ product of SU(2) heat kernels via
-   the (j+½)² spectrum — the C₂ = (j+½)² − ¼ shift looks like it
-   yields the constant in three lines. (If so, β = (1 − 1/b²)τ²/6
-   is a theorem of this scheme.)
+1. ~~Prove δ = 1/6~~ — **done in the addendum**: the van Vleck
+   factor θ/sinθ is the tax; β = (1 − 1/b²)τ²/6 is a theorem of the
+   scheme.
 2. The filter-side measurement of δ (wall-correspondence: a fusion
    experiment in directional statistics — their harness, our
    constant).

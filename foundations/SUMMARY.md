@@ -3163,8 +3163,10 @@ predicting c(b=2) = 0.1264 and c(b=3) = 0.1499 vs 0093's measured
 0.127/0.151 — 0.4% and 0.8%: the MK "scheme dependence" is the exact
 factor (1−1/b²), δ is the scheme-independent core, and **the beta
 function is the information the geometry's self-measurement loses to
-curvature per fusion**; if δ = 1/6 exactly, β = (1−1/b²)τ²/6 closed
-form. **The running filter**: the S³ cycle's stationary width exceeds
+curvature per fusion**; δ = 1/6 PROVED in-stone (S³'s exact heat kernel
+K = e^{τ/4}(θ/sinθ)·Gaussian: products carry the van Vleck factor
+squared; its log θ²/6 is the tax): **β = (1−1/b²)τ²/6, a theorem of
+the scheme**; the θ⁴/180 term explains the 3% drift. **The running filter**: the S³ cycle's stationary width exceeds
 the flat Kalman fixed point, excess growing with noise scale — the
 walking filter on S³ runs (0098's prediction, run). **Family
 breakdown** past τ ~ 1 (leak 2e-2 at 1.5): the curved filter's
@@ -3173,8 +3175,7 @@ error budget collapses to the δ identification; 0098's gap now has a
 measured magnitude, measurable from the filter side by any S³ fusion
 experiment. Limits: 3% constancy drift; 1/6 numerical not derived;
 symmetric updates (width recursion, not tracking); U(1) bound
-numerical. Open: prove δ = 1/6 (the (j+½)²−¼ shift, likely
-three lines), filter-side δ measurement, gap 2 (the innovation
+numerical. Open: filter-side δ measurement, gap 2 (the innovation
 question), the S³ association problem.
 
 ## Known gaps

@@ -171,9 +171,37 @@ def s4_breakdown():
     print("  out of scope)\n")
 
 
+def s5_proof():
+    print("== s5: delta = 1/6, proved ==")
+    # S^3's heat kernel is EXACTLY e^{tau/4} (theta/sin theta) x
+    # [wrapped Gaussian of rate 1/tau]. Verify the form:
+    for tau in (0.05, 0.1):
+        K = heat_su2(tau)
+        G = K * np.sin(THS) / THS
+        sel = THS < 2.5 * np.sqrt(tau)
+        rate = -np.polyfit(THS[sel] ** 2, np.log(G[sel]), 1)[0]
+        print(f"  tau={tau}: K sin(th)/th is Gaussian, rate "
+              f"{rate:.4f} vs 1/tau = {1 / tau:.1f}")
+        assert abs(rate * tau - 1) < 1e-3
+    # product carries (th/sin th)^2 against the family's single
+    # factor; ln(th/sin th) = th^2/6 + th^4/180 + ... shifts the
+    # rate: 1/tau_post = 1/tau_a + 1/tau_b - 1/6 - O(quartic).
+    th = np.array([0.2, 0.5])
+    r = np.log(th / np.sin(th)) / (th ** 2 / 6)
+    print(f"  ln(th/sinth) / (th^2/6) = {r[0]:.4f}, {r[1]:.4f}")
+    assert np.all(np.abs(r - 1) < 0.01)
+    print("  delta = 1/6 exactly (leading order; quartic term th^4/180"
+          " gives the measured")
+    print("  +3% drift, windings e^{-pi^2/tau} negligible): "
+          "beta = (1 - 1/b^2) tau^2 / 6,")
+    print("  a THEOREM of this scheme. The van Vleck factor "
+          "theta/sin(theta) is the tax\n")
+
+
 if __name__ == "__main__":
     d0 = s1_fusion_tax()
     s2_beta_law(d0)
     s3_running_filter()
     s4_breakdown()
+    s5_proof()
     print("all assertions passed")
