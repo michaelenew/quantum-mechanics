@@ -3203,6 +3203,32 @@ running S³ filter); gap 2 closed (here); gap 3 partial
 is one regulator choice. Open: the lattice MC, the 4D boundary
 channel, the filter-side δ, the S³ association problem.
 
+## The dressed vacuum (0101)
+
+The discriminator run (`exploration/0101`, `output/0091` — 4D SU(2)
+lattice MC with the derived Born weight at J = 2.5, four checkpointed
+resumable chains, gates: gauge invariance 1.5e−15, free theory =
+Haar at 0.2%). **The verdict revises both local models** (a point
+revisited, per house policy: being wrong is data). Dressing stiffens
+(⟨θ²⟩ 0.417 → 0.0968) and **Gaussianizes**: dressed kurtosis 2.90,
+SD(ln θ) = 0.475 vs 0.483 matched-Gaussian — **the one-point radial
+mixture does not survive** (0097's expectation refuted at the honest
+lattice level, by link-averaging, the same CLT mechanism as 0092's
+localization — not by any box artifact). **What survives: a weak,
+genuinely spatial scale field**: SD_sites(ln ρ) = 0.1767 vs shuffle
+0.1646 (clustering excess +0.012), ln-ρ spatial correlation +0.0453 ±
+0.0005 at d = 1, ~0 at d = 2 — the physical s_P is positive but small
+and the physical φ is short, at this coupling. Reconciliation: bare
+group weight overestimated (tails are bare features), boxed algebra
+underestimated (no link-sharing); the true vacuum = Gaussian marginal
++ weak correlated log-scale field. Sector discrimination therefore
+lives in a weak spatial field at weak coupling — growing, if
+anywhere, toward strong coupling where the flow drives the IR.
+Limits: one J, L = 4, product measure (no vertex corrections). Open:
+the coupling scan (the dressed "which sector wins"), L = 6–8 with a
+compiled kernel, feeding (s_P, φ) to the wall-correspondence as the
+trust channel's first physical values.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
