@@ -3049,6 +3049,40 @@ done (here); open: strong-coupling sector fate (scoped: heavy
 nonperturbative MC — the honest boundary of this run), two-loop
 sunset (where isotropy could break), boundary-state vertex.
 
+## The pinned root (0096)
+
+New arc: the homomorphism to the lucid-filter family (owner's
+redirect: Z_N has done its job — its trust/content split is
+degenerate by our own polar/freeze theorems; the fusion tier needs
+the filter). Their repo read directly; the predicted minimal
+dynamics object — their bias computation — delivered the first row
+as a theorem both programs proved independently
+(`exploration/0096`, `output/0086`). **Their 0041**: a bias lives
+only in a root pinned at z = 1 exactly; a free ML fit lands at 1±ε
+and a root is an exponent (additive drift → geometric catastrophe);
+cure = factor (z−1)^d by construction; right pin free, wrong pin
+loud. **The mirror, exact**: r₀ = 1 for any weight (conservation =
+the automatic pin), every nontrivial channel of a generic weight has
+r < 1 strictly (mass is generic; a free measure cannot hold a
+nontrivial unit root), near-symmetric weights give the 1/ε-horizon
+catastrophe (0056's massive graviton = the free fit; 0063's
+by-construction masslessness = the pin), and single-center-element
+weights hold |r_j| = 1 exactly (topological channels are pinned
+roots). Both sides verified in miniature (free AR(2) root at
+1±0.005, 5× h=60 bias vs pinned; physics side exact). Two more rows:
+their AR(1) trust-dynamics assumption ↔ our heat-kernel closure
+(both: minimal honest assumption = closed one-parameter confidence
+family + persistence map; their "s_P = 0 is an absolute claim" = our
+exactly-massless-vs-slightly); their prequential floor for p (flat
+above, AIC/BIC refused = no-knobs) ↔ **the bridge reposed: J is a
+floor (minimal-support existence), not a matched value**. Noodle
+sharpened: the sporadic-groups instinct aims, in SU(2), at the McKay
+correspondence — binary icosahedral/E₈ as the distinguished finite
+stopping structure; the bridge's cyclic restriction is the A-series
+case. Open: the fusion row (oracle-gap/IMM vs 0088; discriminator
+experiment designed), the floor computation, the McKay restriction,
+φ ↔ flow-contraction quantitative.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
