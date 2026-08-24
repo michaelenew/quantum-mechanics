@@ -3361,6 +3361,42 @@ question: surface-ordering (whether boundary capacity is
 composition-scheme-independent) — the entire remaining content of
 the boundary-state-vertex heavy.
 
+## Gravity worked backwards, and the surface ordering settled (0109 + lucid 0010–0011)
+
+Strategy inverted per plan: gravity defined in filter space first,
+the 4D corollary built to the desired outcome, the geometry chosen
+by it. **Gravity's local laws** (lucid 0010): mass = absorption —
+a node with information advantage I transmits e^{−2I} of incident
+influence (exact); finite memory bounds mass, rigid (conserved)
+nodes grow asymptotic horizons; trust wells produce measured Shapiro
+delay (+483 steps) and lensing (influence routes around, beating the
+through-well estimate 2×); the equivalence principle in exact form —
+response = q·Var(posterior) identically, shape-blind (a first-run
+naive version was 13% wrong and corrected: it is a tangent-space
+theorem, as in GR). **The trust field** (lucid 0011): on a 3-lattice
+bank with a pinned shared log-scale, a point source's perturbation
+falls as 1/r^1.02 — logarithmic in 2D, linear in 1D: demanding
+Newton demands 3+1; the record-tier field is diffusive (front
+~t^0.52) — statics right, no radiation — so **gravitational waves
+are predicted to be source-tier (phase-ledger) physics**; and the
+field-level mass is exactly λ₀(1−e^{−2I}) with I = ½ln(1+ρG₀₀):
+one mass formula node-to-field, G₀₀ in the role of 4G.
+**The payoff (0109, `output/0099`)**: the Gauss requirement (the
+boundary must read exactly the enclosed trust) settles the
+surface-ordering residue at the 3-cell tier: the gluing algorithm
+*constructs* the lattice Bianchi identity (glued boundary word
+freely reduces to empty — configuration-independent proof;
+|C−1| = 1.8e−15 numerically); different lawful schemes give
+conjugate composites — class(C) = class(source) to 4.4e−16 — so
+every class observable including the boundary capacity is
+scheme-independent: **the 4D choice is a gauge choice**; and
+transport-free schemes read 0.16–0.64 rad of fake mass on an empty
+cube — excluded by the Gauss law. The boundary-vertex heavy's
+geometric half is closed; what remains is dynamical (TC insertions
+at the boundary). The wall board (`WALL.md`) now shows every
+isomorphism tier closed and a new open front: gravity, measurable
+in filter space.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the

@@ -21,7 +21,8 @@ partial / reposed · **[ ]** open. "Filter side" = the lucid-filter
 | prequential (action = code length; budget = boundary's nats) | [x] | 0105 |
 | coherent (what the square buys) | [x] | answered as *detector*: lucid 0005–0006 |
 | vertex / joint structure | [x] | 0107: the vertex IS the total correlation — one theorem, three habitats (exact ratio 1.002; TC_G = 0.98 nats/vertex; GPB1) |
-| nonabelian boundary | [x] 2D / [~] 4D | 0108: composition = predict (exact), capacity uniformizes at the confinement rate (1.502 vs 3/2), and ORDER is a real channel (lucid 0009); 4D residue = surface-ordering geometry only |
+| nonabelian boundary | [x] | 0108 (2D exact; order channel) + 0109: surface-ordering settled at the 3-cell tier — lawful schemes constructed (word-reduction proof, |C−1| = 2e−15), scheme = gauge (class to 4e−16), unlawful schemes fake mass and are excluded by the Gauss law |
+| **gravity** (the new front) | [x] local + static | lucid 0010–0011: mass = absorption 1−e^{−2I} (node AND field level, exactly); Shapiro delay + lensing measured; equivalence principle = tangent-space theorem; Newton's 1/r = the trust field's Green function in 3D only (α = 1.02); record tier is diffusive → gravitational WAVES predicted to be source-tier (phase) physics |
 
 ## The wall components
 
@@ -34,7 +35,7 @@ partial / reposed · **[ ]** open. "Filter side" = the lucid-filter
 | Hierarchy menu (no-knob) | 0094 | — | [x] |
 | **The bridge: level selection** | reposed & priced: n\* = 58 samples pin N (0106) | p-floor epistemology (their 0001) | [~] a-priori derivation open (0069(D), McKay) |
 | Assembled momentum: tree = six Maxwells, one-loop isotropy | 0095 | — | [x] |
-| **Boundary-state vertex ∪ propagator (F1)** | algebra done (0107–0108); residue = surface-ordering geometry, now isolated with a sharp question (is capacity scheme-independent?) | vertex = TC (their GPB1); propagator measured (their 0007); order channel verified (their 0009) | [~] one geometric question left |
+| **Boundary-state vertex ∪ propagator (F1)** | geometric half CLOSED (0109: scheme = gauge, Gauss law selects); remaining = dynamical only (TC insertions at the boundary, 0107's port) | vertex = TC; propagator measured (0007); order channel (0009); gravity built (0010–0011) | [~] dynamics only |
 | **Lorentzian dynamics (F3)** | exact template: attainability = 1−t/T free tier (0103) | bank-level experiment pending (their #3) | [~] |
 | **Born utility (F4)** | two-ledger theorem 0086 + 0105 | closed: loses on classical (+0.011), wins on amplitude sources (+0.087), projective null (their 0005–0006) → a detector | [x] answered |
 | Measurement problem | defined: measurement = opening a boundary; capacity = ln N = its code (0100, 0105) | innovation-stream design | [~] observer dynamics open |
@@ -46,12 +47,16 @@ partial / reposed · **[ ]** open. "Filter side" = the lucid-filter
 
 ## Reading the board
 
-The isomorphism is now closed at every tier except one isolated
-geometric question: **surface-ordering in 4D** (which composition
-scheme the boundary uses) — and 0108 showed the scheme-dependence is
-not a nuisance but the causal layer's information itself. The
-discovery of the round: **the order channel** — arrival order of
-innovations is an empty channel on abelian tiers and a real,
-measured channel exactly where the theory is nonabelian; its carrier
-is the commutator, the same object that runs the coupling. Time
-becomes informative where the group stops commuting.
+The isomorphism is closed at every tier, the surface-ordering
+question included (0109: lawful schemes exist constructively, differ
+only by gauge, and the Gauss law — demanded by filter-gravity —
+excludes the rest). The gravity front is open and productive:
+gravity is defined and measured in filter space (mass = absorption,
+1−e^{−2I}, exactly, at node and field level; Shapiro delay; lensing;
+tangent-space equivalence principle; Newton's 1/r selected by three
+spatial dimensions), and it has already paid twice — it chose the 4D
+geometry, and it predicts that gravitational radiation is
+source-tier (phase) physics, since the causal record tier is
+provably diffusive. The remaining heavies are dynamical: the
+interacting vertex on the now-well-defined boundary, matter (F5),
+the common mode (F6), and the physics-internal geometry debts.
