@@ -3229,6 +3229,40 @@ the coupling scan (the dressed "which sector wins"), L = 6–8 with a
 compiled kernel, feeding (s_P, φ) to the wall-correspondence as the
 trust channel's first physical values.
 
+## The coupling scan (0102)
+
+0101's opens, run with a compiled kernel (`exploration/0102`,
+`output/0092` — C sweep kernel embedded in the module, 0.46 μs per
+link-update, 26× the numpy reference, RNG state round-tripping
+through the checkpoints bitwise; gate: reproduces 0091's Python
+reference exactly, ⟨θ²⟩ 0.0968 vs 0.0968). Coupling axis = the
+theory's own flow: W_τ = Σ c_j e^{−τ j(j+1)} χ_j (heat flow of the
+Born weight; integer fusion coefficients, c_0 = 6). Three results.
+**(1) Found by the gate: the amplitude's nodes are ergodicity
+barriers.** At τ = 0 the exact zeros of A fracture configuration
+space: a hot-started chain lands in a metastable branch 8× broader
+(⟨θ²⟩ 0.779 vs 0.097, stable through 40k sweeps); hysteresis persists
+at τ = 0.05, both starts agree to 4 digits by τ = 0.15, and the
+ordered branch is the one continuous with the unique τ > 0
+equilibrium (primary curve monotone) — **the flow selects 0091's
+branch**, retroactively validating the dressed-vacuum measurement.
+Filter reading (hypothesis): zero-weight hypotheses trap local
+search; smoothing anneals it. **(2) The scale field holds a plateau,
+then trivializes**: s_P-excess ≈ 0.012–0.0135 across a coupling range
+where the bare width changes 4× (gentle max near τ ≈ 0.3), collapsing
+only as W_τ → Haar; the marginal crosses sub- → super-Gaussian (kurt
+2.90 → 3.14) — 0097's mixture weakly reappears at stronger coupling,
+never as fat tails. **(3) The range is physical and grows slightly**:
+at L = 8, c(2) = +0.0004 ± 0.0003 at τ = 0 (0101's short range is not
+finite-size) and +0.0021 ± 0.0002 at τ = 0.6. All results volume-
+stable (L = 4/6/8). "Which sector wins": none this side of
+trivialization — sector physics stays perturbative along the whole
+flow. Limits: W_τ is the weight's heat flow, not literally the
+blocked theory; τ* only bracketed (0.05–0.15). Open: locate τ* and
+the transition's order; the node-barrier filter experiment; feed
+(s_P(τ), φ(τ)) to wall-correspondence (lucid 0004, done with this
+stone).
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
