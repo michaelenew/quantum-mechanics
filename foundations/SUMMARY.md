@@ -3302,6 +3302,34 @@ meaning yet), the nonabelian boundary (F1), the vertex/joint tier
 (candidate theorem: both sides' product-blindness = total
 correlation). Those are the filter-first queue.
 
+## The bridge floor (0106), and the status board
+
+The hierarchy chain's unproven link, priced instead of derived
+(`exploration/0106`, `output/0096` — the ported p-floor
+epistemology): the admissible ladder (odd, x² ≡ −1 mod N: 5, 13, 17,
+25, 29, 37) has a finite KL matrix between its levels' vacuum laws
+(0.4–3.9 nats/sample; hardest pair 25↔29), so **n\* = 58 vacuum
+samples pin the level at 20 nats whichever level is true** (N = 5
+needs 7); two-part-code simulation 300/300 at n\*. The bridge is
+reposed: N has the epistemic status of a measured coupling — pinned
+locally in ~58 samples or read off the boundary (ln N nats, 0105);
+the a-priori derivation (0069(D), McKay) stays open as a labeled
+ambition, no longer a blocker. The filter-first round's results
+(lucid 0005–0008) are recorded on the new maintained checklist
+**`foundations/WALL.md`** — the cross-the-wall status board: F4
+closed (the coherent bank loses on classical streams +0.011, wins on
+amplitude sources +0.087 nats/bit with a built-in projective null:
+the Born structure's utility is a *detector* of non-classical
+sources, the two-ledger theorem operationally); F1 measured on the
+filter side (the shared trust node transfers *confidence, not
+state* — mean channel systematically silent, variance channel's
+zero-frequency transfer 0.27/4.35/12.13 for mass 0.10/0.02/0 — the
+pinned channel is the long-memory response, the masslessness
+signature); node barriers priced (sharp 0.81 trap/3.63 nats/pt vs
+annealed 0.40/1.98 at equal compute). One heavy remains with three
+formerly separate opens folded in: the 4D nonabelian boundary /
+boundary-state vertex, now with a measured filter-side target shape.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
