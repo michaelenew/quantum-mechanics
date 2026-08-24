@@ -3083,6 +3083,39 @@ case. Open: the fusion row (oracle-gap/IMM vs 0088; discriminator
 experiment designed), the floor computation, the McKay restriction,
 φ ↔ flow-contraction quantitative.
 
+## The marginalized vacuum (0097)
+
+Step 1 of the crossing plan executed: the filter's marginalization
+built in the physics on analogy alone (`exploration/0097`,
+`output/0087`) — **the ridge tilts, and the tilted coordinate is the
+scale**. Design: 0095's isotropy theorem is the physics' ridge (the
+point vacuum's Gaussian summary makes sector structure exactly flat);
+replace the point vacuum with hypothesis-set vacua at MATCHED second
+moments. Three ensembles, one covariance: H1 geometric mixture
+(tetrad packs, kurtosis 5.95), H0 its Gaussian collapse (2.99), H2
+scale mixture (no geometry, 6.02). Result: sector split of a t = 0.5
+probe = +1.71 isolated; **+0.004 ± 0.003 under the collapsed vacuum
+(flat — the mean-strength bath erases even the isolated splitting)**;
+**+0.47 ± 0.006 under the geometric mixture (75σ)**; +0.50 ± 0.012
+under the scale mixture. Attribution: H2 ≈ H1 — the information rides
+the RADIAL mixture (weak-bath epochs), not orientation: the
+marginalized coordinate is the vacuum's SCALE. The analogy snaps onto
+the filter's hardware: sector-carrying channel = their wandering-scale
+s_P > 0; collapsed vacuum = their self-confirming s_P = 0; their next
+item (marginalize the (φ_P, s_P) grid) is what the physical vacuum
+needs. Closes a loop with 0092 (the kurtosis localization kills for
+universality is the structure carrying sector information —
+universality and sector-blindness are one phenomenon) and reframes
+0095 (one-loop no-splitting was diagnostic of the collapse, not the
+theory); the strong-coupling question sharpens to: measure the
+interacting vacuum's radial mixture — the physical s_P. Limits: one
+observable/one bath shape; ensembles hand-built not derived;
+analogy-first by design. Open: step 2 — the homomorphism proper
+(transfer semigroups with confidence channels; catalogue the
+isomorphism gap = the toy-to-prototype upgrade list), the derived
+scale distribution (MC's sharper target), then regime-hazard as the
+blueprint's pressure point.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
