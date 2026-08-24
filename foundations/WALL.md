@@ -22,7 +22,7 @@ partial / reposed · **[ ]** open. "Filter side" = the lucid-filter
 | coherent (what the square buys) | [x] | answered as *detector*: lucid 0005–0006 |
 | vertex / joint structure | [x] | 0107: the vertex IS the total correlation — one theorem, three habitats (exact ratio 1.002; TC_G = 0.98 nats/vertex; GPB1) |
 | nonabelian boundary | [x] | 0108 (2D exact; order channel) + 0109: surface-ordering settled at the 3-cell tier — lawful schemes constructed (word-reduction proof, |C−1| = 2e−15), scheme = gauge (class to 4e−16), unlawful schemes fake mass and are excluded by the Gauss law |
-| **gravity** (the new front) | [x] local + static + force + radiative split | lucid 0010–0014: mass = absorption 1−e^{−2I} (node and field, exact); Shapiro + lensing; tangent-space equivalence; Newton's 1/r (α = 1.02, 3D only); **force = code gradient** (α = 1.04, attractive, universal attraction = positivity of information, the fall demonstrated); **radiation = source tier** (record screens exp, source radiates r^−1.02, Hertz run); coupling: sign derived from the flow's hierarchy (same-level sharing is explaining-away, measured), 1/r form open (level weights ↔ the measured β) |
+| **gravity** (the new front) | [x] local + static + force + radiative + **nonlinear** (0114 + lucid 0022: self-coupling FORCED to β = 1; Schwarzschild form; mass ≤ capacitance = the hoop shape; T = 2/M Hawking scaling; the first law fixes a bridge the κ debt must supply) | lucid 0010–0014: mass = absorption 1−e^{−2I} (node and field, exact); Shapiro + lensing; tangent-space equivalence; Newton's 1/r (α = 1.02, 3D only); **force = code gradient** (α = 1.04, attractive, universal attraction = positivity of information, the fall demonstrated); **radiation = source tier** (record screens exp, source radiates r^−1.02, Hertz run); coupling: sign derived from the flow's hierarchy (same-level sharing is explaining-away, measured), 1/r form open (level weights ↔ the measured β) |
 
 ## The wall components
 
@@ -56,9 +56,16 @@ pinned learning ⇒ the Laplacian is the learning operator ⇒ Newton at
 transience selects the dimension dynamically; no FDT: white vacuum,
 Coulomb response), radiates only in the source tier (0014), and its
 horizon is hot for the half-web observer (0021, β = 2π to 1e−4).
-Standing residuals: the finite-ε vertex check + nonlocal c(1)
-operators (0112); the lattice-level ratio-record identification
-(0019's import); the accelerated-node protocol (0021); the
-non-Gaussian monogamy budget (0020); and the ambitions — the
-nonlinear self-gravitating completion, McKay, and the
-physics-internal geometry debts.
+**The nonlinear completion is done** (0114 + lucid 0022): the trust
+field gravitates itself with a self-coupling that consistency
+*forces* (β = 1, no new constant), the strong field is
+Schwarzschild-shaped, mass is bounded by a region's capacitance
+(a body gravitates at most until its own surface is a horizon), and
+the horizon temperature scales as Hawking's 1/M. Standing residuals:
+the finite-ε vertex check + nonlocal c(1) operators (0112); the
+lattice-level ratio-record identification (0019's import); the
+accelerated-node protocol (0021); the non-Gaussian monogamy budget
+(0020); the κ-normalization bridge — now with the first law as an
+instrument to close it (0114); the interior/level-cutoff question
+and rotation (0022's opens); and the standing ambitions (McKay, the
+physics-internal geometry debts).

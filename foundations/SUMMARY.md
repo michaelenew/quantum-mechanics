@@ -3454,6 +3454,39 @@ is hot** (lucid 0021): the half-web posterior is boost-thermal at
 β = 2π to 1e−4, temperatures π and 4π decisively rejected — 0083's
 wedge theorem, operational for the record-side observer.
 
+## The nonlinear completion, and horizon thermodynamics (0114 + lucid 0022)
+
+Gravity's nonlinear completion, done in filter space and ported.
+**The self-coupling is forced, not chosen**: the field's gradients
+carry code, code is mass (γ = dm/dI = 2, 0010), and binding two
+sources must shift their far-field mass by exactly the information
+change — the field equation ∇²λ = −ρ + β|∇λ|² gives ΔM/ΔC = 2β
+identically (verified across separations, strengths and β), so
+**β = 1**. No new constant enters: the filter-space analogue of
+Einstein self-sourcing fixed by conservation. **Exact
+linearization**: ψ = e^{−βλ} obeys ∇²ψ = βρψ (residual
+0.0032 → 0.0004 as the source smooths — continuum-exact identity),
+giving the **Schwarzschild form** λ = −ln(1 − MG(r)) with the
+horizon where the trust field ceases to exist (ψ, the transmission
+factor, vanishes). **Extremality = capacitance**: saturated mass
+M → C = 1ᵀG⁻¹1 to four digits; for a ball C = 4πR makes
+M_max·G(R) = 1 exactly (measured ψ(surface) = 0.000) — *a body can
+gravitate at most until its own surface becomes a horizon*, the
+hoop-conjecture shape (mass bounded by a length), distinct from and
+coexisting with 0082's area law. A point source's capacitance is a
+lattice constant, so its horizon is sub-lattice: an unresolvable web
+hides nothing (the field echo of the node bound). **Horizon
+thermodynamics** (`exploration/0114`, `output/0104`):
+κ = |ψ′(r_h)| = 4π/M and **T = 2/M — Hawking's scaling from β = 1
+alone**; with 0083/lucid 0021's Unruh side, both horizon
+temperatures now exist in filter form. The first law dM = T dS holds
+identically in shape against S = αA and *requires* α = π in the
+completion's units — the measured 0.0242 differing by a bridge
+factor of 129.8 that the standing κ-normalization debt plus the
+graviton's polarization count must supply: **the first law becomes
+an instrument for closing κ**, recorded as a prediction with its
+bridge rather than as agreement.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
