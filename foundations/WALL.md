@@ -36,13 +36,15 @@ partial / reposed · **[ ]** open. "Filter side" = the lucid-filter
 | **The bridge: level selection** | reposed & priced: n\* = 58 samples pin N (0106) | p-floor epistemology (their 0001) | [~] a-priori derivation open (0069(D), McKay) |
 | Assembled momentum: tree = six Maxwells, one-loop isotropy | 0095 | — | [x] |
 | **Boundary-state vertex ∪ propagator (F1)** | geometric half CLOSED (0109 + 0110: Gauss law at block scale, machine precision); dynamical half: the deficit now *selects among vertex operators* (0111: isotropic leading TC term disfavored — null scale-field response; orientation/lensing operator next) | vertex = TC; propagator (0007); order channel (0009); gravity (0010–0014) | [~] the lensing-operator test |
-| **Lorentzian dynamics (F3)** | exact template: attainability = 1−t/T free tier (0103) | bank-level experiment pending (their #3) | [~] |
+| **Lorentzian dynamics (F3)** | exact template (0103) | run (their 0016): the smoother's state gain arrives at lag 1; transition TIMING is the two-sided structure (the future pins boundaries) — the Lorentzian restriction costs boundary sharpness, not state tracking | [x] as experiment |
 | **Born utility (F4)** | two-ledger theorem 0086 + 0105 | closed: loses on classical (+0.011), wins on amplitude sources (+0.087), projective null (their 0005–0006) → a detector | [x] answered |
 | Measurement problem | defined: measurement = opening a boundary; capacity = ln N = its code (0100, 0105) | innovation-stream design | [~] observer dynamics open |
 | Vertex corrections in the measure | well-posed: a TC insertion, not a new coupling (0107) | GPB1 → IMM repair shipped | [~] insert TC into the lattice, re-measure |
 | Node barriers / τ\* | hysteresis bracketed 0.05–0.15 (0102) | priced: sharp 0.81/3.63 vs annealed 0.40/1.98 (their 0008) | [~] locate τ\*, order |
-| Matter / the tangle (F5) | relational records only | cross-spectral tracking unrun (their #5) | [ ] |
-| Λ residual / common mode (F6) | menu only | (1−B)^ν experiment unrun (their #6) | [ ] |
+| Matter / the tangle (F5) | relational records only | cross-spectral tracking unrun (their #5) | [ ] last unstarted front |
+| Instruments (exports) | — | detector field-hardened as signed classifier (their 0018: +0.012 quantum / −0.036 classical, no false positives); order channel scales at ~8%/read of its ln (P−1)! ceiling (their 0015) | [x] field-ready |
+| Horizon spectrum vs Unruh | 0083 target | design-blocked: no principled acceleration↔protocol map yet | [ ] blocked (stated) |
+| Λ residual / common mode (F6) | budget quantizes the level globally (0080/0094) | run (their 0017): level increments identifiable at the exact 1/M law; the level is gauge — only Λ's drift is in the record | [x] as posed |
 | Physics-internal debts (no doppelganger) | κ normalization; lattice Palatini; closed-loop test; two-body residual; P4 → Tsirelson; continuum arithmetic-frame; matter dynamics | — | [ ] |
 
 ## Reading the board
