@@ -3330,6 +3330,37 @@ annealed 0.40/1.98 at equal compute). One heavy remains with three
 formerly separate opens folded in: the 4D nonabelian boundary /
 boundary-state vertex, now with a measured filter-side target shape.
 
+## Closing the last tiers: vertex and nonabelian boundary (0107–0108)
+
+**Vertex tier closed** (`0107`, `output/0097`): the vertex is the
+total correlation — one theorem, three habitats. Exact
+(linear-Gaussian: a product bank of correct-marginal Kalmans pays
+exactly the streams' mutual information rate; measured/spectral
+ratio 1.002); derived (the vertex ensemble's Gaussian-sector
+TC_G = 0.98 nats/vertex by block determinants; non-Gaussian
+remainder = 0089's context spectrum); field (GPB1's measured
+relief). Vertex corrections to the lattice are now a well-posed TC
+insertion, not a new coupling. **Nonabelian boundary tier closed at
+2D, isolated at 4D** (`0108`, `output/0098`): composing the record
+into the boundary IS the S³ filter's predict semigroup (8-fold
+product vs characters: ⟨θ²⟩ 1.0412 vs 1.0400); capacity
+D(K_A‖Haar) uniformizes at exactly the confinement rate (fit 1.502
+vs 3/2), unifying 0100's abelian saturation; and the genuinely new
+nonabelian content is **the order channel**: cyclic orders collapse
+(class = conjugation-invariant) so the boundary carries the
+arrangement's parity, at the commutator's signal strength —
+capacity ~linear in τ (0.006→0.037 nats/triple over τ 0.05→0.4),
+identically zero abelian. Verified as a filter-bank prequential gap
+(lucid 0009: 0.017→0.089 nats/triple, U(1) exactly 0). The causal
+layer (0100's arrival order) is thereby an empty channel on abelian
+tiers and physical exactly at nonabelianness — time's order becomes
+information where the group stops commuting — with no conflict with
+0105 (the record's code stays order-free; the boundary summary is
+what order reaches). The 4D residue is one isolated geometric
+question: surface-ordering (whether boundary capacity is
+composition-scheme-independent) — the entire remaining content of
+the boundary-state-vertex heavy.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
