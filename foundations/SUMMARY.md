@@ -3116,6 +3116,39 @@ isomorphism gap = the toy-to-prototype upgrade list), the derived
 scale distribution (MC's sharper target), then regime-hazard as the
 blueprint's pressure point.
 
+
+## The homomorphism (0098)
+
+Step 2 delivered (`exploration/0098`, `output/0088`): both families
+stated as one algebraic object — a polar transfer semigroup with a
+predict/update cycle — the map proved where it holds, the failure
+located and quantified. **Theorem 1 (free tiers isomorphic)**: Kalman
+predict on modes = e^{ikμ}e^{−qk²/2} (drift in phase, noise in
+modulus — the polar theorem on ℝ, verified 5e−16); ledger chain =
+ω^{nf}e^{−τn²} on Z_N (9e−16); additive composition both sides: one
+object, two groups. **Theorem 2 (one MK blocking = one Kalman
+cycle)**: bond move = Bayes update on ζ−1 parallel replicas (exact),
+decimation = predict; the RG is a self-measuring filter, τ its
+posterior variance, conjugate families correspond
+(Gaussian ↔ heat-kernel); on ℝ with ζ = b² the cycle is EXACTLY
+marginal: β_ℝ = 0. **Theorem 3 (the gap is noncommutative curvature,
+not compactness)**: the same cycle on ℝ / U(1) / SU(2) gives β = 0
+exactly / < 1e−6 for τ ≤ 0.4 (winding invisible) / 0.127τ² —
+running, transmutation, and confinement are the residue of
+noncommutative group curvature alone: **asymptotic freedom is the
+homomorphism's defect, with a measured coefficient**. The catalogue
+(toy→prototype upgrades): 1 group curvature (build: filtering on S³ —
+a walking filter on a sphere would have a running regret); 2 external
+innovations (the physics only self-conditions — "who supplies the
+innovation?" = the measurement/causal layer); 3 the hypothesis bank
+(0097's cure); 4 discrete sectors (superselection ↔ regimes: pressing
+regime-hazard IS building this tier — the owner's pressure point =
+catalogue row 4). Transports proved: free tier, cycle, conjugate
+closure, pinned roots, marginalization. Limits: MK-hierarchical
+exactness; mechanism identified not dissected; gaps 2/4 located not
+built. Open: the S³ prototype brick, regime-hazard, the innovation
+question formalized, the MC as a bank-tier computation.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
