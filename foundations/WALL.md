@@ -253,3 +253,38 @@ and 3 done (ΣF ≡ hol(∂); Λ·V ∈ (2π/N)ℤ), step 2 open, step 4 blocked
 on (F)'s unpriced arena clause, with 0080 §3's cost attached: on a
 free arena the measure does **not** prefer Λ = 0, so smallness must
 come from closure.
+
+**The continuity front is open, and it reframed itself immediately**
+(0128 + lucid 0036). A lattice theory usually reaches the continuum
+by TUNING to a critical point. This program has no dial — its weight
+is derived, so its coupling is the fixed number κ = 13.34 (τ is a
+probe, not a knob). So "continuous" must mean the other thing: is
+ξ/a already enormous at the derived coupling, with nobody tuning?
+Measured: κ is exactly a Wilson β in this program's convention, the
+ordered branch sits at β_eff = 15.46 flat in L (within 14% of 0094's
+Gaussian prediction), and its Polyakov loop never disorders at any
+reachable volume — ξ exceeds the box at every box. Two-loop turns
+that into **ξ/a ~ 10¹⁷**. But the disordered branch's relaxed
+plateau sits at β_eff = 2.94, i.e. **ξ/a ~ 10³** — a ratio of
+**2.2e14, fourteen orders of magnitude**. So 0092's branch split,
+filed as an ergodicity nuisance, **is the scale hierarchy**, and
+that is the front's first real question. Next stone: decide the
+branch by thermodynamic integration or τ-tempering. One intended
+control FAILED and is recorded as such (the deconfinement
+susceptibility scan is not converged at 3000 sweeps), and the first
+pass of the hierarchy estimate used an unrelaxed number that the
+relaxation curve caught.
+
+lucid 0036 supplies the criterion the front needs, and finds that
+**half of continuity was already closed without being labelled**:
+0030's embedding result (T = exp(−H)) IS time-continuity. It adds
+the state direction (the transition integral transform's generator
+is the differential operator, local), one gap in 0030 (**a real
+generator is not a probabilistic one** — only 31.8% of records
+passing 0030's test have a legitimate rate matrix, so "counting buys
+time" buys the generator and not yet the history), and the operational
+statement: **the continuum limit exists iff the prequential code
+length per unit physical time converges to a NONTRIVIAL limit under
+refinement.** Measured correction: a bad refinement does not diverge,
+it converges to white noise — triviality, not blow-up, is the real
+failure mode, exactly as on the lattice.
