@@ -89,13 +89,25 @@ arithmetic ladder; and induced gravity remains **a hypothesis with a
 named test** (measure G directly from the 1/r response coefficient).
 What is left (0124): **direct G is not an independent end** — it
 reduces to the matter coupling, so induced gravity is the only
-bridge until matter exists; **McKay** now has a concrete statement
-(the admissible ladder k ≡ 0 mod 4 admits E₇ and E₈, excludes E₆)
-and an honest price (not evidence at n = 3); and **the source
+bridge until matter exists; **McKay is TABLED, not open** — it was an offhand "j might come
+from finite groups" promoted into a board item; its only would-be
+consequence (selecting N) is already closed as a measured constant
+on an arithmetic ladder (0106/0120), and "finite groups, somehow" is
+a poor attack angle even with a number attached (0124 records the
+statement and its price for anyone who returns to it); and **the source
 ledger's content is factorisability plus counting, not phase** — the
 static weight's factorisation phase is gauge, while the dynamical
 amplitude's phase that the detector measures is a different object.
-Separating those two is the next stone. **0122 adds one
+**Those two are now separated** (lucid 0031): re-phasing the
+amplitude at every step leaves the record *bitwise identical* — the
+factorisation phase is gauge even dynamically — while a phase
+*between* interfering components moves both the record and the
+detector's advantage. So the source ledger's observable content is
+not a field attached to the weight; it is the relative phase between
+alternatives that **compose**. The static Euclidean weight cannot
+carry it. **The source ledger is a statement about composition, not
+about a field** — which points the remaining work at the transfer /
+composition structure, where the order channel already lives. **0122 adds one
 concrete next test and one correction**: the Lorentzian-arena debt
 is *not* independent of the source ledger — Osterwalder–Schrader
 reconstruction needs **reflection positivity**, which is exactly

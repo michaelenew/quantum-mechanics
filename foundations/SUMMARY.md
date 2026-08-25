@@ -3778,6 +3778,28 @@ the 0006 detector measures is a **dynamical** amplitude's phase, a
 different object from the static weight's factorisation phase.
 Separating them is the next stone.
 
+## The two phases separated, and McKay tabled (lucid 0031)
+
+The conflation 0124 exposed is resolved. **The factorisation phase
+is gauge even dynamically**: re-phasing each Kraus operator changes
+the amplitude at every propagated step while leaving the record
+*bitwise identical* (code difference 1.1e−16; detector advantage
+0.06136 both ways). **The relative phase is physical**: a phase
+between interfering components moves 10–19% of the record's bits and
+shifts the measurable advantage. Therefore the source ledger's
+observable content is **not a field attached to the weight** — all
+its factorisations agree on everything — but the **relative phase
+between alternatives that compose**. Consequence for this side: the
+static Euclidean weight *cannot* carry the source ledger; the ledger
+lives in the transfer/composition structure, which is where the
+order channel (0108) already lives. **The source ledger is a
+statement about composition, not about a field.**
+**McKay is tabled** — not an open. It began as an offhand "the level
+might come from finite groups", and its only would-be consequence
+(selecting N) is already closed as a measured constant on an
+arithmetic ladder. 0124 records the E₇/E₈ statement and its price
+for anyone who returns to it.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
