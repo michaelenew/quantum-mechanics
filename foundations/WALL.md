@@ -43,8 +43,8 @@ partial / reposed · **[ ]** open. "Filter side" = the lucid-filter
 | Node barriers / τ\* | RESOLVED (0113): nucleation crossover, lifetimes 350–2400 sweeps at τ ≥ 0.045, faster decay at larger L; only exact zeros (τ = 0) are permanent | priced (their 0008) | [x] |
 | Matter / the tangle (F5) | relational records | run (their 0020) and **corrected** (their 0024): the pair-only parameter is tracked 8× below blind; the Gaussian "monogamy" is correlation geometry — classical information copies freely — while genuine CKW monogamy holds in the **amplitude/source ledger** (verified, W-saturated) | [x] |
 | Instruments (exports) | — | detector field-hardened as signed classifier (their 0018: +0.012 quantum / −0.036 classical, no false positives); order channel scales at ~8%/read of its ln (P−1)! ceiling (their 0015) | [x] field-ready |
-| Horizon spectrum vs Unruh | 0083 + 0114/0115: T = 2/M, S = A/4G with the 1/4, ℓ_P = 2.27 a | wedge tier (their 0021); interior/evaporation (their 0023); **per-observer UNBLOCKED** (their 0025: an accelerated filter reads on an exponentially stretched schedule; T = a/2π recovered prequentially, inertial assumption costs 0.058 nats/sample) | [x] both tiers; residue = why that schedule |
-| **tensor completion** | its own gauge theory (link + plaquette) — the two programs converge again | their 0026: response = matrix q·Cov; naive completion propagates all 6 components; the missing structure is the CONNECTION, whose holonomy is this program's plaquette | [~] the transport field's dynamics |
+| Horizon spectrum vs Unruh | 0083 + 0114/0115: T = 2/M, S = A/4G with the 1/4, ℓ_P = 2.27 a | wedge (0021), interior/evaporation (0023), per-observer (0025), and **the schedule DERIVED** (0028: a recursive filter needs a stationary record; stationarity holds exactly on symmetry orbits, and the boost orbit IS the exponential schedule — Unruh's temperature is the price of the only non-inertial option) | [x] |
+| **tensor completion** | its own gauge theory (link + plaquette) — the two programs converge again | their 0026 (structure) + 0027 (dynamics): the connection is an INFERRED nuisance parameter, so its action is the code length of frame records — noisy records give the HEAT KERNEL with 1/g² = the record precision; what record noise cannot give is the Born square's exact zeros | [x] structure + Gaussian dynamics; residue = the nodes, i.e. the source ledger |
 | κ normalization | **closed conditionally** (0115): induced-gravity identification fixes G = 5.17 a² | — | [~] conditional on horizon-entropy = entanglement-entropy |
 | Λ residual / common mode (F6) | budget quantizes the level globally (0080/0094) | run (their 0017): level increments identifiable at the exact 1/M law; the level is gauge — only Λ's drift is in the record | [x] as posed |
 | Physics-internal debts (no doppelganger) | κ normalization; lattice Palatini; closed-loop test; two-body residual; P4 → Tsirelson; continuum arithmetic-frame; matter dynamics | — | [ ] |
@@ -68,7 +68,15 @@ the finite-ε vertex check + nonlocal c(1) operators (0112); the
 lattice-level ratio-record identification (0019's import); the
 accelerated-node protocol (0021); the non-Gaussian monogamy budget
 (0020); the standing ambitions (McKay, the physics-internal geometry
-debts). **The tensor completion has found its shape** (lucid 0026):
+debts). **The transport dynamics is derived** (lucid 0027): the
+connection is an inferred nuisance parameter, so noisy frame records
+give the heat-kernel plaquette action with 1/g² = the record
+precision — and what record noise provably *cannot* give is the Born
+weight's exact zeros, so the residue is the source ledger's
+amplitudes, not an open direction. **The schedule is derived**
+(lucid 0028): a recursive filter needs a stationary record,
+stationarity holds exactly on symmetry orbits, and the boost orbit
+is the exponential schedule. **The tensor completion has found its shape** (lucid 0026):
 filter gravity's tensor version *is* a gauge theory — precision is a
 matrix, comparing matrices at different nodes requires a transport,
 local frame changes then become an exact gauge symmetry, and the

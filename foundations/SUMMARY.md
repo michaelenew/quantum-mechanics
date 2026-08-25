@@ -3575,6 +3575,37 @@ gravity, converge again at the tensor tier — with the residue named
 precisely: the transport field's own dynamics, which this side
 derives from the Born weight and that side has yet to.
 
+## The transport dynamics and the schedule, derived (lucid 0027–0028)
+
+Both residues of the tensor/horizon fronts are closed, and both land
+on structures this program already owns. **The connection's dynamics
+is the code length of frame records** (lucid 0027): the transport is
+not a postulated field but an *inferred nuisance parameter*, so
+noisy frame-comparison records make a loop's holonomy Brownian on
+the group — its class law is the **heat kernel** at τ = Pσ²/2
+(verified against the character formula to ~0.3%) — and the induced
+plaquette action φ²/τ fixes **1/g² = the record precision**: the
+gauge coupling is not chosen, it is how well frames are compared.
+What record noise provably cannot produce is the **Born square**:
+|A|² carries 5 exact zeros (the nodes that fracture ergodicity in
+0113) while a heat kernel, a convolution of positive densities, is
+strictly positive (measured relative minimum −3e−10, i.e. zero only
+at series truncation). So the record ledger supplies the
+connection's Gaussian dynamics and the source ledger supplies its
+nodes — the two-ledger boundary met from a third direction, and the
+tensor completion's gap is now that boundary rather than an open
+direction. **The exponential schedule is derived** (lucid 0028) from
+the most filter-native requirement there is: a recursive filter
+needs a **stationary record** (one model, one transfer, one
+innovation law reused at every step). Stationarity of a record read
+along a worldline holds exactly on **symmetry orbits** — measured
+Toeplitz defect 8e−16 (inertial), 1e−13 (boost), 0.37 (generic) —
+and the boost orbit *is* the exponentially stretched schedule. A
+filter insisting on a time-invariant model has exactly two options
+in 1+1D, and one of them is hot: **the Unruh temperature is the
+price of the only non-inertial option.** (1+1D statement; in 3+1D
+Letaw's six stationary families replace it with a sharper question.)
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
