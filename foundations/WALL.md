@@ -230,3 +230,26 @@ weight is a *square* because the budget fixes the band and the band
 fixes the degree (0119 + 0126); and alternatives are *summed*
 because degree 2 is the sum rule. **What is left in the program is
 not a postulate. It is a number** — the factor 20 of 0125.
+
+**0069's bar is re-scored** (0127). The canonical burn-down list —
+seven requirements, a six-step path, a falsifiability route — cited
+piecemeal for fifty-eight stones and never scored as a whole.
+Result: **(C) went from "the largest silent gap" to delivered**
+(area law, Unruh, T = 2/M, S = A/4G with the 1/4); **(F) moved
+twice** (dimension derived from Newton, signature derived from
+counting via RP) leaving only the manifold ≡ spacetime clause; **(A)
+meets every adjective in 0069's wall except *continuous*** — the
+interacting nonabelian 3+1 derived measure runs (0091–0092), the
+continuum limit at t_c = log N does not exist. **(D) did not move,
+and the demand was reclassified**: 0069 required N derived ("a
+program that derives N derives the hierarchy"); the standing
+classification now calls the level "the world's data, not the law's".
+Against 0069's own conversion criterion — (A) + (C) + one derived
+knob — the program stands at (A) minus continuity, (C) delivered,
+**zero derived knobs**. Off-list over-delivery: the quantum tier
+itself is now derived, which no competitor attempts. And the Λ
+falsifiability route is further along than this board said — steps 1
+and 3 done (ΣF ≡ hol(∂); Λ·V ∈ (2π/N)ℤ), step 2 open, step 4 blocked
+on (F)'s unpriced arena clause, with 0080 §3's cost attached: on a
+free arena the measure does **not** prefer Λ = 0, so smallness must
+come from closure.
