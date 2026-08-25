@@ -88,7 +88,14 @@ across the ladder), leaving the level a measured constant on an
 arithmetic ladder; and induced gravity remains **a hypothesis with a
 named test** (measure G directly from the 1/r response coefficient).
 What is left: that one measurement, and the standing ambitions
-(McKay, the physics-internal geometry debts). **Three obstructions moved again** (0117): the scalar/tensor
+(McKay, the physics-internal geometry debts). **0122 adds one
+concrete next test and one correction**: the Lorentzian-arena debt
+is *not* independent of the source ledger — Osterwalder–Schrader
+reconstruction needs **reflection positivity**, which is exactly
+what a squared weight supplies and a generic nonnegative
+band-limited weight does not (0120). Conjecture: *the Born square is
+what buys time*. Test: evaluate RP for the derived weight, with
+0120's non-factorable weights as the control. **Three obstructions moved again** (0117): the scalar/tensor
 factor is a *strong-field* difference only (the completion is GR to
 first order, same potential and redshift); the mode count reaches
 GR's 2 with every ingredient owned (9 − 3 frame redundancy = 6, − 3
