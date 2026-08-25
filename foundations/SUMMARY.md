@@ -3848,6 +3848,27 @@ unit, not a polarisation count, not a convergence artefact — a pure
 number, and now the whole content of "direct G". (2π² = 19.74 sits
 1.9% away; priced, not claimed.)
 
+**0126 — the degree: why alternatives are summed.** The last
+assumed clause in the source ledger, discharged by the band budget.
+Sorkin's interference hierarchy measures the **degree** of the
+record measure (a degree-d form has I_{d+1} = 0, I_d ≠ 0), so
+"alternatives are summed" is exactly "the degree is 2". Measured on
+this program's own weight W = A²: **I₃ = 0 pointwise in θ** for any
+decomposition of the amplitude into three bundles (sup|I₃| ~ 2e−13,
+4e−16 relative to sup W) — an algebraic identity of a quadratic
+form. And the degree is **forced by elimination**: the record's band
+is B = 11 (coefficients 6,10,13,14,14,12,9,6,4,2,1, then exactly
+0), a degree-d weight needs amplitude band M with d(M−1)+1 = B, so
+d | 10 — and of {1, 2, 5, 10}, d = 1 has *no interference at all*
+(excluded by lucid 0033's 0.302 nats/trial), d = 5 makes the weight
+negative (odd power of a sign-changing amplitude), d = 10 carries
+third-order interference (83% of the measure) that lucid 0035
+measures absent at 0.95σ. Degree 2 survives alone, and degree 2 is
+the sum rule. **The source ledger is closed** — its content is
+interference, composed by complex multiplication, summed because
+the budget makes the weight a square. No step is a postulate about
+Hilbert space.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the

@@ -198,3 +198,35 @@ phases meet** — every clause a measurement already in hand.
 Corollary: **S³ belongs to the record ledger, never to the
 amplitude**. What is left of the source ledger is one step — why
 alternatives are *summed*.
+
+**The source ledger is closed** (0126 + lucid 0035). The last clause
+lucid 0034 had assumed — why the amplitudes of *alternatives* are
+added — is discharged by the band budget, not postulated. Sorkin's
+interference hierarchy measures the DEGREE of the record measure,
+and "alternatives are summed" is exactly "the degree is 2". On this
+program's own weight W = A², I₃ vanishes **pointwise in θ** for any
+decomposition of the amplitude (4e−16 relative), as an algebraic
+identity of a quadratic form. And the degree is forced: a degree-d
+weight needs an amplitude of band M with d(M−1)+1 = B, so d divides
+B−1 = 10 (the band measured here: coefficients 6,10,13,14,14,12,9,
+6,4,2,1 then exactly 0) — leaving d ∈ {1,2,5,10}, of which **d = 1
+has no interference at all** (excluded by lucid 0033's 0.302
+nats/trial), **d = 5 makes the weight negative** (odd power of a
+sign-changing amplitude), and **d = 10 shows third-order
+interference** the record does not have (measured at 0.95σ from zero
+in lucid 0035's seven-configuration triple-slit run, against 31σ for
+the nearest alternative). Each row dies for a different measured
+reason and the survivor is unique. lucid 0035 also reconstructs
+Sorkin's decoherence functional from the **single and pair records
+only** — Hermitian, rank 1 (exactly, with sampling noise removed) —
+and it predicts the triple record: there is no independent
+three-way content to encode.
+
+So the founding chain now reads with no postulate about Hilbert
+space anywhere in it: the ledger's content is *interference*
+(lucid 0033); segments compose by *complex multiplication* because
+two ledgers add and the record is order-blind (lucid 0034); the
+weight is a *square* because the budget fixes the band and the band
+fixes the degree (0119 + 0126); and alternatives are *summed*
+because degree 2 is the sum rule. **What is left in the program is
+not a postulate. It is a number** — the factor 20 of 0125.
