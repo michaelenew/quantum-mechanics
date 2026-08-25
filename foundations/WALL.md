@@ -68,7 +68,14 @@ the finite-ε vertex check + nonlocal c(1) operators (0112); the
 lattice-level ratio-record identification (0019's import); the
 accelerated-node protocol (0021); the non-Gaussian monogamy budget
 (0020); the standing ambitions (McKay, the physics-internal geometry
-debts). **The transport dynamics is derived** (lucid 0027): the
+debts). **Three obstructions moved again** (0117): the scalar/tensor
+factor is a *strong-field* difference only (the completion is GR to
+first order, same potential and redshift); the mode count reaches
+GR's 2 with every ingredient owned (9 − 3 frame redundancy = 6, − 3
+relabelling − 1 Gauss); and the Born square is revealed as **band
+limiting** — |A|²'s character coefficients vanish exactly above 2J
+where a heat kernel's never do, so the real-space nodes are the
+dual-space cutoff and "why squared" becomes "why band-limited". **The transport dynamics is derived** (lucid 0027): the
 connection is an inferred nuisance parameter, so noisy frame records
 give the heat-kernel plaquette action with 1/g² = the record
 precision — and what record noise provably *cannot* give is the Born

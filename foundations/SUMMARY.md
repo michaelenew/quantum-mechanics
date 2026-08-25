@@ -3606,6 +3606,35 @@ in 1+1D, and one of them is hot: **the Unruh temperature is the
 price of the only non-inertial option.** (1+1D statement; in 3+1D
 Letaw's six stationary families replace it with a sharper question.)
 
+## The square, the modes, and the linear agreement (0117)
+
+Three standing obstructions moved (`exploration/0117`,
+`output/0107`). **(1) The scalar/tensor factor is a strong-field
+difference.** ψ = 1 − GM/r exactly vs GR's lapse √(1−2GM/r): the
+difference is second order, (ψ−N)/x² → 0.5005 at x = 0.001. The two
+agree at first order — same Newtonian potential, same redshift — so
+the factor 2 in r_h is about the *nonlinear continuation*, not the
+regime where the correspondence was built. **(2) The mode count
+reaches 2 with every ingredient named**: 9 frame components − 3
+local rotations (the frame↔metric redundancy, 0026) = 6 symmetric
+precision/metric components, − 3 node relabellings (the
+diffeomorphism analogue) − 1 Gauss law (0109) = **2**. An earlier
+sketch double-counted the rotation quotient and produced −1; the
+correction is recorded, and the argument remains a *counting* one
+that the underived tensor field equations must survive. **(3) What
+the Born square buys is BAND LIMITING**: |A|² has nonnegative
+integer character coefficients (6, 10, 13, 14, 14, 12, 9, 6, 4, 2,
+1) that vanish exactly above 2J (8e−16), while a heat kernel — all
+that record noise can make (lucid 0027) — is positive at every j
+(9.5e−6 at j = 8). The real-space nodes are the dual-space cutoff:
+**the Born square is what implements the level cutoff**, and the
+standing question "why squared" becomes "why band-limited", a
+question in the program's own currency. **(4) Consistency check on
+induced gravity**: ℓ_P = 2.27 a (from the measured area law) against
+the information/geometry bound crossover at √3 = 1.73 a (containing
+no α) — two Planck-scale estimates from unrelated inputs agreeing to
+31%: evidence, not proof, recorded as such.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
