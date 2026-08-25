@@ -353,3 +353,31 @@ New tier: **an observable is a choice of observation kernel** (lucid
 0037), chosen by maximising information about the target mode
 subject to not contaminating it. The second clause is where the
 errors live.
+
+**Continuity, closed out** (0131). Three items cleared. **The branch
+now stands at two volumes**: the L = 6 tempering that failed to mix
+needed a finer LADDER, not more statistics (acceptance falls as
+~1/√V) — 18 rungs gives acceptances up to 0.833 and **six** round
+trips, landing at ⟨θ²⟩ = 0.1176 ± 0.0016 against L = 4's 0.1134, with
+the disordered excursions SHRINKING with volume (0.440 → 0.282) as an
+extensive free-energy difference predicts. **Rotational symmetry is
+bounded at last**: at L = 20 the free baselines drop to 0.0003–0.0017
+and four rows resolve at 18–71σ, giving measured − kinematic of
++0.0103, +0.0136, +0.0008, −0.0037 — the pairs disagree, so it is a
+BOUND: **the interacting contribution to rotational-symmetry breaking
+at r = 4–6 is ≤ 1.4%**, and it shrinks as the probe lengthens,
+verifying the (a/scale)² law for the INTERACTING theory rather than
+assuming it from the free one. **Triviality is scoped, not faked**:
+it afflicts non-asymptotically-free theories, so the same asymptotic
+freedom that gives the hierarchy removes the threat, and the premise
+(class membership) is tested non-circularly — κ from the weight
+alone, against ⟨1 − cos θ⟩ = 3/(4κ), ratio 0.85 → 0.99 across the
+family. But the relative residual GROWS with κ instead of falling
+like 1/κ, the opposite of a perturbative correction and the opposite
+of what I asserted before looking; candidates (the exact zeros, the
+higher-order series, the Gaussian crossover) are named and untested.
+
+**Continuity is no longer an open conjunct of 0069's wall** in the
+sense 0127 recorded. It is a set of bounds plus a class membership,
+with one unexplained trend and one extrapolation (r ≈ 5a to physical
+scales) still outstanding.

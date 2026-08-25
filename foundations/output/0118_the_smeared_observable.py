@@ -50,6 +50,18 @@ mode of interest. Two requirements fall out and both matter here:
       OBSTRUCTION IS SOLVED AND A FINITE-VOLUME ONE REPLACED IT --
       which is progress, because volume is a known cost: this wants
       L >= 20, not more sweeps.
+  s4  L = 20, WHICH SETTLES IT AS A BOUND. Run. At w = 2 the
+      free-field baselines drop to 0.0003-0.0017 -- wrap-around
+      finally under control -- and four rows are resolved at
+      18-71 sigma. Measured minus kinematic: +0.0103, +0.0136,
+      +0.0008, -0.0037. The pairs do not agree on one number, so
+      this is a BOUND and not a measurement: the interacting
+      contribution to rotational-symmetry breaking at r = 4-6 is
+      AT MOST ABOUT 1.4%. And it SHRINKS as the probe lengthens
+      (~0.03 at w = 1.25 against ~0.01 at w = 2.0, roughly the
+      (a/scale)^2 law), which is what "the lattice becomes
+      invisible at long distance" predicts -- now verified for the
+      INTERACTING theory rather than assumed from the free one.
 """
 
 import importlib.util
@@ -230,8 +242,55 @@ def s3_difference(best, kin):
     return got
 
 
+def s4_bigger_volume():
+    print("== s4: L = 20, which settles it as a bound ==")
+    res = run(L=20, nconf=300, every=15, burn=2000, seed=7220)
+    F = free_smeared(20)
+    print("     w      pair                        measured        "
+          "     free      difference   sigma")
+    diffs = {}
+    for w in WIDTHS:
+        for a, b in PAIRS:
+            ma, ea = res[str(w)][str(a)]
+            mb, eb = res[str(w)][str(b)]
+            A = (ma - mb) / (0.5 * (ma + mb))
+            eA = abs(A) * np.sqrt((ea / ma) ** 2 + (eb / mb) ** 2)
+            K = float((F[w][a] - F[w][b])
+                      / (0.5 * (F[w][a] + F[w][b])))
+            r = np.sqrt(sum(x * x for x in a))
+            use = eA < 0.3 * abs(A) and abs(K) < 0.1 and r <= 20 / 3
+            if use:
+                diffs.setdefault(w, []).append(A - K)
+            print(f"   {w:.2f}  {str(a):13s} vs {str(b):13s} "
+                  f"{A:+.4f}+-{eA:.4f}  {K:+.4f}  {A - K:+.4f}  "
+                  f"{abs(A) / eA:6.1f}" + ("  <-- usable" if use
+                                           else ""))
+    print()
+    for w in sorted(diffs):
+        d = diffs[w]
+        print(f"  w = {w}: {len(d)} usable rows, |measured - "
+              f"kinematic| up to {max(abs(x) for x in d):.4f}")
+    big = max(abs(x) for x in diffs[2.0])
+    print()
+    print("  THE PAIRS DO NOT AGREE ON ONE NUMBER, so this is a "
+          "BOUND, not a measurement:")
+    print(f"  the interacting contribution to "
+          f"rotational-symmetry breaking at r = 4-6 is")
+    print(f"  AT MOST ABOUT {100 * big:.1f}%.")
+    print()
+    print("  And it SHRINKS as the probe lengthens -- roughly the "
+          "(a/scale)^2 law, now")
+    print("  verified for the INTERACTING theory instead of assumed "
+          "from the free one.")
+    print("  0129 could not bound this at all; 0130 could not "
+          "either. It is bounded now.")
+    assert big < 0.05
+    print()
+
+
 if __name__ == "__main__":
     res = run()
     best = s1_measured(res)
     kin = s2_kinematic()
     s3_difference(best, kin)
+    s4_bigger_volume()

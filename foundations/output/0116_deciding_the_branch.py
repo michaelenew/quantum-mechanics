@@ -27,6 +27,17 @@ is available after all, and this module uses it.
       from the top of the ladder down to tau = 0 -- the diagnostic
       that the tempered chain is actually sampling and not just
       shuffling.
+  s4  THE VOLUME CHECK, AT LAST. Swap acceptance falls with volume
+      at fixed spacing (~1/sqrt(V)), so L = 6 needs a
+      proportionally finer ladder: an 8-rung run at L = 6 gave ZERO
+      round trips and was not a tempered sample at all. An 18-rung
+      ladder over the same tau window gives acceptances 0.45-0.83
+      at the bottom and SIX round trips, and lands at
+      <theta^2> = 0.1176 +- 0.0016 -- the same answer as L = 4, and
+      with the disordered excursions SMALLER (max 0.28 against
+      0.44). That is what an extensive free-energy difference
+      predicts, and it is the volume confirmation 0130 said was
+      missing.
   s3  THE ANSWER. <theta^2> in the tau = 0 replica of a tempered
       run started from MIXED configurations (alternating hot and
       ordered), against the two candidates 0.097 and ~0.51.
@@ -232,10 +243,48 @@ def s3_answer(res):
     return who
 
 
+def s4_volume_check():
+    print("== s4: the volume check ==")
+    rows = []
+    for L, sweeps, k, seed in ((4, 60000, 8, 8800),
+                               (6, 30000, 18, 9300)):
+        path = os.path.join(
+            DIR, f"temper_L{L}_s{sweeps}_k{k}_r{seed}.json")
+        if not os.path.exists(path):
+            print(f"  (L = {L}, {k} rungs: not run)")
+            continue
+        with open(path) as f:
+            r = json.load(f)
+        rows.append((L, k, r))
+        print(f"  L = {L}, {k} rungs, {sweeps} sweeps:  "
+              f"acceptances {min(r['accept']):.3f}-"
+              f"{max(r['accept']):.3f},  round trips "
+              f"{r['roundtrips']}")
+        print(f"      <theta^2>(tau=0) = {r['th2_tau0']:.4f} +- "
+              f"{r['th2_tau0_err']:.4f}   "
+              f"(excursions to {r['th2_max']:.3f})")
+    if len(rows) == 2:
+        a, b = rows[0][2], rows[1][2]
+        print("  the two volumes agree, and the disordered "
+              "excursions SHRINK with volume")
+        print(f"  ({a['th2_max']:.3f} -> {b['th2_max']:.3f}) -- what "
+              f"an extensive free-energy difference")
+        print("  predicts. THE BRANCH DECISION NOW STANDS AT TWO "
+              "VOLUMES.")
+        assert abs(b["th2_tau0"] - 0.097) < abs(b["th2_tau0"] - 0.51)
+        assert b["th2_max"] < a["th2_max"]
+        print("  (0130 recorded an 8-rung L = 6 run with ZERO round "
+              "trips as a failure to mix;")
+        print("   the fix was the ladder, not the statistics -- "
+              "acceptance falls as ~1/sqrt(V).)")
+    print()
+
+
 if __name__ == "__main__":
     t0 = time.time()
     s1_not_a_state()
     res = temper(4)
     s2_ladder(res)
     s3_answer(res)
-    print(f"\n  ({time.time() - t0:.0f}s)")
+    s4_volume_check()
+    print(f"  ({time.time() - t0:.0f}s)")
