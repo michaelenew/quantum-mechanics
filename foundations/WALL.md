@@ -87,8 +87,15 @@ proper subclass; the arithmetic-vs-budget level agreement is
 across the ladder), leaving the level a measured constant on an
 arithmetic ladder; and induced gravity remains **a hypothesis with a
 named test** (measure G directly from the 1/r response coefficient).
-What is left: that one measurement, and the standing ambitions
-(McKay, the physics-internal geometry debts). **0122 adds one
+What is left (0124): **direct G is not an independent end** — it
+reduces to the matter coupling, so induced gravity is the only
+bridge until matter exists; **McKay** now has a concrete statement
+(the admissible ladder k ≡ 0 mod 4 admits E₇ and E₈, excludes E₆)
+and an honest price (not evidence at n = 3); and **the source
+ledger's content is factorisability plus counting, not phase** — the
+static weight's factorisation phase is gauge, while the dynamical
+amplitude's phase that the detector measures is a different object.
+Separating those two is the next stone. **0122 adds one
 concrete next test and one correction**: the Lorentzian-arena debt
 is *not* independent of the source ledger — Osterwalder–Schrader
 reconstruction needs **reflection positivity**, which is exactly

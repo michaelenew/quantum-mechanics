@@ -3752,6 +3752,32 @@ with a negative eigenvalue has no real logarithm, so its dynamics
 exists at integer steps and at no time between. A count-generated
 record is one you can always ask "what happened in between".
 
+## Three ends (0124)
+
+**Direct G reduces to the matter coupling.** The named measurement
+was pointed at the wrong field: the plaquette scale field's
+connected response is screened at **0.32 lattice spacings**
+(c(1) = +0.046, c(2) = −0.002), so there is no 1/r in it. The
+long-range sector is the graviton, and reading G off it needs the
+propagator normalisation *plus how information couples to it* —
+the standing "matter beyond scripted sources" debt. So direct G is
+not an independent end; until the matter coupling exists,
+induced gravity is the **only** bridge to G, which raises both its
+status and the value of the matter work. **The McKay noodle, made
+concrete and priced**: SU(2) exceptional levels are k = 10 (E₆), 16
+(E₇), 28 (E₈); the admissible ladder is k = N−1 ≡ 0 mod 4, which
+**admits E₇ and E₈ and excludes E₆** (10 ≡ 2 mod 4). Expected
+admissions by chance 0.75, observed 2 — at n = 3, *not evidence*,
+but the noodle now has a statement and a price. **What the source
+ledger contains**: two factorisations of one weight differ by 0.94
+in amplitude while every record-side observable differs by 1.7e−15,
+so **within a weight the phase is gauge**. Not gauge:
+factorisability (0120) and counting (0123). *The source ledger's
+content is factorisability plus counting, not phase* — and the phase
+the 0006 detector measures is a **dynamical** amplitude's phase, a
+different object from the static weight's factorisation phase.
+Separating them is the next stone.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
