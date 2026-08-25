@@ -93,9 +93,13 @@ concrete next test and one correction**: the Lorentzian-arena debt
 is *not* independent of the source ledger — Osterwalder–Schrader
 reconstruction needs **reflection positivity**, which is exactly
 what a squared weight supplies and a generic nonnegative
-band-limited weight does not (0120). Conjecture: *the Born square is
-what buys time*. Test: evaluate RP for the derived weight, with
-0120's non-factorable weights as the control. **Three obstructions moved again** (0117): the scalar/tensor
+band-limited weight does not (0120). **Test run (0123): the derived weight IS reflection positive**, and
+the load-bearing property is not the square (generic complex-
+amplitude squares fail 170/200) but that the amplitude is a
+**count** — nonnegative coefficients, guaranteed nonnegative by
+fusion. So **counting buys time**, and the Lorentzian arena drops
+off the debt list: it follows from the founding structure via
+Osterwalder–Schrader. **Three obstructions moved again** (0117): the scalar/tensor
 factor is a *strong-field* difference only (the completion is GR to
 first order, same potential and redshift); the mode count reaches
 GR's 2 with every ingredient owned (9 − 3 frame redundancy = 6, − 3

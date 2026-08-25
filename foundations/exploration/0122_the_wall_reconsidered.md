@@ -22,10 +22,18 @@ by exhibiting the transfer matrix as a positive operator — which is
 exactly the structure |A|² has and a generic nonnegative
 band-limited weight does not (0120's criterion). So:
 
-> **Conjecture.** The Born square is what makes the derived measure
-> reflection positive, and therefore what makes the Lorentzian lift
-> possible. The source ledger is not an ornament on the theory —
-> it is what buys time.
+> **Conjecture (now corrected — see 0123).** The Born square is what
+> makes the derived measure reflection positive, and therefore what
+> makes the Lorentzian lift possible.
+
+**0123 ran the test. The conjecture is half right.** RP holds for
+the derived weight, and it does fail for generic nonnegative
+band-limited weights (200/200) — but *being a square is not what
+saves it*: squares of generic complex amplitudes fail too (170/200).
+What never fails is a square whose amplitude has **nonnegative**
+coefficients — i.e. a **count**. So the load-bearing property is not
+the square but the counting, and the corrected slogan is *counting
+buys time*.
 
 If true, two items on the residue list are one item: the source
 ledger and the Lorentzian arena. **Test:** evaluate reflection

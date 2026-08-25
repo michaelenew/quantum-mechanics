@@ -3731,6 +3731,27 @@ known information source in lattice units — independent of the area
 law and of the identification itself. Needs the vertex-corrected
 measure at percent level, so it is named rather than run.
 
+## Counting buys time (0123)
+
+0122's conjecture, tested and corrected. **RP ⟺ every character
+coefficient of the weight is nonnegative** (the transfer operator is
+convolution; its spectrum is the coefficients — verified to 1e−6).
+The derived weight **passes** (coefficients 6, 10, 13, 14, 14, 12,
+9, 6, 4, 2, 1; minimum −4e−13). What fails: generic nonnegative
+band-limited weights, 200/200 — *and squares of generic complex
+amplitudes, 170/200*. What never fails: squares of **counting**
+amplitudes, 0/200, by a one-line argument (fusion multiplicities are
+nonnegative, so a ≥ 0 gives c ≥ 0). **The load-bearing property is
+not the square — it is that the amplitude is a count.** Hence
+counting ⟹ nonnegative coefficients ⟹ positive transfer operator ⟹
+reflection positivity ⟹ Osterwalder–Schrader ⟹ a Hilbert space with
+unitary time evolution: **the Lorentzian arena is not an independent
+debt**, it follows from the program's founding structure. Filter-side
+(lucid 0030): RP is the *embedding* condition — a transfer operator
+with a negative eigenvalue has no real logarithm, so its dynamics
+exists at integer steps and at no time between. A count-generated
+record is one you can always ask "what happened in between".
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
