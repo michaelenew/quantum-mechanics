@@ -41,9 +41,10 @@ partial / reposed · **[ ]** open. "Filter side" = the lucid-filter
 | Measurement problem | defined: measurement = opening a boundary; capacity = ln N = its code (0100, 0105) | innovation-stream design | [~] observer dynamics open |
 | Vertex corrections in the measure | well-posed: a TC insertion, not a new coupling (0107) | GPB1 → IMM repair shipped | [~] insert TC into the lattice, re-measure |
 | Node barriers / τ\* | RESOLVED (0113): nucleation crossover, lifetimes 350–2400 sweeps at τ ≥ 0.045, faster decay at larger L; only exact zeros (τ = 0) are permanent | priced (their 0008) | [x] |
-| Matter / the tangle (F5) | relational records | run (their 0020): pair-only parameter tracked 8× below blind; monogamy = PSD, e^{−2I}+e^{−2I} ≥ 1 exact | [x] as posed; non-Gaussian budget open |
+| Matter / the tangle (F5) | relational records | run (their 0020) and **corrected** (their 0024): the pair-only parameter is tracked 8× below blind; the Gaussian "monogamy" is correlation geometry — classical information copies freely — while genuine CKW monogamy holds in the **amplitude/source ledger** (verified, W-saturated) | [x] |
 | Instruments (exports) | — | detector field-hardened as signed classifier (their 0018: +0.012 quantum / −0.036 classical, no false positives); order channel scales at ~8%/read of its ln (P−1)! ceiling (their 0015) | [x] field-ready |
-| Horizon spectrum vs Unruh | 0083 (β\*/2π = 0.9999) | wedge tier RUN (their 0021): the half-web posterior is boost-thermal at β = 2π to 1e−4 — the horizon is hot for the half-web observer | [~] accelerated-node protocol still blocked |
+| Horizon spectrum vs Unruh | 0083 + 0114/0115: T = 2/M, S = A/4G with the 1/4, ℓ_P = 2.27 a | wedge tier RUN (their 0021: β = 2π to 1e−4); interior/evaporation (their 0023) | [~] accelerated-node protocol still blocked |
+| κ normalization | **closed conditionally** (0115): induced-gravity identification fixes G = 5.17 a² | — | [~] conditional on horizon-entropy = entanglement-entropy |
 | Λ residual / common mode (F6) | budget quantizes the level globally (0080/0094) | run (their 0017): level increments identifiable at the exact 1/M law; the level is gauge — only Λ's drift is in the record | [x] as posed |
 | Physics-internal debts (no doppelganger) | κ normalization; lattice Palatini; closed-loop test; two-body residual; P4 → Tsirelson; continuum arithmetic-frame; matter dynamics | — | [ ] |
 
@@ -65,7 +66,21 @@ the horizon temperature scales as Hawking's 1/M. Standing residuals:
 the finite-ε vertex check + nonlocal c(1) operators (0112); the
 lattice-level ratio-record identification (0019's import); the
 accelerated-node protocol (0021); the non-Gaussian monogamy budget
-(0020); the κ-normalization bridge — now with the first law as an
-instrument to close it (0114); the interior/level-cutoff question
-and rotation (0022's opens); and the standing ambitions (McKay, the
-physics-internal geometry debts).
+(0020); the standing ambitions (McKay, the physics-internal geometry
+debts). **The κ bridge is closed** (0115): the completion's first
+law *is* S = A/4G at its own G = 1/4π — Bekenstein–Hawking with the
+1/4 — and identifying horizon entropy with 0082's measured vacuum
+entanglement entropy fixes G = 5.17 a², **ℓ_P = 2.27 lattice
+spacings**, with the residual factor named (scalar vs tensor: 2 in
+radius, 4 in area/temperature). The vertex front is closed (0116:
+c(1)'s carrier is a neighbour operator at >5σ; linear response
+validated at ε\* with ESS/N = 0.23, exact response 85% of linear).
+The interior, rotation and evaporation are answered (lucid 0023:
+discreteness replaces horizons with greybody floors at transmission
+1/N; rotation IS the order channel — scalar observables carry
+exactly zero circulation information, the ordered composite carries
+0.047 nats/loop; lifetime ∝ M₀³ by dimensional analysis with a
+remnant at the floor). Monogamy is corrected and relocated (lucid
+0024: classical information copies freely — the Gaussian budget is
+correlation geometry, not sharing; genuine CKW monogamy holds in the
+amplitude/source ledger, verified, W-saturated).

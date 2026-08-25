@@ -3487,6 +3487,60 @@ graviton's polarization count must supply: **the first law becomes
 an instrument for closing κ**, recorded as a prediction with its
 bridge rather than as agreement.
 
+## Closing the residuals (0115–0116 + lucid 0023–0024)
+
+**The κ bridge closes** (`0115`, `output/0105`). 0114's "α = π
+required" was not a coincidence: the completion's own Newton
+constant is G = 1/4π, and S = A/(4G) at that G is exactly α = π —
+so **the completion satisfies Bekenstein–Hawking with the 1/4**,
+meeting path C's C4 target on this axis. Reading 0082 properly
+(its α = 0.0242 is *per scalar polarization*; the graviton carries
+two) and equating horizon entropy with the measured vacuum
+entanglement entropy — C4's own question — fixes the lattice Newton
+constant: **G = 5.17 a², ℓ_P = 2.27 lattice spacings**. The 129.8
+bookkeeping decomposes exactly as 2 (polarizations) × 64.9 (the G
+ratio), with the remaining structural factor named (the completion
+is scalar: r_h = GM, half Schwarzschild). **Which bound binds**: the
+information cap (M < n_nodes) and the geometric cap (M ≤ capacitance
+≈ 4πR) cross at R ≈ √3 ≈ 1.7 spacings — right at the newly-fixed
+Planck length — so gravity's bound is geometric above the Planck
+scale and informational below it. **The ratio-record audit** returns
+an honest correction: the lattice's site log-scale field has *no*
+soft zero mode (zero-mode power 0.050 vs 0.031), so the derived
+measure pins the absolute scale and records are not ratio-valued in
+the naive sense; the premise's correct form is the *deviation* form,
+which is how the derivation actually used it.
+
+**The vertex front closes** (`0116`, `output/0106`): c(1)'s carrier
+is a **neighbour** operator, as its neighbour-observable character
+required — S_nnmag and S_nnalign move it at >5σ (ε\* = −0.134,
+−0.402) while leaving the site-local scale field alone, so the
+division of labour is site-local magnitude pairs → scale field,
+neighbour couplings → its correlation. Finite-ε reweighting reaches
+ε\* (ESS/N = 0.23; my expectation of ESS collapse was wrong) and
+finds the exact response at 85% of linear: **linear response is
+validated where the operators were identified**. Scope stated
+precisely: this identifies which operators can generate deviations
+of the observed size and sign, not a fit of a missing term.
+
+**Filter side** (lucid 0023–0024): the **interior** — masses beyond
+capacitance are unreachable rather than complex, and at finite
+resolution the horizon never closes (transmission floors at 1/N,
+mass caps at (1−1/N)C): *discreteness replaces horizons with
+greybody floors*. **Rotation is the order channel** — scalar
+observables carry *exactly zero* circulation information (the source
+multiset is bitwise invariant under reversal) while the ordered
+composite carries 0.047 nats/loop: frame-dragging, if it exists
+here, is order information sourcing a vector sector. **Evaporation**:
+dM/dt = −(4c/π)/M² exactly, so lifetime ∝ M₀³ — Hawking's shape by
+dimensional analysis, stalling at the greybody floor (a remnant).
+**Monogamy corrected**: classical information copies freely, so the
+Gaussian budget is correlation geometry, not sharing; genuine CKW
+monogamy holds in the **amplitude/source ledger** (400 random states,
+W-saturated, GHZ extremal) — the two-ledger split visible in the
+sharing structure itself, relocating the monogamy/Tsirelson row to
+the source ledger.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
