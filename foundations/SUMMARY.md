@@ -3541,6 +3541,40 @@ W-saturated, GHZ extremal) — the two-ledger split visible in the
 sharing structure itself, relocating the monogamy/Tsirelson row to
 the source ledger.
 
+## The accelerated node and the tensor completion (lucid 0025–0026)
+
+Two fronts, one unblocked and one given its shape. **The
+per-observer Unruh statement is unblocked** (lucid 0025): the
+missing acceleration↔protocol map was in the definition — a Rindler
+observer's proper time is exponentially related to the record's
+clock, so *an accelerated filter is one that reads the record on an
+exponentially stretched schedule*. The interval identity is exact
+(KMS period 2π/a ⟹ T = a/2π), the accelerated spectral density is
+the inertial one times coth(ω/2T) — a low-frequency noise floor of
+2T — and a prequential temperature scan recovers T = a/2π exactly,
+with the inertial-vacuum assumption costing 0.058 ± 0.004
+nats/sample (16σ): **the Unruh effect as a code-length statement**,
+now standing beside 0083's per-region result. (Methods note carried
+in their doc: an algebraic UV regulator broke positive-definiteness
+and produced a model that scored *better than the truth* — caught by
+the log-determinant's sign.) **The tensor completion has found its
+shape** (lucid 0026): a multi-dimensional node's response is the
+*matrix* q·Cov(posterior) exactly, so the metric-playing object is a
+symmetric tensor field; the naive component-wise completion
+propagates all 6 components (d = 3) where gravity has 2, having no
+gauge freedom; and the missing structure is the **connection** —
+comparing precisions at different nodes requires a transport, which
+makes local frame changes an exact symmetry (8e−15), collapses the
+gauge-invariant content to the precision's eigenvalues (6 − 3 = 3),
+and promotes the transport's closed-loop holonomy to an independent
+object. **That object is this program's link variable and its
+curvature this program's plaquette**: filter gravity's tensor
+completion is a gauge theory, and it is ours. The two programs,
+having met at the isomorphism tiers and diverged into a scalar
+gravity, converge again at the tensor tier — with the residue named
+precisely: the transport field's own dynamics, which this side
+derives from the Born weight and that side has yet to.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the

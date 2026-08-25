@@ -43,7 +43,8 @@ partial / reposed · **[ ]** open. "Filter side" = the lucid-filter
 | Node barriers / τ\* | RESOLVED (0113): nucleation crossover, lifetimes 350–2400 sweeps at τ ≥ 0.045, faster decay at larger L; only exact zeros (τ = 0) are permanent | priced (their 0008) | [x] |
 | Matter / the tangle (F5) | relational records | run (their 0020) and **corrected** (their 0024): the pair-only parameter is tracked 8× below blind; the Gaussian "monogamy" is correlation geometry — classical information copies freely — while genuine CKW monogamy holds in the **amplitude/source ledger** (verified, W-saturated) | [x] |
 | Instruments (exports) | — | detector field-hardened as signed classifier (their 0018: +0.012 quantum / −0.036 classical, no false positives); order channel scales at ~8%/read of its ln (P−1)! ceiling (their 0015) | [x] field-ready |
-| Horizon spectrum vs Unruh | 0083 + 0114/0115: T = 2/M, S = A/4G with the 1/4, ℓ_P = 2.27 a | wedge tier RUN (their 0021: β = 2π to 1e−4); interior/evaporation (their 0023) | [~] accelerated-node protocol still blocked |
+| Horizon spectrum vs Unruh | 0083 + 0114/0115: T = 2/M, S = A/4G with the 1/4, ℓ_P = 2.27 a | wedge tier (their 0021); interior/evaporation (their 0023); **per-observer UNBLOCKED** (their 0025: an accelerated filter reads on an exponentially stretched schedule; T = a/2π recovered prequentially, inertial assumption costs 0.058 nats/sample) | [x] both tiers; residue = why that schedule |
+| **tensor completion** | its own gauge theory (link + plaquette) — the two programs converge again | their 0026: response = matrix q·Cov; naive completion propagates all 6 components; the missing structure is the CONNECTION, whose holonomy is this program's plaquette | [~] the transport field's dynamics |
 | κ normalization | **closed conditionally** (0115): induced-gravity identification fixes G = 5.17 a² | — | [~] conditional on horizon-entropy = entanglement-entropy |
 | Λ residual / common mode (F6) | budget quantizes the level globally (0080/0094) | run (their 0017): level increments identifiable at the exact 1/M law; the level is gauge — only Λ's drift is in the record | [x] as posed |
 | Physics-internal debts (no doppelganger) | κ normalization; lattice Palatini; closed-loop test; two-body residual; P4 → Tsirelson; continuum arithmetic-frame; matter dynamics | — | [ ] |
@@ -67,7 +68,16 @@ the finite-ε vertex check + nonlocal c(1) operators (0112); the
 lattice-level ratio-record identification (0019's import); the
 accelerated-node protocol (0021); the non-Gaussian monogamy budget
 (0020); the standing ambitions (McKay, the physics-internal geometry
-debts). **The κ bridge is closed** (0115): the completion's first
+debts). **The tensor completion has found its shape** (lucid 0026):
+filter gravity's tensor version *is* a gauge theory — precision is a
+matrix, comparing matrices at different nodes requires a transport,
+local frame changes then become an exact gauge symmetry, and the
+transport's holonomy is this program's own plaquette. The two
+programs converge a second time, now at the tensor tier; the named
+residue is the transport field's own dynamics. **The per-observer
+Unruh block is lifted** (lucid 0025): an accelerated filter is one
+that reads the record on an exponentially stretched schedule, and it
+measures T = a/2π out of its own record prequentially. **The κ bridge is closed** (0115): the completion's first
 law *is* S = A/4G at its own G = 1/4π — Bekenstein–Hawking with the
 1/4 — and identifying horizon entropy with 0082's measured vacuum
 entanglement entropy fixes G = 5.17 a², **ℓ_P = 2.27 lattice
