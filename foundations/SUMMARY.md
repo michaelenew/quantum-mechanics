@@ -3800,6 +3800,32 @@ might come from finite groups", and its only would-be consequence
 arithmetic ladder. 0124 records the E₇/E₈ statement and its price
 for anyone who returns to it.
 
+## The matter coupling closed as a formula; the source ledger is interference (lucid 0032–0033)
+
+**Matter coupling** (lucid 0032): the stress tensor is the **Fisher
+information matrix** of the local record — its trace is exactly the
+scalar mass source this program has been using, and its traceless
+part is anisotropic stress the scalar treatment omits (*the mass was
+the trace of a tensor nobody had written down*). Conservation ∇·T =
+0 is **information continuity**, verified to 3.6e−15. And with 0019's
+learning operator, **G_Newton = 1/(4πp)** with p the record precision
+of the field-carrying channel — the matter coupling is closed as a
+formula. **Direct G therefore becomes one measurement with a number
+to hit**: G = 5.165 a² (induced gravity, 0115) *requires*
+p = 0.0154 for the gravity-carrying channel, ~865× softer than the
+plaquette weight's own precision (13.33). Measure the graviton
+sector's precision; agreement confirms the induced-gravity
+identification, disagreement refutes it.
+**Composition** (lucid 0033) corrects the previous phrasing: it has
+**two independent channels**. A classical nonabelian record carries
+0.0545 nats/triple of *order* information and no interference; a
+quantum abelian record carries 0.3020 nats/trial of *interference*
+and exactly zero order information. Each fires one detector, so
+**the source ledger's observable content is interference
+specifically** — the order channel (0108) is a **record**-ledger
+phenomenon that merely requires nonabelian structure, which is why
+it was measurable with no amplitudes present.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
