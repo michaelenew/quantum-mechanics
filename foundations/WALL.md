@@ -68,7 +68,15 @@ the finite-ε vertex check + nonlocal c(1) operators (0112); the
 lattice-level ratio-record identification (0019's import); the
 accelerated-node protocol (0021); the non-Gaussian monogamy budget
 (0020); the standing ambitions (McKay, the physics-internal geometry
-debts). **Three obstructions moved again** (0117): the scalar/tensor
+debts). **The obstruction count has dropped again**: the tensor
+field equations REDUCE to the Born question (lucid 0029 — the record
+tier has no wave sector at all, so mode counting is source-tier),
+and the Born question itself is now *why band-limited*, answered as
+a budget: sector information costs ~0.034 nats/read at the vacuum's
+own resolution, so N = 5 costs ~47 reads against 0106's independent
+n\* = 58 (0118). What remains is the agreement between the
+ARITHMETIC level (x² ≡ −1 mod N) and the BUDGET level — measured,
+not derived. **Three obstructions moved again** (0117): the scalar/tensor
 factor is a *strong-field* difference only (the completion is GR to
 first order, same potential and redshift); the mode count reaches
 GR's 2 with every ingredient owned (9 − 3 frame redundancy = 6, − 3

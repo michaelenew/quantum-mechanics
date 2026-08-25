@@ -3635,6 +3635,46 @@ the information/geometry bound crossover at √3 = 1.73 a (containing
 no α) — two Planck-scale estimates from unrelated inputs agreeing to
 31%: evidence, not proof, recorded as such.
 
+## The sigma model and the resolvable level (0118 + lucid 0029)
+
+**The tensor obstruction collapses into the Born one** (lucid 0029).
+Deriving the tensor dynamics from the filter's learning rule: the
+natural record between precisions is the matrix log-ratio, whose
+norm is invariant under common congruence (8e−15) — the Fisher–Rao
+metric — so the trust field is a map into GL(3)/O(3) and its
+dynamics is a **harmonic map flow**: the tensor completion is a
+sigma model, derived not posited. Its linearisation contains the
+scalar theory exactly (the **trace sector IS** the scalar trust
+field; response = the Coulomb tent, residual 0.000), with 5
+traceless components as new content. But the record tier is
+first-order gradient flow, so every tensor component *diffuses*
+(measured t^0.50) — **there is no wave sector on the record side at
+all**, and mode counting is therefore a source-tier question. So
+"derive the tensor field equations" **reduces to** the Born
+question rather than standing beside it. Bonus: a matrix record
+splits 1 (scale) + 5 (shear) + 3 (frame), so gravity's coupling and
+the gauge coupling come from **one record** and G·g² is a pure
+number (3 in this normalisation) — the first quantitative link
+between them, conditional on isotropy.
+
+**Why band-limited: the level is what a record can pay for**
+(`exploration/0118`, `output/0108`). A single class-angle read
+carries only 0.244 nats about its sector at *perfect* resolution
+(adjacent-sector overlap 0.849), falling to 0.034 at the dressed
+vacuum's own σ = 0.31. My expectation that resolution sets the
+cutoff was wrong; the correction is the result, and it agrees with
+this program's data-side finding that sector identity is a slow
+observable (lucid 0003, 0015). So the cutoff is a **budget**:
+supporting N = 5 costs ln 5 / 0.034 ≈ **47 reads**, against 0106's
+independently computed **n\* = 58** to pin the level — two unrelated
+calculations agreeing within a factor of 1.2. The chain *why
+squared → why band-limited → because sector information is bought
+at a measured price* now terminates inside the theory. Not shown:
+that the affordable count equals the *admissible* level of 0081 —
+an arithmetic and a budget constraint agreeing on a small integer,
+measured rather than derived. **That agreement is the sharp
+remaining target.**
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
