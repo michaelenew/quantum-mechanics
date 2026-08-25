@@ -3734,7 +3734,16 @@ measure at percent level, so it is named rather than run.
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
-maintained list). Standing items in brief: κ normalization; lattice
+maintained list), and **classified in `exploration/0121`**: of the
+nine standing items, three are structurally un-portable to the
+filter (absolute units; the causal arena a filter presupposes; the
+continuum), three are the source ledger under other names
+(P4→Tsirelson, matter dynamics, the frame field's quantum dynamics),
+two are labour whose conceptual work is already done (lattice
+Palatini — the connection *is* an inferred nuisance parameter, lucid
+0026–0027; the closed-loop artefact), and one is a category
+classification that is already correct (content and rung = measured
+constants). Standing items in brief: κ normalization; lattice
 Palatini; the Lorentzian-arena step; the closed-loop test; the
 two-body residual; content/level-rung freedom; P4 → Tsirelson
 (`exploration/0007` step 3); continuum versions of the 0010
