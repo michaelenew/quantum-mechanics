@@ -288,3 +288,32 @@ length per unit physical time converges to a NONTRIVIAL limit under
 refinement.** Measured correction: a bad refinement does not diverge,
 it converges to white noise — triviality, not blow-up, is the real
 failure mode, exactly as on the lattice.
+
+**The branch is decided, and the hierarchy is the large one** (0129).
+τ-tempering — which I had predicted would fail, wrongly: acceptance
+from τ = 0.004 into τ = 0 is **0.44**, because between adjacent τ the
+smoothing is far too small to push a plaquette past a zero — puts the
+tempered τ = 0 replica at **⟨θ²⟩ = 0.1254 ± 0.0030** against
+candidates 0.097 and ~0.51. The disordered state appears only as a
+subdominant excursion, so it is a fluctuation of the equilibrium, not
+a competing phase, and the free-energy difference is extensive.
+**β_eff ≈ 12 → ξ/a ~ 1.7e13, untuned.** Two further corrections:
+0128's "the disordered branch is a real state" is withdrawn off
+τ = 0 (those hot runs jump around — 0.195, 1.081, 0.834, … — they were
+not equilibrated), and the ladder must STOP at τ ≈ 0.062, since rungs
+above it accept at 0.007 and block every round trip. Limitations
+named: L = 4 only, 2 round trips, bottleneck rung 0.007.
+
+**And the direct Lorentz test failed** (0129 §3). The connected
+action-density anisotropy came out +5.6 ± 4.8 and −19.7 ± 459 — every
+row consistent with anything — because at β ≈ 12 that correlator is
+O(g⁴) and the statistics needed scale as g⁻⁸. *The theory is too
+weakly coupled to see its own interacting correlator*, which is the
+same fact that makes its lattice invisible. What is exact is the
+kinematic part: the free-field anisotropy is **3.7 (a/r)²**, flat
+across r = 2…10 at L = 48 (L = 32 drifts, and an earlier L = 16 pass
+read that drift as signal). Extrapolating gives Lorentz violation
+~1e−27 to 1e−34 at the measured ξ/a — **recorded as conditional, not
+as a bound the program has earned. The Lorentz debt stays open.**
+Next stone on this front: triviality — is the long-distance limit
+interacting or free?
