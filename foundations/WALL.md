@@ -317,3 +317,39 @@ read that drift as signal). Extrapolating gives Lorentz violation
 as a bound the program has earned. The Lorentz debt stays open.**
 Next stone on this front: triviality — is the long-distance limit
 interacting or free?
+
+**Weak coupling is load-bearing, and it belongs to (D)** (0130). The
+chain: weak coupling → large ξ/a → the only scales in the theory are
+~10¹³ lattice spacings apart → gravity's coupling at ordinary scales
+is (a/ξ)² ~ 10⁻²⁶. **That is "why gravity is weak"**, which is
+0069's (D) — the requirement that never moved and that 0127 recorded
+as having been reclassified from law to data. Not a derivation of N
+yet, but the first time the hierarchy is a *computed consequence* of
+the derived measure rather than an input.
+
+**The observation kernel worked** (0130 + lucid 0037). 0129 could not
+measure the local operator's anisotropy at all (0.1σ). Smearing with
+a radially symmetric kernel exp(−w²k²) in the CONTINUUM momentum, at
+the width lucid 0037 prescribed, reaches **49σ** — a
+several-hundred-fold gain matching 0037's measured 62×. Two
+corrections came with it: lucid 0037 measured that even a radial
+kernel manufactures a spurious anisotropy (+0.020, 33σ on a field
+isotropic by construction), so **a kinematic baseline must be
+subtracted either way**; and the first pass of 0118 computed that
+baseline at L = 48 against an L = 12 measurement, which is invalid —
+at the measurement's own volume the free baseline is 0.6–3.8 on the
+|r| = 6 pairs. **The statistical obstruction is solved and a
+finite-volume one replaced it**: the two usable widths disagree
+(−0.023 vs +0.012), and the measurement now wants L ≥ 20, not more
+sweeps.
+
+**The L = 6 tempering did not mix** (0130 §5): ⟨θ²⟩ = 0.09695 at
+τ = 0, but acceptances collapse above the third rung and there are
+**zero round trips**. So the branch decision stands on L = 4 alone;
+swap acceptance falls as ~1/√V, so L = 6 needs a proportionally
+finer ladder.
+
+New tier: **an observable is a choice of observation kernel** (lucid
+0037), chosen by maximising information about the target mode
+subject to not contaminating it. The second clause is where the
+errors live.
