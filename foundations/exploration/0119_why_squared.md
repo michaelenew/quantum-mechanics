@@ -32,18 +32,20 @@ the two-ledger theorem and lucid 0005 measured operationally (phase
 never pays on a classical stream). The program's most distinctive
 structure turns out to be the gauge freedom of a factorisation.
 
-## 3. The nonabelian case: supported, not established
+## 3. The nonabelian case — **REFUTED** (see 0120)
 
-> **Open statement.** Every class function W on SU(2) with W ≥ 0 and
-> character support ≤ 2J equals |A|² for some class function A with
-> character support ≤ J (complex coefficients).
+> **Statement, as conjectured here.** Every class function W on
+> SU(2) with W ≥ 0 and character support ≤ 2J equals |A|² for some
+> class function A with character support ≤ J.
 
-Evidence: direct fits of A to generic nonnegative band-limited W
-reach 1e−4 relative, though one of three trials converged poorly —
-**evidence, not proof**. The parameter count is permissive (2J+1
-complex coefficients minus a phase against 2J+1 real constraints).
-This is now the program's sharpest *mathematical* question, and it
-is a standard-looking one.
+**This is false.** The 1e−4 fits reported in this stone's first
+draft were partially-converged optimisations, not solutions;
+0120 settles it with 200-restart solves and an exact criterion.
+Generic nonnegative band-limited class functions do **not** factor.
+The correction matters for the chain below: §4's second link holds
+on U(1) and **fails on SU(2)**, so on the tier where this program's
+physics lives, squaring is *extra structure* rather than a
+consequence of band-limiting. See `0120`.
 
 ## 4. The chain, and what is left
 
@@ -54,9 +56,12 @@ is a standard-looking one.
                                   unobservable phase    (here + 0086)
 ```
 
-**"Why the Born rule" is now a chain of three statements** — two
-proven on the abelian tier, one a named conjecture on the nonabelian
-tier. The postulate is gone; what remains is a theorem to finish.
+**"Why the Born rule" is a chain of three statements** — all three
+exact on the abelian tier. On the **nonabelian** tier the middle
+link fails (0120): band-limiting does not imply squaring there, so
+the square carries genuine content. The postulate is dissolved
+where the program's ledger theorems were proven, and *sharpened*
+where its physics lives.
 
 ## Honest limits
 - §1 and §2 are exact on U(1); the SU(2) extension is §3's open

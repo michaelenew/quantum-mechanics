@@ -77,14 +77,18 @@ own resolution, so N = 5 costs ~47 reads against 0106's independent
 n\* = 58 (0118). **And "why squared" is now a theorem** (0119): nonnegativity +
 band-limiting ⟹ squared (Fejér–Riesz, exact on U(1) to 3e−15), with
 the factorisation's 2ⁿ-fold non-uniqueness being precisely the
-source ledger's unobservable phase. What remains, in full: the SU(2)
-extension of that theorem (a named mathematical conjecture,
-numerically supported to 1e−4); the agreement between the ARITHMETIC
-level (x² ≡ −1 mod N) and the BUDGET level (measured, not derived);
-the induced-gravity identification (one live hypothesis, 31%
-consistency); the normalisation of the G·g² link (lucid 0029); and
-the standing ambitions (McKay, the physics-internal geometry
-debts). **Three obstructions moved again** (0117): the scalar/tensor
+source ledger's unobservable phase. **All three follow-ups are now closed** (0120): the SU(2) extension
+is **refuted** with an exact criterion (an amplitude's polynomial is
+anti-palindromic; real off-circle roots obstruct) — so on the
+nonabelian tier *squaring is extra structure*, not a consequence of
+band-limiting, and the physical weight sits in a characterised
+proper subclass; the arithmetic-vs-budget level agreement is
+**coincidence at one point** (the two costs' ratio drifts 7.2×
+across the ladder), leaving the level a measured constant on an
+arithmetic ladder; and induced gravity remains **a hypothesis with a
+named test** (measure G directly from the 1/r response coefficient).
+What is left: that one measurement, and the standing ambitions
+(McKay, the physics-internal geometry debts). **Three obstructions moved again** (0117): the scalar/tensor
 factor is a *strong-field* difference only (the completion is GR to
 first order, same potential and redshift); the mode count reaches
 GR's 2 with every ingredient owned (9 − 3 frame redundancy = 6, − 3

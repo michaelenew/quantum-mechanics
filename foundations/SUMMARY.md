@@ -3701,6 +3701,36 @@ information budget ⟹ band-limited weight (0118) ⟹ squared weight
 the Born rule* is no longer a postulate; it is three statements, two
 proven and one a named conjecture.
 
+## The three closures (0120)
+
+**(1) The SU(2) Fejér–Riesz statement is FALSE, with a criterion.**
+0119 conjectured it; 200-restart solves refute it — generic
+nonnegative band-limited class functions plateau at residuals
+0.04–5.7 where genuine solutions reach 4e−16. The obstruction is
+exact: an amplitude's polynomial is *anti-palindromic*, so its roots
+are closed under r ↦ 1/r, while Fejér–Riesz forces one root from
+each conjugate-reciprocal pair — and for a **real** pair {r, 1/r}
+those demands conflict. **Criterion: W factors iff its polynomial
+has no real off-circle roots** (verified 6/6 against the solver).
+Consequence: **on the nonabelian tier the Born square is not free** —
+band-limiting is a budget, squaring is extra structure, and the
+physical weight sits in a proper subclass, characterised here.
+0119's §3 is corrected in place. Notably this *agrees* with the
+program's three other routes (record noise cannot make nodes,
+amplitudes never pay on classical streams, monogamy is source-side):
+the two-ledger split is not an artifact.
+**(2) The level agreement is a coincidence of scale.** The pinning
+cost (0106) and the budget cost (0118) do not track each other
+across the admissible ladder — their ratio drifts 7.2× from N = 5 to
+N = 29 — so the numerical agreement at N = 5 is coincidence at one
+point, not a hidden identity. The level stays a *measured constant
+on an arithmetically constrained ladder*. Closed as "no law here".
+**(3) Induced gravity keeps its hypothesis status, with a named
+test**: measure G directly from the 1/r response coefficient of a
+known information source in lattice units — independent of the area
+law and of the identification itself. Needs the vertex-corrected
+measure at percent level, so it is named rather than run.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
