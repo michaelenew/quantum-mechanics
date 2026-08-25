@@ -45,9 +45,9 @@ partial / reposed · **[ ]** open. "Filter side" = the lucid-filter
 | Instruments (exports) | — | detector field-hardened as signed classifier (their 0018: +0.012 quantum / −0.036 classical, no false positives); order channel scales at ~8%/read of its ln (P−1)! ceiling (their 0015) | [x] field-ready |
 | Horizon spectrum vs Unruh | 0083 + 0114/0115: T = 2/M, S = A/4G with the 1/4, ℓ_P = 2.27 a | wedge (0021), interior/evaporation (0023), per-observer (0025), and **the schedule DERIVED** (0028: a recursive filter needs a stationary record; stationarity holds exactly on symmetry orbits, and the boost orbit IS the exponential schedule — Unruh's temperature is the price of the only non-inertial option) | [x] |
 | **tensor completion** | its own gauge theory (link + plaquette) — the two programs converge again | their 0026 (structure) + 0027 (dynamics): the connection is an INFERRED nuisance parameter, so its action is the code length of frame records — noisy records give the HEAT KERNEL with 1/g² = the record precision; what record noise cannot give is the Born square's exact zeros | [x] structure + Gaussian dynamics; residue = the nodes, i.e. the source ledger |
-| κ normalization | **closed conditionally** (0115): induced-gravity identification fixes G = 5.17 a² | — | [~] conditional on horizon-entropy = entanglement-entropy |
+| κ normalization | **closed conditionally** (0115): induced-gravity identification fixes G = 5.17 a²; **confronted (0125)**: the induced scale-channel stiffness is measured, p = 0.15493/field, and the two routes to G disagree by a field-count-independent 20.1 | lucid 0032: G = 1/(4πp) | [~] the factor 20 is now the whole of direct G |
 | Λ residual / common mode (F6) | budget quantizes the level globally (0080/0094) | run (their 0017): level increments identifiable at the exact 1/M law; the level is gauge — only Λ's drift is in the record | [x] as posed |
-| Physics-internal debts (no doppelganger) | κ normalization; lattice Palatini; closed-loop test; two-body residual; P4 → Tsirelson; continuum arithmetic-frame; matter dynamics | — | [ ] |
+| Physics-internal debts (no doppelganger) | lattice Palatini; closed-loop test; two-body residual; P4 → Tsirelson; continuum arithmetic-frame | matter dynamics **closed as a formula** (lucid 0032: T = Fisher, G = 1/4πp) and **measured** (0125) | [~] one number, ≈ 20 |
 
 ## Reading the board
 
@@ -159,3 +159,42 @@ remnant at the floor). Monogamy is corrected and relocated (lucid
 0024: classical information copies freely — the Gaussian budget is
 correlation geometry, not sharing; genuine CKW monogamy holds in the
 amplitude/source ledger, verified, W-saturated).
+
+**Direct G is measured, and the prediction was wrong** (0125). lucid
+0032 turned the matter coupling into a formula — the stress tensor
+is the local record's Fisher information, ∇·T = 0 is information
+continuity, and **G = 1/(4πp)** with p the gravity channel's record
+precision — which set a target of p\* = 0.0154, a channel 866×
+softer than the plaquette weight. Measured: integrating out one
+massless lattice scalar in the trust background w = e^{2λ} gives
+**p = 0.154932** (1/L² extrapolated, six stable digits, validated
+against dense log-determinants), i.e. the graviton channel is **43×
+softer, not 866×** — the prediction is wrong by 20 and wrong in the
+unexpected direction, too *stiff*. Two things came with it. The
+induced quadratic form is Γ″ = Σ B²(λ_l − λ_l′)² **identically**, so
+the scale channel is provably PSD and its kernel is exactly the
+constants: **the masslessness the whole derived-gravity chain rests
+on is a theorem on this side, not an assumption**, and stiffness
+reads as record *overlap*. And the residue is a pure number:
+G_entanglement/G_induced = πp/α = **20.11 for any number of
+gravitating polarisations**, so it cannot be a field count, a unit,
+or a convergence artefact. Reconciling entanglement-across-a-cut
+with stiffness-against-a-deformation is one calculation, and it is
+now the entire content of "direct G".
+
+**The amplitude algebra is closed** (lucid 0034). Two additive
+ledgers — code length (0105's prequential identity) and phase —
+force an associative, unital, norm-multiplicative real algebra,
+whose answer is Frobenius's trichotomy ℝ, ℂ, ℍ. The filter then
+*measures* which: ℝ's unit group is discrete, so its best predictor
+is a constant, and that constant **is** the incoherent model
+exactly — lucid 0033's measured 0.302 nats/trial was the exclusion
+of ℝ all along; ℍ's unit group is S³, so composing two influences in
+the two orders leaks **0.019 nats/trial of order information into
+the interference channel**, and the record has exactly zero. So
+**amplitudes multiply in ℂ because the record carries two additive
+ledgers, turns its phase continuously, and shows no order where the
+phases meet** — every clause a measurement already in hand.
+Corollary: **S³ belongs to the record ledger, never to the
+amplitude**. What is left of the source ledger is one step — why
+alternatives are *summed*.

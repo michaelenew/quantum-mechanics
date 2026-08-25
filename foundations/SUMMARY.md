@@ -3826,6 +3826,28 @@ specifically** — the order channel (0108) is a **record**-ledger
 phenomenon that merely requires nonabelian structure, which is why
 it was measurable with no amplitudes present.
 
+**0125 — the induced stiffness: direct G, measured.** lucid 0032's
+formula G = 1/(4πp) set a target of p\* = 0.0154 for the gravity
+channel's record precision — 866× softer than the plaquette weight.
+Measured by integrating out one massless lattice scalar in the trust
+background w = e^{2λ} (the transmission law, which fixes λ's
+normalisation, so p is a number and not a convention):
+**p = 0.154932 per field**, 1/L² extrapolated to six stable digits
+and validated against dense log-determinants at L = 6, 8. The
+graviton channel is **43× softer than a plaquette, not 866×**: the
+prediction is wrong by 20, and wrong toward *stiffer*. Two results
+travel with it. (i) The induced quadratic form is
+Γ″[λ] = Σ_{ll′} B²_{ll′}(λ_l − λ_{l′})² **identically**, with B the
+projector onto gradient link fields — so the scale channel is
+positive semidefinite and its kernel is exactly the constants:
+**there is no induced mass term**, and the masslessness the derived-
+gravity chain assumes is a theorem here. Stiffness = record overlap.
+(ii) The residue is field-count independent: both routes to G go as
+1/N, so **G_entanglement/G_induced = πp/α = 20.11** for any N. Not a
+unit, not a polarisation count, not a convergence artefact — a pure
+number, and now the whole content of "direct G". (2π² = 19.74 sits
+1.9% away; priced, not claimed.)
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
