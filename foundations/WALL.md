@@ -74,9 +74,17 @@ tier has no wave sector at all, so mode counting is source-tier),
 and the Born question itself is now *why band-limited*, answered as
 a budget: sector information costs ~0.034 nats/read at the vacuum's
 own resolution, so N = 5 costs ~47 reads against 0106's independent
-n\* = 58 (0118). What remains is the agreement between the
-ARITHMETIC level (x² ≡ −1 mod N) and the BUDGET level — measured,
-not derived. **Three obstructions moved again** (0117): the scalar/tensor
+n\* = 58 (0118). **And "why squared" is now a theorem** (0119): nonnegativity +
+band-limiting ⟹ squared (Fejér–Riesz, exact on U(1) to 3e−15), with
+the factorisation's 2ⁿ-fold non-uniqueness being precisely the
+source ledger's unobservable phase. What remains, in full: the SU(2)
+extension of that theorem (a named mathematical conjecture,
+numerically supported to 1e−4); the agreement between the ARITHMETIC
+level (x² ≡ −1 mod N) and the BUDGET level (measured, not derived);
+the induced-gravity identification (one live hypothesis, 31%
+consistency); the normalisation of the G·g² link (lucid 0029); and
+the standing ambitions (McKay, the physics-internal geometry
+debts). **Three obstructions moved again** (0117): the scalar/tensor
 factor is a *strong-field* difference only (the completion is GR to
 first order, same potential and redshift); the mode count reaches
 GR's 2 with every ingredient owned (9 − 3 frame redundancy = 6, − 3

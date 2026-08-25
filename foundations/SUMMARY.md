@@ -3675,6 +3675,32 @@ an arithmetic and a budget constraint agreeing on a small integer,
 measured rather than derived. **That agreement is the sharp
 remaining target.**
 
+## Why squared: the Born postulate becomes a theorem (0119)
+
+The program's deepest standing question closed into a chain
+(`exploration/0119`, `output/0109`). **On the abelian tier,
+exactly**: a nonnegative trigonometric polynomial of degree n IS
+|A|² for some A of degree n (Fejér–Riesz), verified to 3e−15 on
+weights whose coefficients were *not* built as squares. So
+**nonnegativity + band-limiting ⟹ squared**, with nothing else
+assumed — on the very tier where the ledger theorems were first
+proven. **And the factorisation's non-uniqueness is the source
+ledger**: Fejér–Riesz fixes |A| but not A — each conjugate root pair
+may go inside or outside the disc, giving 2ⁿ amplitudes with
+identical |A|² (verified: flipping one root leaves the weight
+unchanged to 3.9e−15 while moving the amplitude by 0.72). The
+phase's unobservability, proven in 0086 and measured in lucid 0005,
+is the gauge freedom of a spectral factorisation. **The nonabelian
+case is supported but not established**: the statement "every
+nonnegative class function with character support ≤ 2J is |A|² with
+A supported ≤ J" fits to 1e−4 on generic examples (one of three
+trials poorly converged) — evidence, not proof, and now the
+program's sharpest *mathematical* question. **The chain**: finite
+information budget ⟹ band-limited weight (0118) ⟹ squared weight
+(0119) ⟹ amplitude with an unobservable phase (0119 + 0086). *Why
+the Born rule* is no longer a postulate; it is three statements, two
+proven and one a named conjecture.
+
 ## Known gaps
 
 Superseded in detail by `exploration/0048`'s "honest residue" (the
