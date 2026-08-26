@@ -514,3 +514,30 @@ recorded, which is a *reason* behind the "world's data, not the law's"
 classification 0127 recorded as a retreat. "Why this N" becomes "why
 this record precision" — a question this program has instruments for.
 Nothing there predicts 5; 0106's n* = 58 remains the state of the art.
+
+**PORT AUDIT: (A) and (C) survive, the ladder does not** (0136).
+Prompted by a direct challenge — Z_N was always a toy, so confirm
+what is actually ported. **(A) is continuous**: the interacting
+measure the whole continuity front was measured on is 4D SU(2), unit
+quaternions, and 0091/0092/0115/0116/0123/0124 scan clean of any Z_N
+construction. **(C) is continuous**: same scan over the area law,
+horizon thermodynamics and induced stiffness — free scalar/graviton
+covariances and a continuum PDE. **N is HALF-ported.** Its
+definition ports — band-as-budget (0118) is SU(2)-native, and lucid
+0041's N = exp(capacity) is a phase circle with no finite ring. Its
+CANDIDATE SET does not: at the SU(2) tier **every** level gives a
+nonnegative, reflection-positive weight with band 2M−1, no
+exceptions, while the Z_N tier excludes half of them. Neither
+obstruction has a continuum shadow — 0081's congruence asks whether
+√−1 exists *in the base ring* (over ℂ it does, and 0081 itself calls
+it "the continuum fact in arithmetic dress"), and 0090's even wall is
+about quadratic Gauss sums over Z_N.
+
+**So the admissible ladder 5, 13, 17, 25, 29, 37 is a Z_N-tier
+result and must be labelled as one everywhere it appears** — and
+that includes lucid 0041's second half, where I recovered it "with no
+geometry" having removed the geometry and kept the toy. The cost is
+real: the ladder was the support of the level's prior, so 0106's
+n* = 58 is conditional on it, and widening the candidate set to every
+level raises that price. **Requirement (D) is harder than this board
+implied, not easier.**
