@@ -725,3 +725,37 @@ had opened. Requiring α_G = 5.9e−39 with ℓ_P = 2.27a gives ξ/a =
 **What remains is a binary**: one record or two, worth exactly 12/5
 in κ and many orders in ξ, so it is decidable rather than degenerate.
 One record → N = 6; two → N = 3–4.
+
+**ONE RECORD OR TWO: SETTLED — IT IS TWO, LOCKED** (0143), and the
+factor 0142 quoted was wrong. There are THREE constructions, not two:
+(a) one record on a single SU(2), κ = 13.33 at M = 6; **(b) the
+double copy on Spin(4), A(U⁺,U⁻) = Σ n_j χ_j(U⁺)χ_j(U⁻), κ = (2/3)
+Σn²(n²−1)/Σn² = 16.00**; and (c) the diagonal restriction Σn_j χ_j(U)²
+at 32.00, which is what 0142 priced at 12/5. **(b) = 6/5 × (a)
+exactly at every M** — the double copy costs 1.2, not 2.4.
+
+**Three of the program's own results select (b), and had never been
+combined**: 0045 §3 says the 3+1 single copy is Maxwell and *its
+double copy is gravity with gravitons*; 0066 measured that a frame
+pair spans a SIMPLE bivector and simple = BALANCED (|B⁺| = |B⁻|
+machine-exact), so the two copies carry the SAME j and the amplitude
+is diagonal; and 0055 found simplicity is priced, not imposed, at
+ratio exactly 2.
+
+**And the decisive test passes.** Gravity's observed weakness
+requires κ = 17.37. At N = 5 — the level 0096's vacuum-sample route
+independently returns — (a) gives −23.2%, (c) gives +84.3%, and **(b)
+gives −7.9%**. **The two windows on the level now agree at the SAME
+level**, not one apart as 0142 reported.
+
+Residual named: 8% in κ is a factor ~37 in ξ, and the inversion
+carries ℓ_P = 2.27a (hence the factor 20) plus the identification of
+gravity's weak scale with ξ — either could absorb 8%. So this is NOT
+a prediction of α_G; it is **two independent determinations of N
+agreeing within their stated uncertainties, the first time that has
+happened here.**
+
+**CRITICALITY ITEM 1 IS CLOSED**: flat profile (capacity-achieving),
+κ = (2/3)Σn²(n²−1)/Σn² over M = N+1 sectors, record count two and
+locked. No free parameter remains between the level and the
+hierarchy.
