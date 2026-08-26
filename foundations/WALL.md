@@ -455,3 +455,31 @@ and its three sign changes). **0133's plateau is explained and the
 L = 48 run is no longer the right measurement.** Caveat named: the
 Whittle score is a Gaussian rule on a non-Gaussian record — a model
 comparison over a chosen family, inheriting what the family omits.
+
+**CONTINUITY IS CLOSED** (0135 + lucid 0040). The last item was
+0134's own caveat — the Whittle score is a Gaussian rule, blind to a
+purely non-Gaussian anisotropy. lucid 0040 proved that blindness is
+REAL: on a field whose spectrum is forced isotropic mode by mode
+while its phases carry the anisotropy, Whittle scores **exactly 0.00
+at every amplitude** and a directional test rises monotonically. (A
+first construction failed and is recorded: 3-point at O(ε) with
+2-point at O(ε²) was caught easily, 26 nats.) The test that sees it
+needs no probe and no baseline — sample along rays stepping by
+lattice vectors of EQUAL LENGTH and different orientation, so the two
+ensembles are each other's control, and compare them with an order-2
+Markov code. On the real record: noise floor 0.000002 nats/site, and
+the excess sits AT the floor at lengths 2, 4 and 6, with orders 1 and
+3 agreeing. **Injection-calibrated** so the zeros are bounds and not
+blindness: known anisotropy is caught from ε = 0.05, at 96× the floor
+by ε = 0.10. And it RECONCILES with 0134 rather than contradicting it
+— that test ran over all modes including the highest, where a
+hypercubic lattice is anisotropic by construction, while these rays
+step by two spacings at minimum.
+
+So the front closes: target reframed (no dial), coupling weak and
+load-bearing for (D), branch decided at two volumes, **ξ/a ~ 10¹³
+untuned**, Lorentz restoration answered at two-point order AND at all
+orders, triviality scoped, the residual trend closed, 0133's plateau
+explained. **The last open conjunct of 0069's wall is closed** — and
+it closed by asking the question the way a filter asks it, twice, not
+by a bigger run.
