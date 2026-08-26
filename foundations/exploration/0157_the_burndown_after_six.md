@@ -9,7 +9,7 @@
 | ✅ | 3. Source (T = Fisher) as lattice code | matter on the lattice, gated exact |
 | ✅ | 4. Measure the response, read the 1/r | ratio 1.0722, spread 1.68% over ×15 in r |
 | ✅ | 5. The factor 20 | retired as a category error |
-| ⚠ | **6. Classical tests from Q4** | **γ ≈ −1 in the INDUCED sector only — see 0158; the double-copy sector is untested** |
+| ▶ | **6. Classical tests from Q4** | **open. γ = +0.509 (vDVZ) after the forced Λ counterterm; gap to Einstein is a graviton mass = 0056's criticality. See 0158, 0159** |
 | ✅ | 7. Sharpen β | β_W = 17.64, β_V = 18.35; band 60 → 6.7 |
 
 ## Superseded in part by 0158

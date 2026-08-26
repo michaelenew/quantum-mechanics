@@ -1065,3 +1065,46 @@ one. The falsification is of the induced route, not the program.
 **Next test, well-posed:** build the quadratic form of the constrained
 sector (B⁺⊗B⁻ with |B⁺| = |B⁻|, already verified machine-exact by
 lucid 0045) and count its negative modes. GR needs exactly one.
+
+## 0148–0149 / 0159 — flat space was never a solution; γ = −1 was an artifact
+
+Re-deriving 0146's setup before testing the constrained sector turned
+up a more basic error. **A Hessian is only parametrisation-independent
+at a stationary point**, and W = I is not one: Γ⁽¹⁾[A] = tr(BA), and
+tr(B) = **1020.0000 = 4(V−1)** exactly at L=4 — a cutoff-scale
+**induced cosmological constant**, left in. The tell was visible: in
+the linear variable W the same Γ is concave, in the exponential
+variable A convex. A sign that flips with the variable is not physical.
+
+Fix, **forced not tuned**: add the bare cosmological term with its
+coefficient fixed by stationarity (L = 4β₀ = 0.99995177 vs closed form
+0.99995177). Its second-order part is negative in the trace direction.
+
+Result: **exactly one negative mode at every momentum** — the
+Einstein-Hilbert signature. The PSD obstruction of 0146/0156 was an
+artifact of the expansion point.
+
+**γ = +0.50864 ± 0.00521**, deflection **0.754 × GR**. Those are the
+**vDVZ** values for a massive graviton (γ = 1/2, 3/4). And **0056**
+already said it: *"the lattice graviton is massive off criticality, so
+the long-range Newtonian limit is a critical point."*
+
+Mass measured: ‖H₀‖/‖H₂‖ ≈ **21.6**, direction-independent to 2.7e−3.
+Isolating the massless kinetic operator is **beyond this volume** and
+is recorded as such: subtracting H₀ is a catastrophic cancellation
+(γ = 0.25 ± 1.56, spread larger than the answer); the slope fit is
+direction-dependent (γ = 0.231 ± 0.115). The gate passes exactly —
+the same procedure on Einstein-Hilbert returns **+1.000000**.
+
+**The sequence, which is the answer to "what is the difference":**
+no counterterms → γ = −1 (Nordström); + zero Λ (forced) → γ = +0.509
+(vDVZ); + massless limit → unresolved; classical tier → +1.
+**The difference is diffeomorphism invariance** — the classical tier
+builds it in via the double copy plus simplicity; a lattice does not
+have it and so induces both a Λ and a graviton mass.
+
+0156's "the program fails" was wrong twice: wrong sector (0158) and
+wrong expansion point (here). The current position is not a pass
+either — γ = 0.509 is excluded by Cassini — but the gap to Einstein is
+now a named, previously-identified effect rather than a structural
+obstruction.
