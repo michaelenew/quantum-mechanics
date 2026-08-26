@@ -656,3 +656,34 @@ geometry one.
 computes the character coefficients, the spectrum E_n = −ln(w_n/d_n)
 and the evolution live in the browser from the weight, with the
 phase-randomisation control wired to the same numbers.
+
+**THE PRECISION IS NOT FORCED** (lucid 0044). Self-consistency was
+the best hope for deriving the scale: a node learns its neighbour
+only as well as the neighbour knows itself, so precision is a fixed
+point of its own propagation. Given the link quality the state
+precision IS derived (p* = (d−2)q, attractive). But the link is not
+external either — it compares two states, so q = cp, and the map goes
+LINEAR: p′ = [(d−2)c/(c+1)]p. The scale cancels. Criticality is
+c(d−3) = 1, and at criticality EVERY p is a fixed point — a ray
+through the origin. **Self-consistency picks a critical relation, not
+a scale**, which is the same "no dial" invariance the program already
+had: a theory with no dial cannot manufacture a scale from its own
+consistency.
+
+**THE ONE DIMENSIONLESS PREDICTION, COMPUTED AND PRICED** (0141). A
+one-parameter theory cannot predict a dimensionful quantity — G, ξ/a
+and the Λ quantum are one scale through three windows. It can predict
+a dimensionless one. There is exactly one: **Λ·R² ∈ (2π/q)ℤ with
+q = 2**, which in observables is **3Ω_Λ/|Ω_k| ∈ πℤ** — and **H₀
+cancels, so the Hubble tension is irrelevant to it**. Measured:
+3Ω_Λ/|Ω_k| = 2934.4, n = 934. **Low-winding universes are dead**
+(n ≤ 5 excluded at 69–344σ, n = 50 at 6.5σ). **Ω_k cannot be exactly
+zero** — a flat universe gives no integer, so the mechanism requires
+spatial curvature. And priced: adjacent predictions differ by
+Δ|Ω_k| = 7.5e−7 against a current error of 1.9e−3, so the fine
+structure needs **2538× better precision on Ω_k** — beyond anything
+planned, and cosmic-variance limited.
+
+**That is the program's entire predictive content**: one weak
+prediction, one kill, one requirement. Not enough to live or die on,
+but stated where anyone can check it.
