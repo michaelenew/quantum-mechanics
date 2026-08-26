@@ -995,3 +995,36 @@ r. Γ″ is a graph Laplacian on link space and is singular at k = 0;
 leaving that mode in gave a response of ~5e11 identical in every
 direction, faking the conformal answer. Removed, with an assertion
 that the response never exceeds 1e6.
+
+## 0146 / 0156–0157 — item 6 FAILS: γ = −1, and the reason is algebraic
+
+The diagonal restriction was removed. Full symmetric metric per site,
+W = exp(2A), 10 components, via the generalised identity
+Γ⁽²⁾[A] = tr(BA²) − tr(BABA). Gated at **5e−16** against a dense
+brute-force projector that shares no algebra with it, and the diagonal
+restriction reproduces 0154.
+
+**γ = −1.07 … −1.37** across two source conventions and two volumes.
+The off-diagonal sector does not rescue it.
+
+And the reason is not numerical. B is a projector, so
+**Γ⁽²⁾[A] = ‖(1−B)AB‖²_F ≥ 0 identically**, for every symmetric A
+including the conformal mode. Linearised Einstein-Hilbert *requires*
+the conformal mode to carry the opposite sign — that is the
+conformal-factor problem, and it is the signature of a spin-2 kinetic
+term. A PSD action cannot be Einstein-Hilbert whatever source is
+applied, and since a sum of PSD forms is PSD, no field content fixes
+it. **γ = +1 was never available.**
+
+**Verdict: the induced-gravity route predicts zero light bending** —
+the 1919 result — against Cassini's γ−1 = (2.1±2.3)e−5.
+
+Untouched: the derived measure, Born-rule chain, OS reconstruction,
+the 11-dim Hilbert space, Λ quantisation, κ = 16.0001, the double copy
+and the spin-2 synergy structure, 0155's hierarchy. Touched: items 4
+and 5's *interpretation* — their numbers stand as the induced scale
+stiffness; calling it Newton's constant is what fails.
+
+Three escapes named in 0156, all narrow: the metric identification,
+a bare (non-induced) EH term, higher orders (which cannot change a
+linearised PPN parameter).
