@@ -381,3 +381,24 @@ higher-order series, the Gaussian crossover) are named and untested.
 sense 0127 recorded. It is a set of bounds plus a class membership,
 with one unexplained trend and one extrapolation (r ≈ 5a to physical
 scales) still outstanding.
+
+**The two residues** (0132). One closed decisively, one returned a
+negative. **The residual trend belongs to the WEIGHT**: three
+families at matched κ (Wilson, heat kernel, derived Born) on the
+same lattice deviate from 3/(4κ) at the weak-coupling end by 1.5%,
+1.6% and **14.9%** — so the Gaussian bank prediction is fine and the
+higher-order series is fine, and what the Born weight has that
+neither reference has is **exact zeros**. The band-limit costs 15% in
+⟨1 − cos θ⟩ at the derived point: not a universality problem, but a
+real quantified signature. (My first verdict compared the families'
+*drift* across κ and concluded the opposite; the drift toward strong
+coupling separates nothing, since perturbation theory fails there for
+every family.) **The Symanzik exponent did NOT measure**: seven
+widths at L = 20 give exponents 4.15, −0.36, 4.98, 1.02 — spread
+−0.36 to 4.98, with one residual changing sign, which no power law
+describes. My first test was `|mean − 2| < 0.8` and it **passed on a
+meaningless mean**. So the ≤1.4% bound at r ≈ 5a **does not
+propagate**; the step to physical scales rests on Symanzik's theorem
+alone with its premise unchecked. The reason is nameable — the usable
+window in w is bounded below by statistics and above by the box, and
+L = 20 leaves a factor of 1.6. **Wants L ≥ 32.**
