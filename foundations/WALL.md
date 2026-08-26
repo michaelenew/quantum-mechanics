@@ -569,3 +569,18 @@ the coupling — cheap, self-contained, everything downstream depends
 on it; (2) port or retire Λ; (3) find a continuum constraint on the
 level or accept there is none; (4) lift the two-ledger theorem;
 (5) re-price n*.
+
+**WAYSTONE laid** (`WAYSTONE.md`). Every material result placed on
+(classical, quantum) × (discrete, continuous), with LIVE / LIFTED /
+TOY / OPEN status and a criticality ordering. Headline: Q4
+(quantum × continuous) is the theory and carries a ⚠ on the derived
+measure's multiplicities; Q1 (classical × discrete) is where the Λ
+quantisation still sits, which is why no falsifiable prediction
+exists yet.
+
+**North star set (2026-08-26):** (1) a GR simulation built from the
+quantum-continuous theory rather than from the Kerr–Schild channel;
+(2) a quantum experiment, starting with a double slit, assembled from
+the derived measure + transfer operator + OS reconstruction; (3) a
+falsifiable prediction, preferring vacuum energy — blocked until Λ is
+ported. Method: filter homo/isomorphisms first.
