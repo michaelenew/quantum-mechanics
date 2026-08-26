@@ -853,3 +853,27 @@ What stands: the kernel (needed by items 3, 4 and 6 regardless), and
 the Spin(4) coupling, now measured two independent ways. Item 2
 remains open with its blocker correctly identified for the first
 time.
+
+## 0136–0137 / 0147–0148 — the item-2 blocker, correctly diagnosed on the third try
+
+lucid 0048 reframed item 2 as an **estimator** problem
+(`Var(X) = Var(E[X|Z]) + E[Var(X|Z)]`; Rao-Blackwell removes only the
+second term) and measured 120× in a filter-side toy — plus the
+surprise that the gain comes from the operator's **length**, not
+per-link noise, so it must not be gated on link stiffness.
+
+- **0136 / 0147** — ported at **link** granularity (multihit, 12 hits,
+  400 configs, L=8). Unbiased (≤1.0σ) and **0.98×**. Conditioning on
+  every-link-but-one puts the whole field in Z, so nothing is
+  removable. *The law was right, the unit was wrong.*
+- **0137 / 0148** — ported at **boundary** granularity. New kernel
+  `sweeps4f` (0134 + a freeze mask; frozen links move by exactly 0).
+  Freeze spatial links on t = 0,2,4,6 ⟹ blocks conditionally
+  independent ⟹ sub-averages multiply. Removable fraction **0.828**.
+  **23.86× in variance, bias 0.9σ, 3.22× cost-matched.** Ceiling is
+  ~34×, so we are near saturation in sub-average count.
+
+Item 2's floor has moved for the first time. Three diagnoses —
+throughput (wrong), link means (wrong unit), boundary independence
+(right) — each corrected by measuring the decomposition instead of
+reasoning about the mechanism.
