@@ -402,3 +402,32 @@ propagate**; the step to physical scales rests on Symanzik's theorem
 alone with its premise unchecked. The reason is nameable — the usable
 window in w is bounded below by statistics and above by the box, and
 L = 20 leaves a factor of 1.6. **Wants L ≥ 32.**
+
+**The exponent test FAILED at L = 32, with the criterion written
+first** (0133). Pre-registered before launch (usability, entry, and
+a verdict requiring ≥3 pairs, every exponent in [1,3], spread ≤1.5,
+**no mean-based test**), the run returned: one pair in the fit with
+exponent **4.70**, three pairs EXCLUDED for changing sign, one for
+lever arm. **VERDICT: FAIL.** So the ≤1.4% bound at r ≈ 5a **does
+not propagate**; the step to physical scales rests on Symanzik's
+theorem alone, and the pre-registered secondary finding fired — with
+three pairs crossing zero, the residual is not a single-power
+quantity, so the premise is *actively unsupported* at these scales
+rather than merely unchecked.
+
+lucid 0038 priced the method change (old test wrong **51%** of the
+time under the observed null against **0.5%** — factor 99) and caught
+a mis-diagnosis before the run: 0132 blamed L = 20 on lever arm, but
+the statistical slope errors were ±0.06/±0.68/±0.49 against a spread
+of −0.36 to 4.98, and one slope was 3.31 ± 0.06 — **systematic, not
+noise**.
+
+**New and open: the plateau.** Post-hoc but consistent across pairs,
+the residual has two components — a steeply falling piece (an O(a²)
+artefact) and then a **plateau at ≈0.002 that does not shrink**, with
+the two zero-crossings at r = 6 and r = 8 both landing near w ≈ 3.05.
+Three candidates: a genuine non-vanishing anisotropy, a failure of
+the free-field baseline at large w, or the onset of wrap (the largest
+widths sit exactly at the r + 2w ≤ L/2 boundary — the last is the
+likeliest and cannot be excluded here). **Needs L = 48, ~5x the
+L = 32 cost.**
