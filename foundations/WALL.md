@@ -827,3 +827,29 @@ are at ~1× floor with 170 configurations, so 5σ needs ~25× more —
 which needs a C kernel or a variance-reduction method (multilevel,
 link integration) the program does not have. **The first purely
 computational obstruction this program has hit.**
+
+**THE SPIN(4) C KERNEL IS BUILT — AND MY DIAGNOSIS WAS WRONG** (0146).
+
+The kernel: two quaternions per link, a 2-D log-weight table over the
+two class angles, joint Metropolis on both factors. **Gate passed
+before use** — C gives κ⁺ = 17.13, κ⁻ = 17.18 against numpy's 16.99,
+17.03, within 1%. **Throughput 32× at L = 4, 10.8× at L = 8**; 5000
+configurations in 968 s where numpy would have taken most of a day.
+
+**And the run says the obstruction was never throughput.** 0145
+claimed "the blocker is throughput, not concept" and priced it at
+25×. Delivered ~30×: the spin-2 correlator is **still at the shuffle
+floor** at every r and both smearing widths (|s2|/floor = 0.6, 0.9,
+0.5, 1.0). The √n scaling that made throughput look sufficient
+assumed a signal just under the floor; it is not just under.
+
+> **The obstruction is the ESTIMATOR, not the statistics.** The next
+> move is multilevel or link-integration variance reduction — which
+> buys exponentially in levels rather than as √n, and is the standard
+> tool for a connected correlator of a composite operator at weak
+> coupling. That is a build, not a run.
+
+What stands: the kernel (needed by items 3, 4 and 6 regardless), and
+the Spin(4) coupling, now measured two independent ways. Item 2
+remains open with its blocker correctly identified for the first
+time.
