@@ -431,3 +431,27 @@ the free-field baseline at large w, or the onset of wrap (the largest
 widths sit exactly at the r + 2w ≤ L/2 boundary — the last is the
 likeliest and cannot be excluded here). **Needs L = 48, ~5x the
 L = 32 cost.**
+
+**Lorentz, answered — by asking it as a filter would** (0134 + lucid
+0039). Three attempts failed because they measured the anisotropy
+OF AN OBSERVABLE, and an observable's anisotropy belongs partly to
+the probe. The reframing is the program's own principle: the content
+is the predictive CODE LENGTH, and a symmetry is the statement that a
+model respecting it is not beaten by one breaking it — **no probe
+appears in that test**. Two models of the measured spectrum, the
+isotropic one nonparametric and maximally generous, the breaking one
+adding a single parameter (the dimensionless second invariant), both
+scored by Whittle code length and CALIBRATED on synthetic records
+first. Result: over the full mode range breaking is detected
+(c = 0.241, gain 28.6 nats vs 5.99) as a lattice must; restricting
+the cutoff, **c falls 0.241 → 0.131 → 0.036 → 0.007 → −0.002**, a
+factor ~34 while the detection threshold loosens only 4×. **And the
+decay of c is itself the finding**: a single dimension-six operator
+would give the SAME c on any mode range, so the breaking is a sum
+dominated by HIGHER-dimension operators — which explains all three
+earlier failures at once, since they were fitting one power to a sum
+of operators of different dimension (0133's spread of −0.36 to 4.98
+and its three sign changes). **0133's plateau is explained and the
+L = 48 run is no longer the right measurement.** Caveat named: the
+Whittle score is a Gaussian rule on a non-Gaussian record — a model
+comparison over a chosen family, inheriting what the family omits.
