@@ -623,3 +623,36 @@ SU(2)), not the level. **The quantisation survives the port; its
 identification with the level does not**, moving the predicted
 quantum by a factor 2.5. New load-bearing premise, now explicit:
 **the universe must be closed**, or there is no loop and no winding.
+
+**THE COUPLING IS A MEAN CASIMIR** (lucid 0043), and that explains
+0139's volatility. For any counting amplitude,
+**κ = (2/3)Σc_n n(n²−1)/Σc_n n = (8/3)⟨j(j+1)⟩** with weights c_n d_n
+— exact, verified against the numeric second derivative on six
+profiles. So the entire coupling is ONE scalar, the
+dimension-weighted mean Casimir; the profile's shape, peak and width
+are invisible to it. **s₀ does not perturb the amplitude, it moves
+its mean Casimir** — which is why the hierarchy, exponential in κ,
+swung 10¹².
+
+Three consequences. **(i)** The Casimir is a FORGETTING RATE on the
+filter side (the heat kernel decays χ_j as exp(−τ j(j+1)); measured,
+flat across sectors to 25%), so κ is a **record precision** — closing
+a loop with lucid 0032's G = 1/(4πp). **(ii)** Spin(4) vs SU(2) is
+**one record versus two**: fusing the self-dual and anti-self-dual
+records gives χ_n² = χ₁+χ₃+…+χ_{2n−1}, pushing weight to higher spin
+and raising κ by ~2.4×. The unrecorded group step was worth 4e21
+because *the number of records fused into one amplitude is
+exponentially consequential*. **(iii)** s₀ is a resolution, and 0041's
+rule (a resolvable count is exp(capacity)) fixes it.
+
+**So three roads meet**: N = exp(phase-channel capacity); s₀ = range /
+exp(frame-magnitude capacity); and requirement (D) = "why this record
+precision". The last free parameter, the last underived constant, and
+the volatility that exposed both are **one open problem** — what sets
+the precision of the world's record. A filter question, not a
+geometry one.
+
+**And the double slit is now visible**: an interactive artifact
+computes the character coefficients, the spectrum E_n = −ln(w_n/d_n)
+and the evolution live in the browser from the weight, with the
+phase-randomisation control wired to the same numbers.
