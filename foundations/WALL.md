@@ -877,3 +877,40 @@ Item 2's floor has moved for the first time. Three diagnoses —
 throughput (wrong), link means (wrong unit), boundary independence
 (right) — each corrected by measuring the decomposition instead of
 reasoning about the mechanism.
+
+## 0138–0141 / 0149–0150 — item 2 closed, and the first derived-and-large number
+
+**Item 2 (0149).** Two-level production run at L=8, 3000 boundary
+configurations, block decomposition asserted not assumed (frozen links
+move by exactly 0): C(d) consistent with zero at d = 2,3,4, errors
+~25× smaller than 0135. A 0++ **control** on the same pipeline is
+resolved at **25.7σ** at d=1, so the measurement is not blind. Found
+and fixed a real defect: the operator averaged all six plaquettes,
+three of which are *temporal*, so it was never a fixed-time operator.
+Rebuilt from spatial plaquettes with gated APE smearing — the 2++
+still never exceeds **1.3σ**, giving a bound of m·a > 5.10 **or**
+overlap < 0.61%.
+
+**The reason (0150).** The mean spatial plaquette is **0.957** — an
+almost frozen lattice. Measured directly: the derived weight is, to
+quadratic order, **two independent SU(2) Wilson actions at β = κ =
+16.0001** (closed form 16.0000, cross term −0.0000). Two-loop then
+gives **ξ/a = 7.7e17 … 4.7e19**. The 8⁴ box is 10⁻¹⁷ of a correlation
+length, so the null was the *expected* result and predictable from the
+plaquette alone.
+
+Item 2's ledger: throughput (wrong) → link conditional means (wrong
+unit) → boundary independence (right, 24×) → **the box** (the actual
+limit). 24× against a deficit of 10¹⁸.
+
+**What it buys.** ℓ_P = 0.507a, so the confinement scale sits
+10¹⁸–10²⁰ Planck lengths out — a mass of 10⁻²⁰–10⁻¹⁸ M_Planck, against
+M_Planck/GeV = 1.22e19, with **nothing tuned**: κ is fixed by the band
+and the double copy. This is the program's **first derived-and-large
+number** and the first candidate derived knob (count was zero). It is
+*not* yet at 0069's bar — one unit of β is a factor 15, the band is
+two decades, and the Λ_lat/Λ_MS̄ scheme factor of ~20 is not included.
+
+Two verdict lines in 0139/0140 written before this ("the channel is
+empty", "everything is sub-lattice-spacing") were **wrong in the
+opposite direction** and were corrected in place.
