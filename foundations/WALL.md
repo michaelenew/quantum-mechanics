@@ -541,3 +541,31 @@ real: the ladder was the support of the level's prior, so 0106's
 n* = 58 is conditional on it, and widening the candidate set to every
 level raises that price. **Requirement (D) is harder than this board
 implied, not easier.**
+
+**WHAT IS MISSING FOR THE FULL PORT** (0137). A tier census, after
+0136. Already lifted: Born-square positivity, reflection positivity,
+band-as-budget, (A) and (C). Ports trivially: action = code length
+(the identity is the chain rule; only the CAPACITY attached to it is
+Z_N). **Z_N-only and load-bearing**: the level's candidate set; the
+two-ledger theorem's proof (partial lift via lucid 0027's exact
+zeros); capacity = ln N as a number; n* = 58; and — the one that
+should worry us — **the Λ quantisation, which is the program's ONLY
+observational route and whose mechanism is total curvature mod N**.
+
+**And a gap on no list at all, larger than the ladder.** 0074 §3
+DERIVED the nonabelian amplitude's multiplicities from the frame
+measure, profile "peaked, not monotone". Every module from 0091
+onward uses **flat counting** — 0091's own docstring says so. The
+weight the continuity front measured is not the weight 0074 derived.
+Measured: κ runs 9.0–16.0 across plausible profiles, a factor 1.8 —
+but the hierarchy is EXPONENTIAL in κ, so **ξ/a runs 6e9 to 8e17,
+eight orders of magnitude.** The front's structural results survive
+(no dial; asymptotic freedom supplies the separation; Lorentz was
+measured on whatever weight was used). **The NUMBER does not** — and
+"why gravity is weak" was that number.
+
+Punch list, ordered: (1) derive the SU(2) multiplicities and re-run
+the coupling — cheap, self-contained, everything downstream depends
+on it; (2) port or retire Λ; (3) find a continuum constraint on the
+level or accept there is none; (4) lift the two-ledger theorem;
+(5) re-price n*.
