@@ -949,3 +949,49 @@ stated window rule.
 0.00000 over 24 configurations — `as_links` returns views, so all 24
 were the same configuration. Fixed, with an assertion that now fails
 if the spread is below 1e−12.
+
+## 0144–0145 / 0154–0155 — item 7 closed, item 6 obstructed
+
+**Item 7 (0155).** β pinned by matching the derived weight against
+the actual Wilson double copy on the same lattice, replacing 0141's
+perturbative handle. **β_W = 17.637** on the plaquette. Matching a
+second moment gives **β_V = 18.351** — the moments disagree at −182σ
+(−7.58%), so the derived weight is genuinely *not* Wilson, and the
+0.714 gap in β is the irreducible scheme ambiguity, now measured.
+Band narrows from a factor **60** to **6.7**: ξ/a = 6.1e19…4.1e20.
+
+Two consequences. **κ = 16 is excluded as the coupling** — it stays
+exact as the curvature at the identity, but the weight's plaquette
+corresponds to Wilson at 17.64. And **the band moves off the
+reference point**: M_Planck/GeV = 1.22e19 now sits below it by a
+factor 5–33. 0141's apparent agreement was the band's width, not the
+physics; narrowing it removed it. Reported as such.
+
+**Item 6 (0154) — OBSTRUCTED.** γ measured from Q4 by letting the
+link weight depend on direction (a diagonal metric, ln w = (J−2I)a).
+Gate: forcing the trace mode returns γ = −1 to 2.2e−16. Result at
+L=32 with 0143's window rule: **γ = −1.0058, spread 0.106, converging
+on −1** — Nordström, i.e. **zero light bending**, against Cassini's
+γ−1 = (2.1±2.3)e−5.
+
+Not called fatal, because the instrument is blind to exactly the
+sector that should carry the bending: `w_{x,μ}` carries only a
+*diagonal* metric, while the program's graviton is the spin-2 synergy
+(5 of 9), which is off-diagonal. And the restriction is not a gauge
+choice — **(Γ″|_diag)⁻¹ ≠ (Γ″⁻¹)|_diag**. Item 2 already taught that
+a null from a blind instrument is not a result.
+
+Fix derived: extend to a full symmetric per-site metric W = exp(2A),
+giving **Γ⁽²⁾[A] = tr(BA²) − tr(BABA)** (reduces to 0142's form when
+A is diagonal). 10 components per site instead of 4.
+
+**Risk stated plainly:** if γ stays −1 with the full W, the program
+fails the classical tests the way scalar gravity failed in 1919. This
+is now the most falsifiable item in the program and sharper than the
+vacuum-energy target.
+
+**Bug recorded:** the first γ run returned exactly −1.000000 at every
+r. Γ″ is a graph Laplacian on link space and is singular at k = 0;
+leaving that mode in gave a response of ~5e11 identical in every
+direction, faking the conformal answer. Removed, with an assertion
+that the response never exceeds 1e6.
