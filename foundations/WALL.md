@@ -687,3 +687,41 @@ planned, and cosmic-variance limited.
 **That is the program's entire predictive content**: one weak
 prediction, one kill, one requirement. Not enough to live or die on,
 but stated where anyone can check it.
+
+**CRITICALITY ITEM 1 IS RESOLVED** (0142 + lucid 0045), and it lands
+on "why is gravity weak".
+
+**The incompatibility first**: the filter had no object for "a record
+about a PAIR whose content is the pair's joint magnitude". It has
+one — for two records with directions a, b the joint precision is
+J = aaᵀ+bbᵀ and **√det J = |a∧b|** exactly. A bivector IS the
+information volume of a record pair. The filter then reproduces the
+10¹² volatility with no geometry in it: a quantiser-width problem.
+
+**The resolution**: equal-width binning is not what a filter does. A
+record spends its capacity, so at a fixed number of levels the
+entropy-maximising quantiser is EQUIPROBABLE — attaining ln M against
+1.25–1.60 for equal-width — and **equiprobable bins carry equal
+multiplicities**. The profile is FLAT, uniquely. **s₀ was never a
+free parameter; it was a bad quantiser, and 0091's flat counting was
+right for a reason nobody had given.**
+
+**The closed form**, verified against the actual weight at M = 3, 4,
+6, 8: **κ = (M+2)(M−1)/3 = N(N+3)/3, band = 2N+1.** The 10¹² freedom
+is gone — a family indexed by a bin width is now a single curve
+indexed by the level.
+
+**So: gravity is weak because the level is not small, and the
+hierarchy is DOUBLY exponential in it** — κ ~ N², ξ/a ~ exp(cκ). Two
+steps of the level buy eleven orders of magnitude.
+
+**And a second window on the scale**, which lucid 0044 said nobody
+had opened. Requiring α_G = 5.9e−39 with ℓ_P = 2.27a gives ξ/a =
+2.96e19 → **N = 6**, against 0096's vacuum-sample route at **N = 5**.
+**One level apart, out of forty orders.** Conditional on ℓ_P = 2.27a
+(hence the factor 20) and on identifying gravity's weak scale with ξ
+— both open, both named.
+
+**What remains is a binary**: one record or two, worth exactly 12/5
+in κ and many orders in ξ, so it is decidable rather than degenerate.
+One record → N = 6; two → N = 3–4.
