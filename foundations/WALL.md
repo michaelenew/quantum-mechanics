@@ -483,3 +483,34 @@ orders, triviality scoped, the residual trend closed, 0133's plateau
 explained. **The last open conjunct of 0069's wall is closed** — and
 it closed by asking the question the way a filter asks it, twice, not
 by a bigger run.
+
+**Z_N is rebuilt from filter principles, and the ladder comes with
+it** (lucid 0041). The level was described here as the alphabet size
+of a *geometric* record — but nothing in that description is
+geometric except the nouns. On the filter side: composition of
+resolvable phases forces the resolvable set to be closed under
+addition (evenly spaced sets leak **zero**, every unevenly spaced set
+of the same size leaks ~0.21), and a finite subset of the circle
+closed under addition **is Z_N**. Then **N = exp(channel capacity)**,
+measured — I/ln N is 1.000 while the level fits the record's
+resolution and collapses above it. So "innovation capacity = ln N",
+carried in the dictionary since 0100 as an identification, is not an
+identification: it is what N *is*.
+
+Both admissibility obstructions come out too, with no geometry.
+**Even N**: the amplitude is a count, so its autocorrelation counts
+coincidences; summing the demanded profile gives (Σc)² = N², so
+Σc = N exactly, and exhaustive search finds no even solution — at
+N = 2 the failure is 2c₀c₁ = 1, half a coincidence. **The ladder**:
+lucid 0034 proved the amplitude algebra must be ℂ, which over Z_N
+requires √−1, i.e. x² ≡ −1 mod N. Together: **5, 13, 17, 25, 29,
+37** — 0081/0090's ladder exactly, from the source ledger, with no
+Hodge star and no signature argument. Our Lorentzian congruence is
+the complexity requirement wearing a metric.
+
+**For (D)**: this relocates the question with a mechanism attached.
+If N is a channel capacity it is set by how precisely the world is
+recorded, which is a *reason* behind the "world's data, not the law's"
+classification 0127 recorded as a retreat. "Why this N" becomes "why
+this record precision" — a question this program has instruments for.
+Nothing there predicts 5; 0106's n* = 58 remains the state of the art.
