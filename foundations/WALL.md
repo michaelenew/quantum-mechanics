@@ -914,3 +914,38 @@ two decades, and the Λ_lat/Λ_MS̄ scheme factor of ~20 is not included.
 Two verdict lines in 0139/0140 written before this ("the channel is
 empty", "everything is sub-lattice-spacing") were **wrong in the
 opposite direction** and were corrected in place.
+
+## 0142–0143 / 0152–0153 — items 3 and 4 closed
+
+**Item 3.** lucid 0049 corrected the scope first: the masslessness in
+0125 comes from *matter's* determinant (uniform λ shifts ln det by a
+constant), while uniform λ on the gauge weight just rescales β. So
+item 3 meant **put matter on the lattice**. Done: the bifundamental
+(2,2) of Spin(4) = a quaternion per site, gated exact (Rφ vs U⁺φU⁻†
+at 4.4e−16, RRᵀ=I, det R = 1). "T = Fisher" is now a definition, not
+an analogy — the Fisher information of `W^{1+λ}` is `Var(ln W)`.
+**Masslessness verified in a real quantum background: Q(uniform λ) =
+−2.3e−13, exactly zero.** p_quantum/p_flat = **1.01423 ± 0.00006**.
+
+**Item 4.** Ratio flat in k (0.42% spread) — the background rescales,
+does not distort. The profile took four instruments: an A/rⁿ+C fit
+gave n = 1.045 but **failed** lucid 0049's 2-nat criterion at 3.13
+nats; a fixed-window volume scan ruled out wrapping (m plateaus at
+0.095, not 1/L); an outward-moving window was inconclusive. The right
+instrument is a **same-volume massless reference** — same zero-mode
+removal, same projection, so every artifact cancels. Result:
+**ratio 1.0722, spread 1.68%, over a factor 15 in r. The 1/r is
+there.**
+
+**The number:** ℓ_P = **0.5037a** for two polarisations, against item
+5's 0.507a — a −0.7% correction, inside the band already quoted.
+
+Two corrections owed back to lucid 0049 and ported: a Yukawa-vs-1/r
+fit on a periodic box is not a safe masslessness test (it rejected a
+provably massless channel at 3.1 nats), and any ratio test needs a
+stated window rule.
+
+**Bug recorded:** the first 0142 run gave an error bar of exactly
+0.00000 over 24 configurations — `as_links` returns views, so all 24
+were the same configuration. Fixed, with an assertion that now fails
+if the spread is below 1e−12.
