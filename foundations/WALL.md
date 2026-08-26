@@ -793,3 +793,37 @@ absolute κ tolerance.
 **Next**: correlate the spin-2 projection at separation. That
 correlator is the graviton propagator, and it is one measurement away
 on configurations that now exist.
+
+**BURNDOWN 2 AND 5: ONE RETIRED, ONE OBSTRUCTED** (0145 + lucid 0047).
+
+**Item 5 is retired, not reconciled.** lucid 0047 asked the prior
+question: are the two routes to G the same quantity? Give the field a
+mass, on one lattice with one regulator, and **πp/α runs 2.64 →
+123.07, a factor 46.7**. Not a constant, so a cut and a deformation
+are not one measurement — **the factor 20 was a category error**.
+They coincide only under a fluctuation–dissipation relation, and
+lucid 0019 measured long ago that this program has none (white
+vacuum, Coulomb response). **G is a response**, so it comes from the
+induced-stiffness route; the entanglement number is a different
+observable in the same units.
+
+**And it improves the cross-check.** 0105's ℓ_P = 2.27a came from the
+retired route; recomputed from the response route it is **0.51a** (2
+fields), and 0143's N-inversion gap goes from **−7.9% to −3.6…−5.5%**,
+nearly independent of field count.
+
+**Item 2 is obstructed on statistics.** The spin-2 correlator at
+L = 8, 170 measurements: all three sectors at the shuffle floor,
+spin-2 peaking at 1.6× with alternating sign. Smearing — the medicine
+that took 0118 from 0.1σ to 49σ — **fails here**: at w = 1.0 all three
+sectors read 0.770/0.768/0.769 with the floor at 0.342, i.e. the
+kernel's own correlation dominates. The reason is nameable: in 0118
+the signal was a RATIO against a large disconnected piece, so variance
+suppression won; here the observable IS the connected correlator,
+O(g⁴) at κ ≈ 17, and smearing shrinks signal and noise together.
+
+**The blocker is throughput, not concept.** SNR grows as √n and we
+are at ~1× floor with 170 configurations, so 5σ needs ~25× more —
+which needs a C kernel or a variance-reduction method (multilevel,
+link integration) the program does not have. **The first purely
+computational obstruction this program has hit.**
