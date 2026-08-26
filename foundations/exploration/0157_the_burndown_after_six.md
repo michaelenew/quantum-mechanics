@@ -9,8 +9,17 @@
 | ✅ | 3. Source (T = Fisher) as lattice code | matter on the lattice, gated exact |
 | ✅ | 4. Measure the response, read the 1/r | ratio 1.0722, spread 1.68% over ×15 in r |
 | ✅ | 5. The factor 20 | retired as a category error |
-| ❌ | **6. Classical tests from Q4** | **FAILS. γ ≈ −1: zero light bending** |
+| ⚠ | **6. Classical tests from Q4** | **γ ≈ −1 in the INDUCED sector only — see 0158; the double-copy sector is untested** |
 | ✅ | 7. Sharpen β | β_W = 17.64, β_V = 18.35; band 60 → 6.7 |
+
+## Superseded in part by 0158
+
+0158 gates the γ pipeline against a genuine Einstein-Hilbert kernel
+(it returns **+1.000000** exactly) and shows the difference is one
+sign — the conformal mode's. It also shows the classical tier gets
+GR from a *different sector*: the Kerr-Schild double copy with the
+simplicity constraint, not the matter determinant. So the failure
+below is a failure of the **induced** route, not of the program.
 
 ## What the failure is
 

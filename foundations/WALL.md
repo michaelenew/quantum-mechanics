@@ -1028,3 +1028,40 @@ stiffness; calling it Newton's constant is what fails.
 Three escapes named in 0156, all narrow: the metric identification,
 a bare (non-induced) EH term, higher orders (which cannot change a
 linearised PPN parameter).
+
+## 0147 / 0158 — the difference is one sign, and 0156 mis-scoped it
+
+Gate that should have come first: feed a genuine linearised
+Einstein-Hilbert kernel through the **same** solver, source and γ
+convention. It returns **γ = +1.000000 exactly**, at every k. So the
+pipeline is right and 0146's −1 is a property of the kernel.
+
+Spectra on the 10-dim space of symmetric h: **Einstein-Hilbert has
+exactly one negative eigenvalue** (−2 among nine positives) — the
+conformal mode. **The induced kernel has zero**, at every momentum
+(min eigenvalue +6.2e2 … +2.7e3), as `Γ″[A] = ‖(1−B)AB‖²_F` requires.
+
+**The whole difference is that one sign.** γ = −h_s/h_00, so γ > 0 iff
+the spatial and temporal responses have *opposite* signs, and it is
+EH's `−½(tr h)²` term that flips them. A PSD action cannot.
+
+**Where the classical tier gets it (0045, 0050):** it never inverts a
+Hessian. The channel is a Maxwell field (Liénard-Wiechert to 1e−8),
+**the metric is its square** g = η + w k⊗k with k null — the
+Kerr-Schild double copy — and the action is Palatini/BF with the
+**simplicity constraint B = e∧e**, which takes the dof count from 0 to
+2. 0146 has neither: it varies the metric freely, which is the
+unconstrained sector 0050 says carries **zero** gravitons.
+
+**Correction to 0156.** The quantum theory has two objects called the
+metric: (1) the background weight W = √g g^{μν} — induced action PSD,
+γ = −1, what items 3/4/6 measured; (2) the composite double copy
+B⁺⊗B⁻ — the program's actual graviton (0142: pure synergy, 5 of 9),
+the quantum image of the classical square, and what item 2 failed to
+measure for a *scale* reason. **The classical tier's GR lives in (2).**
+0156 called the metric-identification escape narrow; it is the wide
+one. The falsification is of the induced route, not the program.
+
+**Next test, well-posed:** build the quadratic form of the constrained
+sector (B⁺⊗B⁻ with |B⁺| = |B⁻|, already verified machine-exact by
+lucid 0045) and count its negative modes. GR needs exactly one.
