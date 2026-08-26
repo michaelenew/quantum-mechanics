@@ -759,3 +759,37 @@ happened here.**
 κ = (2/3)Σn²(n²−1)/Σn² over M = N+1 sectors, record count two and
 locked. No free parameter remains between the level and the
 hierarchy.
+
+**THE SPIN(4) REBUILD IS DONE** (0144 + lucid 0046). Burndown item 1.
+
+**Why rebuild and not patch**: lucid 0046 measured that the graviton
+sector — traceless-sym(B⁺⊗B⁻) — is **pure synergy**. Knowing either
+stream alone leaves its direction *completely* undetermined (residual
+spread 1.0000); knowing both fixes it exactly (0.0000). A
+single-SU(2) lattice has no spin-2 sector, so no amount of
+post-processing the old runs recovers a graviton. And the lock is
+measured: for a SIMPLE bivector |B⁺|−|B⁻| < 1e−9 while a generic
+2-form gives median 0.28 — **two streams sharing a precision but not
+a state**, which is what Plebanski's simplicity constraint IS (0055
+priced it at 2 without saying what it was).
+
+**The build**: links are (U⁺,U⁻), plaquettes carry two class angles,
+W = |Σχ_n(θ⁺)χ_n(θ⁻)|², checkerboard Metropolis over both factors
+with staples per factor and an auto-tuned step.
+
+**The check, specified before the run and passed**: measured
+**κ⁺ = 16.99, κ⁻ = 17.03** against the Spin(4) target 16.00 — **6.2%,
+versus 27.4% from the old single-SU(2) 13.33** — with the two factors
+agreeing as the locking requires. And **the spin-2 sector is
+populated at 0.453** of the joint variance, matching lucid 0046's
+0.455.
+
+**A false pass caught**: the first run had acceptance **0.000** —
+proposals sized for the old action, configuration frozen at the
+ordered start, κ = 110 meaningless — and the original assertion
+PASSED on it (590% vs 728%). Now guarded by an acceptance band and an
+absolute κ tolerance.
+
+**Next**: correlate the spin-2 projection at separation. That
+correlator is the graviton propagator, and it is one measurement away
+on configurations that now exist.
