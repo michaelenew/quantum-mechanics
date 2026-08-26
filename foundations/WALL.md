@@ -570,7 +570,7 @@ on it; (2) port or retire Λ; (3) find a continuum constraint on the
 level or accept there is none; (4) lift the two-ledger theorem;
 (5) re-price n*.
 
-**WAYSTONE laid** (`WAYSTONE.md`). Every material result placed on
+**WAYSTONE laid** (0138). Every material result placed on
 (classical, quantum) × (discrete, continuous), with LIVE / LIFTED /
 TOY / OPEN status and a criticality ordering. Headline: Q4
 (quantum × continuous) is the theory and carries a ⚠ on the derived
@@ -584,3 +584,42 @@ quantum-continuous theory rather than from the Kerr–Schild channel;
 the derived measure + transfer operator + OS reconstruction; (3) a
 falsifiable prediction, preferring vacuum energy — blocked until Λ is
 ported. Method: filter homo/isomorphisms first.
+
+**Punch list 1→3 run** (0139, 0140, lucid 0042).
+
+**Item 1 is an OBSTRUCTION, not a computation** (0139). 0074 §3's
+derivation yields a FAMILY indexed by a bin scale s₀ nobody has
+fixed: across it κ runs 3.19→13.78 and ξ/a runs 1.6e3→2.1e15, a
+spread of 10¹². And a second unpriced step surfaced while checking —
+0074 derives on **Spin(4)** while the lattice simulates a **single
+SU(2)**, worth a further 4e21 in ξ/a, with no recorded reduction
+between them. **So the coupling is not derived**: κ = 13.34 is one
+particular choice, treated as the theory's number since 0091. The
+structural results are untouched; the NUMBER goes, and with it the
+"why gravity is weak" chain, whose entire content was that number.
+
+**Item 2 built** (0140). The double slit, assembled from the derived
+measure. The transfer operator's positivity gives H = −ln T by
+Osterwalder–Schrader, so the Hamiltonian is RECONSTRUCTED, not
+posited — and because the weight is band-limited, **the reconstructed
+Hilbert space is FINITE DIMENSIONAL, dim = 11**, the band budget
+appearing as the dimension of the state space. Two localised states
+evolved by exp(−iHt) give **6 fringes at visibility 0.511**, beating
+the incoherent model by **0.202 nats/event**, and randomising the
+relative phase collapses visibility to 0.016. Stated plainly in the
+stone: this is a consistency check, not a discriminator — Born was
+derived here, so recovering interference is the chain closing on
+itself. Its value is that the pieces had never been run end to end.
+
+**Item 3 ported** (lucid 0042). The global level is gauge (a global
+shift leaves the difference record bitwise unchanged), **but the
+winding is not** — 8/8 exact recovery of an integer from a record
+with no absolute information. And quantisation needs **compactness,
+not discreteness**: a circle-valued field on a closed loop admits
+2πℤ sectors, a line-valued one admits {0}. So **Λ·V ∈ (2π/q)ℤ with q
+the charge the record winds under** — the Z_N formula is the q = N
+case, and in the continuum q is the gauge group's **centre** (Z₂ for
+SU(2)), not the level. **The quantisation survives the port; its
+identification with the level does not**, moving the predicted
+quantum by a factor 2.5. New load-bearing premise, now explicit:
+**the universe must be closed**, or there is no loop and no winding.

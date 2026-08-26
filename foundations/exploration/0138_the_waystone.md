@@ -1,4 +1,9 @@
-# The waystone — every material result, by tier, by criticality
+# 0138 — The waystone: every material result, by tier, by criticality
+
+**Scope: stones 0001–0137.** This is a snapshot, not a live board.
+Anything numbered above 0138 supersedes it; `SUMMARY.md` holds the
+current state. Read this to find out where a result *sat* as of
+0137, not whether it still sits there.
 
 Two axes: **(classical, quantum) × (discrete, continuous)**. Discrete
 means a finite ring — Z_N, the exactly-solvable toy. Continuous means
