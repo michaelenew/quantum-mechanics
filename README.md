@@ -1,5 +1,24 @@
 # Relational–Epistemic QM: a knowledge-first, consistency-first reading
 
+> ## ⚠️ AI-generated, not peer-reviewed
+>
+> **Every document, derivation, figure and number in this repository was
+> produced by an AI system.** None of it has been peer-reviewed, and none of
+> it should be treated as an established result.
+>
+> **Assume prior art.** The work reconstructs known physics in many places —
+> spin foams, induced gravity, first-order gravity, lattice field theory —
+> and frequently did so without citing the source at the time. Where
+> something looks novel, the correct default is that it is a re-derivation of
+> published work, not an independent discovery. Original authors are credited
+> in [`ATTRIBUTION.md`](ATTRIBUTION.md), which also records the places where
+> this repository reversed its own conclusions.
+>
+> The reliable content here is the measured numbers, with their stated error
+> bars, windows and failure modes. Narrative claims about significance are
+> not.
+
+
 **Thesis.** Take the viewpoint of a single particle *A*. Everything *A* can act
 on is a probability distribution over the *relative* positions and momenta of
 other particles — *A*'s **knowledge state**. Other particles are bumps in that
@@ -382,6 +401,34 @@ The one possible contribution back to the main line: a closed null curve has
 **zero proper length**, which suggests the timelike/spacelike two-tier split of
 `foundations/0006` may want a **null middle term**.
 
+## Where gravity sits
+
+The gravitational which-branch thought experiment (`gravitation/`) is a stress
+test of the two-tier split, and the framework does not absorb it — it takes a
+constraint from it. A superposed apparatus read by gravimeters appears to leak
+which-branch information out of an informationally isolated system. It does
+not, because **gravitational detectability is non-isolation**:
+
+```
+        t_read     ⎛ G M μ² δr ⎞^(1/3)
+  𝒩  =  ──────  =  ⎜ ───────── ⎟          — the distance r cancels exactly
+        t_ent      ⎝    ħ²     ⎠
+```
+
+`t_ent` (when the gravimeter's phase becomes branch-distinguishable) precedes
+`t_read` (when the needle clears the SQL) by ~10¹⁸ for a kg-scale apparatus,
+and by more than 1 in every case checked. Phase leaks before position; the bit
+is diluted across every nearby mass before any local subset can read it —
+`mechanism/0002`'s dilution law, recovered independently. Computed in
+`gravitation/output/0001`.
+
+Consequences: **gravity is actionable knowledge**, hence `c`-bounded, hence a
+decohering channel — it cannot be quarantined as bookkeeping. And the field
+must be an edge in the web rather than a function of the state, since a
+classical field sourced by `⟨T_μν⟩` is exactly the absolute frame-independent
+object P1 denies. That converges with Belenchia et al. (2018) from a different
+direction.
+
 ## On Bell
 
 Treated as a strong checkpoint, not a settled wall (`testability/exploration/0004`).
@@ -401,6 +448,8 @@ own workstream.
 | `mechanism/` | What *is* a measurement, mechanically? | Coincidence / split-merge + EPR refinement + a dilution law from monogamy (`exploration/0002`). |
 | `testability/` | What confirms or breaks it? | The Bell fork reframed (`exploration/0003`); non-classicality now a derivation; quantum-selection open. Numerical demonstration in `output/0002`. |
 | `trapped_momentum/` | Is a particle a closed null ray? | Spin, both de Broglie relations, and time dilation drop out exactly; blocked on a factor of 2 (`exploration/0001`). |
+
+| `gravitation/` | Which side of the firewall is gravity on? | Actionable, not correlational — forced by the which-branch thought experiment (`exploration/0001`). |
 
 Each folder has a `SUMMARY.md` (current state), `exploration/` (numbered notes,
 later = more recent), and where applicable `output/` (checkable artifacts).

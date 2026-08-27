@@ -1,5 +1,8 @@
 # 0005 — Geometry of the web (Fisher / Bures)
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Pressing on: "in the same way gravity falls out of relativity's premise,
 something similar may happen here." Concrete answer: the moment we say
 "knowledge is a distribution," the web *inherits* a Riemannian geometry

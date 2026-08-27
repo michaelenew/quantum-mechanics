@@ -1,5 +1,8 @@
 # 0012 — Stage 2 result: the loop average is exactly Mathisson–Papapetrou
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 The pre-registered test from `0011` (the road-back plan), run. **Stage 2 comes
 back clean.** Per the standing instruction, that means the book chase is not
 forced — Souriau remains queued for Stage 3, not blocking.

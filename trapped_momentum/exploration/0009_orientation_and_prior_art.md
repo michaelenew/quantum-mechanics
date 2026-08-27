@@ -1,5 +1,8 @@
 # 0009 — Orientation: where this actually stands
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 No new calculation. An honest assessment of the workstream's state, the prior
 art, and what the next rung is.
 

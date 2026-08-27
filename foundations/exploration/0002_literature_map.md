@@ -1,5 +1,8 @@
 # 0002 — Literature map and honest novelty assessment
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Each postulate/intuition placed against existing rigorous work, with a candid
 note on what is new here versus inherited. Purpose: avoid reinventing, and avoid
 overclaiming.

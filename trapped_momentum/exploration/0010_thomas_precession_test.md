@@ -1,3 +1,6 @@
+
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
 *Follows `0009` (orientation). This is the first test proposed there.*
 
 # 0010 — The cheapness test: Thomas precession

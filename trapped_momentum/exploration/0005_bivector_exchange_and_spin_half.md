@@ -1,5 +1,8 @@
 # 0005 — The exchange calculation, and two corrections that improve it
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 The plane-to-plane calculation, done. Plus your correction on the null plane
 (which resolves the factor of 2 using the model's own premise) and your point
 about apparent mass continuity (which turns out to have a clean mechanism).

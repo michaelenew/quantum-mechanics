@@ -1,5 +1,8 @@
 # 0004 — Three plane types, and quantization as compactness
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 The best turn in this workstream so far. The proposed trichotomy is real, it is
 forced rather than chosen, and the proposed Fourier mechanism is the right
 mechanism. Checked in `output/0004` (14/14).

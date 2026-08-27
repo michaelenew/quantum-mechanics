@@ -1,5 +1,8 @@
 # 0006 — The photon forces the reorganisation, and where α stands
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 The photon objection is correct and it is the most productive break so far: the
 fix was already sitting unused in the trichotomy, and repairing it also
 dissolves an earlier problem structurally rather than case-by-case.

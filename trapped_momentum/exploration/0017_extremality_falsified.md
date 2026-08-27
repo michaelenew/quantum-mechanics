@@ -1,5 +1,8 @@
 # 0017 — The extremality result does not survive the invariant redo
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 `0016` flagged its own strongest new claim as resting on a Boyer–Lindquist
 degeneracy and named the redo as the top next task. Done here, without needing
 Souriau. **The claim fails.** `output/0016_extremality_invariant_redo.py`,

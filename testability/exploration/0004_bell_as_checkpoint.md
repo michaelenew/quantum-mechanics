@@ -1,5 +1,8 @@
 # 0004 — Bell as informative checkpoint, not settled wall
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 Written in the user's stance: experiment is the only authority; theorems
 constrain but do not settle; and passing experiment is survival, not truth.
 Bell is treated here as a strong, useful constraint on the *shape* of any

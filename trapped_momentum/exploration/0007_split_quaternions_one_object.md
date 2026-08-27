@@ -1,5 +1,8 @@
 # 0007 — One object: split quaternions and the nilpotent photon
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 **Retracts `0006` Part 5.** The "massive particle = 4-velocity `u` + spin
 bivector `S` with `S·u = 0`" move was Frenkel–Pirani, i.e. standard
 relativistic spinning-particle theory reached by assertion rather than by the

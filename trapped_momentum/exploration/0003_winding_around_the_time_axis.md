@@ -1,5 +1,8 @@
 # 0003 — The helix axis is timelike
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 Supersedes the framing (not the arithmetic) of `0002`'s Pythagoras section.
 
 Two criticisms were raised: that the account leans on prior art at the expense

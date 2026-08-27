@@ -1,5 +1,8 @@
 # 0013 — Stage 2b result: the ring is half of Kerr, and the other half is the confinement
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 The pre-registered Kerr-quadrupole test from `0012`, run.
 `output/0012_stage2b_kerr_quadrupole.py`, 21/21 checks. Everything numeric is
 from scratch (potentials, Legendre projection, branch-cut jump); the two [K]

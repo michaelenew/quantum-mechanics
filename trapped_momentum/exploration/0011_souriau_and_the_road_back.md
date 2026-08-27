@@ -1,5 +1,8 @@
 # 0011 — Souriau: what he gives us, and the road back to SR and GR
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 The reframing adopted from this turn: the workstream has **found its starting
 point**. We began from Einstein's move — "what if a photon were the clock" —
 and arrived by our own route at Souriau's structure for particles. That is a

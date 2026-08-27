@@ -1,5 +1,8 @@
 # testability — SUMMARY
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 What would confirm or break the theory. **Reframed** around consistency as the
 fundamental law; nonlocality embraced.
 

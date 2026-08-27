@@ -1,5 +1,8 @@
 # 0001 — The Bell fork (the decisive test)
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 This is the theory's most important consequence. It is not optional: any theory
 built on P1 (relational beliefs) + P2 (local, *c*-bounded action) must confront
 Bell's theorem, and *how* it does so determines whether it is an interpretation

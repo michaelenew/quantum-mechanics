@@ -1,5 +1,8 @@
 # 0003 — The Bell fork, re-read (supersedes 0001)
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 `0001` treated locality as the load-bearing axiom and used Bell as a wall. That
 inverted the posit. Consistency is fundamental; nonlocality is embraced. Here
 is the corrected reading, and its sharpest testable content.

@@ -1,5 +1,8 @@
 # 0002 — Why `L` doesn't fall, and what that buys for differential relativity
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 Follows `0001`. Two things here: a proper answer to the objection that the
 trapped angular momentum ought to decrease under a boost, and the structural
 programme ("differential relativity") that the objection was in service of.

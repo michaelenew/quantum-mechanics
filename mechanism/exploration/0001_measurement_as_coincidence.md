@@ -1,5 +1,8 @@
 # 0001 — Measurement as coincidence (split / merge)
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 The proposal's mechanical core: **measurement is the exact coincidence of two
 particles**, and coincidence is the same event as a split or a merge. This note
 makes that precise and corrects one detail in the original framing.

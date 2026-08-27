@@ -1,5 +1,8 @@
 # trapped_momentum — SUMMARY
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 Reframing a particle as a massless excitation closed on itself — "a photon
 chasing its own tail" — so that mass is trapped momentum and relativistic
 kinematics follow from the constancy of `c`.

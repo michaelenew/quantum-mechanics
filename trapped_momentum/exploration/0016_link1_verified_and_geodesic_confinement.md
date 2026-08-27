@@ -1,5 +1,8 @@
 # 0016 — Link 1 verified (and it breaks), plus confinement as geometry
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 Two jobs: verify the claim `0015` made load-bearing, and develop the
 suggestion that confinement may be relational/frame-dependent rather than a
 local force. `output/0015_link1_and_geodesic_confinement.py`, 9/9 checks, 5

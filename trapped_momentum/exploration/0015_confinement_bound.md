@@ -1,5 +1,8 @@
 # 0015 — The confinement bound: Kerr's quadrupole is not reachable by material tension
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 Next rung after `0014`. Pressing on the strong-field endpoint turned up a
 sharper and fully rigorous question in the same bookkeeping, and it has an
 exact answer. `output/0014_confinement_bound.py`, 17/17 checks, 5/5

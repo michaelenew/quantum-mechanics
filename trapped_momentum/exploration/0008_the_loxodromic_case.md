@@ -1,5 +1,8 @@
 # 0008 — The loxodromic case: one object carrying mass and spin
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 The calculation `0007` pointed at. It works, and it retires `0006`'s hack
 properly rather than merely withdrawing it.
 

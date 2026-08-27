@@ -1,5 +1,8 @@
 # 0014 — Self-gravity result: the march to Kerr, and the geon numbers
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 The Stage 3 first piece registered in `0013`, run.
 `output/0013_selfgravity_and_geon.py`, 11/11 checks. One registered
 justification withdrawn before computing, one registered sub-prediction

@@ -1,5 +1,8 @@
 # 0001 — Mass as trapped momentum: the circulating null ray
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 The proposal: a particle is a massless excitation that closes on itself. "A
 photon chasing its own tail." Net translation `< c`; relativistic kinematics
 and the mass/momentum unification are supposed to fall out of the constancy of

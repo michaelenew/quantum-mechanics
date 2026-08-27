@@ -1,5 +1,8 @@
 # 0007 — A route to reconstructing QM from the consistency-first postulates
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Goal (per the user): a set of neat assumptions that either derives standard QM
 up to what's measured, or agrees with it computationally in a form that is
 more tractable for understanding and engineering.

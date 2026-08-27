@@ -1,5 +1,8 @@
 # 0006 — Two-tier geometry and the FTL barrier
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Taking up the user's observation that relativity does not axiomatically
 forbid faster-than-light — it forbids **continuous crossing of c**
 (infinite-energy barrier). This is exactly the loophole quantum "collapse"
