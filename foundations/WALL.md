@@ -1405,3 +1405,35 @@ still never been measured, and a residual stands — this imposes
 simplicity *strongly* on faces where EPRL/FK impose it weakly. Honest
 placement: **neither BC nor EPRL**, and whether that combination is
 consistent is not established.
+
+## 0159 / 0169 — against instruments, and the first measurement-based result
+
+`ℓ_P = 0.5037a` ⟹ a = 3.2088e−35 m. Three live experimental bounds.
+
+**Graviton mass, and it bites.** (ma)² = ‖H₀‖/‖H₂‖ = 21.6 (0165), so
+the **induced sector** gives m = 2.86e+28 eV = **2.34 M_Planck**
+against LIGO/Virgo's m_g < 1.3e−23 eV — **exceeded by 51.3 orders**.
+The **constrained sector**'s kernel is Einstein-Hilbert, and
+diffeomorphism invariance forbids a mass: m = 0, passes with nothing
+to check.
+
+**Experiment selects the same sector the derivation did.** The choice
+was made internally (0158, 0159, 0163); it is now forced from outside.
+Had the program kept the induced sector it would be dead by 51 orders
+against an instrument that exists. That is the first time in this
+program that data has decided anything.
+
+**GW speed** (GW170817, <1e−15): deviation 3.8e−82 at 100 Hz — passes
+by ~64 orders, discriminates nothing.
+
+**Dimension-5 LIV**: naive Planck strength is excluded by 14.3 orders
+by GRB data. This lattice generates none — E(x)/x + E(−x)/x = **exactly
+0.00e+00**, so the dispersion is even in a and odd powers cannot
+appear. **Forbidden by reflection symmetry, not suppressed by
+accident.** Leading term dimension-6 at −1/12·a², Planck-suppressed,
+passing by ~8 orders in scale. (A first pass mis-reported a fit's
+ill-conditioned a³ coefficient as zero; corrected by testing the
+symmetry directly.)
+
+Three passes, two structural. None discriminates against other
+programs — a Planck-spacing lattice is hard to catch this way.
