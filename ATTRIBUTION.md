@@ -81,6 +81,20 @@ actually be new".
 | Unruh temperature | Unruh (1976); Davies (1975); Fulling (1973) |
 | Λ quantisation from compactness / π₁ | Standard; cf. flux quantisation, Dirac (1931) |
 
+### The program's four founding constructions
+
+These are the ideas the program was *started* on, and all four have
+established lineages. Checked against the literature in the session
+that produced 0166; none of them had a citation in this repository's
+attribution record before that check.
+
+| founding idea, as posed here | established as |
+|---|---|
+| "a distribution cannot encode its own confidence" — the motivating puzzle | **inverted by** Wootters (1981), *Statistical Distance and Hilbert Space*: the angle between rays **is** the statistical distance. Completed by Braunstein & Caves (1994): the Fubini–Study metric is ¼ the quantum Fisher information, bounding phase estimation via the quantum Cramér–Rao inequality. The program's 0065 (metric = Fisher metric of an inference network, w = e^{2I} − 1) is the classical shadow of this. |
+| knots/crossings as a topological basis for pairwise interactions; arcs as channels, crossings as three-party constraints, global sections as colourings (0011) | **quandle theory.** The crossing rule `2·over = under_in + under_out (mod p)` is verbatim the Fox n-colouring condition, and Fox colourings are quandle homomorphisms into the dihedral quandle. Quandles: Joyce (1982) and Matveev (1982) independently; Takasaki (1943) for the involutory case. The quandle axioms *are* the Reidemeister moves. Related physical realisations: Rovelli & Smolin (1988), whose loop states are knot classes; Witten (1989), Wilson loops as knot invariants; Deser, Jackiw & 't Hooft (1984) for 2+1 gravity as conical defects — all three cited in 0011 itself. |
+| "correlation sources curvature" — the founding hope of contact with holography | **Matsueda (2013)**, *Emergent General Relativity from Fisher Information Metric*, derives the Einstein tensor from the Fisher metric — the nearest structural neighbour. Alongside Jacobson (1995, 2015); Ryu & Takayanagi (2006); Van Raamsdonk (2010); Maldacena & Susskind (2013). **0058 records that what was delivered is "participation density sources curvature", not correlation**, and that the identification of the knowledge manifold with spacetime is assumed here where holography earns it as a duality — "the program's largest unpriced assumption". |
+| the two-tier actionable/correlational split | Relational QM, Rovelli (1996); QBism, Fuchs, Mermin & Schack; the epistemic restriction, Spekkens (2007) — all three named in 0002's own novelty assessment as inherited, not new. |
+
 ### Specific corrections this repository made to itself
 
 Recorded because they bear on how much weight to put on anything here:

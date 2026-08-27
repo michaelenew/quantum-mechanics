@@ -118,6 +118,67 @@ from BC to the EPRL/FK class. If it cannot — if the capacity argument
 *forces* a character sum — that is a sharp negative result and worth
 far more than another lattice run.
 
+## 6. The founding constructions, checked
+
+The orientation above covered the gravity sector. A later pass checked
+the four ideas the program was *started* on. All four have established
+lineages, and none of them carried a citation in `ATTRIBUTION.md`
+before that check.
+
+**"A distribution cannot encode its own confidence."** The motivating
+puzzle is **inverted by a 1981 theorem**:
+[Wootters](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.23.357)
+showed the angle between rays in Hilbert space *is* the statistical
+distance — not analogous to it, equal to it. Braunstein & Caves (1994)
+completed it: the Fubini–Study metric is ¼ the quantum Fisher
+information. The program's 0065 — the web's metric as the Fisher
+metric of an inference network with w = e^{2I} − 1 — is the classical
+shadow of exactly that.
+
+**Knots as a topological basis for pairwise interactions.** This is
+the construction that felt least occupied, and it is the most
+precisely occupied. 0011's crossing rule
+`2·over = under_in + under_out (mod p)` is verbatim the **Fox
+n-colouring** condition, and Fox colourings are **quandle**
+homomorphisms into the dihedral quandle. Quandles are due to Joyce
+(1982) and Matveev (1982) independently, with Takasaki (1943) for the
+involutory case, and their axioms *are* the Reidemeister moves.
+0011 registered this honestly at the time — "it is an isomorphism of
+formalisms" — and cited Deser–Jackiw–'t Hooft, Witten and
+Kronheimer–Mrowka. Beyond what it cited: Rovelli & Smolin's (1988)
+loop states are knot classes, and anyon braiding is
+interactions-as-crossings in 2+1D.
+
+**"Correlation sources curvature" — the holography hope.**
+[Matsueda (2013)](https://arxiv.org/abs/1310.1831) derives the
+Einstein tensor from the Fisher information metric and is the nearest
+structural neighbour; Jacobson (1995, 2015), Ryu–Takayanagi (2006),
+Van Raamsdonk (2010) and Maldacena–Susskind (2013) surround it. 0058
+had already reached the honest verdict: what was delivered is
+**"participation density sources curvature"**, not correlation, and
+the identification of the knowledge manifold with spacetime is
+*assumed* here where holography *earns* it as a duality — 0058's own
+words, "the program's largest unpriced assumption". Cousin of
+holography, correctly identified, and identified early.
+
+**The two-tier split.** Relational QM (Rovelli 1996), QBism, and
+Spekkens' epistemic restriction — all three named as inherited in
+0002's own novelty assessment.
+
+> **So no founding construction is new, and in three of the four the
+> repository said so at the time it wrote them down.** What remains
+> as a candidate is not an ingredient but a *closure*: that one
+> derived measure lands on all of these in sequence with the coupling
+> **fixed rather than chosen** (κ = 16.0001 where spin foams carry a
+> free Barbero–Immirzi parameter), and the hierarchy that falls out of
+> it.
+
+And the caution that applies to that candidate more than to any
+other: a chain of known links reaching a known destination is exactly
+what a system with the whole literature in training would produce
+whether or not the reasoning was sound. The convergence is evidence
+about the generating process at least as much as about physics.
+
 ## Honest scoreboard
 
 - **Not novel:** the constrained-sector construction, the induced
