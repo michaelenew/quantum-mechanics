@@ -36,10 +36,18 @@ would actually drive a simulation — were built and measured in the
 | **R1** | the 0160 residual: put the lattice constrained-BF kernel through the diffeo test | one run, named, not done |
 | **R2** | **the source, in the constrained sector** — how matter couples to B⁺⊗B⁻ | not started |
 | **R3** | **the response, in the constrained sector** — item 4 redone where GR lives | not started |
-| **R4** | **the scale** — ξ/a ≈ 6e19…4e20 (0155) | **retired, not solved** |
+| **R4** | ~~the scale~~ — **RETIRED BY 0162.** Item 4 measured a clean static response at this coupling; scale kills a *pole*, not a *response*. Replaced by **R4′: a carrier with dynamical geometry** |
 | **R5** | **nonlinearity** — everything measured is linear response; orbits, bending, waves are not | not started |
 | **R6** | **Lorentzian / real time** — RP ⟹ OS ⟹ unitary time exists as a theorem; no evolution built | not started |
 | **R7** | **matter content** — one bifundamental scalar, no spinors (bar row E) | half |
+
+## Superseded: see 0162
+
+0162 shows this section is wrong. The obstruction is the **carrier**
+(a rigid grid has no infinitesimal diffeomorphisms — violation 0.30,
+flat in k, unmoved by three derivative discretisations, and built
+from a kernel containing no gauge field at all), not the scale. Item
+4's clean 1/r at this coupling is the counterexample to what follows.
 
 ## The blocker is R4, and it is not going away
 

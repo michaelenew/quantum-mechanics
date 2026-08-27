@@ -1172,3 +1172,36 @@ shows you a geodesic.
 
 Next is R1 — the only thing between "forced" and "verified" on the
 central claim.
+
+## 0151 / 0162 — the obstruction is the carrier; 0161's scale claim retired
+
+**0161 was wrong about the scale.** Item 4 is the counterexample: the
+static metric response measured cleanly at this coupling, 1/r to 1.68%
+across a factor 15 in r. Scale killed item 2, which wanted a **pole**.
+It does not kill a **response** — and a geodesic is built from
+responses.
+
+**What actually blocks it.** The kernel that violates diffeomorphism
+invariance is the **free scalar determinant on the flat hypercubic
+grid** — `v_μ(q) = e^{iq_μ} − 1`, no link variables, no W, no κ, no
+Spin(4). It contains nothing from this theory. Changing the derivative
+does not move it: forward 0.302/0.351, central 0.314/0.306, improved
+0.300/0.342. With 0150's flat-in-k result (+0.029), it is structural:
+**a fixed grid has no infinitesimal diffeomorphisms.**
+
+That is fatal to the derivation's *engine*, because 0150 s1 proved
+invariance is what uniquely forces Einstein-Hilbert. Destroy it and
+nothing protects Λ or the graviton mass — 0159 found both.
+
+**So: not "derived but unsimulable" — derived, and simulated so far on
+a carrier that breaks the symmetry the derivation runs on.** The
+program's own amplitude names the fix: balanced representations are a
+spin foam amplitude, and spin foams live on complexes where the
+representation label *is* the geometry (j is an area). Nothing frozen,
+no background to break diffeos against.
+
+The hypercubic lattice was right for everything through item 5 — κ,
+the band limit, the double copy, the synergy, the scale. It is the
+wrong instrument for a geodesic. **R4 (scale) retired; R4′ (a carrier
+with dynamical geometry) replaces it, and it is a build, not an
+impossibility.**
