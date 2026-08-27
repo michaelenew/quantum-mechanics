@@ -1340,3 +1340,35 @@ intertwiner dependence without losing the derivation of κ? If yes, the
 program moves BC → EPRL/FK. If the capacity argument *forces* a
 character sum, that is a sharp negative result and worth more than
 another lattice run.
+
+## 0167 — falsification audit, and breadcrumbs on eight superseded documents
+
+**Nothing has failed at theorem grade or at statistical certainty.**
+No theorem forbids anything claimed; no measurement excludes anything
+at stated confidence. Passed at linear order: GR's kernel, γ = +1.000,
+deflection ratio 2.023, diffeo invariance to O(a²), spinor existence,
+real-time dispersion. Open: β (extraction artifact, not a
+measurement), the graviton propagator, the continuum limit, chirality,
+the manifold identification. Inherited and unsolved: the cosmological
+constant, experimental contact.
+
+**Seven claimed obstructions, seven overturned** — throughput,
+link-granularity, γ = −1, the algebraic "program fails", vDVZ as the
+answer, the scale blocker, the carrier blocker. Each found by
+measurement or reading, never by argument.
+
+That pattern cuts both ways and 0167 says so: it is the error
+discipline working, **and** it is the signature of a search that may
+be too good at finding reasons its own result survives. A programme
+with genuine obstructions should retire some permanently; this one has
+retired none. The open items are where that could still happen and
+none has been pushed to where it *could* fail cleanly.
+
+**Most serious open item: the Barrett–Crane flag (0166).** If
+intertwiner-independence is why item 2 found nothing, that is a defect
+in the theory rather than the instrument, and it is testable by the
+field's standard method. Untested.
+
+Supersession banners added to the top of **0145, 0149, 0150, 0154,
+0156, 0159, 0161, 0162** so a future reader does not take an
+overturned headline as current.

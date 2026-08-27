@@ -1,5 +1,7 @@
 # 0150 — κ = 16 is a Wilson β, and asymptotic freedom turns it into 10¹⁸
 
+> **⚠️ SUPERSEDED by 0155.** The band quoted here (ξ/a = 7.7e17 … 4.7e19, from κ = 16 and a perturbative plaquette handle) was replaced by a non-perturbative matching: β_W = 17.637, β_V = 18.351, band **6.1e19 … 4.1e20**. Two consequences: **κ = 16 is excluded as the coupling to feed the two-loop formula** (it remains exact as the curvature at the identity), and the band **moved off** M_Planck/GeV — the apparent agreement noted here was a consequence of the band's width, not the physics.
+
 > **AI-generated, not peer-reviewed.** Code: `output/0141_the_scale.py`.
 > Depends on: 0142 (κ derived), item 5 (ℓ_P = 0.507a), 0149 (the null
 > this explains).

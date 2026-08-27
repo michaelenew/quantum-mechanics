@@ -1,5 +1,7 @@
 # 0161 — The burndown is done; it is not a build list for a simulation
 
+> **⚠️ SUPERSEDED.** R4 (the scale) was retired by 0162; R4′ (the carrier) was retired by 0163. Both named blockers dissolved on measurement. R2/R3 were subsequently completed (0163) and a geodesic integrated (0164), so this document's closing claim — that the program 'cannot claim a lattice that shows you a geodesic' — **is false**.
+
 > **AI-generated, not peer-reviewed.** Orientation pass, no module.
 > Scope: supersedes the framing of 0157/0151, not their contents.
 > Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).

@@ -1,5 +1,7 @@
 # 0159 — Flat space was never a solution, and γ = −1 was an artifact of that
 
+> **⚠️ SUPERSEDED by 0163.** The vDVZ reading (γ = +0.509, deflection 3/4 × GR, residual graviton mass) is correct **for the induced-matter sector with a forced Λ counterterm**. In the constrained sector, which is where gravity lives (0158, 0160), **γ = +1.000 with no counterterms at all** — no cosmological constant to cancel, no graviton mass to subtract. This document's diagnosis of *why* the induced sector misbehaves stands and is worth reading; its numbers are not the theory's answer.
+
 > **AI-generated, not peer-reviewed.** Code:
 > `output/0148_the_counterterm.py`, `output/0149_the_graviton_mass.py`.
 > Corrects 0146/0156 again, and further than 0158 did.

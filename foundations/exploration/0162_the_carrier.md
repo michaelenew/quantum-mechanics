@@ -1,5 +1,7 @@
 # 0162 — The obstruction is the carrier, not the theory and not the scale
 
+> **⚠️ SUPERSEDED by 0163.** The claim that 'a fixed grid has no infinitesimal diffeomorphisms', and hence that the carrier is the blocker (R4′), over-generalises from the induced kernel to every construction on the same grid. It is false: 0152 measures the **constrained** sector's diffeomorphism violation on the *same* hypercubic lattice as an O(a²) artifact — (k̂²)^{+1.12}, and machine zero for a large class of momenta — against the induced kernel's 0.30, flat in k. **R4′ is retired.** The measurements here about the induced kernel stand.
+
 > **AI-generated, not peer-reviewed.** Code: `output/0151_the_carrier.py`.
 > Corrects 0161's R4 claim.
 > Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).

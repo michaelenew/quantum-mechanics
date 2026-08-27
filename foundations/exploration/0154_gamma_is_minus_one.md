@@ -1,5 +1,7 @@
 # 0154 — Item 6: γ = −1 in the diagonal sector, and why that is an obstruction rather than a verdict
 
+> **⚠️ SUPERSEDED.** γ = −1 here is a measurement of the **induced-matter sector**, taken at a **non-stationary expansion point**. Both are wrong for the question asked. 0158: the constrained (double-copy/Plebanski) sector is where gravity lives. 0159: flat space was never stationary — the induced cosmological constant was left in, and the sign of a Hessian at a non-stationary point is parametrisation-dependent. 0163: in the constrained sector, **γ = +1.000 with no counterterms**. **The 'zero light bending' conclusion does not stand.**
+
 > **AI-generated, not peer-reviewed.** Code: `output/0145_gamma_from_q4.py`.
 > Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
 >

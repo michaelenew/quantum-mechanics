@@ -1,5 +1,7 @@
 # 0149 — Item 2 closed: the null is the box, not the channel
 
+> **⚠️ PARTLY SUPERSEDED.** The measurements stand. The *explanation* — that the spin-2 null follows from ξ/a ≈ 10²⁰ — was never tested against a competing and better-established one: 0166 shows the derived weight is a Barrett–Crane amplitude, and Barrett–Crane is known (Alesci & Rovelli 2007) to give the wrong long-distance graviton propagator for reasons of intertwiner-independence. **Both explanations remain untested against each other.**
+
 > **AI-generated, not peer-reviewed.** Code: `output/0138_item2_closed.py`,
 > `output/0139_the_control_channel.py`,
 > `output/0140_fixed_time_operators.py`. Scale analysis: 0150.
