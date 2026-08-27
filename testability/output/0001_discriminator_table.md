@@ -1,5 +1,8 @@
 # Discriminator table
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 Compact reference. "Distinctive?" = does the outcome separate this theory from
 standard QM, or only from a strawman / among interpretations?
 

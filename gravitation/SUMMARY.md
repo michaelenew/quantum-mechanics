@@ -1,5 +1,8 @@
 # gravitation — SUMMARY
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 Where gravity sits relative to the two-tier structure, and what the
 gravitational which-branch thought experiment forces on the framework.
 

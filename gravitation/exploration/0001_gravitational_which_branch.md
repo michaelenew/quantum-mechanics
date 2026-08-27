@@ -1,5 +1,8 @@
 # 0001 — The gravitational which-branch experiment
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 The user's thought experiment, taken seriously, worked through, and resolved.
 It turns out to be a sharp probe of **P2** (the actionable/correlational
 firewall) and it forces a commitment the framework had so far avoided.

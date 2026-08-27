@@ -1,5 +1,8 @@
 # 0002 — Instantaneous update and the dilution law
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 Two mechanical questions the corrected (nonlocal) posit raises:
 1. When an edge is sharpened, *how far* does the update reach, and *how strong*
    is it on a distant particle?

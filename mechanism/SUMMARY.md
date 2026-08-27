@@ -1,5 +1,8 @@
 # mechanism — SUMMARY
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 What a measurement *is*, mechanically, under the corrected (nonlocal,
 consistency-first) reading.
 

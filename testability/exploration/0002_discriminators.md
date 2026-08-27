@@ -1,5 +1,8 @@
 # 0002 — Experimental discriminators
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 For a theory to be "testable" we must say what would confirm it, what would be
 consistent-but-not-decisive, and what would break it. Each entry states the
 prediction and, crucially, whether it distinguishes this theory from standard QM

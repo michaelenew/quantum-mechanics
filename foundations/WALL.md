@@ -1,5 +1,8 @@
 # The wall — status board
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results are re-derivations of
+> established work unless explicitly marked otherwise.
+
 Maintained checklist for the cross-the-wall initiative. Updated with
 each stone that changes a row. Legend: **[x]** crossed · **[~]**
 partial / reposed · **[ ]** open. "Filter side" = the lucid-filter
