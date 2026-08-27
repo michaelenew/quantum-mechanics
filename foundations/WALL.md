@@ -1264,3 +1264,36 @@ a conjecture.**
 
 Still open: R5 (nonlinearity — precession needs second order in the
 mass), R6 (Lorentzian real time), R7 (no spinors).
+
+## 0155–0157 / 0165 — R6 and R7 land, R5 obstructs
+
+**R6 ✅.** Continuing k₀ → iE requires `d` and its partner to continue
+**independently** (e^{−E}−1 and e^{+E}−1, not conjugates) — a first
+pass used the conjugate and found no pole. Dispersion then matches
+`E = 2 arcsinh(k̂/2)` to **6.66e−16**, speed **0.99858** at the
+smallest momentum. TT subspace is **2-dimensional**. A Gaussian packet
+propagates with **front speed 1.0125** — the program's first
+real-time result.
+
+**R7 ✅.** Clifford algebra exact (0.00e+00); the plaquettes' SO(4)
+rotation is the **square of the spinor rep** (2.22e−16); intertwiner
+`SγᵃS† = Λᵃ_bγᵇ` (1.57e−16). Covariance: links rotated alone moves the
+spectrum by **3.31e−02**; links **and tetrad** by **9.33e−15**. That
+contrast is the point — the tetrad is not optional, and only the
+constrained sector has one. 16 doublers as Nielsen–Ninomiya requires.
+**Bar row (E) moves off "no spinors".**
+
+**R5 ⛔.** The Palatini action is *exactly quartic* — no truncation.
+Gradients gated (4.3e−08, 2.0e−07), momentum operator matches position
+gradient exactly (1.000000/1.000000), second-order source scales as s²
+(0.15976/0.15968/0.15952). But **β does not converge**: −0.698 with a
+7.1e−02 residual, against the theorem value +1. Not reported as a
+measurement. Two named causes: conditioning (separating 1/r from 1/r²
+over r = 1…6 on a periodic box) and, more likely, **second-order
+gauge** — γ is gauge-insensitive at first order, β is not, and de
+Donder was applied at both orders without establishing it matches the
+gauge defining β = 1.
+
+One genuine nonlinear result did survive: the second-order source has
+a nonzero monopole — **binding energy renormalises the mass**, at
+−0.002 × GM.
