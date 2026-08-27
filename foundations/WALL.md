@@ -1297,3 +1297,43 @@ gauge defining β = 1.
 One genuine nonlinear result did survive: the second-order source has
 a nonzero monopole — **binding energy renormalises the mass**, at
 −0.002 × GM.
+
+## 0166 — orientation: this is not out of known territory
+
+Checked against the literature rather than recalled.
+
+**The derived weight is a Barrett–Crane amplitude** (balanced reps
+j⁺ = j⁻ = BC simplicity, 1998). 0160 s3 presented this as the
+program's own discovery of the simplicity constraint; it is also a
+1998 model re-derived.
+
+**And BC is known to fail the graviton propagator.** Alesci–Rovelli
+(2007) found the BC vertex does not give the correct long-distance
+two-point function, traced to **intertwiner-independence**. The
+derived weight is a pure character sum with no intertwiner structure
+— the wrong side of exactly that distinction. **This reopens item 2:**
+there is a competing, better-established explanation for the spin-2
+null than ξ/a ~ 10²⁰, and it was never tested against it. Third
+mis-diagnosis of item 2, and the first found by reading rather than
+measuring.
+
+**The induced sector is Sakharov** (1967) with Sakharov's problems —
+the literature puts the induced Λ ~100 orders too large, needing
+extreme fine-tuning; 0159's cutoff-scale Λ is that in miniature. The
+wrong-sign conformal mode is standard since Gibbons–Hawking–Perry.
+
+**The constrained sector is Plebanski** (1977); linearised Palatini =
+EH is textbook. **R1 verified my implementation, not a new fact**, and
+R3's γ = +1 follows from it. Nordström and vDVZ are 1913 and 1970.
+
+**Possibly new, needing deeper checks:** a *derived* coupling (spin
+foams carry a free Barbero–Immirzi parameter; κ = 16.0001 is fixed by
+the band limit and double copy); simplicity as measured *information
+synergy*; the derived hierarchy ξ/a = 6e19…4e20 from asymptotic
+freedom at that coupling.
+
+**The decisive next question:** can the derived weight carry
+intertwiner dependence without losing the derivation of κ? If yes, the
+program moves BC → EPRL/FK. If the capacity argument *forces* a
+character sum, that is a sharp negative result and worth more than
+another lattice run.
