@@ -104,3 +104,50 @@ the intertwiner question. So the honest placement is: **neither BC nor
 EPRL — strong simplicity on faces, free intertwiners at nodes.** That
 combination is not obviously either model's, and whether it is
 consistent is not established here.
+
+## Two corrections this turned up, one of them mine from earlier
+
+**The vocabulary is standard and sharper than 0166's.** The spin foam
+literature distinguishes **diagonal** simplicity (per face, relating
+j⁺ and j⁻ on the *same* face) from **cross** simplicity (pairs of
+faces in the *same tetrahedron*). Alesci–Rovelli's defect traces to
+imposing the **cross** constraints *strongly* — that is precisely what
+collapses the intertwiner to a unique one. EPRL and FK impose them
+**weakly**, in the sense ⟨φ|C|ψ⟩ = 0.
+
+Placed in that vocabulary:
+
+| model | diagonal | cross | intertwiners |
+|---|---|---|---|
+| Barrett–Crane | strong | **strong** | unique — the defect |
+| EPRL / FK | strong | **weak** | a retained subspace |
+| **this construction** | strong | **absent** | **full space** |
+
+So it is not *between* BC and EPRL — it is **less constrained than
+either**. That removes BC's defect, and it raises a different
+question, recorded here rather than buried: **cross-simplicity is what
+ties the faces at a tetrahedron into a consistent geometry.** Not
+imposing it at all means the sum ranges over configurations that are
+not geometric. Whether the weight suppresses those dynamically is
+untested, and it is the natural next item.
+
+**And a correction to a claim made in chat and implied in 0166's
+"what may actually be new".** It was said that spin foam models carry
+a free Barbero–Immirzi parameter and this construction does not.
+That is **wrong as a distinguishing claim**: Barrett–Crane does not
+include an Immirzi parameter either — it is a constrained BF
+quantisation of first-order Palatini gravity — and it is recovered
+from the EPRL family at **γ = ∞**. Balanced representations *are* that
+condition. So parameter-freedom on the γ axis is shared with BC, not
+distinctive. What may still be distinctive is **κ**, which is a
+different parameter (the coupling fixed by the band limit), and that
+claim stands on its own.
+
+**A new flag, replacing the retired one.** The EPRL two-point function
+is reported to match Regge calculus in the double limit j → ∞, γ → 0
+with jγ fixed — the **opposite end** from γ = ∞. This construction's
+face condition sits at that far end. That does *not* reinstate the
+intertwiner-independence worry, which is measured absent above. It is
+a different and untested concern about the **diagonal** condition, and
+it should be on the board in place of the one 0167 called most
+serious.
