@@ -1108,3 +1108,37 @@ wrong expansion point (here). The current position is not a pass
 either — γ = 0.509 is excluded by Cassini — but the gap to Einstein is
 now a named, previously-identified effect rather than a structural
 obstruction.
+
+## 0150 / 0160 — item 6 closed: the difference is diffeomorphism invariance
+
+**s1 — GR is forced, not assumed.** The general *local* two-derivative
+quadratic form in h (four scalars), required to annihilate gauge modes
+h → h + kξ + ξk, has a **one-dimensional** solution space:
+**(1, −1, −2, 2)** — exactly linearised Einstein-Hilbert —
+momentum-independent to **3.77e−15**. (A first pass included the
+non-local `(khk)²/k²` = R²_lin/k² and got a 2-dim family; locality
+collapses it to one.) So anything diffeo-invariant *is* Einstein.
+
+**s2 — the induced kernel does not have it.** Violation 0.29–0.35
+against EH's **1.8e−16** — ratio **1.7e15**. And decisively, it is
+**flat in k**: k̂² varies by 12.2× while the violation varies by 1.21×,
+giving violation ~ (k̂²)^{+0.029} where an O(a²) artifact needs +1.
+**Real and unsuppressed, not a continuum-vanishing artifact.** So
+nothing forbids the Λ and graviton mass that 0159 found, and γ = −1 →
++0.509 (vDVZ) is fully explained.
+
+**s3 — the constrained sector.** The derived weight sums over
+**balanced** representations j⁺ = j⁻, which *is* simplicity B = e∧e.
+An unconstrained weight would factorise into two independent SU(2)s;
+the weight table's singular values are 1.000, **0.738**, 0.126, …
+— **rank 6, not 1**. That non-factorisability is 0142's measured
+synergy: **the synergy is the simplicity constraint.** 0050 counted
+0 dof → 2; the classical tier measured 0.008046 vs 0.008000.
+
+**Close-out.** Induced sector fails, diagnosed rather than guessed.
+Constrained sector is forced to EH by s1's uniqueness ⟹ γ = +1. The
+program's weight sits on the constrained side by construction.
+**Residual, not done:** put the lattice constrained-BF kernel through
+the s2 test — a lattice breaks diffeos somewhere, and whether it does
+so at 1e−16 or at 0.30 is the one measurement that turns "forced" into
+"verified".

@@ -9,7 +9,7 @@
 | ✅ | 3. Source (T = Fisher) as lattice code | matter on the lattice, gated exact |
 | ✅ | 4. Measure the response, read the 1/r | ratio 1.0722, spread 1.68% over ×15 in r |
 | ✅ | 5. The factor 20 | retired as a category error |
-| ▶ | **6. Classical tests from Q4** | **open. γ = +0.509 (vDVZ) after the forced Λ counterterm; gap to Einstein is a graviton mass = 0056's criticality. See 0158, 0159** |
+| ✅ | **6. Classical tests from Q4** | **closed (0160).** Induced sector fails *because* it is not diffeo-invariant (violation flat in k, 1.7e15 × EH's); the constrained sector is forced to EH by uniqueness, and the derived weight imposes the constraint (balanced reps, rank 6 not 1). Residual: run the s2 test on the lattice constrained-BF kernel |
 | ✅ | 7. Sharpen β | β_W = 17.64, β_V = 18.35; band 60 → 6.7 |
 
 ## Superseded in part by 0158
