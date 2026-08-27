@@ -1,5 +1,8 @@
 # 0046 — The frame functional: the ledger writes the action
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The instruction: take a critical pass through the action derivation,
 find the most likely path to the full functional, pursue it. The
 pass found a flaw in 0045's negative; correcting it reversed the

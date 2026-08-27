@@ -1,5 +1,8 @@
 # 0022 — The cone from the web: closing O3
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0021 established that a causal cone lives in the geometry's response
 *if* channel updates are c-bounded — leaving the bound itself as an
 assumption. This exploration removes the assumption. The c-bound is

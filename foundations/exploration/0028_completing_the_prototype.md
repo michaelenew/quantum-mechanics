@@ -1,5 +1,8 @@
 # 0028 — Completing the prototype: the level, the dressing, the measurement rule
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The three items standing between 0027's shape and a finished 2+1
 prototype, resolved in one pass. Two close outright; the third
 reduces to a single explicit bit. Code:

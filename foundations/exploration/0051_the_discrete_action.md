@@ -1,5 +1,8 @@
 # 0051 — The discrete action varied, and a correction to 0050
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Three results: the functional's two field equations obtained by
 varying a *lattice* action numerically (the strict form 0050 left
 open); the loop's cusp burst measured against GR's beaming; and a

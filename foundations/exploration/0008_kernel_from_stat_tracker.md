@@ -1,5 +1,8 @@
 # 0008 — The kernel from stat-tracker: separate the distribution from the trust
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The user's sibling project (`michaelenew/stat-tracker`, in
 `adaptive-random-walk-filter/`) built a tuning-free adaptive filter from
 purely information-theoretic reasoning. Three of its findings port directly

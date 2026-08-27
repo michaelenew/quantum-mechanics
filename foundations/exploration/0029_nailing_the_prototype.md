@@ -1,5 +1,8 @@
 # 0029 — Nailing the prototype
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The closing pass before 3+1: the measurement bit decided (by the
 web's oldest postulate — and the answer is *no rift*), the
 square-root ledger made a theorem-shaped statement, the rung

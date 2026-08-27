@@ -1,5 +1,8 @@
 # 0012 — Curvature from crossings: the defect ledger
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0011 established that a knot diagram *is* a consistency web. This
 note tests the next claim — **interactions are crossings and
 curvature is the holonomy of the loop around them** — at the one

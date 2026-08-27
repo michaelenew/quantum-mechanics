@@ -1,5 +1,8 @@
 # 0039 — The momentum channel, and the half that is the bond
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0038 diagnosed the binary deficit (the null channel lacks the
 sender's momentum flux). This exploration builds the **momentum
 channel**, discovers the deficit splits in half with a theorem, and

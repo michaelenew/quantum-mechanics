@@ -1,5 +1,8 @@
 # 0040 — The bond is a string, and it is the anti-string
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0039 found the quadrupole formula's missing half: the **bond** —
 the pair's correlation, broadcast as a source — supplied there as a
 numerical conservation deficit. This exploration asks what the bond

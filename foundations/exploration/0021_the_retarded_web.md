@@ -1,5 +1,8 @@
 # 0021 — The retarded web: where the light cone enters the geometry
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 O3, engaged directly — and no pivot was needed. The move is the one
 0020's proof pointed at: replace the quasi-static channel field
 (directions point at sources' *current* positions) with the

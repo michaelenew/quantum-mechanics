@@ -1,5 +1,8 @@
 # 0031 — Testing the candidate: the web waves
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0030 ended on one question: what, in a web of information channels,
 plays Plebanski's simplicity constraint — the thing that turns
 topological bookkeeping into gravity that waves? The named candidate

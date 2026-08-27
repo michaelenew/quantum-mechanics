@@ -1,5 +1,8 @@
 # 0045 — The functional: the channel is a gauge field, the metric its square
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The task: write the action. **Half works cleanly — and resolves
 0030's standing obstruction — while the other half fails in a way
 worth recording, falling back to the prototype path.** Code:

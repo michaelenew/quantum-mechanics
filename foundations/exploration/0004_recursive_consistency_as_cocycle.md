@@ -1,5 +1,8 @@
 # 0004 — Recursive consistency as a cocycle: press
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Pressing on P4. The user's statement is more than variance-additivity: it is a
 compatibility law between paths in a graph. This note extracts the
 mathematical content.

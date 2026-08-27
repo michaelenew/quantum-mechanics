@@ -1,5 +1,8 @@
 # 0032 — The correspondence test: the web waves in the wrong channel
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 > **Correction (0034).** The verdict below is reversed by the gauge
 > audit: the vector metric wave carries 1–2% of the invariant
 > curvature — it is gauge dressing. The Ricci-*tensor* wave is

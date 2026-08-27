@@ -1,5 +1,8 @@
 # 0036 — The Newtonian limit: the vacuum principle selects the profile
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0035 ended on the sharpest gap between the web and observed
 gravity: the constant-w point channel is a global monopole —
 g_00 = −1 + w constant, hence **no attraction** — while GR's point

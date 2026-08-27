@@ -1,5 +1,8 @@
 # 0016 — The exchange rate: the compensator is an information functional
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0015's three opens, executed. The headline: the amplitude-phase
 compensator is now priced in information units, the binary-trust
 premise is discharged as a theorem of genericity, and time-reversal

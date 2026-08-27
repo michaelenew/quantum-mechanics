@@ -1,5 +1,8 @@
 # 0015 — The forced compensator: densification buys the phase
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0014's three opens, executed. The first two combine into the
 strongest structural claim the web program has produced; the third
 turns the tetrahedron census into a starting set for level-2

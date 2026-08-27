@@ -1,5 +1,8 @@
 # 0023 — The compass and the flyby: O3′ decided
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The boost-covariance test, run as the relativity principle itself:
 *can any internal experiment on a co-moving system detect the common
 velocity?* The answer is yes — cleanly, with the violation's exact

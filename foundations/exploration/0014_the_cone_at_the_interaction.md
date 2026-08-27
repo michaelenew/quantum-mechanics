@@ -1,5 +1,8 @@
 # 0014 — The cone at the interaction: δ(2) = π
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 All four sharp opens of 0013 chased. The first produced a theorem
 that **revises 0013's verdict** and closes the "correlation sources
 curvature" row with a formula. Code: `output/0009_the_sharp_opens.py`.

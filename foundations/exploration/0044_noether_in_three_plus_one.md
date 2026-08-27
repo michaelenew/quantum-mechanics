@@ -1,5 +1,8 @@
 # 0044 — Noether in 3+1: charges, balance, and what the action must be
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0025 ran Noether on the 2+1 web operationally — symmetry ↔ measured
 conserved object — and found the charges were **holonomies**: loop
 monodromies whose rotation part is mass and translation part is

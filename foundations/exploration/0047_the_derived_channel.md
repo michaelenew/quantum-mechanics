@@ -1,5 +1,8 @@
 # 0047 — The derived channel: the rule is the functional's Green function
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0046's four fronts, three moved. The matter-variation front closes
 with a derivation; the closing turns up the principle that unifies
 the bond and the string's tension; and one measured surprise plus

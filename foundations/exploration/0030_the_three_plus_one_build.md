@@ -1,5 +1,8 @@
 # 0030 — The 3+1 build: the template executed, and where it stops
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The prototype declared complete (0029), the instruction was to
 proceed through 3+1 until complete or obstructed on all major
 fronts. Result: **four fronts built and verified — the action, the

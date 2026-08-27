@@ -1,5 +1,8 @@
 # 0001 — Postulates and formal objects
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Goal: pin down what the informal words ("knowledge distribution", "sharpness",
 "consistency", "collapse") refer to, precisely enough that later claims are
 provable or falsifiable.

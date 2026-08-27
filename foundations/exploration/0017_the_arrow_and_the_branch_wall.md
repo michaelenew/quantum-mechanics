@@ -1,5 +1,8 @@
 # 0017 — The arrow and the branch wall
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0016's three opens, executed. Two clean confirmations and one honest
 wall: the correlation share's decay law is derived and measured, the
 chiral weights are exhibited as concrete set-theoretic arrows of time

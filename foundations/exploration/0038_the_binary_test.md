@@ -1,5 +1,8 @@
 # 0038 — The binary test: superposed channels miss the quadrupole formula
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0037 named the strongest correspondence test now in reach: orbit two
 vacuum-profile sources and compare against GR's quadrupole formula,
 coefficient included. Run here. **A sharp, quantified no for the

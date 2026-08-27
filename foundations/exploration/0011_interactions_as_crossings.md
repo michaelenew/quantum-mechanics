@@ -1,5 +1,8 @@
 # 0011 — Interactions as crossings: knots as consistency webs
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The proposal: interactions are fundamentally topological — every
 interaction adds a crossing to a knot-like structure — and perceived
 curvature is the holonomy of closed loops around those crossings (a

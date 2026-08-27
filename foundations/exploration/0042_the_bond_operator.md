@@ -1,5 +1,8 @@
 # 0042 — The bond operator, the dimension theorem, and a trap
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0041's three fronts: measure the dimensional selection instead of
 extending it, find the bond's quantum operator, construct the
 two-body source. All three move here — and the third turns into a

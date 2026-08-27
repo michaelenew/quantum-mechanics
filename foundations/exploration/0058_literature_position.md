@@ -1,5 +1,8 @@
 # 0058 — Position against the literature: what is rediscovery, what might be new
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 An orientation pass, not an exploration: no verification module, no new
 computation. The question is where this program sits relative to
 ~100 years of quantum-gravity and ~30 years of information-geometry
@@ -100,7 +103,14 @@ flagged; what was delivered is a different row. **Closing this — an
 explicit demonstration that `s` is (or is monotone in) a correlation
 measure — is the single highest-value open item in the repo for
 making contact with the RT / Van Raamsdonk / Jacobson literature.**
-Until it is closed, comparison to that literature is by analogy.
+
+> **Closed at the Gaussian tier by 0065**: the web's metric is derived
+> as the Fisher metric of an explicit inference network with
+> w = precision = e^{2I} − 1, giving δ = 2π(1 − e^{−I}) — the deficit
+> as a closed-form function of the pairwise mutual information, linear
+> (first-law shape) in the weak limit. The quantum tier (Bures /
+> entanglement) remains open; until then, comparison to the quantum
+> entanglement literature specifically is by analogy.
 
 **(b) G is registered, not derived.** ρ_mass = s/8G follows from
 *imposing* δ = 8πGm. The content is K = πs with a derived π; the 8πG
@@ -134,12 +144,24 @@ method caveat, is not high for any of them.
 
 1. **The screening law δ = πw/√(det A₀)** — a weak channel's deficit
    inside ambient information A₀ is reduced by 1/√(information
-   volume), i.e. **the local gravitational coupling is set by ambient
-   information density** (0019, 0020; uniaxial case derived, general
-   case measured to <2e−3). I found nothing resembling this. It is
-   sharp, computable, and — unlike most of the repo — *predicts a
-   deviation from standard gravity* rather than recovering it. Best
-   novelty candidate, and the best falsification target.
+   volume) (0019, 0020; uniaxial case derived, general case measured
+   to <2e−3). I found nothing resembling this.
+
+   > **CORRECTED BY 0059.** This entry originally claimed the law
+   > "predicts a deviation from standard gravity" and called it the
+   > best falsification target. That was wrong. 0059 shows the
+   > one-body sector is *exactly* Schwarzschild (0037's perihelion
+   > excess is GR's own second-order term, 1.0532/1.0205 confirmed
+   > against the exact orbit equation), so β = γ = 1 and there is no
+   > room for a coupling that runs; and the naive varying-G reading
+   > G_eff = G(1−U) is independently excluded by lunar laser ranging
+   > by ~127×. The screening is **bookkeeping in the
+   > w-parameterization**, not new gravity — consistent with 0020's
+   > own note that a constant ambient is flat, and with 0012's exact
+   > deficit additivity. It may still be novel as a statement about
+   > the parameterization; it is not an observational claim. The
+   > real falsification target is the **two-body rule vs
+   > Einstein–Infeld–Hoffmann** (0059 §3).
 2. **The trace identity tr h(x) = S_total everywhere** (0020, machine
    precision) — the web stores its total strength locally at every
    point; only the traceless anisotropy sector curves. Found no
