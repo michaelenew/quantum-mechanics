@@ -1142,3 +1142,33 @@ program's weight sits on the constrained side by construction.
 the s2 test — a lattice breaks diffeos somewhere, and whether it does
 so at 1e−16 or at 0.30 is the one measurement that turns "forced" into
 "verified".
+
+## 0161 — the burndown is done; it is not a build list for a simulation
+
+Items 1–7 are resolved, but item 6's own answer creates a gap: gravity
+lives in the **constrained** sector, while items 3 and 4 — the source
+and the response, the two a simulation most needs — were built and
+measured in the **induced** sector. Both are real measurements of the
+induced scale stiffness; neither is the gravitational source or
+response.
+
+Remaining for a simulation: **R1** the 0160 residual (one run);
+**R2/R3** source and response in the constrained sector (not started);
+**R4** the scale — ξ/a ≈ 6e19…4e20, *retired not solved*; **R5**
+nonlinearity (all measurements are linear response); **R6** Lorentzian
+real time; **R7** matter content (no spinors).
+
+**R4 is the blocker and does not go away.** Item 2's retirement was
+about the lattice, not the observable, so R3 and R5 hit the same wall.
+Three estimator diagnoses bought 24× against a deficit of 10²⁰.
+
+So "a GR simulation from the continuous quantum theory" honestly means
+the **composition**: derived weight → balanced reps = simplicity →
+constrained sector → uniquely Einstein-Hilbert → the classical tier's
+integrator, which already produces bending 0.008046 vs 0.008000 and
+precession converging to 6πM/p. Every arrow measured or forced. The
+program can claim the derivation chain; it cannot claim a lattice that
+shows you a geodesic.
+
+Next is R1 — the only thing between "forced" and "verified" on the
+central claim.
