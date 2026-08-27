@@ -1,5 +1,8 @@
 # 0059 — The falsification audit: what the delta is, and whether data kills it
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 A theory is an interpretation until it is falsifiable. This asks, for
 the one place the program looked like it deviated from general
 relativity — 0020's ambient screening δ = πw/√(det A₀) — exactly what

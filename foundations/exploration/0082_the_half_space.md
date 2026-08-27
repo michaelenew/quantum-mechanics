@@ -1,5 +1,8 @@
 # 0082 — The half space: the graviton's zero-point entanglement
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Third stone down the queue: **C1** of path C (0070) — the entanglement
 of the free graviton's vacuum across a flat spatial cut. 0063's
 linearized theory is two TT oscillator modes per momentum, so the

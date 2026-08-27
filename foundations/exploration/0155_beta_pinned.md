@@ -1,6 +1,7 @@
 # 0155 — Item 7: β pinned non-perturbatively, and the band moves
 
 > **AI-generated, not peer-reviewed.** Code: `output/0144_matching_beta.py`.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
 
 0141 left the hierarchy with a two-decade band because β had two
 handles that disagreed by 1.5, and one unit of β is a factor 15 in

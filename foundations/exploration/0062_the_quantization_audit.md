@@ -1,5 +1,8 @@
 # 0062 — The quantization audit
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 A model-switch audit of the quantized-curvature arc — 0061 and its
 revision, with spot-rechecks of 0057 — requested on the ground that
 the work was done under a different model and its consistency was in

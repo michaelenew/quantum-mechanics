@@ -1,5 +1,8 @@
 # 0106 — The bridge floor: the level is a measurement, and here is its cost
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The hierarchy chain's one unproven link (0094): nothing in the
 constraint stack *selects* N from the admissible ladder. The filter's
 p-floor epistemology (ported in wall-correspondence 0001; AIC/BIC

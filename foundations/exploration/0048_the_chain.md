@@ -1,5 +1,8 @@
 # 0048 — The chain: the derivation stated end to end
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Consolidation. The program's claim is now a single chain from the
 postulates to Einstein gravity's measured phenomena. This document
 states every link with its status and evidence; the companion

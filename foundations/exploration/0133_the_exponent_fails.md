@@ -1,5 +1,8 @@
 # 0133 — The exponent fails, the criterion holds, and the residual has a plateau
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0122_the_exponent_at_L32.py`, with lucid 0038 supplying
 the method. Seventh stone.
 

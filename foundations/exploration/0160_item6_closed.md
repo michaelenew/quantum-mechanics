@@ -3,6 +3,9 @@
 > **AI-generated, not peer-reviewed.** Code:
 > `output/0150_diffeo_invariance.py`. Closes the thread 0145 → 0146 →
 > 0154 → 0156 → 0158 → 0159.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
+>
+> **Prior art.** Plebanski (1977); Barrett & Crane (1998) for balanced representations as the simplicity constraint; Fierz & Pauli (1939) for the uniqueness of the linearised form.
 
 Rather than rebuild the constrained sector, this tests the **property
 that separates the two routes** — and it turns out to settle the

@@ -1,5 +1,8 @@
 # 0137 — What is missing for the full port
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0126_what_is_missing.py`. Follow-up to 0136's audit,
 which found (A) and (C) continuous and the level's candidate set a
 Z_N artefact. This asks the general question — which standing results

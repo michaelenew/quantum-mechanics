@@ -1,5 +1,8 @@
 # 0066 — The quantum tier: the deficit law survives, and where it splits
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0065's open 1: replace the Gaussian channel with a quantum carrier,
 Fisher with Bures, mutual information with whatever survives — does
 δ = 2π(1 − e^{−I}) hold, and with which information measure? Model:

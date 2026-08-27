@@ -1,5 +1,8 @@
 # 0117 — Linear agreement, the mode count, and what the Born square buys
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Three standing obstructions, each moved. Code:
 `output/0107_the_square_and_the_modes.py`.
 

@@ -1,5 +1,8 @@
 # 0130 — The smeared observable: the kernel worked, and the obstruction moved
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0118_the_smeared_observable.py`. Fourth stone of the
 continuity front, and the first one built by taking a prescription
 from the filter side (lucid 0037) rather than porting a result back.

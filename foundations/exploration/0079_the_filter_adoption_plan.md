@@ -1,5 +1,8 @@
 # 0079 — The filter adoption plan: the wall's problems, restated in the toy that breathes
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 A plan document, no module (like 0070). Two decisions recorded.
 
 **First, the escalation protocol.** Each outstanding wall piece is

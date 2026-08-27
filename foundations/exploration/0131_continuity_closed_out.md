@@ -1,5 +1,8 @@
 # 0131 — Continuity, closed out: two volumes, a bound, and a scoped triviality
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0116_deciding_the_branch.py` (s4),
 `output/0118_the_smeared_observable.py` (s4),
 `output/0119_the_triviality_question.py`. Fifth stone, clearing the

@@ -1,5 +1,24 @@
 # Relational–Epistemic QM: a knowledge-first, consistency-first reading
 
+> ## ⚠️ AI-generated, not peer-reviewed
+>
+> **Every document, derivation, figure and number in this repository was
+> produced by an AI system.** None of it has been peer-reviewed, and none of
+> it should be treated as an established result.
+>
+> **Assume prior art.** The work reconstructs known physics in many places —
+> spin foams, induced gravity, first-order gravity, lattice field theory —
+> and frequently did so without citing the source at the time. Where
+> something looks novel, the correct default is that it is a re-derivation of
+> published work, not an independent discovery. Original authors are credited
+> in [`ATTRIBUTION.md`](ATTRIBUTION.md), which also records the places where
+> this repository reversed its own conclusions.
+>
+> The reliable content here is the measured numbers, with their stated error
+> bars, windows and failure modes. Narrative claims about significance are
+> not.
+
+
 **Thesis.** Take the viewpoint of a single particle *A*. Everything *A* can act
 on is a probability distribution over the *relative* positions and momenta of
 other particles — *A*'s **knowledge state**. Other particles are bumps in that

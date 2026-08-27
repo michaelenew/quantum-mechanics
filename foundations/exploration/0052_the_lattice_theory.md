@@ -1,5 +1,8 @@
 # 0052 — The lattice theory, self-contained, and the cusp spectrum
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0051's two opens, both closed. The functional now exists as a
 genuine lattice gauge theory with group-valued links and **exact**
 discrete local Lorentz invariance; and the loop's cusp harmonics are

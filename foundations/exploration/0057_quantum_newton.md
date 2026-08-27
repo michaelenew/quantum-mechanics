@@ -1,5 +1,8 @@
 # 0057 — Quantum Newton, and what stays massless at the critical point
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0056 found the critical point where the lattice graviton goes
 massless and named the consequence as the arc's sharpest open: *the
 critical point exists, and the question is what force lives there.*

@@ -1,5 +1,8 @@
 # 0143 — One record or two: settled, and the factor was wrong
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0131_one_record_or_two.py`. **Criticality item 1 is
 closed.**
 

@@ -1,5 +1,8 @@
 # 0111 — The vertex response: the deficit selects among vertex operators
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Front #4's port attempt, with a discriminating negative as the
 result. Code: `output/0101_the_vertex_response.py`.
 

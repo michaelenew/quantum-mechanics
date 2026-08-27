@@ -1,5 +1,8 @@
 # 0080 — The open budget: Λ off the closed surface
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 First stone of the post-wall queue, easiest first. 0069 §2 laid out the
 falsifiability path for vacuum energy and named its step 1: *reformulate
 the budget off the compact torus — the constraint Σ F ≡ 0 was derived on

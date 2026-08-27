@@ -2,6 +2,7 @@
 
 > **AI-generated, not peer-reviewed.** Supersedes the tables in 0144 §5
 > and 0145. Basis: 0149 (the null), 0150 (the scale).
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
 
 ## The correction that matters
 

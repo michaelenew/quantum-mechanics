@@ -2,6 +2,7 @@
 
 > **AI-generated, not peer-reviewed.** Orientation pass, no module.
 > Scope: supersedes the framing of 0157/0151, not their contents.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
 
 Items 1–7 are all resolved. That is not the same as being ready to
 simulate gravity from the continuous quantum theory, and the reason is

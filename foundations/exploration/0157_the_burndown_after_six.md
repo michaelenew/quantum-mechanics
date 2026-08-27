@@ -1,6 +1,7 @@
 # 0157 — The burndown after item 6
 
 > **AI-generated, not peer-reviewed.** Supersedes 0151.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
 
 | | item | state |
 |---|---|---|

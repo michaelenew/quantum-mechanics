@@ -1,5 +1,8 @@
 # 0054 — The lattice graviton, and gravity computed from the quantum model
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The milestone: **a gravitational effect derived from the quantized
 lattice and then computed in it.** The effect is the conical
 deficit — the web's oldest object (0014's atom, 0027's quantized

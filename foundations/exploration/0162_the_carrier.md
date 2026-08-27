@@ -2,6 +2,7 @@
 
 > **AI-generated, not peer-reviewed.** Code: `output/0151_the_carrier.py`.
 > Corrects 0161's R4 claim.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
 
 "How can we derive something that then can't be simulated?" — the
 right question, and the answer is that **it can be**, just not on the

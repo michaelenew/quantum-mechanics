@@ -1,5 +1,8 @@
 # 0071 — The RG probe: where the program bleeds
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Path A's first stone (0070's A0), executed. The ledger weight has no
 coupling knob — it is *derived* (0064) — so which phase it sits in is
 a fact about the program, not a parameter choice. In the abelian

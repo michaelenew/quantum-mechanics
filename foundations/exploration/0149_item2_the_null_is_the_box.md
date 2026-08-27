@@ -3,6 +3,9 @@
 > **AI-generated, not peer-reviewed.** Code: `output/0138_item2_closed.py`,
 > `output/0139_the_control_channel.py`,
 > `output/0140_fixed_time_operators.py`. Scale analysis: 0150.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
+>
+> **Prior art.** Albanese et al. (1987) for APE smearing; Wilson (1974).
 
 ## What was run
 

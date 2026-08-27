@@ -1,5 +1,8 @@
 # 0136 — The port audit: (A) and (C) survive, the ladder does not
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0125_the_port_audit.py`. An audit, prompted by a
 direct challenge: *Z_N was always a toy — confirm (A), (C) and N are
 ported to the full continuous theory.*

@@ -1,5 +1,8 @@
 # 0126 — The degree: why alternatives are summed, from the budget
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0114_the_degree.py`.
 
 lucid 0034 closed the composition rule (amplitudes multiply in ℂ)

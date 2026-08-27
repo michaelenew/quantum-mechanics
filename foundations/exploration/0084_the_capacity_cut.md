@@ -1,5 +1,8 @@
 # 0084 — The capacity cut: the web's own count across the horizon
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Fifth stone: **C3** of path C (0070) — cut the same surface as
 C1/C2, but count what the *web* says crosses it. 0067 chose the
 correlation measure at pair level (curvature couples to tangle, not

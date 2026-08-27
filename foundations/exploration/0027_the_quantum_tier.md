@@ -1,5 +1,8 @@
 # 0027 — The quantum tier: the shape of the theory
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Quantizing 0026's action — and, per the standing directive, writing
 the result as *shape*: the point of the Noether/action program is
 the template it hands us for 3+1. Everything here is exact algebra

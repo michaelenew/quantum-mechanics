@@ -1,5 +1,8 @@
 # 0128 — The continuum probe: the program has no dial, and the branch ambiguity is the hierarchy
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0115_the_continuum_probe.py`. First stone of the
 continuity front — 0127's last open conjunct of 0069's wall.
 

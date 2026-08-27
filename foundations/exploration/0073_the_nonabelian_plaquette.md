@@ -1,5 +1,7 @@
 # 0073 — The nonabelian plaquette: the derived weight meets the sign problem
 
+> **AI-generated, not peer-reviewed.** Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
+
 Path A's third stone (0070's A2, first half). 0072's continuum kernel
 is lifted to a class function on Spin(4) = SU(2)⁺ × SU(2)⁻ and
 expanded in characters — the nonabelian analogue of the dual weights.

@@ -1,5 +1,8 @@
 # 0067 — The entanglement tier: the weight is the tangle
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0066's sharpest open: both ends quantum. A pair of nodes shares an
 entangled two-qubit state and the relative coordinate is recorded
 **relationally** — as a phase between the correlated branches,

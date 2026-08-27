@@ -1,5 +1,8 @@
 # 0124 — Three ends: direct G, the McKay coincidence, and what the source ledger actually contains
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0112_three_ends.py`.
 
 ## 1. Direct G is not a units problem — it is the matter coupling

@@ -1,5 +1,8 @@
 # 0091 — The arithmetic pass: what the sibling branch holds
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Twelfth stone, an audit not a computation (no module — an
 orientation pass in 0058/0079's genre). The formal-languages repo's
 arithmetic workstream ran to 0066 ("the four probes: epistricted

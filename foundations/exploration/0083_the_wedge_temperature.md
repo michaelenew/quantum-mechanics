@@ -1,5 +1,8 @@
 # 0083 — The wedge temperature: Unruh for the free graviton, measured
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Fourth stone: **C2** of path C (0070) — is the graviton vacuum
 restricted to a half space *thermal*, and at what temperature?
 Bisognano–Wichmann says the vacuum seen from a Rindler wedge is

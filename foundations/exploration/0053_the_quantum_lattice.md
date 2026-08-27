@@ -1,5 +1,8 @@
 # 0053 — The quantum lattice: the square measure prices curvature
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The lattice theory (0052) quantized at level N, full bore. Four
 results, all exact, and the third is the one the program has been
 walking toward since 0030: **the quantum mechanism by which the

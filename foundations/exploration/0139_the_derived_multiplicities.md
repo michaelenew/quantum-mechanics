@@ -1,5 +1,10 @@
 # 0139 — The derived multiplicities: item 1 is an obstruction, not a computation
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+>
+> **Prior art.** Rao (1945), Blackwell (1947) for the conditional-mean estimator; Parisi, Petronzio & Rapuano (1983) for multihit on the lattice.
+
 Code: `output/0127_the_derived_multiplicities.py`. 0137's criticality
 item 1 was "derive the SU(2) amplitude's multiplicities and re-run
 the coupling." **It cannot be closed that way**, and why not is the

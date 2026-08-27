@@ -1,5 +1,8 @@
 # 0123 — Counting buys time: the Lorentzian arena is not an independent debt
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0122 conjectured that the Born square is what makes the derived
 measure reflection positive, and therefore what makes the Lorentzian
 lift possible. **The conjecture was half right, and the correction

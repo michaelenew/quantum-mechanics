@@ -3,6 +3,9 @@
 > **AI-generated, not peer-reviewed.** Code:
 > `output/0136_multihit.py`. Sibling stone:
 > `lucid-filter research/wall-correspondence/0048`.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
+>
+> **Prior art.** Rao–Blackwell as above; Luscher & Weisz (2001) for multilevel correlator algorithms.
 
 ## Where this came from
 

@@ -1,6 +1,9 @@
 # 0154 — Item 6: γ = −1 in the diagonal sector, and why that is an obstruction rather than a verdict
 
 > **AI-generated, not peer-reviewed.** Code: `output/0145_gamma_from_q4.py`.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
+>
+> **Prior art.** Nordstrom (1913) and Einstein & Fokker (1914) for scalar gravity's gamma = -1; Nordtvedt (1968) and Will & Nordtvedt (1972) for the PPN parameters; Bertotti, Iess & Tortora (2003) for the Cassini bound.
 
 Every classical test hangs off one PPN number:
 

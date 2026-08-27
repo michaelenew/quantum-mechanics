@@ -1,5 +1,8 @@
 # 0121 — The physics-internal debts, and the four reasons a filter corollary fails
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 A classification stone, no module. 0048's honest residue has been
 carried as "physics-internal debts with no filter doppelganger".
 Examining each from first principles shows that phrase was doing too

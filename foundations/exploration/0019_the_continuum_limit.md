@@ -1,5 +1,8 @@
 # 0019 — The continuum limit: participation density is mass density
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 O2 — the widest-open obstruction on the curvature map — pressed from
 both ends at once, per the two framings on the table: the **limit of
 points** (scatter N weak channels and refine) and the **fuzzing**

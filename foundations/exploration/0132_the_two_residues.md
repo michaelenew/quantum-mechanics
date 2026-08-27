@@ -1,5 +1,8 @@
 # 0132 — The two residues: the zeros cost 15%, and the exponent did not measure
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0120_the_residual_trend.py`,
 `output/0121_the_symanzik_exponent.py`. Sixth stone, taking the two
 items 0131 left. One closed decisively; the other returned a

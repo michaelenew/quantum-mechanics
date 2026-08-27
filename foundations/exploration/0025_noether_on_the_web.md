@@ -1,5 +1,8 @@
 # 0025 — Noether on the web: the charges, and the choice that's not a choice
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Before the composition experiment, the symmetry audit — as requested,
 run through Noether's lens. The web has no action functional yet, so
 Noether's theorem appears here in its operational form: for each

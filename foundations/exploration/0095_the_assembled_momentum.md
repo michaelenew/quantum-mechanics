@@ -1,5 +1,8 @@
 # 0095 — The assembled momentum: tree Maxwell, one-loop isotropy
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Sixteenth stone: the wall's last outstanding piece — A3, the momentum
 half of the graviton propagator with sector resolution — attacked
 perturbatively, which 0078's eigenvalue identity makes possible. The

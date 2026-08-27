@@ -1,5 +1,8 @@
 # 0096 — The pinned root: the homomorphism's first row
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 New arc, per the program owner's redirect: Z_N has done its job (its
 trust/content split is degenerate by our own polar and freeze
 theorems — it was the right toy for ledger arithmetic and cannot be

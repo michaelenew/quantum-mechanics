@@ -1,5 +1,8 @@
 # 0003 — Consistency-first ontology (the corrected core)
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Supersedes the locality-first framing of `0001` P2. This note takes the posit on
 its own terms: **mutual consistency is the fundamental law, and it is nonlocal.**
 

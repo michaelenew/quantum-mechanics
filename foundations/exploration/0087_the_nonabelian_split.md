@@ -1,5 +1,8 @@
 # 0087 — The nonabelian split: the two ledgers survive the lift
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Eighth stone, the bridge back up the ladder: does 0086's polar
 theorem survive the nonabelian lift? SU(2)'s characters are real, so
 the abelian phase cannot lift *as a phase* — and it doesn't. It lifts

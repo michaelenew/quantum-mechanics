@@ -1,5 +1,8 @@
 # 0119 — Why squared: the canonical form of a nonnegative band-limited weight
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0118 reduced the Born question to "why is the weight band-limited?"
 and answered it as a budget. This stone closes the other half — why
 a band-limited weight is a **square** — and the answer is that it

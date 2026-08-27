@@ -1,5 +1,8 @@
 # 0138 — The waystone: every material result, by tier, by criticality
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 **Scope: stones 0001–0137.** This is a snapshot, not a live board.
 Anything numbered above 0138 supersedes it; `SUMMARY.md` holds the
 current state. Read this to find out where a result *sat* as of

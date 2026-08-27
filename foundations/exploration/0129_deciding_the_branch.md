@@ -1,5 +1,8 @@
 # 0129 — Deciding the branch, and what a failed Lorentz test costs
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0116_deciding_the_branch.py`,
 `output/0117_the_lattice_is_invisible.py`. Second and third stones of
 the continuity front.

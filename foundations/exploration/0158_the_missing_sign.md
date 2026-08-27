@@ -2,6 +2,9 @@
 
 > **AI-generated, not peer-reviewed.** Code: `output/0147_the_missing_sign.py`.
 > Corrects the verdict scope in 0156/0157.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
+>
+> **Prior art.** Fierz & Pauli (1939); Gibbons, Hawking & Perry (1978); Plebanski (1977); Monteiro, O'Connell & White (2014) and Bern, Carrasco & Johansson (2008) for the double copy.
 
 Same program, opposite answers:
 

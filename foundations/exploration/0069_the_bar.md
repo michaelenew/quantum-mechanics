@@ -1,5 +1,8 @@
 # 0069 — The bar: what this would have to become to be a quantum gravity theory
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 An orientation pass, no verification module (like 0058). Three
 questions, answered without sugar: what the bar for "a quantum
 gravity theory" actually is and where this program stands against

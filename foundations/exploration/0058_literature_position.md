@@ -1,5 +1,8 @@
 # 0058 — Position against the literature: what is rediscovery, what might be new
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 An orientation pass, not an exploration: no verification module, no new
 computation. The question is where this program sits relative to
 ~100 years of quantum-gravity and ~30 years of information-geometry

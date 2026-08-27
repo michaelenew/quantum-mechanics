@@ -1,5 +1,8 @@
 # 0074 — The nonabelian Dirichlet square: the ledger was a Born rule all along
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0073's sign problem demanded the dual-square structure. Chasing where
 the abelian ledger's positivity actually comes from turned up
 something sharper than the demand. Code:

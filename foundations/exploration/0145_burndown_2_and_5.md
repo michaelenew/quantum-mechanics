@@ -1,5 +1,8 @@
 # 0145 — Burndown items 2 and 5: one retired, one obstructed
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0133_the_graviton_propagator.py`, with lucid 0047.
 
 ## Item 5 — retired, not reconciled

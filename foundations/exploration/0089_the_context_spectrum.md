@@ -1,5 +1,8 @@
 # 0089 — The context spectrum: the vertex charges the (1,0) mode
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Tenth stone: 0075's standing interleaving, tested with 0078/0088's
 vertex. At the bare one-plaquette chain the unbalanced (1,0)
 multiplet — purely self-dual curvature, the connection/2-form mode —

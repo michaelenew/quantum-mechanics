@@ -1,5 +1,8 @@
 # 0105 — The prequential tier: the action is a code length
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Third isomorphism stone: the operational loss. The filter's
 epistemology rests on prequential code length; the physics' ledger
 prices in nats but was scored against nothing. At the exact tier

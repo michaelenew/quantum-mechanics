@@ -1,5 +1,8 @@
 # 0101 — The dressed vacuum: the discriminator answers, and revises both sides
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The catalogue's named discriminator, run: 4D SU(2) lattice gauge
 theory with the derived Born plaquette weight (flat counting to
 J = 2.5, the N = 5 stack's cutoff), Metropolis over links,

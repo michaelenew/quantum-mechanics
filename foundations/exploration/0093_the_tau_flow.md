@@ -1,5 +1,8 @@
 # 0093 — The τ flow: the ledger's coupling runs like one loop
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Fourteenth stone, and one of the wall's three original outstanding
 pieces lands: **the running of τ** — filed heavy, delivered cheap,
 because 0092 collapsed the problem. After one MK blocking the weight

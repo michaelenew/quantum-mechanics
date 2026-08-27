@@ -1,5 +1,8 @@
 # 0115 — The bridge closed, which bound binds, and the ratio-record audit
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Three residuals, run together. Code:
 `output/0105_the_bridge_and_the_bounds.py`.
 

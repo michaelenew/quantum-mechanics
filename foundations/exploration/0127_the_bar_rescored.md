@@ -1,5 +1,8 @@
 # 0127 — The bar, re-scored: 0069's list against everything since
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Orientation pass, no module — 0058/0069's genre. **0069 set the
 bar**: seven requirements (A)–(G), a six-step dependency path, and a
 falsifiability route. It has been cited piecemeal ever since

@@ -1,5 +1,8 @@
 # 0077 — The continuum scaling: the fixed structure is the heat kernel, and the graviton channel goes gapless
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The stone after 0076. A fixed structure with t < 1 means finite
 correlation length — *unless* t → 1 as the frame scale grows. So the
 decisive computable is the scaling of the fixed structure's tensions

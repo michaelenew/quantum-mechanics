@@ -1,5 +1,8 @@
 # 0134 — Lorentz as a code length: the reframing that worked
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0123_lorentz_as_code_length.py`, with lucid 0039
 supplying the method. Eighth stone of the continuity front, and the
 first that answers the question.

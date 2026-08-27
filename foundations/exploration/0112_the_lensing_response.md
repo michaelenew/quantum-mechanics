@@ -1,5 +1,8 @@
 # 0112 — The lensing response: the deficit's operator identified
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0111's discriminating negative, pushed to selection. Four site-local
 operators against three observables (8 chains × 2240, ordered
 branch): the parity-odd Chern density nulls on everything (symmetry

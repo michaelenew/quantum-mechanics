@@ -1,5 +1,8 @@
 # 0102 — The coupling scan: the scale field along the flow, and the nodes as barriers
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0101's opens, run with the compiled kernel: does the dressed vacuum's
 scale field grow toward strong coupling, and is its short range a
 finite-size artifact? The coupling axis is the theory's own: the bare

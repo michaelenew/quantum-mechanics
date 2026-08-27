@@ -1,5 +1,8 @@
 # 0020 — The divergence and the current
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 O2's rigor and O1's dynamics, pressed together — and the user's
 instinct was right that the proof would pay for the dynamics: the
 central identity of the derivation (*curvature is a total

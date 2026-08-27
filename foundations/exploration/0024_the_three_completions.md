@@ -1,5 +1,8 @@
 # 0024 — Velocity-dependent channels: the three completions
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0023 diagnosed the compass and prescribed velocity-coupled channel
 data. Here the prescription is executed: the completion family is
 *built*, not proposed, and measured on the same instruments that

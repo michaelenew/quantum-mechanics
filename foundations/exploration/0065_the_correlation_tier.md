@@ -1,5 +1,8 @@
 # 0065 — The correlation tier: the deficit is a function of mutual information
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The gap 0058 flagged as the program's highest-value structural open:
 K = πs sources curvature with *participation* density, and nothing
 established that participation is a *correlation* measure — so

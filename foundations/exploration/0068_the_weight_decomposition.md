@@ -1,5 +1,8 @@
 # 0068 — The weight decomposition: coherence, tangle, and the Bloch budget
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0067 left two opens: the local-coherence/tangle split (open 2) and
 weight monogamy (open 1). Both close, and they close as **one
 theorem** — a one-line identity on the Bloch sphere whose corollaries

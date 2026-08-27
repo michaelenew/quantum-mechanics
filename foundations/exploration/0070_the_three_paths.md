@@ -1,5 +1,8 @@
 # 0070 — The three paths: straight lines to A, C, and a derived number
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Orientation doc, no module. 0069 set the bar: a skeptic converts at
 (A) interacting quantum geometry + (C) semiclassical benchmarks + one
 derived number. This records a straight-line plan for each, a

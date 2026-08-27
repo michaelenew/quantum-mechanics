@@ -1,5 +1,8 @@
 # 0078 — The vertex: shared frames, emergent simplicity, and the honest non-flip
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The wall's last standing stone. At a lattice site six plaquettes
 meet, and the frame integral behind the one-plaquette kernel (0072)
 must there be done **jointly** — the same four tetrad columns couple

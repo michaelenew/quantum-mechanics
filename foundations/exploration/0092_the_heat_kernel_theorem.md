@@ -1,5 +1,8 @@
 # 0092 — The heat-kernel theorem: universality's true mechanism
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Thirteenth stone: the queue's "CLT fixed-point theorem" — prove that
 0077's fixed structure (μ_R = τ·C₂(R), Casimir ratios exact) is the
 heat kernel because of a central-limit effect. Attempted honestly,

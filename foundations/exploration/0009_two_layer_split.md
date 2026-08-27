@@ -1,5 +1,8 @@
 # 0009 — The two-layer split: two lossless layers, one lossy interplay
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Crystallizes the riff: physical reality as a **core** of losslessly composable
 frame transforms (layer 1), an **overlay** of path-dependent informational
 structure (layer 2), and all irreversibility — and, working hypothesis, all

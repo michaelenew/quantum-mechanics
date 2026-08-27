@@ -1,5 +1,10 @@
 # 0146 — The Spin(4) kernel, and a diagnosis of mine that was wrong
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+>
+> **Prior art.** Rao (1945), Blackwell (1947); Parisi, Petronzio & Rapuano (1983).
+
 Code: `output/0134_the_spin4_kernel.py`,
 `output/0135_the_graviton_run.py`.
 

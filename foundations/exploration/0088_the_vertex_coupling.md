@@ -1,5 +1,8 @@
 # 0088 — The vertex coupling: where the two ledgers meet
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Ninth stone: 0087's open 1, run against the real 4D object — the
 16-dimensional shared-frame vertex (0078). The question: does the
 two-ledger split (source factor × record factor, exact on the free

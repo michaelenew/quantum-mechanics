@@ -4,6 +4,9 @@
 > `output/0137_multilevel.py`. Predecessors: 0146 (throughput was the
 > wrong diagnosis), 0147 (link granularity was the wrong port),
 > lucid `0048` (the estimator law).
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
+>
+> **Prior art.** Luscher & Weisz (2001) for the two-level algorithm this reproduces.
 
 ## The one equation this turn hangs on
 

@@ -1,5 +1,8 @@
 # 0097 — The marginalized vacuum: the ridge tilts, and the coordinate is the scale
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Step 1 of the crossing plan (owner's ordering: build the filter's
 marginalization in the physics on analogy alone; then prove the
 homomorphism proper; then use the filter as blueprint). Built, run,

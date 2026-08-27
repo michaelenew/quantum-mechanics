@@ -1,5 +1,8 @@
 # 0076 — The MK flow: 4D is where the healed weight goes critical
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 A4: which sector of the healed weight survives coarse-graining in
 four dimensions? Instrument: the Migdal–Kadanoff recursion —
 bond-moving (pointwise power ζ = b^(d−2)) then decimation (t → t^b²

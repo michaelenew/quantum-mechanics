@@ -1,5 +1,8 @@
 # 0122 — The wall reconsidered: what was crossed, what was mislocated, and one new link
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 A reflection stone, no module — plus one technical conjecture that
 belongs in the record rather than in conversation.
 

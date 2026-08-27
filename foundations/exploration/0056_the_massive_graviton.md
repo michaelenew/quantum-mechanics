@@ -1,5 +1,8 @@
 # 0056 — The graviton's mass, the price as a kernel, and the shared frame
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0055's three opens. The first turns up the quantum arc's most
 consequential structural fact — **the lattice graviton is massive
 off criticality, so the long-range Newtonian limit is a critical

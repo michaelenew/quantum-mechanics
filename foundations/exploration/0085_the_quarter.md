@@ -1,5 +1,8 @@
 # 0085 — The quarter: two ledgers, one horizon
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Sixth stone: **C4** — confront the measured horizon accounts (C1's
 entropy, C3's capacity and deficit) with Bekenstein–Hawking's A/4G.
 0070 said the 1/4 is the hard part and to treat a mismatch as a

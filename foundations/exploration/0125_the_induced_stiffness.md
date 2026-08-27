@@ -1,5 +1,8 @@
 # 0125 — The induced stiffness: the gravity channel's precision, measured
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0113_the_induced_stiffness.py`.
 
 lucid 0032 closed the matter coupling as a formula — the stress

@@ -1,5 +1,8 @@
 # 0026 — The action, and the Thomas–Wigner confirmation
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The two queued items, delivered together because they are two halves
 of one statement: the web's geometric sector now has an **action**
 whose equations of motion are the measured laws and whose Noether

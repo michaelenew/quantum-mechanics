@@ -1,5 +1,8 @@
 # 0049 — The closed loop: the string sector joins the conserved-source law
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Post-consolidation fronts, two closed. 0047 predicted the wiggling
 string's radiative admixture was an open-end artefact and that a
 compact, exactly conserved string would radiate clean vacuum waves.

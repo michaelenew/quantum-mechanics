@@ -1,5 +1,8 @@
 # 0103 — The time tier: Euclidean = smoother, Lorentzian = filter
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 First of three stones completing the isomorphism where it can be
 completed (the missing tiers, in tractability order: time, network,
 prequential — this is time). The structural seam: the filter is

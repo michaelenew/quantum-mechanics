@@ -1,5 +1,8 @@
 # 0034 — The gauge audit: the wave was Einstein's after all
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The question this exploration answers: **how severe is 0032's
 "wrong polarization" — does it force falsified predictions?** The
 question demanded a gauge audit before any new construction, and

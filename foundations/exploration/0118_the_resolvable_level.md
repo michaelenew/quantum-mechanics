@@ -1,5 +1,8 @@
 # 0118 — Why band-limited: the level is what a finite record can pay for
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0117 restated the Born question as "why is the weight band-limited
 in the character basis?". The answer is in this program's own
 currency — but not where I first looked. Code:

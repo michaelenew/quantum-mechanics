@@ -3,6 +3,9 @@
 > **AI-generated, not peer-reviewed.** Code:
 > `output/0148_the_counterterm.py`, `output/0149_the_graviton_mass.py`.
 > Corrects 0146/0156 again, and further than 0158 did.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
+>
+> **Prior art.** Sakharov (1967) and Visser (2002) for induced gravity and its cosmological-constant fine-tuning; van Dam & Veltman (1970) and Zakharov (1970) for the vDVZ discontinuity; Fierz & Pauli (1939).
 
 I set out to test the constrained (double-copy) sector that 0158
 identified. Re-deriving the setup first turned up something more

@@ -1,5 +1,10 @@
 # 0141 — The one dimensionless prediction, computed and priced
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+>
+> **Prior art.** Wilson (1974); Gross & Wilczek (1973) and Politzer (1973) for asymptotic freedom; Caswell (1974) and Jones (1974) for the two-loop coefficient; Hasenfratz & Hasenfratz (1980) for the lattice Lambda parameter.
+
 Code: `output/0129_the_one_dimensionless_prediction.py`, after lucid
 0044.
 

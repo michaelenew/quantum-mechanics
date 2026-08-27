@@ -1,5 +1,8 @@
 # 0018 — The wall theorem: the state sum, the anomaly polynomial, and group-independence
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0017's three opens, executed. The batch upgrades all three: the
 branch-point-free state sum exists and is verified as a working
 invariant; the reversal anomaly is an exact degree-1 polynomial,

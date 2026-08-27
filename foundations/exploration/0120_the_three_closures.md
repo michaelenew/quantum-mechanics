@@ -1,5 +1,8 @@
 # 0120 — Closing the three: the square is a restriction, the level agreement is coincidence, induced gravity keeps its test
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The three standing questions, closed. Code:
 `output/0110_the_three_closures.py`.
 

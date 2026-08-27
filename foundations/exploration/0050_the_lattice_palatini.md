@@ -1,5 +1,8 @@
 # 0050 — The Palatini construction: the chain's last constructive gap
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0048 enumerated the residue; 0049 closed two items. This closes the
 constructive one — the functional built from its own variables and
 verified on the web's own solution — and settles the two remaining

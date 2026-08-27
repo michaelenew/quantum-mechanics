@@ -3,6 +3,9 @@
 > **AI-generated, not peer-reviewed.** Code:
 > `output/0146_offdiagonal_metric.py`. Supersedes 0154's "obstructed"
 > and the item-6 line in 0151.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
+>
+> **Prior art.** Nordstrom (1913); Gibbons, Hawking & Perry (1978) for the conformal-factor problem; Will & Nordtvedt (1972).
 
 0154 measured γ = −1 with an instrument that could only carry a
 *diagonal* metric, and refused to call it fatal because the program's

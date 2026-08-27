@@ -1,5 +1,8 @@
 # 0113 — τ\*: a nucleation crossover, not a transition
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0102-doc's bracket, resolved into a sharper picture
 (`output/0103_the_tau_star.py`): at 6000-sweep observation the
 両-start split ends between τ = 0.055 and 0.06 — but escape

@@ -1,5 +1,8 @@
 # 0109 — The surface ordering: chosen by the Gauss law, and then it does not matter
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The 4D residue of the nonabelian boundary (0108) — which composition
 scheme a closed 2-surface uses — settled at the 3-cell tier, by the
 strategy of working gravity backwards: the filter-space gravity

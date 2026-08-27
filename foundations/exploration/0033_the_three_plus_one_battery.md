@@ -1,5 +1,8 @@
 # 0033 — The 3+1 battery: parity, and three exact laws for free
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The instruction: round out the theory while bringing the 3+1
 computational battery to parity with 2+1. This exploration builds
 the missing native-3D instruments — and each one, switched on,

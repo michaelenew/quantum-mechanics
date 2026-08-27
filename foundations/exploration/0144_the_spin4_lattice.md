@@ -1,5 +1,8 @@
 # 0144 — The Spin(4) lattice: the rebuild
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0132_the_spin4_lattice.py`, to lucid 0046's spec.
 **Burndown item 1 is done.**
 

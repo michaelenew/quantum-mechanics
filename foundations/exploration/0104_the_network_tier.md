@@ -1,5 +1,8 @@
 # 0104 — The network tier: the lattice is a bank of S³ filters, and its smoother predicts the dressed vacuum
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Second isomorphism stone. Everything proven so far is chain-shaped;
 the physics object is a network — one S³ state per link, one
 likelihood factor per plaquette, each link serving six factors.

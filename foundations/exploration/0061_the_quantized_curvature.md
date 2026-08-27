@@ -1,5 +1,8 @@
 # 0061 — Curvature from the quantized 3+1 model
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The 2+1 quantum arc got its curvature as a Wilson-loop deficit (0054).
 3+1 is richer: Riemann splits into Ricci and Weyl, vacuum kills Ricci
 and leaves Weyl, and **that split is the graviton**. This asks whether

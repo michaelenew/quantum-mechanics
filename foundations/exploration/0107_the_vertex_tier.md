@@ -1,5 +1,8 @@
 # 0107 — The vertex tier: the vertex is the total correlation
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The isomorphism's vertex/joint tier, closed as one theorem verified
 in three habitats. Code: `output/0097_the_vertex_tier.py`.
 

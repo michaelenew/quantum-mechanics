@@ -1,5 +1,8 @@
 # 0081 — The Lorentzian congruence: signature is arithmetic mod 4
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Second stone down the queue. The wall's "Lorentzian lift" open item has
 a heavy dynamical core (real-time measure, causal structure, the
 interacting 4D theory) and a light kinematic shell — the structures

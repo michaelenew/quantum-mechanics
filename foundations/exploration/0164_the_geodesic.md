@@ -2,6 +2,9 @@
 
 > **AI-generated, not peer-reviewed.** Code: `output/0154_the_geodesic.py`.
 > Field from R3 (0163). Retires the closing sentence of 0161.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
+>
+> **Prior art.** Einstein (1915) for 4GM/b; Dyson, Eddington & Davidson (1919) for the measurement this reproduces the ratio of.
 
 0161 said the program "cannot claim a lattice that shows you a
 geodesic." Two retired blockers later — the scale (0162) and the

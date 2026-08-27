@@ -1,5 +1,8 @@
 # 0060 — Does the web's construction solve Einstein at second order?
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The measurement 0059 pointed at, run — plus a correction to how 0059
 framed it. Code: `output/0054_the_second_order_test.py`.
 

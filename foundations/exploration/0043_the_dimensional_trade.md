@@ -1,5 +1,8 @@
 # 0043 — The dimensional trade: charge for force, and the atom recovered
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0042 measured that the web's vacuum principle selects the harmonic
 profile in every dimension. Running that ladder **down**, to d = 2,
 returns the program's own founding object — and shows what the

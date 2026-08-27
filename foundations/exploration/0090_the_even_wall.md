@@ -1,5 +1,8 @@
 # 0090 — The even wall: frames are indivisible, and the cover cures
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Eleventh stone, the sign-problem toy packaged (0069's queue item) —
 and it repackaged itself into something better than a boundary
 marker. 0074 found the ledger is a Born square, gcd(F,N) =

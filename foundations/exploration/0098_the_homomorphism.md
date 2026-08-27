@@ -1,5 +1,8 @@
 # 0098 — The homomorphism proper: what transports, and what the gap is made of
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Step 2 of the crossing plan, delivered. Both families stated as one
 kind of algebraic object, the structure-preserving map proved where
 it holds, and — the part that turns the toy into a prototype — the

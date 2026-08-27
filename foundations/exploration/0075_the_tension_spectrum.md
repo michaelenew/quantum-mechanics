@@ -1,5 +1,8 @@
 # 0075 — The tension spectrum: A3's first half, where Barrett–Crane failed
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The graviton-propagator test (0070's A3) splits in two: a **tensorial
 half** — which modes does the interacting measure propagate, with what
 hierarchy — and a **momentum half** (the 1/k² structure), which needs

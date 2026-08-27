@@ -1,5 +1,8 @@
 # 0041 — The bond ledger: why the web's law makes correlation invisible
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0040's four opens, three answered computationally and one
 registered. The central result is a coincidence that turns out not
 to be one: **the equation of state that makes the bond conically

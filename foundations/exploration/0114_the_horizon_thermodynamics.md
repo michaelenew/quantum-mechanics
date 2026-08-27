@@ -1,5 +1,8 @@
 # 0114 — Horizon thermodynamics from the nonlinear completion
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The filter side completed gravity nonlinearly (lucid 0022): the
 trust field sources itself, the self-coupling is *forced* to β = 1
 by consistency between the field's own code and its gravitating

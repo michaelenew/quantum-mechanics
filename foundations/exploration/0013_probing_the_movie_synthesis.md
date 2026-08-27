@@ -1,5 +1,8 @@
 # 0013 — Probing the movie synthesis: three fronts, three verdicts
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The synthesis (conversation record, following 0011/0012): reality as
 a movie of loops in 3-space; interactions as the singular points of
 its projection; knowledge concentrated in the decorations; round

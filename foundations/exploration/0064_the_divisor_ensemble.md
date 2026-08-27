@@ -1,5 +1,8 @@
 # 0064 — The divisor ensemble: what the ledger measure actually is
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Pursuing the novelty thread. The quantum arc's weight gcd(F,N)/N has
 been a number-theoretic black box since 0053 — its values measured,
 its structure unexplained. A classical identity opens it, and what is

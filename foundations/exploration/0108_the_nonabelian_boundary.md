@@ -1,5 +1,8 @@
 # 0108 — The nonabelian boundary tier: composition is predict, and order is the channel
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The last open isomorphism tier. Gap 2's theorem (0100) was abelian:
 the boundary is a *sum* of the record, capacity ln N, carried as
 code (0105). The nonabelian boundary changes one thing — the

@@ -2,6 +2,9 @@
 
 > **AI-generated, not peer-reviewed.** Code:
 > `output/0143_read_the_one_over_r.py`. Depends on 0152, lucid 0049.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
+>
+> **Prior art.** Sakharov (1967); Einstein (1915) for the Newtonian limit being recovered.
 
 Masslessness is not 1/r. lucid 0049 was emphatic: the same massless
 field reads 1/r, 1/r², or *no decay at all* depending on the

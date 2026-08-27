@@ -1,5 +1,8 @@
 # 0086 — The two ledgers: the polar theorem, and the budget's real job
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Seventh stone, and the **first pivot down the escalation ladder**:
 0085's protection calculation, run in the Z_N toy because that is
 where it is exact. It came back with a theorem, a leak, and a

@@ -2,6 +2,9 @@
 
 > **AI-generated, not peer-reviewed.** Code: `output/0142_matter_on_spin4.py`.
 > Scope set by lucid `0049`.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
+>
+> **Prior art.** Sakharov (1967) for gravity induced by a matter determinant; Plebanski (1977) for the simplicity constraint.
 
 ## The scope correction that started it
 

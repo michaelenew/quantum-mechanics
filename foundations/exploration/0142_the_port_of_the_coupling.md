@@ -1,5 +1,8 @@
 # 0142 — The port: the coupling is a function of the level, and why gravity is weak
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0130_the_port_of_the_coupling.py`, after lucid 0045.
 **Criticality item 1 is resolved.**
 

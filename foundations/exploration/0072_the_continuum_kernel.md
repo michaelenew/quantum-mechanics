@@ -1,5 +1,8 @@
 # 0072 — The continuum kernel: the derived simplicity weight in closed form
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Path A's second stone (0070's A1). 0061 derived the Z_N price from a
 frame Gauss sum; here the frames become continuous — a, b ∈ ℝ⁴ with a
 Gaussian regulator at scale L — and the whole eight-dimensional

@@ -1,5 +1,8 @@
 # 0135 — Continuity, closed: the Gaussian caveat retired
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 Code: `output/0124_the_nongaussian_direction.py`, with lucid 0040
 supplying the method. Ninth and final stone of the continuity front.
 

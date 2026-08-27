@@ -1,5 +1,8 @@
 # 0035 — The time sector: the covariant null-channel metric
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0034 named the time sector (lapse/shift) as the program's sharpest
 missing construction. Built here — and one construction absorbs
 three fronts at once: **the time sector, the strength dynamics, and

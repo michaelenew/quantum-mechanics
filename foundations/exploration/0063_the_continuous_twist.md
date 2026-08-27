@@ -1,5 +1,8 @@
 # 0063 — The continuous twist: the graviton counted
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0061/0062 named the move: lift the quantum sector from the finite
 alphabet Z_N to a **continuous** twist group — continuity, not
 non-commutativity, being the operative property. This is the first

@@ -1,5 +1,8 @@
 # 0010 — The arithmetic bridge: measured evidence for P3/P4 from the formal-languages workstream
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 A parallel workstream (`michaelenew/formal-languages`, `arithmetic/`,
 explorations 0056–0066) arrived at this repo's architecture from the
 opposite direction — self-referential definitions over bitstrings

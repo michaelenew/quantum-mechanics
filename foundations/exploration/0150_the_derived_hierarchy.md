@@ -3,6 +3,9 @@
 > **AI-generated, not peer-reviewed.** Code: `output/0141_the_scale.py`.
 > Depends on: 0142 (κ derived), item 5 (ℓ_P = 0.507a), 0149 (the null
 > this explains).
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
+>
+> **Prior art.** Wilson (1974); Gross–Wilczek/Politzer (1973); Hasenfratz & Hasenfratz (1980).
 
 ## κ is a Wilson β — measured, not asserted
 

@@ -1,5 +1,8 @@
 # 0099 — The S³ filter: the fusion tax, and the beta function derived
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The gap-1 prototype brick (0098's catalogue), built as ordered — and
 it produced the run's sharpest quantitative result. The plan was to
 show a filter on a curved state space has a running width. What fell

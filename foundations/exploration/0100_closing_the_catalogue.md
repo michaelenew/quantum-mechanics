@@ -1,5 +1,8 @@
 # 0100 — Closing the catalogue: the innovation channel, and the derived vacuum's mixture
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 The isomorphism-gap catalogue's last two items (0098's gaps 2 and 3),
 closed to the extent the local models allow — including the
 correspondence arc's one genuine surprise *against* an earlier

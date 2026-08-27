@@ -1,5 +1,10 @@
 # 0140 — The double slit, built from the derived measure
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+>
+> **Prior art.** Wilson (1974) for the lattice gauge action.
+
 Code: `output/0128_the_double_slit.py`. North-star target 2.
 
 Not a toy of quantum mechanics bolted on. Every object is computed

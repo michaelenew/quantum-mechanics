@@ -2,6 +2,9 @@
 
 > **AI-generated, not peer-reviewed.** Orientation pass, no module.
 > Sources checked against the literature rather than recalled.
+> Prior art credited in [`ATTRIBUTION.md`](../ATTRIBUTION.md).
+>
+> **Prior art.** Barrett & Crane (1998); Alesci & Rovelli (2007); Engle, Pereira, Rovelli & Livine (2008); Freidel & Krasnov (2008); Sakharov (1967); Plebanski (1977).
 
 The working hypothesis going in was that the gravity sector had moved
 "plausibly out of known territory." **It has not.** Checking it

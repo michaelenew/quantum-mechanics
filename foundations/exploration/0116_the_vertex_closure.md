@@ -1,5 +1,8 @@
 # 0116 — The vertex closure: c(1)'s carrier, and the reach of linear response
 
+> **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
+> marked otherwise, and prior art is credited there.
+
 0112's two residuals, closed. Code:
 `output/0106_the_vertex_closure.py` (6 chains × 1640 measurements).
 
