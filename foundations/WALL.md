@@ -1232,3 +1232,35 @@ mass to subtract.** Sequence: induced bare γ = −1; induced + forced Λ
 γ = +0.509 (vDVZ); **constrained, nothing added, γ = +1.000.**
 
 Next is R5 (nonlinearity) — everything so far is linear response.
+
+## 0154 / 0164 — a lattice that shows you a geodesic
+
+Field from R3 (constrained sector, L = 48, γ = +1.00000 over r = 1…13,
+GM = 0.04330 in lattice units). Trajectory from integrating the
+eikonal ray equation — an actual path, not a Born estimate.
+
+| b | full metric | g₀₀ only | ratio |
+|---|---|---|---|
+| 4 | +0.041512 | +0.020355 | 2.0394 |
+| 10 | +0.013174 | +0.006544 | 2.0131 |
+
+**Ratio 2.0230 ± 0.0101 — Einstein's factor of two**, on the quantum
+lattice's own field, with no counterterms anywhere in the chain.
+
+The absolute (measured/GR = 0.858 ± 0.073, falling with b) is **not** a
+discrepancy: U is periodic, so ∮∇_⊥U over a full period is exactly
+zero, and any nonzero absolute deflection is necessarily
+path-truncated. The shortfall tracks the finite-path factor
+(corrected: 0.982, 0.935, 0.904, 0.870) with the residue from periodic
+images. **The ratio is immune** — same field, same path, both cancel.
+
+Chain end to end: derived weight → balanced reps = simplicity →
+constrained sector → EH kernel (verified to O(a²)) → γ = +1.000,
+n = 1.020 → ray → ratio 2.023.
+
+0161 called this impossible for two different reasons and both were
+wrong on measurement. **A named blocker that has not been measured is
+a conjecture.**
+
+Still open: R5 (nonlinearity — precession needs second order in the
+mass), R6 (Lorentzian real time), R7 (no spinors).
