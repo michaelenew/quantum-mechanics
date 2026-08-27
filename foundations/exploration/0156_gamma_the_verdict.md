@@ -1,5 +1,7 @@
 # 0156 — Item 6, the fix run: γ = −1 survives, and the reason is algebraic
 
+> **⚠️ RETRACTED CONCLUSION.** This document concludes that the program *fails the classical tests* and that the failure is algebraic. **That is wrong twice over.** The PSD identity is correct about the object it describes, but that object is (a) the induced-matter sector rather than the constrained sector where gravity lives (0158), and (b) a Hessian at a **non-stationary point**, where the sign is not even parametrisation-invariant (0159). 0152 shows the constrained kernel has **exactly one negative mode** — the Einstein-Hilbert signature — and 0163 measures **γ = +1.000**. The 'three escapes, all narrow' framing is also wrong: escape 1 was the wide one.
+
 > **AI-generated, not peer-reviewed.** Code:
 > `output/0146_offdiagonal_metric.py`. Supersedes 0154's "obstructed"
 > and the item-6 line in 0151.

@@ -1,5 +1,7 @@
 # 0145 — Burndown items 2 and 5: one retired, one obstructed
 
+> **⚠️ SUPERSEDED.** This document diagnoses item 2's blocker as *throughput* and prices it at 25×. That was wrong. 0146 built the kernel, delivered ~30×, and the answer did not move. The blocker was re-diagnosed twice more (0147: wrong granularity; 0148: boundary conditional independence, 24×) and then attributed to the box (0149/0150), which 0166 in turn flags as possibly wrong again. **Do not cite the throughput diagnosis.**
+
 > **AI-generated, not peer-reviewed.** See [`ATTRIBUTION.md`](../ATTRIBUTION.md) — results here are re-derivations of established work unless explicitly
 > marked otherwise, and prior art is credited there.
 
