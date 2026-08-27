@@ -144,6 +144,34 @@ CDP (2011), and Masanes–Müller (2011). What the consistency-first packaging
 may add is a single unifying physical picture motivating those axioms at
 once, plus the two-tier resolution of the c-vs-instantaneous puzzle.
 
+## Where gravity sits
+
+The gravitational which-branch thought experiment (`gravitation/`) is a stress
+test of the two-tier split, and the framework does not absorb it — it takes a
+constraint from it. A superposed apparatus read by gravimeters appears to leak
+which-branch information out of an informationally isolated system. It does
+not, because **gravitational detectability is non-isolation**:
+
+```
+        t_read     ⎛ G M μ² δr ⎞^(1/3)
+  𝒩  =  ──────  =  ⎜ ───────── ⎟          — the distance r cancels exactly
+        t_ent      ⎝    ħ²     ⎠
+```
+
+`t_ent` (when the gravimeter's phase becomes branch-distinguishable) precedes
+`t_read` (when the needle clears the SQL) by ~10¹⁸ for a kg-scale apparatus,
+and by more than 1 in every case checked. Phase leaks before position; the bit
+is diluted across every nearby mass before any local subset can read it —
+`mechanism/0002`'s dilution law, recovered independently. Computed in
+`gravitation/output/0001`.
+
+Consequences: **gravity is actionable knowledge**, hence `c`-bounded, hence a
+decohering channel — it cannot be quarantined as bookkeeping. And the field
+must be an edge in the web rather than a function of the state, since a
+classical field sourced by `⟨T_μν⟩` is exactly the absolute frame-independent
+object P1 denies. That converges with Belenchia et al. (2018) from a different
+direction.
+
 ## On Bell
 
 Treated as a strong checkpoint, not a settled wall (`testability/exploration/0004`).
@@ -162,6 +190,7 @@ own workstream.
 | `foundations/` | Postulates and formal objects. | P1–P5 reframed around consistency-first (`exploration/0003`). |
 | `mechanism/` | What *is* a measurement, mechanically? | Coincidence / split-merge + EPR refinement + a dilution law from monogamy (`exploration/0002`). |
 | `testability/` | What confirms or breaks it? | The Bell fork reframed (`exploration/0003`); non-classicality now a derivation; quantum-selection open. Numerical demonstration in `output/0002`. |
+| `gravitation/` | Which side of the firewall is gravity on? | Actionable, not correlational — forced by the which-branch thought experiment (`exploration/0001`). |
 
 Each folder has a `SUMMARY.md` (current state), `exploration/` (numbered notes,
 later = more recent), and where applicable `output/` (checkable artifacts).
