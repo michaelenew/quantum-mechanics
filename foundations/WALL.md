@@ -1437,3 +1437,39 @@ symmetry directly.)
 
 Three passes, two structural. None discriminates against other
 programs — a Planck-spacing lattice is hard to catch this way.
+
+## 0160 / 0170 — the null space: one integer in, everything else out
+
+The answerable version of "where does this sit among all theories":
+given what the program forces, what is left free? The chain N → B =
+2N+1 → M = N+1 → flat multiplicities → double copy → κ is forced
+**except N**.
+
+**The ladder** (0081): N odd with x² ≡ −1 mod N → 1, 5, 13, 17, 25,
+29, … — every prime factor 1 mod 4, verified on all odd N to 120. A
+discrete arithmetic constraint, not a continuum.
+
+**κ in closed form:** κ = (2/5)N(N+3), gated exactly against the
+measured 16.0001 at N = 5.
+
+**The hierarchy:** 10^1.6, **10^19.8**, 10^106.1, 10^174 for N = 1, 5,
+13, 17. **Adjacent rungs differ by 86 orders.**
+
+**The flip side:** only N = 5 lands anywhere near the observed
+10^19–10^20. The ladder plus one observation selects it unambiguously
+— which is Weinberg's anthropic move on Λ, a constraint plus an
+observation choosing a value nothing derives.
+
+**Verdict: an archipelago with one habitable island.** Not a line
+(arithmetic kills the continuum); not a point (0127: the level is
+"the world's data, not the law's", "No knob has been derived"; 0120
+found the selecting argument to be coincidence at one point, drifting
+7.2× across the ladder).
+
+Honest headline: **one integer in, everything else out.** Better than
+it sounds — the SM takes nineteen real numbers — and weaker than
+"derived", since an integer that swings the answer by 86 orders is
+not a prediction.
+
+**The one computation worth more than all the others is a reason for
+the rung.**
