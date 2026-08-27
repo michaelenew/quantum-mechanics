@@ -1205,3 +1205,30 @@ the band limit, the double copy, the synergy, the scale. It is the
 wrong instrument for a geodesic. **R4 (scale) retired; R4′ (a carrier
 with dynamical geometry) replaces it, and it is a build, not an
 impossibility.**
+
+## 0152–0153 / 0163 — R1, R2, R3 done; R4 and R4′ both retired
+
+**R1 verified.** Linearised Palatini with the connection integrated
+out returns **(1, −1, −2, 2)** — Einstein-Hilbert exactly, residual
+1e−15, no counterterms. On the lattice its diffeo violation is
+**machine zero** (7e−17) for momenta with ≤2 distinct nonzero
+components and ~1e−2 for generic ones, scaling as **(k̂²)^{+1.121}** —
+an O(a²) artifact that dies in the continuum. The induced kernel:
+0.30, **(k̂²)^{+0.029}**, which does not. **Different in kind.**
+
+**This retires 0162.** Its claim that "a fixed grid has no
+infinitesimal diffeomorphisms" over-generalised from the induced
+kernel to every construction on the grid, and is false — the same
+hypercubic lattice carries the constrained sector's invariance to
+O(a²). **R4 (scale) and R4′ (carrier) are both retired: I named a
+blocker twice and both dissolved on measurement.**
+
+**R2/R3.** Source is `T^{μν}h_{μν}` via the map gated in 0146;
+response computed at L = 24 with de Donder fixing. **γ = +1.00000,
+spread 0.00000; profile n = 1.0200 (Newtonian).** γ = 1 is not
+independent — it follows from the kernel being EH — but what is
+absent is the result: **no counterterms, no Λ to cancel, no graviton
+mass to subtract.** Sequence: induced bare γ = −1; induced + forced Λ
+γ = +0.509 (vDVZ); **constrained, nothing added, γ = +1.000.**
+
+Next is R5 (nonlinearity) — everything so far is linear response.
